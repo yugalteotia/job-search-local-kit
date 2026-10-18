@@ -1,0 +1,55 @@
+{
+  "row": 14,
+  "reason": "listing ingested",
+  "changes": {
+    "Company": {
+      "before": null,
+      "after": "Appian Corporation"
+    },
+    "Role": {
+      "before": null,
+      "after": "Software Engineer I - Java"
+    },
+    "Job ID": {
+      "before": null,
+      "after": "7783552"
+    },
+    "Direct link": {
+      "before": null,
+      "after": "https://job-boards.greenhouse.io/appian/jobs/7783552"
+    },
+    "Source": {
+      "before": null,
+      "after": "Original employer Greenhouse ATS via Playwright"
+    },
+    "Location": {
+      "before": null,
+      "after": "Chennai, India"
+    },
+    "Verified date": {
+      "before": null,
+      "after": "2026-09-27T18:54:00Z"
+    },
+    "Fit": {
+      "before": null,
+      "after": "Excluded"
+    },
+    "Fit rationale": {
+      "before": null,
+      "after": "Live original ATS says this job is no longer open. Required evidence coverage: 0%."
+    },
+    "Key gaps": {
+      "before": null,
+      "after": ""
+    },
+    "Status": {
+      "before": null,
+      "after": "Excluded — closed"
+    },
+    "Next step": {
+      "before": null,
+      "after": "Closed; do not apply"
+    }
+  },
+  "backup": ".workflow/backups/20260927T190437-f7537bf5.xlsx"
+}

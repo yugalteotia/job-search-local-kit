@@ -1,0 +1,49 @@
+{
+  "protected_locks_before": [
+    {
+      "id": 220,
+      "state": "SubmissionUnconfirmed",
+      "attempt_id": "b59f715d-900f-4ce8-94eb-32385b97bf92",
+      "attempt_state": "uncertain"
+    },
+    {
+      "id": 241,
+      "state": "SubmissionUnconfirmed",
+      "attempt_id": "1e71b9fe-7638-4205-98d9-09fc908f5ba6",
+      "attempt_state": "uncertain"
+    },
+    {
+      "id": 250,
+      "state": "SubmissionUnconfirmed",
+      "attempt_id": "9a7b0155-5410-4784-a255-2da08c2cdc45",
+      "attempt_state": "uncertain"
+    }
+  ],
+  "protected_locks_verified_unchanged": true,
+  "previously_applied_proof": "jobs/naukri-070926029541/previously-applied-history-confirmation.json",
+  "linkedin_session_persistence": {
+    "signed_in": true,
+    "verification_required": false,
+    "verified_after_close_and_reopen": true
+  },
+  "no_submit_tests": "13 focused checks passed",
+  "provider_limits": {
+    "naukri": 10,
+    "linkedin": 10
+  },
+  "bounded_live_run": {
+    "path": ".workflow/runs/dabfeb3c-a528-40b4-883a-2dab64d977a1.json",
+    "confirmed_applications": 0,
+    "naukri_new_claims": 0,
+    "linkedin_new_claims": 0,
+    "naukri_new_slots": 0,
+    "linkedin_new_slots": 0,
+    "generic_resume_swap_occurred": false,
+    "profile_restore_recovery": {
+      "status": "None"
+    },
+    "protected_locks_unchanged": true
+  },
+  "linkedin_post_run_check": "Dedicated feed signed in after blocked discovery; original failure cause not captured. Bounded readiness sampling added; not yet proven by another scheduled/live workflow.",
+  "focused_no_submit_checks_passed": 15
+}

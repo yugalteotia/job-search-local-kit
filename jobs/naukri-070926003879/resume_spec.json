@@ -1,0 +1,76 @@
+{
+  "summary": "Backend-focused Software Engineer with nearly two years of professional Java experience building Spring Boot services, microservices, and REST/gRPC APIs. Experienced with MongoDB, automated tests, GitHub Actions workflows, and limited production deployment exposure to AWS ECS/Fargate. SQL/MySQL/JPA/Hibernate experience is from PG-DAC training and a personal project.",
+  "skills": [
+    {
+      "label": "Production Backend",
+      "items": "Java 17, Spring Boot, Spring Security 6, Spring MVC, REST APIs, gRPC, Protocol Buffers, Microservices"
+    },
+    {
+      "label": "Production Data",
+      "items": "MongoDB (indexing, aggregations, Mongock/Mongobee migrations)"
+    },
+    {
+      "label": "Project / Training Data",
+      "items": "SQL, MySQL, Spring Data JPA, Hibernate, Flyway (PG-DAC training and in-progress Store REST API project)"
+    },
+    {
+      "label": "Frontend",
+      "items": "TypeScript, Ember.js, React (basic), Jetpack Compose, Kotlin"
+    },
+    {
+      "label": "Tooling & Practices",
+      "items": "JUnit, Mockito, Git, GitHub Actions, Gradle, Maven, Docker, Linux; AWS ECS/Fargate deployment through existing UI (limited production exposure; no infrastructure design/admin)"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "org": "IDeaS - A SAS Company",
+      "location": "Pune, India",
+      "dates": "Oct 2024 – Sep 2026",
+      "bullets": [
+        "<b>Framework migration.</b> Led upgrade of Spring Boot 2.6 → 3.5, Spring Security 6 and Jakarta EE migration across 20 Java modules; resolved dependency conflicts, deprecated APIs, and behavioral changes while keeping the build green.",
+        "<b>REST API design.</b> Designed and implemented REST APIs with pagination, filtering, and audit metadata; introduced optimistic concurrency controls to prevent conflicting updates.",
+        "<b>gRPC contracts.</b> Defined backward-compatible gRPC service contracts using Protocol Buffers and maintained contract-style tests for cross-service compatibility.",
+        "<b>MongoDB optimization.</b> Optimized data access with targeted indexes and bulk read patterns; batched audit retrieval to reduce database round trips and improve report generation times.",
+        "<b>Full-stack delivery.</b> Built configuration and reporting workflows in Ember.js with TypeScript, adding reusable components and validation logic.",
+        "<b>CI/CD and deployment.</b> Used GitHub Actions build, test, and deployment workflows; deployed services through the available UI to AWS ECS/Fargate. Did not design or administer AWS infrastructure.",
+        "<b>AI-assisted engineering.</b> Used GitHub Copilot and agent-assisted workflows to accelerate implementation, root-cause analysis, debugging, and test scenario design, while owning design decisions and validation."
+      ]
+    },
+    {
+      "title": "Application Developer",
+      "org": "Data Nova India Pvt. Ltd.",
+      "location": "Noida, India",
+      "dates": "Feb 2023 – May 2023",
+      "bullets": [
+        "Built and maintained ERP modules as an Android developer using Kotlin, MVVM architecture, and REST API integrations.",
+        "Implemented reusable UI components and collaborated on feature delivery within Agile sprints."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Store REST API",
+      "note": "In Progress",
+      "bullets": [
+        "Building a Spring Boot REST API for store management with MySQL, Spring Data JPA/Hibernate, Flyway migrations, and OpenAPI documentation.",
+        "Implementing layered architecture with DTOs, validation, pagination, and global exception handling."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "PG Diploma in Advanced Computing (PG-DAC)",
+      "org": "C-DAC",
+      "location": "Pune, India",
+      "dates": "Mar 2024 – Aug 2024"
+    },
+    {
+      "title": "B.Tech, Computer Science & Engineering",
+      "org": "Dr. A.P.J. Abdul Kalam Technical University",
+      "location": "",
+      "dates": "2020 – 2023"
+    }
+  ]
+}

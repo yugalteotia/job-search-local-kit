@@ -1,0 +1,17 @@
+{
+  "attempt_id": "92649bb3-2263-45b9-9489-019b4ea96ab9",
+  "requisition_id": "141026016132",
+  "checked_at": "2026-10-14T07:03:09.494755+00:00",
+  "pending_question": "Are you currently living in or ready to relocate to Bengaluru ?",
+  "completion_count": 0,
+  "workflow_committed": false,
+  "denied_events": 0,
+  "save_in_flight": false,
+  "listing_exact_path": true,
+  "listing_applied": false,
+  "history_full": true,
+  "history_exact": 0,
+  "history_company_role": 0,
+  "answers_logged": false,
+  "safe": true
+}

@@ -1,0 +1,22 @@
+{
+  "verification_path": "portal_native",
+  "employer_pages_checked": 0,
+  "selected": 0,
+  "portal_native_verified": 0,
+  "active_application_action": 0,
+  "active_easy_apply": 0,
+  "fit_review_eligible": 0,
+  "exact_duplicate_blocked": 0,
+  "unverified": 0,
+  "review_queue_added": 0,
+  "fit_reviewed": 0,
+  "fit_counts": {
+    "High": 0,
+    "Medium": 0,
+    "Low": 0,
+    "Unresolved": 0
+  },
+  "queued_for_resume": 0,
+  "review_results": [],
+  "results": []
+}

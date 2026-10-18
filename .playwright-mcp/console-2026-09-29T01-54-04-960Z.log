@@ -1,0 +1,51 @@
+[     704ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     704ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     704ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     704ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    1232ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o949158.ingest.sentry.io/api/4505185660370944/envelope/?sentry_key=df650867098340f0a604b46b1dba4b45&sentry_version=7&sentry_client=sentry.javascript.browser%2F7.56.0:0
+[    1984ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    1984ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    1984ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    1984ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    1984ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    1984ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    1984ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    1984ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    2431ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    2431ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    2431ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    2431ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    2641ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://edge.fullstory.com/s/fs.js:0
+[    2774ms] [INFO] Loading the script 'https://contactout.com/cdn-cgi/challenge-platform/scripts/jsd/main.js' violates the following Content Security Policy directive: "script-src 'unsafe-inline' 'unsafe-eval'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback. The policy is report-only, so the violation has been logged but no further action has been taken. @ :0
+[    3096ms] [INFO] Loading the script 'https://contactout.com/cdn-cgi/challenge-platform/h/b/scripts/jsd/d76008a69eab/main.js?' violates the following Content Security Policy directive: "script-src 'unsafe-inline' 'unsafe-eval'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback. The policy is report-only, so the violation has been logged but no further action has been taken. @ about:blank:0
+[    3153ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o949158.ingest.sentry.io/api/5931220/envelope/?sentry_key=658be7957621436eb5ec9ae083f050d4&sentry_version=7:0
+[    3253ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o949158.ingest.sentry.io/api/5931220/envelope/?sentry_key=658be7957621436eb5ec9ae083f050d4&sentry_version=7:0
+[    3294ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o949158.ingest.sentry.io/api/5931220/envelope/?sentry_key=658be7957621436eb5ec9ae083f050d4&sentry_version=7:0
+[    3438ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at rL (https://static.licdn.com/aero-v1/sc/h/assets/l9rIJOqO.js:1:51155)
+    at oJ (https://static.licdn.com/aero-v1/sc/h/assets/l9rIJOqO.js:1:101178)
+    at sE (https://static.licdn.com/aero-v1/sc/h/assets/l9rIJOqO.js:1:132262)
+    at https://static.licdn.com/aero-v1/sc/h/assets/l9rIJOqO.js:1:127386
+    at sh (https://static.licdn.com/aero-v1/sc/h/assets/l9rIJOqO.js:1:127487)
+    at s2 (https://static.licdn.com/aero-v1/sc/h/assets/l9rIJOqO.js:1:150610)
+    at MessagePort._ (https://static.licdn.com/aero-v1/sc/h/assets/l9rIJOqO.js:1:14432)
+[    3515ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.linkedin.com/sensorCollect/?action=reportMetrics:0
+[    3517ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o949158.ingest.sentry.io/api/4505185660370944/envelope/?sentry_key=df650867098340f0a604b46b1dba4b45&sentry_version=7&sentry_client=sentry.javascript.browser%2F7.56.0:0
+[    3838ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://platform.linkedin.com/litms/utag/voyager-web-jobs/utag.js?cb=1790646600000:0
+[    3924ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    3924ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    3925ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    3925ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    5529ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.linkedin.com/sensorCollect/?action=reportMetrics:0
+[    5895ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/C5Y6d-8S.js:2
+[    5896ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/C5Y6d-8S.js:2
+[    5896ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/C5Y6d-8S.js:2
+[    5900ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/C5Y6d-8S.js:2
+[    5901ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/C5Y6d-8S.js:2
+[    5909ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/C5Y6d-8S.js:2
+[    5909ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/C5Y6d-8S.js:2
+[    5910ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/C5Y6d-8S.js:2
+[    5912ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/C5Y6d-8S.js:2
+[    5914ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/C5Y6d-8S.js:2
+[    5966ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/C5Y6d-8S.js:2
+[    9925ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/C5Y6d-8S.js:2

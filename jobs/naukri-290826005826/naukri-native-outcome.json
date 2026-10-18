@@ -1,0 +1,89 @@
+{
+  "job_id": 245,
+  "requisition_id": "290826005826",
+  "attempt_id": "6c7cfbe8-a371-4665-9083-9df98dc67558",
+  "saves": 1,
+  "status": "Applied",
+  "stage": "questionnaire",
+  "preflight_resume_repair_only": false,
+  "generic_resume_restored": true,
+  "generic_resume_restore_evidence": "jobs/naukri-290826005826/naukri-generic-startup-verification.json",
+  "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+  "generic_resume_verified_at": "2026-10-16T11:03:41.649779+00:00",
+  "generic_resume_repaired_at_start": false,
+  "answers_logged": false,
+  "network_guard": {
+    "job_id": "290826005826",
+    "phase": "followup_status_received",
+    "show_count": 1,
+    "answer_count": 1,
+    "save_arm_count": 1,
+    "followup_status_count": 0,
+    "post_completion_status_count": 0,
+    "completion_count": 0,
+    "reopen_count": 1,
+    "workflow_committed": false,
+    "events": [
+      {
+        "at": "2026-10-16T11:02:45.167225+00:00",
+        "elapsed_ms": 154,
+        "job_id": "290826005826",
+        "phase": "show_sent",
+        "method": "POST",
+        "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+        "flowtype": "show",
+        "allowed": true,
+        "reason": "exact_job_show",
+        "response_status": 200,
+        "response_elapsed_ms": 401,
+        "response_metadata": {
+          "isApply": true,
+          "isLeafNode": false,
+          "dataCommitted": false,
+          "job_id_match": true,
+          "currentNodeName": "apply3"
+        }
+      },
+      {
+        "at": "2026-10-16T11:02:48.899681+00:00",
+        "elapsed_ms": 3887,
+        "job_id": "290826005826",
+        "phase": "answer_sent",
+        "method": "POST",
+        "path": "/cloudgateway-chatbot/chatbot-services/botapi/v5/respond",
+        "flowtype": "unknown",
+        "allowed": true,
+        "reason": "one_claimed_chat_answer",
+        "response_status": 200,
+        "response_elapsed_ms": 3967,
+        "response_metadata": {
+          "job_id_match": true
+        }
+      },
+      {
+        "at": "2026-10-16T11:02:51.361600+00:00",
+        "elapsed_ms": 6349,
+        "job_id": "290826005826",
+        "phase": "reopen_show_sent",
+        "method": "POST",
+        "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+        "flowtype": "show",
+        "allowed": true,
+        "reason": "reopen_same_claimed_attempt_show",
+        "response_status": 200,
+        "response_elapsed_ms": 6604,
+        "response_metadata": {
+          "isApply": true,
+          "isLeafNode": false,
+          "dataCommitted": false,
+          "job_id_match": true,
+          "currentNodeName": "apply3"
+        }
+      }
+    ]
+  },
+  "confirmation_path": "jobs/naukri-290826005826/naukri-history-reconciliation-confirmation.json",
+  "automatic_reconciliation": true,
+  "new_application_action": false,
+  "saved_answer_replayed": false
+}

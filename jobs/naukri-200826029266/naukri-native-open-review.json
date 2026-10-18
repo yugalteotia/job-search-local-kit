@@ -1,0 +1,23 @@
+{
+  "job_id": 359,
+  "requisition_id": "200826029266",
+  "form_url": "https://www.naukri.com/job-listings-java-springboot-developer-infosys-kolkata-chennai-bengaluru-2-to-3-years-200826029266",
+  "provider": "naukri_native_chat",
+  "signed_in": true,
+  "account_name_matches": true,
+  "resume_filename": "Yugal_Teotia_Java_Springboot_Developer.pdf",
+  "resume_sha256": "e99b2d85a02b7506b846ef2090ed7f8b47f6b93ed17a5aadb2ee710b68f99f95",
+  "final_action": "native_apply_open",
+  "visible_required_fields": 0,
+  "answers_logged": false,
+  "checks": {
+    "live": true,
+    "unapplied": true,
+    "fit": true,
+    "resume_visual": true,
+    "resume_selected": true,
+    "answers_confirmed": true,
+    "unique_apply": true
+  },
+  "created_at": "2026-10-14T04:51:36.255736+00:00"
+}

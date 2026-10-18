@@ -1,0 +1,58 @@
+{
+  "navigation_links_reclassified": 56,
+  "portal_jobs_inspected": 4,
+  "originals_matched": 0,
+  "needs_original": 14,
+  "by_source": {
+    "naukri": {
+      "needs_original": 0,
+      "not_a_job": 3
+    },
+    "linkedin": {
+      "needs_original": 13,
+      "not_a_job": 0
+    },
+    "foundit": {
+      "needs_original": 0,
+      "not_a_job": 16
+    },
+    "indeed": {
+      "needs_original": 1,
+      "not_a_job": 7
+    },
+    "cutshort": {
+      "needs_original": 0,
+      "not_a_job": 30
+    }
+  },
+  "results": [
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4470837404/",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "Smart Working"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4470843297/",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "LTM"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4470829595/",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "Edwards Lifesciences"
+    },
+    {
+      "source": "indeed",
+      "portal_url": "https://in.indeed.com/viewjob?jk=fedcba9876543210",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "Not Found"
+    }
+  ]
+}

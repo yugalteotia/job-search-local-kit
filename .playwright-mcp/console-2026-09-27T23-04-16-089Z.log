@@ -1,0 +1,8 @@
+[      10ms] [INFO] Connecting to 'https://worldpay.wd5.myworkdayjobs.com/en-US/Worldpay_External_Careers_Site/job/undefined' violates the following Content Security Policy directive: "connect-src 'none'". The policy is report-only, so the violation has been logged but no further action has been taken. @ https://wd5.myworkday.com/wday/asset/client-analytics/uxInsights.min.js?plate=BMT216A:1
+[      10ms] [INFO] Connecting to 'https://worldpay.wd5.myworkdayjobs.com/en-US/Worldpay_External_Careers_Site/job/undefined' violates the following Content Security Policy directive: "connect-src 'none'". The policy is report-only, so the violation has been logged but no further action has been taken. @ https://wd5.myworkday.com/wday/asset/client-analytics/uxInsights.min.js?plate=BMT216A:1
+[     366ms] [INFO] Connecting to 'https://community.workday.com/maintenance-page' violates the following Content Security Policy directive: "connect-src 'none'". The policy is report-only, so the violation has been logged but no further action has been taken. @ https://worldpay.wd5.myworkdayjobs.com/en-US/Worldpay_External_Careers_Site/job/Software-Engineer-I--2-4-years-in-Java-Springboot-AWS-_JR0610239:0
+[     367ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://community.workday.com/maintenance-page:0
+[     399ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     399ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     399ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     399ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0

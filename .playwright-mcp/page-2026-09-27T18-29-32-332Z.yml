@@ -1,0 +1,473 @@
+- generic [ref=e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=e3]
+      - alert
+  - region [ref=e4]
+  - generic [ref=e5]:
+    - generic [ref=e7]:
+      - button "Skip to search" [ref=e8] [cursor=pointer]
+      - button "Skip to main content" [ref=e10] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=e12] [cursor=pointer]
+      - button "Close jump menu" [ref=e14] [cursor=pointer]
+    - banner "Global Navigation" [ref=e18]:
+      - generic [ref=e19]:
+        - link [ref=e20] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=e23]
+        - generic [ref=e28]:
+          - generic [ref=e31]:
+            - generic [ref=e32]: Search by title, skill, or company
+            - combobox "Search by title, skill, or company" [ref=e36]: Java Spring Boot
+            - textbox [disabled] [aria-hidden]
+          - generic [ref=e39]:
+            - generic [ref=e40]: City, state, or zip code
+            - combobox "City, state, or zip code" [ref=e44]: India
+            - textbox [disabled] [aria-hidden]
+          - button "Search" [ref=e45] [cursor=pointer]
+        - navigation "Primary Navigation" [ref=e46]:
+          - list [ref=e47]:
+            - listitem [ref=e48]:
+              - link "new feed updates notifications Home" [ref=e49] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=e50]: new feed updates notifications
+                - generic "Home" [ref=e59]
+            - listitem [ref=e60]:
+              - link "My Network" [ref=e61] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+            - listitem [ref=e68]:
+              - link "Jobs" [ref=e69] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=e76]:
+              - link "Messaging" [ref=e77] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+            - listitem [ref=e84]:
+              - link "Notifications" [ref=e85] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+            - listitem [ref=e92]:
+              - button [ref=e94] [cursor=pointer]:
+                - img "Yugal Teotia" [ref=e95]
+                - generic [ref=e96]: Me
+            - listitem [ref=e99]:
+              - button "For Business" [ref=e101] [cursor=pointer]
+            - listitem [ref=e110]:
+              - link "Get hired for ₹0" [ref=e112] [cursor=pointer]:
+                - /url: javascript:void(0)
+    - generic [ref=e118]:
+      - region "search filters" [ref=e121]:
+        - heading "Jobs search" [level=2] [ref=e122]
+        - generic [ref=e125]:
+          - list [ref=e126]:
+            - listitem [ref=e127]:
+              - 'button "Filter by: Jobs" [ref=e129] [cursor=pointer]': Jobs
+            - listitem [ref=e132]
+            - listitem [ref=e133]:
+              - button "Experience level filter. 2 Experience level filters are applied. Clicking this button displays all Experience level filter options." [ref=e136] [cursor=pointer]:
+                - text: Experience level
+                - generic [aria-hidden] [ref=e137]: "2"
+            - listitem [ref=e140]:
+              - button "Date posted filter. Clicking this button displays all Date posted filter options." [ref=e143] [cursor=pointer]: Date posted
+            - listitem [ref=e146]:
+              - button "Company filter. Clicking this button displays all Company filter options." [ref=e149] [cursor=pointer]: Company
+            - listitem [ref=e152]:
+              - button "Remote filter. Clicking this button displays all Remote filter options." [ref=e155] [cursor=pointer]: Remote
+            - listitem [ref=e158]:
+              - radio "Easy Apply filter." [ref=e160] [cursor=pointer]: Easy Apply
+          - generic [ref=e161]:
+            - button "Show all filters. Clicking this button displays all available filter options." [ref=e164] [cursor=pointer]: All filters
+            - button "Reset applied filters" [ref=e165] [cursor=pointer]:
+              - generic [ref=e166]: Reset
+      - main [ref=e169]:
+        - generic [ref=e171]:
+          - generic [ref=e172]:
+            - generic [ref=e173]:
+              - generic [ref=e174]:
+                - generic "Java Spring Boot in India" [ref=e175]
+                - generic [ref=e176]: 1,205 results
+              - generic [ref=e182] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e183]: Set alert
+                - generic: Set job alert for Java Spring Boot in India
+                - switch "Set job alert for Java Spring Boot in India"
+            - generic [ref=e185]:
+              - button "Jump to active job details"
+              - button "Jump to active search result"
+              - generic [ref=e191]:
+                - paragraph [ref=e192]: We’re gradually retiring classic job search starting in September. Try AI-powered job search and describe the role you want in your own words.
+                - generic [ref=e193]:
+                  - button "Try AI job search" [ref=e194] [cursor=pointer]
+                  - link "Learn more" [ref=e196] [cursor=pointer]:
+                    - /url: /help/linkedin/answer/a6889044
+              - list [ref=e197]:
+                - listitem [ref=e198]:
+                  - generic [ref=e200] [cursor=pointer]:
+                    - generic [ref=e201]:
+                      - generic [ref=e202]:
+                        - img "Hire Feed logo" [ref=e206]
+                        - generic [ref=e207]:
+                          - link "Java Backend Developer (Remote)" [ref=e209]:
+                            - /url: /jobs/view/4467210076/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=aCY3ZNAqm13GMGIs79wtWA%3D%3D&trackingId=x1U537%2F%2FQ8WYfDr1C5hKYg%3D%3D&trk=flagship3_search_srp_jobs
+                            - strong [ref=e211]: Java Backend Developer (Remote)
+                          - generic [ref=e213]: Hire Feed
+                          - list [ref=e216]:
+                            - listitem [ref=e217]:
+                              - generic [ref=e218]: APAC (Remote)
+                      - list [ref=e219]:
+                        - listitem [ref=e220]: Viewed
+                        - listitem [ref=e221]:
+                          - generic [ref=e225]: Easy Apply
+                    - button "Dismiss Java Backend Developer (Remote) job" [ref=e229]
+                - listitem [ref=e234]:
+                  - generic [ref=e236] [cursor=pointer]:
+                    - generic [ref=e237]:
+                      - generic [ref=e238]:
+                        - img "Xerox logo" [ref=e242]
+                        - generic [ref=e243]:
+                          - link "Java Developer with verification" [ref=e245]:
+                            - /url: /jobs/view/4447699485/?eBP=CwEAAAGg5CEPBoSez-L8L3_uoPaAC2fKZPJHpbFDKlsxR4bb6BTkoeflOx7bTizNWcuV_nONlv-FWZAy8wJoX4W7QTPGkXtJvS-3DRS1hPQfQZXfZYFc4Y3Dh37xCzBHdOsyaUNWOl5rSbKpZ9bghLcbUoULZ5H8IB0vVgUnSJqdOxHa8-04_0IlzS19gSvlXdDBHmsqcwk-Vy1w4sUQ4BK2BoRhx8dfEYq3gYDSqsDm_04cWDy-MC5ZfAMNpOiUwI1H6VdKZfda9BV10lv9qQT7kO6IzeUXkG6pwifMUR3QSo8ad5D4NG-8RGu7uMvRWEoWcnzJyQN2WOP-CVTZUb9h0BXkSX5-iD9e2qcKuQ6z7jB9qj56CSN5pkU6FiL9yF_hUIsUVd9kuGKGBFjmklgm9s6smvF4JCmqRZv9An-bgKZI48NGk71ETat5ztdRfdWkcdnaB24a9XmiuXqVwfmN1u2XfUSfYandd2iWI-lOusRa9dw0sLPg9P9O-qR5V1GO&refId=aCY3ZNAqm13GMGIs79wtWA%3D%3D&trackingId=%2BujiK6ajRz1fopKQVd%2FQyA%3D%3D&trk=flagship3_search_srp_jobs
+                            - strong [ref=e247]: Java Developer
+                          - generic [ref=e252]: Xerox
+                          - list [ref=e255]:
+                            - listitem [ref=e256]:
+                              - generic [ref=e257]: Bengaluru, Karnataka, India (On-site)
+                      - list [ref=e258]:
+                        - listitem [ref=e259]:
+                          - generic [ref=e260]: Promoted
+                    - button "Dismiss Java Developer job" [ref=e264]
+                - listitem [ref=e269]:
+                  - generic [ref=e271] [cursor=pointer]:
+                    - generic [ref=e272]:
+                      - generic [ref=e273]:
+                        - img "Quik Hire Staffing logo" [ref=e277]
+                        - generic [ref=e278]:
+                          - link "Java Backend Engineer (Remote)" [ref=e280]:
+                            - /url: /jobs/view/4466438439/?eBP=BUDGET_EXHAUSTED_JOB&refId=aCY3ZNAqm13GMGIs79wtWA%3D%3D&trackingId=ITkrZ6fO9kD%2B2pxMGVDOFA%3D%3D&trk=flagship3_search_srp_jobs
+                            - strong [ref=e282]: Java Backend Engineer (Remote)
+                          - generic [ref=e284]: Quik Hire Staffing
+                          - list [ref=e287]:
+                            - listitem [ref=e288]:
+                              - generic [ref=e289]: India (Remote)
+                      - list [ref=e290]:
+                        - listitem [ref=e291]:
+                          - generic [ref=e292]: Promoted
+                        - listitem [ref=e293]:
+                          - generic [ref=e297]: Easy Apply
+                    - button "Dismiss Java Backend Engineer (Remote) job" [ref=e301]
+                - listitem [ref=e306]:
+                  - generic [ref=e308] [cursor=pointer]:
+                    - generic [ref=e309]:
+                      - generic [ref=e310]:
+                        - img "Cloudflare logo" [ref=e314]
+                        - generic [ref=e315]:
+                          - link "Software Engineer with verification" [ref=e317]:
+                            - /url: /jobs/view/4466900053/?eBP=BUDGET_EXHAUSTED_JOB&refId=aCY3ZNAqm13GMGIs79wtWA%3D%3D&trackingId=hSU7kc41fOREogy5tP3bsg%3D%3D&trk=flagship3_search_srp_jobs
+                            - strong [ref=e319]: Software Engineer
+                          - generic [ref=e324]: Cloudflare
+                          - list [ref=e327]:
+                            - listitem [ref=e328]:
+                              - generic [ref=e329]: Bengaluru, Karnataka, India (Hybrid)
+                      - list [ref=e330]:
+                        - listitem [ref=e331]:
+                          - generic [ref=e332]: Promoted
+                    - button "Dismiss Software Engineer job" [ref=e336]
+                - listitem [ref=e341]:
+                  - generic [ref=e343] [cursor=pointer]:
+                    - generic [ref=e344]:
+                      - generic [ref=e345]:
+                        - img "Epicor logo" [ref=e349]
+                        - generic [ref=e350]:
+                          - link "Product Developer with verification" [ref=e352]:
+                            - /url: /jobs/view/4464479387/?eBP=CwEAAAGg5CEPBt4HURNwEC2-TU_bCkOhg1O8qF3GTicUl_IzZYw8vRSi1kdEIyqhq0TfS4gDaJc862Ls4zcIFdoO95DGfieCcckJddWIpQvOE9WDyJbS9hPJwH01KbV14_N-fot7v-Dpa5E2IYjrXYl-WtwcxgvR4ohpjQruUys5sOS77e029r3MLxOrW9_VUfkUPMpqJmM6Eq4A2xTHs8L9lRBVjmM3y1mYTXougQnHCQD3dGBPo7hfTuStf7HX5zfP6v2UuULBma3-vOPqPM4Yxzdj6jQewgHgDcRYcGKNecUlk8D4I61eUJaXB_QRDyIYG4gzbJDZU44f09ZGDeRK-MA7BJiecnxp5d9xh4YXEOrv0uLxBKTadu5MRWjzuDPcxA4OHRJgh2K3kBeaO-802Eztj9ipXA7D5GuOCi_EBipoxXSCBG-lUVPZKcq2-jrggJj6w9cFIL8cEW-5sxwkGIxsPfmjUNacXCflq56L8YH5kecY_bixbCF5JHMhTQ&refId=aCY3ZNAqm13GMGIs79wtWA%3D%3D&trackingId=lzKfcs8OHv0ZDRZvyaZRSw%3D%3D&trk=flagship3_search_srp_jobs
+                            - strong [ref=e354]: Product Developer
+                          - generic [ref=e359]: Epicor
+                          - list [ref=e362]:
+                            - listitem [ref=e363]:
+                              - generic [ref=e364]: Hyderabad, Telangana, India (On-site)
+                      - list [ref=e365]:
+                        - listitem [ref=e366]:
+                          - generic [ref=e367]: Promoted
+                    - button "Dismiss Product Developer job" [ref=e371]
+                - listitem [ref=e376]:
+                  - generic [ref=e378] [cursor=pointer]:
+                    - generic [ref=e379]:
+                      - generic [ref=e380]:
+                        - img "geidea logo" [ref=e384]
+                        - generic [ref=e385]:
+                          - link "Sr. Software Engineer with verification" [ref=e387]:
+                            - /url: /jobs/view/4462809306/?eBP=CwEAAAGg5CEPBq0isXJLfUdpB7HsdqS62mdkdhWMNis4vGA5gAvEThahvcgADAMGGv5TKkRTYFUN7eNuRKVR16IMtFn2cm6fGKEM280er-bVoIbVGtT4YBEFU3EjD7vYoeHnz4K02f69Ef04gaELiZpKidxP5nlvP0NeF7rk8EfS81p2sSCsIw_a1QtmkP2hVlAf-W2DWXt6xuGyIu7x2TTs6p1thFLnPK5WlktUovA_XzH85wXqfnes7HE0U2joRdgb2NbrmeIHcGEzMNEQebCpA42iuZH70a7DpFRVGS5XcbgIBM7zTFV4K7PvWF8OKV-43ClLU2wGaCccqBCBhlJkW_49EE6MyveMBze4S1HJI5bRa5HAcCpo6IOy82lCtk4FiiFGgOp_5Pgsj1rs9ky3TgH70baOPBKGswvJNdubmtitZy2C6lkquGbmK6p9V_eo_jU0hj9vFerO&refId=aCY3ZNAqm13GMGIs79wtWA%3D%3D&trackingId=Ixx3AHRP1N1huRmOvGfI%2Bg%3D%3D&trk=flagship3_search_srp_jobs
+                            - strong [ref=e389]: Sr. Software Engineer
+                          - generic [ref=e394]: geidea
+                          - list [ref=e397]:
+                            - listitem [ref=e398]:
+                              - generic [ref=e399]: Bengaluru, Karnataka, India (On-site)
+                      - generic [ref=e405]:
+                        - generic [aria-hidden] [ref=e406]: 1 school alum works here
+                        - generic [ref=e407]: 1 Centre for Development of Advanced Computing (C-DAC) school alum works here
+                      - list [ref=e408]:
+                        - listitem [ref=e409]:
+                          - generic [ref=e410]: Promoted
+                        - listitem [ref=e411]:
+                          - generic [ref=e415]: Easy Apply
+                    - button "Dismiss Sr. Software Engineer job" [ref=e419]
+                - listitem [ref=e424]:
+                  - generic [ref=e426] [cursor=pointer]:
+                    - generic [ref=e427]:
+                      - generic [ref=e428]:
+                        - img "Principle Pride logo" [ref=e432]
+                        - generic [ref=e433]:
+                          - link "Backend Java Developer" [ref=e435]:
+                            - /url: /jobs/view/4469310099/?eBP=BUDGET_EXHAUSTED_JOB&refId=aCY3ZNAqm13GMGIs79wtWA%3D%3D&trackingId=Vs0aWuez4kGsFqJqOsLlsg%3D%3D&trk=flagship3_search_srp_jobs
+                            - strong [ref=e437]: Backend Java Developer
+                          - generic [ref=e439]: Principle Pride
+                          - list [ref=e442]:
+                            - listitem [ref=e443]:
+                              - generic [ref=e444]: Navi Mumbai, Maharashtra, India (On-site)
+                      - generic [ref=e446]:
+                        - img "Actively reviewing applicants" [ref=e450]
+                        - generic [ref=e452]: Actively reviewing applicants
+                      - list [ref=e453]:
+                        - listitem [ref=e454]:
+                          - generic [ref=e455]: Promoted
+                        - listitem [ref=e456]:
+                          - generic [ref=e460]: Easy Apply
+                    - button "Dismiss Backend Java Developer job" [ref=e464]
+                - listitem [ref=e469]
+                - listitem [ref=e470]
+                - listitem [ref=e471]
+                - listitem [ref=e472]
+                - listitem [ref=e473]
+                - listitem [ref=e474]
+                - listitem [ref=e475]
+                - listitem [ref=e476]
+                - listitem [ref=e477]
+                - listitem [ref=e478]
+                - listitem [ref=e479]
+                - listitem [ref=e480]
+                - listitem [ref=e481]
+                - listitem [ref=e482]
+                - listitem [ref=e483]
+                - listitem [ref=e484]
+                - listitem [ref=e485]
+                - listitem [ref=e486]
+              - generic [ref=e489]:
+                - generic [ref=e490]:
+                  - heading "Are these results helpful?" [level=2] [ref=e491]
+                  - paragraph [ref=e492]: Your feedback helps us improve search results.
+                - generic [ref=e493]:
+                  - button "Are you finding what you’re looking for? No" [ref=e494] [cursor=pointer]
+                  - button "Are you finding what you’re looking for? Yes" [ref=e498] [cursor=pointer]
+              - generic [ref=e502]:
+                - generic [ref=e503]:
+                  - list [ref=e505]:
+                    - listitem [ref=e506]:
+                      - button "Page 1" [ref=e507] [cursor=pointer]: "1"
+                    - listitem [ref=e508]:
+                      - button "Page 2" [ref=e509] [cursor=pointer]: "2"
+                    - listitem [ref=e510]:
+                      - button "Page 3" [ref=e511] [cursor=pointer]: "3"
+                    - listitem [ref=e512]:
+                      - button "Page 4" [ref=e513] [cursor=pointer]: …
+                  - button "View next page" [ref=e514] [cursor=pointer]:
+                    - generic [ref=e517]: Next
+                - generic "LinkedIn Footer Content" [ref=e518]
+          - generic "Java Backend Developer (Remote)" [ref=e522]:
+            - generic [ref=e526]:
+              - generic [ref=e530]:
+                - generic [ref=e531]:
+                  - generic [ref=e532]:
+                    - link "Hire Feed logo" [ref=e533] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/hirefeedd/life
+                      - img "Hire Feed logo" [ref=e536]
+                    - link "Hire Feed" [ref=e538] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/hirefeedd/life
+                  - generic [ref=e539]:
+                    - button "Share" [ref=e542] [cursor=pointer]
+                    - button "Show more options" [ref=e547] [cursor=pointer]
+                - heading [level=1] [ref=e553]:
+                  - link "Java Backend Developer (Remote)" [ref=e554] [cursor=pointer]:
+                    - /url: /jobs/view/4467210076/?alternateChannel=search&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=aCY3ZNAqm13GMGIs79wtWA%3D%3D&trackingId=x1U537%2F%2FQ8WYfDr1C5hKYg%3D%3D&trk=d_flagship3_search_srp_jobs
+                - generic [ref=e557]:
+                  - generic [ref=e558]: APAC
+                  - generic [ref=e559]: ·
+                  - generic [ref=e560]: 1 week ago
+                  - generic [ref=e562]: ·
+                  - generic [ref=e563]: Over 100 applicants
+                  - paragraph [ref=e564]:
+                    - generic [ref=e565]: Promoted by hirer
+                    - generic [ref=e566]: ·
+                    - generic [ref=e567]: No response insights available yet
+                - generic [ref=e568]:
+                  - button "Matches your job preferences, workplace type is Remote." [ref=e569] [cursor=pointer]:
+                    - strong [ref=e572]: Remote
+                  - button "Matches your job preferences, job type is Full-time." [ref=e577] [cursor=pointer]:
+                    - strong [ref=e580]: Full-time
+                - generic [ref=e586]:
+                  - button "Easy Apply to Java Backend Developer (Remote) at Hire Feed" [ref=e589] [cursor=pointer]:
+                    - generic [ref=e592]: Easy Apply
+                  - button "Save Java Backend Developer (Remote) at Hire Feed" [ref=e593] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=e594]: Save
+              - generic [ref=e596]:
+                - generic [ref=e598]:
+                  - heading "Your profile matches several required qualifications" [level=2] [ref=e601]:
+                    - strong [ref=e602]:
+                      - text: Your profile
+                      - generic [ref=e603]: matches several
+                      - text: required qualifications
+                  - list [ref=e609]:
+                    - listitem [ref=e610]:
+                      - button "Show match details" [ref=e611] [cursor=pointer]
+                - generic [ref=e618]:
+                  - generic [ref=e619]:
+                    - paragraph [ref=e620]: BETA·
+                    - paragraph [ref=e621]: Is this information helpful?
+                  - generic [ref=e622]:
+                    - button "Mark information as helpful" [ref=e624] [cursor=pointer]
+                    - button "Mark information as not helpful" [ref=e629] [cursor=pointer]
+              - generic [ref=e637]:
+                - heading "Get personalized tips to stand out to hirers" [level=3] [ref=e638]
+                - paragraph [ref=e639]: Find jobs where you’re a top applicant and tailor your resume with the help of AI.
+                - link "Try Premium for ₹0" [ref=e640] [cursor=pointer]:
+                  - /url: http://www.linkedin.com/premium/products/?upsellOrderOrigin=Tracking%3Av1%3Acoach_upsell_jdp_topcard%3AJob+Seeker%3AIn-Product&utype=coach_job&referenceId=uUoKD2B%2FTA%2BxRkpGfq8jMQ%3D%3D&isSS=false&upsellSlotId=COACH_RESUME_JDP_UPSELL&destRedirectURL=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch%2F%3FcurrentJobId%3D4467210076%26f_E%3D2%252C3%26keywords%3DJava%2520Spring%2520Boot%26location%3DIndia
+              - article [ref=e646]:
+                - generic [ref=e648]:
+                  - heading "About the job" [level=2] [ref=e649]
+                  - paragraph [ref=e651]:
+                    - list [ref=e653]:
+                      - listitem [ref=e654]:
+                        - strong [ref=e656]: Role
+                        - text: ": Java Backend Developer (Remote)"
+                      - listitem [ref=e657]:
+                        - strong [ref=e659]: Location
+                        - text: ": Remote (Work from Anywhere)"
+                    - paragraph [ref=e661]
+                    - paragraph [ref=e663]:
+                      - strong [ref=e665]: "Role Overview:"
+                    - paragraph [ref=e667]: We are hiring for one of our clients, seeking a Java Developer to work on a Full-Time basis. The role involves building and maintaining scalable Java applications, optimizing system performance, and collaborating with cross-functional teams to deliver high-quality software solutions.
+                    - paragraph [ref=e669]
+                    - paragraph [ref=e671]:
+                      - strong [ref=e673]: "Key Responsibilities:"
+                    - paragraph [ref=e675]: • Design, develop, test, and deploy Java-based applications and services.
+                    - paragraph [ref=e677]: • Write clean, efficient, and maintainable code following best practices.
+                    - paragraph [ref=e679]: • Debug and resolve technical issues in existing Java applications.
+                    - paragraph [ref=e681]: • Collaborate with product managers and engineers to define and implement system requirements.
+                    - paragraph [ref=e683]: • Participate in code reviews and contribute to architectural discussions.
+                    - paragraph [ref=e685]
+                    - paragraph [ref=e687]:
+                      - strong [ref=e689]: "Required Skills & Qualifications:"
+                    - paragraph [ref=e691]: • Proficiency in Java (Core Java, J2EE) and related frameworks.
+                    - paragraph [ref=e693]: • Experience with Spring Boot, Hibernate, or similar technologies.
+                    - paragraph [ref=e695]: • Knowledge of RESTful APIs and microservices architecture.
+                    - paragraph [ref=e697]: • Familiarity with databases (SQL and NoSQL) and version control systems.
+                    - paragraph [ref=e699]: • Strong problem-solving skills and ability to work in an Agile environment.
+                    - paragraph [ref=e701]
+                    - paragraph [ref=e703]:
+                      - strong [ref=e705]: "More About the Opportunity:"
+                    - paragraph [ref=e707]: This role offers a unique opportunity to work with a global leader in the Software Development industry, contributing to the development of enterprise-level applications. The contract duration is flexible, and the position allows for remote work from anywhere.
+                    - paragraph [ref=e709]
+                    - paragraph [ref=e711]:
+                      - strong [ref=e713]: "Equal Opportunity Employer:"
+                    - paragraph [ref=e715]: We hire based on skills and expertise. All qualified candidates are welcome regardless of background, experience, or prior employment history. Applications are reviewed solely on demonstrated technical ability and qualifications.
+                    - paragraph [ref=e717]
+                    - paragraph [ref=e719]:
+                      - strong [ref=e721]: Apply Now!
+              - generic [ref=e722]:
+                - heading "Unlock hiring insights on Hire Feed" [level=2] [ref=e723]
+                - generic [ref=e724]:
+                  - generic [ref=e725]:
+                    - paragraph [ref=e727]:
+                      - generic [aria-hidden] [ref=e729]: 2,440%
+                      - generic [ref=e730]: "2440"
+                      - text: Employee growth
+                    - region "Chart. Highcharts interactive chart." [ref=e734]:
+                      - region "Chart screen reader information.":
+                        - generic [ref=e735]:
+                          - heading "Chart" [level=3] [ref=e736]
+                          - generic [ref=e737]: Chart with 13 data points.
+                          - generic [ref=e738]: "The chart has 1 X axis displaying values. Range: 1753574400000 to 1791417600000."
+                          - generic [ref=e739]: "The chart has 1 Y axis displaying values. Range: 0 to 200."
+                      - img "Interactive chart" [ref=e744]:
+                        - generic [ref=e755]:
+                          - img "1. x, 1756728000000," [ref=e756]
+                          - img "2. x, 1759320000000," [ref=e757]
+                          - img "3. x, 1761998400000," [ref=e758]
+                          - img "4. x, 1764590400000," [ref=e759]
+                          - img "5. x, 1767268800000," [ref=e760]
+                          - img "6. x, 1769947200000," [ref=e761]
+                          - img "7. x, 1772366400000," [ref=e762]
+                          - img "8. x, 1775044800000," [ref=e763]
+                          - img "9. x, 1777636800000," [ref=e764]
+                          - img "10. x, 1780315200000," [ref=e765]
+                          - img "11. x, 1782907200000," [ref=e766]
+                          - img "12. x, 1785585600000," [ref=e767]
+                          - img "13. x, 1788264000000," [ref=e768]
+                        - generic [aria-hidden] [ref=e769]:
+                          - generic [ref=e770]: Sept 2025
+                          - generic [ref=e771]: Mar 2026
+                          - generic [ref=e772]: Sept 2026
+                      - generic: End of interactive chart.
+                  - generic [ref=e775]:
+                    - heading "Applicant education level" [level=3] [ref=e776]
+                    - generic [ref=e777]:
+                      - paragraph [ref=e778]: 31%
+                      - paragraph [ref=e779]:
+                        - generic [ref=e780]: have a Bachelor of Technology
+                  - generic [ref=e781]:
+                    - heading "Applicant seniority level" [level=3] [ref=e782]
+                    - generic [ref=e783]:
+                      - paragraph [ref=e784]: 64%
+                      - paragraph [ref=e785]:
+                        - generic [ref=e786]: Entry level applicants
+                - generic [ref=e790]:
+                  - heading "Job Search Smarter with Premium" [level=3] [ref=e791]
+                  - paragraph [ref=e792]: Premium subscribers are 2.7x more likely to get hired on average
+                  - generic [ref=e793]:
+                    - list [ref=e795]:
+                      - listitem [ref=e796]
+                      - listitem [ref=e798]
+                      - listitem [ref=e800]
+                    - paragraph [ref=e802]: Sachin and millions of other members use Premium
+                  - link "Try Premium for ₹0" [ref=e803] [cursor=pointer]:
+                    - /url: http://www.linkedin.com/premium/products/?upsellOrderOrigin=Tracking%3Av1%3Apremium_job_details_how_you_match_upsell%3AJob+Seeker%3AIn-Product&utype=job&referenceId=kx97LxepSt6aBjQ5VH5hxQ%3D%3D&isSS=false&upsellSlotId=JOB_DETAILS_HOW_YOU_MATCH&destRedirectURL=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch%2F%3FcurrentJobId%3D4467210076%26f_E%3D2%252C3%26keywords%3DJava%2520Spring%2520Boot%26location%3DIndia
+                  - paragraph [ref=e804]: 1-month free trial with 24/7 support. We’ll remind you a week before your trial ends.
+              - generic [ref=e806]:
+                - generic [ref=e807]:
+                  - heading "About the company" [level=2] [ref=e808]
+                  - generic [ref=e809]:
+                    - generic [ref=e810]:
+                      - link [ref=e812] [cursor=pointer]:
+                        - /url: /company/hirefeedd/life/
+                        - img "Hire Feed company logo" [ref=e813]
+                      - generic [ref=e814]:
+                        - link "Hire Feed" [ref=e816] [cursor=pointer]:
+                          - /url: /company/hirefeedd/life/
+                        - generic [ref=e817]: 1,021,018 followers
+                    - button "Follow" [ref=e818] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=e821]: Follow
+                  - generic [ref=e822]:
+                    - text: Staffing and Recruiting
+                    - generic [ref=e823]: • 51-200 employees
+                    - generic [ref=e824]: • 127 on LinkedIn
+                  - paragraph [ref=e825]:
+                    - generic [ref=e826]:
+                      - text: "HireFeed: A QuikHire product.Earn in dollars. On your hours. From wherever.HireFeed is the AI-curated feed of contract, gig, and AI training jobs that pay in USD, built for the people who actually want to work, not the ones writing job descriptions.Why it exists: the highest-paying contract work in the world - RLHF, AI evaluation, domain-expert training, senior contract engineering, sits scattered across hundreds of ATS feeds and platform job boards. Most of it never makes it to Indeed or LinkedIn, and the roles that do are usually stale by the time you find them. The best opportunities are also the most ephemeral.HireFeed pulls from 500+ verified sources, including Outlier, Mercor, Surge AI, Micro1, Turing, Toloka, Appen, and Remotasks, and refreshes every 60 seconds. The moment a role closes at the source, it falls off the feed.What you'll find here:- AI training, RLHF, and evaluation: $20–$80/hr- Domain experts: medical, legal, finance, math (PhD)- Senior contract engineering, paid weekly- Multilingual annotation, creative writing training, AI researchWhat you won't find: pay-undisclosed listings, expired roles, \"still accepting applications\" lies, recruiter middlemen, or data resale. Pay is a hard requirement. Apply links 302-redirect to the source ATS. We never see your résumé.Free for candidates, forever. Funded by the partner side.→ hirefeed.co.in"
+                      - generic [ref=e828]:
+                        - generic [ref=e829]: …
+                        - button "show more" [ref=e830] [cursor=pointer]
+                - link "Show more about the company" [ref=e832] [cursor=pointer]:
+                  - /url: /company/hirefeedd/life/
+                  - text: Show more
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=e834]:
+            - generic [ref=e836] [cursor=pointer]:
+              - img "Yugal Teotia" [ref=e838]
+              - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=e839]:
+                - generic [ref=e840]:
+                  - generic [aria-hidden] [ref=e841]: Messaging
+                  - generic [ref=e842]: You are on the messaging overlay. Press enter to open the list of conversations.
+            - generic [ref=e843]:
+              - button [ref=e845] [cursor=pointer]:
+                - img "Open messenger dropdown menu" [ref=e846]
+              - button "Compose message" [ref=e849] [cursor=pointer]
+              - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=e853] [cursor=pointer]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"

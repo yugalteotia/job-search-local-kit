@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "discovery_workers": 3,
+  "resume_workers": 3,
+  "form_workers": 1,
+  "parallel_submission_enabled": false,
+  "reason": "Three read-only MCP tabs isolated; simultaneous form file upload failed with DOM.setFileInputFiles Not allowed. Keep browser form and submission stage serial until two independent end-to-end preparation flows including PDF attachment pass."
+}

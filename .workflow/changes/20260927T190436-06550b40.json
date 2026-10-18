@@ -1,0 +1,55 @@
+{
+  "row": 12,
+  "reason": "listing ingested",
+  "changes": {
+    "Company": {
+      "before": null,
+      "after": "Redwood Software"
+    },
+    "Role": {
+      "before": null,
+      "after": "Associate Software Engineer"
+    },
+    "Job ID": {
+      "before": null,
+      "after": "4243666009"
+    },
+    "Direct link": {
+      "before": null,
+      "after": "https://job-boards.greenhouse.io/redwoodsoftware/jobs/4243666009"
+    },
+    "Source": {
+      "before": null,
+      "after": "Original employer Greenhouse ATS via Playwright"
+    },
+    "Location": {
+      "before": null,
+      "after": "Hyderabad, India"
+    },
+    "Verified date": {
+      "before": null,
+      "after": "2026-09-27T18:54:00Z"
+    },
+    "Fit": {
+      "before": null,
+      "after": "Medium"
+    },
+    "Fit rationale": {
+      "before": null,
+      "after": "Java/Spring/API match; required practical cloud exposure and SQL proficiency not established in production. Required evidence coverage: 71%."
+    },
+    "Key gaps": {
+      "before": null,
+      "after": "SQL / relational database proficiency; Practical cloud exposure"
+    },
+    "Status": {
+      "before": null,
+      "after": "Shortlisted"
+    },
+    "Next step": {
+      "before": null,
+      "after": "Resolve gaps / verify original before preparation"
+    }
+  },
+  "backup": ".workflow/backups/20260927T190436-06550b40.xlsx"
+}

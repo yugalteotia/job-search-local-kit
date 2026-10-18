@@ -1,0 +1,600 @@
+{
+  "run_id": "ac652bfa-7d68-48e4-859d-737931bb2ca7",
+  "started_at": "2026-10-13T05:29:55.737372+00:00",
+  "mode": "read_only",
+  "upload_enabled": false,
+  "submission_enabled": false,
+  "scheduled": true,
+  "test": true,
+  "source_scope": [
+    "naukri"
+  ],
+  "fresh_only": true,
+  "status": "Success",
+  "sources": {
+    "naukri": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-10-13T05:30:33.545756+00:00",
+      "pages_checked": 4,
+      "leads": 15,
+      "feed_jobs": 0
+    }
+  },
+  "coverage": {
+    "naukri": [
+      {
+        "query": "Java Backend Developer",
+        "location": "Delhi NCR",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=Delhi%20NCR&pageNo=1",
+        "observed_url": "https://www.naukri.com/java-backend-developer-jobs-in-delhi-ncr?jobAge=7&experience=2",
+        "checked_at": "2026-10-13T05:30:06.627573+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_label": "2",
+          "freshness_label": "Last 7 days",
+          "sort_label": "Date"
+        },
+        "error_kind": null
+      },
+      {
+        "query": "Java Backend Developer",
+        "location": "Delhi NCR",
+        "page": 2,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=Delhi%20NCR&pageNo=2",
+        "observed_url": "https://www.naukri.com/java-backend-developer-jobs-in-delhi-ncr-2?jobAge=7&experience=2",
+        "checked_at": "2026-10-13T05:30:15.782182+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_label": "2",
+          "freshness_label": "Last 7 days",
+          "sort_label": "Date"
+        },
+        "error_kind": null
+      },
+      {
+        "query": "Java Spring Boot",
+        "location": "India",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+        "observed_url": "https://www.naukri.com/java-spring-boot-jobs-in-india?jobAge=7&experience=3",
+        "checked_at": "2026-10-13T05:30:23.587895+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_label": "3",
+          "freshness_label": "Last 7 days",
+          "sort_label": "Date"
+        },
+        "error_kind": null
+      },
+      {
+        "query": "Java Spring Boot",
+        "location": "India",
+        "page": 2,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=2",
+        "observed_url": "https://www.naukri.com/java-spring-boot-jobs-in-india-2?jobAge=7&experience=3",
+        "checked_at": "2026-10-13T05:30:33.323159+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_label": "3",
+          "freshness_label": "Last 7 days",
+          "sort_label": "Date"
+        },
+        "error_kind": null
+      }
+    ]
+  },
+  "leads": 15,
+  "unique_original_requisitions_verified": 0,
+  "fit_decisions": {
+    "326": {
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ],
+      "evidence": {
+        "location": "Pune, Bengaluru, Delhi",
+        "experience": "Pune, Bengaluru, Delhi Experience: 2 - 3 years Job highlights 2-3 years experience in Java 8+, Spring Boot, Microservices, Angular/React, and SQL databases",
+        "technology": "highlights 2-3 years experience in Java 8+, Spring Boot, Microservices, Angular/React, and SQL databases Develop and maintain scalable web applic",
+        "role": null
+      },
+      "jd_sha256": "b1917fd67ef5a3a83135a9bc3b5db08dbac43587a66e70f8eb7fda8f7a311b8c"
+    },
+    "327": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification"
+      ],
+      "evidence": {
+        "location": "Gurugram",
+        "experience": "Location: Gurugram Experience: 1 - 3 years Job highlights Bachelor's/Master's in CS or related field with expertise in Node.js (Express/NestJS), JavaScr",
+        "technology": null,
+        "role": null
+      },
+      "jd_sha256": "30d21827817cc188484b8710ca6f379a35be0a24bc18c62b40776c00b1bec2a3"
+    }
+  },
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/ac652bfa-7d68-48e4-859d-737931bb2ca7.json"
+  ],
+  "queue": {
+    "ResumeReady": 4
+  },
+  "stage_seconds": {
+    "discovery": 37.8,
+    "original_verification": 0.0,
+    "lead_resolution": 9.86,
+    "fit_review": 0.03,
+    "auto_fit_resume": 0.09
+  },
+  "stage_counts": {
+    "normalized_unique_ats": 0,
+    "selected_for_original_check": 0,
+    "fetched": 15,
+    "unique_portal_leads": 15,
+    "fresh": 0,
+    "unknown_date": 7,
+    "skipped_old": 0,
+    "repeat_skipped": 7,
+    "unique_original_requisitions": 0,
+    "eligible_for_review": 2,
+    "original_jds_reviewed": 0,
+    "original_or_portal_jds_reviewed": 2,
+    "portal_native_verified": 3,
+    "high": 0,
+    "queued_for_resume": 0,
+    "review_queue_added": 2,
+    "portal_originals_matched": 0,
+    "portal_leads_still_needing_original": 2142
+  },
+  "top_reviewed": [
+    {
+      "job_id": 326,
+      "company": "Infosys",
+      "role": "Java Full Stack Developer",
+      "location": "Pune, Bengaluru, Delhi",
+      "direct_url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-pune-bengaluru-delhi-ncr-2-to-3-years-100826024093",
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "b1917fd67ef5a3a83135a9bc3b5db08dbac43587a66e70f8eb7fda8f7a311b8c",
+      "original_page_checked_at": "2026-10-13T05:30:43.393277+00:00",
+      "reviewed_at": "2026-10-13T05:30:43.509385+00:00",
+      "experience_minimum": 2.0,
+      "evidence": {
+        "location": "Pune, Bengaluru, Delhi",
+        "experience": "Pune, Bengaluru, Delhi Experience: 2 - 3 years Job highlights 2-3 years experience in Java 8+, Spring Boot, Microservices, Angular/React, and SQL databases",
+        "technology": "highlights 2-3 years experience in Java 8+, Spring Boot, Microservices, Angular/React, and SQL databases Develop and maintain scalable web applic",
+        "role": null
+      },
+      "reasons": [
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ]
+    },
+    {
+      "job_id": 327,
+      "company": "Propelgo",
+      "role": "Back End Developer",
+      "location": "Gurugram",
+      "direct_url": "https://www.naukri.com/job-listings-back-end-developer-propelgo-gurugram-1-to-3-years-101026014550",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "30d21827817cc188484b8710ca6f379a35be0a24bc18c62b40776c00b1bec2a3",
+      "original_page_checked_at": "2026-10-13T05:30:43.410479+00:00",
+      "reviewed_at": "2026-10-13T05:30:43.515769+00:00",
+      "experience_minimum": 1.0,
+      "evidence": {
+        "location": "Gurugram",
+        "experience": "Location: Gurugram Experience: 1 - 3 years Job highlights Bachelor's/Master's in CS or related field with expertise in Node.js (Express/NestJS), JavaScr",
+        "technology": null,
+        "role": null
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification"
+      ]
+    }
+  ],
+  "recovery": {
+    "requeued_resume": 0,
+    "returned_to_prepared": 0,
+    "claimed_left_locked": 4
+  },
+  "freshness": {
+    "policy": {
+      "routine_review_hours": 24,
+      "sweep_overlap_minutes": 90,
+      "unknown_date_details_per_run": 30,
+      "transient_retry_hours": 6,
+      "pending_application_recheck_hours": 6
+    },
+    "counts": {
+      "fresh": 0,
+      "recent": 0,
+      "unknown_date": 7,
+      "skipped_old": 0,
+      "repeat_skipped": 7,
+      "history_skipped": 1,
+      "unknown_date_deferred": 0
+    },
+    "detail_candidates": 7,
+    "skips": [
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-developer-codepanda-academy-noida-gurugram-delhi-ncr-0-to-4-years-090724010334",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-hyderabad-pune-bengaluru-3-to-8-years-081026050483",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-react-js-angular-js-infosys-kolkata-hyderabad-pune-2-to-3-years-280926032117",
+        "reason": "locked_uncertain_attempt"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-react-js-developer-infosys-hyderabad-pune-bengaluru-3-to-8-years-091026036419",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-react-developer-infosys-pune-chennai-bengaluru-2-to-6-years-240826012293",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-production-support-infosys-hyderabad-3-to-8-years-100526005703",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-production-support-infosys-hyderabad-chennai-bengaluru-3-to-8-years-060426029861",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-production-support-infosys-hyderabad-3-to-8-years-300426013239",
+        "reason": "unchanged_already_reviewed"
+      }
+    ]
+  },
+  "portal_native": {
+    "selected": 3,
+    "verified": 3,
+    "unverified": 0,
+    "verified_job_ids": [
+      326,
+      327,
+      328
+    ],
+    "results": [
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-pune-bengaluru-delhi-ncr-2-to-3-years-100826024093",
+        "portal_job_id": "100826024093",
+        "title": "Java Full Stack Developer",
+        "employer": "Infosys",
+        "location": "Pune, Bengaluru, Delhi",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 2249,
+        "experience_evidence": "2 - 3 years",
+        "apply_visible": true,
+        "database_job_id": 326,
+        "duplicate_check": {
+          "status": "uncertain",
+          "possible_matches": [
+            {
+              "job_id": 314,
+              "role": "Java Full Stack Developer(React.js/Angular.js)",
+              "similarity": 1.0
+            }
+          ],
+          "compared_by_exact_id": 2
+        },
+        "render_checks": 1,
+        "card_sha256": "0bbeaaec57ea11855c60aad2b88a5ede53b946c557f72f7eb807fefbb85ccb46",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "1 day ago"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-back-end-developer-propelgo-gurugram-1-to-3-years-101026014550",
+        "portal_job_id": "101026014550",
+        "title": "Back End Developer",
+        "employer": "Propelgo",
+        "location": "Gurugram",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 3519,
+        "experience_evidence": "1 - 3 years",
+        "apply_visible": true,
+        "database_job_id": 327,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 0
+        },
+        "render_checks": 1,
+        "card_sha256": "e6da8f2223b1440f8e31bf164bd3f272f2e587f163ed34120efc210fbb43003c",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "2 days ago"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-selenium-automation-tester-java-hyderabad-infosys-hyderabad-chennai-bengaluru-3-to-8-years-090426029634",
+        "portal_job_id": "090426029634",
+        "title": "Selenium Automation Tester (Java)- Hyderabad",
+        "employer": "Infosys",
+        "location": "Hyderabad",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 3137,
+        "experience_evidence": "3 - 8 years",
+        "apply_visible": true,
+        "database_job_id": 328,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 2
+        },
+        "render_checks": 1,
+        "card_sha256": "55305dd318a5543109265dedbb47bf1da1aef2bb4bd9a06d77cf3b74902b857c",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "Just now"
+      }
+    ]
+  },
+  "lead_resolution": {
+    "navigation_links_reclassified": 152,
+    "missing_ats_jd_refresh": {
+      "checked": 0,
+      "results": []
+    },
+    "direct_provider_coverage": {},
+    "direct_employer_coverage": {},
+    "portal_employer_coverage": {},
+    "target_title_failures_in_batch": 0,
+    "portal_jobs_inspected": 0,
+    "originals_matched": 0,
+    "substantive_originals_verified": 0,
+    "live_title_only": 0,
+    "direct_check_failures": 0,
+    "needs_original": 2142,
+    "title_relevant_unresolved": 1249,
+    "by_source": {
+      "naukri": {
+        "needs_original": 714,
+        "not_a_job": 3
+      },
+      "linkedin": {
+        "needs_original": 1368,
+        "not_a_job": 4
+      },
+      "foundit": {
+        "needs_original": 0,
+        "not_a_job": 17
+      },
+      "indeed": {
+        "needs_original": 0,
+        "not_a_job": 98
+      },
+      "cutshort": {
+        "needs_original": 60,
+        "not_a_job": 30
+      }
+    },
+    "results": []
+  },
+  "linked_portal_native": null,
+  "review_coverage": {
+    "by_source": {
+      "naukri_portal_native": 2
+    },
+    "by_company": {
+      "Infosys": 1,
+      "Propelgo": 1
+    }
+  },
+  "master_resume": {
+    "ok": true,
+    "issues": []
+  },
+  "auto_fit": {
+    "considered": 4,
+    "queued": 0,
+    "not_eligible": 3,
+    "blocked": 1,
+    "skipped_unchanged": 13,
+    "results": [
+      {
+        "job_id": 327,
+        "employer": "Propelgo",
+        "title": "Back End Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Java is not explicit in the JD body",
+          "Spring Boot is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 326,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer",
+        "outcome": "blocked_duplicate",
+        "reasons": [
+          "Possible duplicate requisition requires manual resolution"
+        ]
+      },
+      {
+        "job_id": 321,
+        "employer": "Infosys",
+        "title": "Java React Js Developer",
+        "outcome": "not_eligible",
+        "fit": "Medium",
+        "reasons": [
+          "Experience minimum missing or beyond confirmed profile band",
+          "No confirmed evidence for other_frontend",
+          "No confirmed evidence for jenkins",
+          "Essential evidence coverage below 100%"
+        ]
+      },
+      {
+        "job_id": 320,
+        "employer": "Infosys",
+        "title": "Java React Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Spring Boot is not explicit in the JD body",
+          "backend work is not explicit in the JD body"
+        ]
+      }
+    ]
+  },
+  "auto_resume": {
+    "prepared": 0,
+    "failed": 0,
+    "results": []
+  },
+  "staging": {
+    "path": ".workflow/staging.json",
+    "resume_review_ready": 0,
+    "needs_jd_evidence_review": 0
+  },
+  "blocker_alerts": [
+    {
+      "job_id": 220,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 241,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 202,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 250,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 266,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 314,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 220,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 241,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 202,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 250,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 266,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 314,
+      "status": "cooldown"
+    }
+  ],
+  "naukri_application_worker": {
+    "enabled": true,
+    "max_submissions_per_run": 1,
+    "other_portals": "discovery_only",
+    "capability_reason": "Proof marker valid; one claim per run",
+    "status": "DryRun",
+    "candidate_count": 0,
+    "resumable_count": 0,
+    "checks": [],
+    "submissions": 0,
+    "forms_opened": 0,
+    "uploads": 0
+  },
+  "portals": {
+    "naukri": {
+      "capability": "ApplyReady",
+      "reason": "Proof marker valid; one claim per run",
+      "session": "unknown"
+    },
+    "linkedin": {
+      "capability": "DiscoveryOnly",
+      "reason": "No end-to-end application path proven for this portal",
+      "session": "unknown"
+    },
+    "foundit": {
+      "capability": "Blocked",
+      "reason": "Last discovery NoVisibleCards",
+      "session": "unknown"
+    },
+    "indeed": {
+      "capability": "DiscoveryOnly",
+      "reason": "No end-to-end application path proven for this portal",
+      "session": "unknown"
+    },
+    "cutshort": {
+      "capability": "DiscoveryOnly",
+      "reason": "No end-to-end application path proven for this portal",
+      "session": "unknown"
+    },
+    "ats": {
+      "capability": "DiscoveryOnly",
+      "reason": "Public feeds are read-only; application forms are not implemented",
+      "session": "unknown"
+    }
+  },
+  "tab_lifecycle": {
+    "created": null,
+    "reused": null,
+    "closed": null,
+    "remaining_automation_tabs": null,
+    "job_tabs_created": null,
+    "job_tabs_closed": null,
+    "welcome_tabs_created": null,
+    "welcome_tabs_closed": null,
+    "remaining_job_tabs": null,
+    "remaining_welcome_tabs": null,
+    "uncertain_ids": [
+      "No tab lifecycle report was emitted"
+    ],
+    "recorded_ids": [],
+    "log_paths": []
+  },
+  "finished_at": "2026-10-13T05:30:43.697434+00:00",
+  "elapsed_seconds": 47.96
+}

@@ -1,0 +1,7 @@
+{
+  "scope": "Optum requisition 2388999 only",
+  "submission_authorized_after_confirmed_batch": true,
+  "batch_confirmed": true,
+  "certification_read_and_accepted": true,
+  "schedule_enabled": false
+}

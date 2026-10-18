@@ -1,0 +1,95 @@
+[     948ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     948ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     948ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     948ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     948ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    1629ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o949158.ingest.sentry.io/api/4505185660370944/envelope/?sentry_key=df650867098340f0a604b46b1dba4b45&sentry_version=7&sentry_client=sentry.javascript.browser%2F7.56.0:0
+[    2304ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    2304ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    2304ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    2304ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    2304ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    2355ms] [INFO] Loading the script 'https://edge.fullstory.com/s/fs.js' violates the following Content Security Policy directive: "script-src 'unsafe-inline' 'unsafe-eval'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback. The policy is report-only, so the violation has been logged but no further action has been taken. @ https://contactout.com/extension/app/?source=sidebar&v=da1b8090d956c93317c4fb760051afb99a2a21e0&uuid=17e9a219-7fb4-4269-9593-2697e7181903:0
+[    2356ms] [INFO] Loading the script 'https://contactout.com/extension/app/static/js/main.02a562ac.js' violates the following Content Security Policy directive: "script-src 'unsafe-inline' 'unsafe-eval'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback. The policy is report-only, so the violation has been logged but no further action has been taken. @ https://contactout.com/extension/app/?source=sidebar&v=da1b8090d956c93317c4fb760051afb99a2a21e0&uuid=17e9a219-7fb4-4269-9593-2697e7181903:0
+[    2523ms] [INFO] Connecting to 'https://o949158.ingest.sentry.io/api/5931220/envelope/?sentry_key=658be7957621436eb5ec9ae083f050d4&sentry_version=7' violates the following Content Security Policy directive: "connect-src 'none'". The policy is report-only, so the violation has been logged but no further action has been taken. @ https://contactout.com/extension/app/?source=sidebar&v=da1b8090d956c93317c4fb760051afb99a2a21e0&uuid=17e9a219-7fb4-4269-9593-2697e7181903:0
+[    2524ms] [INFO] Connecting to 'https://o949158.ingest.sentry.io/api/5931220/envelope/?sentry_key=658be7957621436eb5ec9ae083f050d4&sentry_version=7' violates the following Content Security Policy directive: "connect-src 'none'". The policy is report-only, so the violation has been logged but no further action has been taken. @ https://contactout.com/extension/app/?source=sidebar&v=da1b8090d956c93317c4fb760051afb99a2a21e0&uuid=17e9a219-7fb4-4269-9593-2697e7181903:0
+[    2525ms] [INFO] Loading the script 'https://www.googletagmanager.com/gtag/js?id=G-Y1JDBHQN4Q' violates the following Content Security Policy directive: "script-src 'unsafe-inline' 'unsafe-eval'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback. The policy is report-only, so the violation has been logged but no further action has been taken. @ https://contactout.com/extension/app/static/js/main.02a562ac.js:1
+[    2532ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://edge.fullstory.com/s/fs.js:0
+[    2304ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    2304ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    2304ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    2304ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    2304ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    2355ms] [INFO] Loading the script 'https://edge.fullstory.com/s/fs.js' violates the following Content Security Policy directive: "script-src 'unsafe-inline' 'unsafe-eval'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback. The policy is report-only, so the violation has been logged but no further action has been taken. @ https://contactout.com/extension/app/?source=sidebar&v=da1b8090d956c93317c4fb760051afb99a2a21e0&uuid=17e9a219-7fb4-4269-9593-2697e7181903:0
+[    2356ms] [INFO] Loading the script 'https://contactout.com/extension/app/static/js/main.02a562ac.js' violates the following Content Security Policy directive: "script-src 'unsafe-inline' 'unsafe-eval'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback. The policy is report-only, so the violation has been logged but no further action has been taken. @ https://contactout.com/extension/app/?source=sidebar&v=da1b8090d956c93317c4fb760051afb99a2a21e0&uuid=17e9a219-7fb4-4269-9593-2697e7181903:0
+[    2523ms] [INFO] Connecting to 'https://o949158.ingest.sentry.io/api/5931220/envelope/?sentry_key=658be7957621436eb5ec9ae083f050d4&sentry_version=7' violates the following Content Security Policy directive: "connect-src 'none'". The policy is report-only, so the violation has been logged but no further action has been taken. @ https://contactout.com/extension/app/?source=sidebar&v=da1b8090d956c93317c4fb760051afb99a2a21e0&uuid=17e9a219-7fb4-4269-9593-2697e7181903:0
+[    2524ms] [INFO] Connecting to 'https://o949158.ingest.sentry.io/api/5931220/envelope/?sentry_key=658be7957621436eb5ec9ae083f050d4&sentry_version=7' violates the following Content Security Policy directive: "connect-src 'none'". The policy is report-only, so the violation has been logged but no further action has been taken. @ https://contactout.com/extension/app/?source=sidebar&v=da1b8090d956c93317c4fb760051afb99a2a21e0&uuid=17e9a219-7fb4-4269-9593-2697e7181903:0
+[    2525ms] [INFO] Loading the script 'https://www.googletagmanager.com/gtag/js?id=G-Y1JDBHQN4Q' violates the following Content Security Policy directive: "script-src 'unsafe-inline' 'unsafe-eval'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback. The policy is report-only, so the violation has been logged but no further action has been taken. @ https://contactout.com/extension/app/static/js/main.02a562ac.js:1
+[    2532ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://edge.fullstory.com/s/fs.js:0
+[    2541ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    2541ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    2541ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    2541ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    2541ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    2566ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o949158.ingest.sentry.io/api/5931220/envelope/?sentry_key=658be7957621436eb5ec9ae083f050d4&sentry_version=7:0
+[    2635ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o949158.ingest.sentry.io/api/4505185660370944/envelope/?sentry_key=df650867098340f0a604b46b1dba4b45&sentry_version=7&sentry_client=sentry.javascript.browser%2F7.56.0:0
+[    3398ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at r8 (https://static.licdn.com/aero-v1/sc/h/assets/CNyVMc-P.js:1:54563)
+    at iS (https://static.licdn.com/aero-v1/sc/h/assets/CNyVMc-P.js:1:105953)
+    at uC (https://static.licdn.com/aero-v1/sc/h/assets/CNyVMc-P.js:1:147615)
+    at https://static.licdn.com/aero-v1/sc/h/assets/CNyVMc-P.js:1:142608
+    at uh (https://static.licdn.com/aero-v1/sc/h/assets/CNyVMc-P.js:1:142709)
+    at u4 (https://static.licdn.com/aero-v1/sc/h/assets/CNyVMc-P.js:1:169172)
+    at MessagePort._ (https://static.licdn.com/aero-v1/sc/h/assets/CNyVMc-P.js:1:15089)
+[    3980ms] [INFO] Connecting to 'https://contactout.com/api/statistics/engage' violates the following Content Security Policy directive: "connect-src 'none'". The policy is report-only, so the violation has been logged but no further action has been taken. @ https://contactout.com/extension/app/static/js/main.02a562ac.js:3154
+[    4029ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    4029ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    4029ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    4029ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    4029ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    4559ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.linkedin.com/sensorCollect/?action=reportMetrics:0
+[    4761ms] [INFO] Connecting to 'https://o949158.ingest.sentry.io/api/5931220/envelope/?sentry_key=658be7957621436eb5ec9ae083f050d4&sentry_version=7' violates the following Content Security Policy directive: "connect-src 'none'". The policy is report-only, so the violation has been logged but no further action has been taken. @ https://contactout.com/extension/app/static/js/main.02a562ac.js:3154
+[    4761ms] [INFO] Connecting to 'https://o949158.ingest.sentry.io/api/5931220/envelope/?sentry_key=658be7957621436eb5ec9ae083f050d4&sentry_version=7' violates the following Content Security Policy directive: "connect-src 'none'". The policy is report-only, so the violation has been logged but no further action has been taken. @ https://contactout.com/extension/app/static/js/main.02a562ac.js:3154
+[    4764ms] [INFO] Connecting to 'https://o949158.ingest.sentry.io/api/5931220/envelope/?sentry_key=658be7957621436eb5ec9ae083f050d4&sentry_version=7' violates the following Content Security Policy directive: "connect-src 'none'". The policy is report-only, so the violation has been logged but no further action has been taken. @ https://contactout.com/extension/app/?source=sidebar&v=da1b8090d956c93317c4fb760051afb99a2a21e0&uuid=17e9a219-7fb4-4269-9593-2697e7181903:0
+[    4765ms] [INFO] Connecting to 'https://o949158.ingest.sentry.io/api/5931220/envelope/?sentry_key=658be7957621436eb5ec9ae083f050d4&sentry_version=7' violates the following Content Security Policy directive: "connect-src 'none'". The policy is report-only, so the violation has been logged but no further action has been taken. @ https://contactout.com/extension/app/?source=sidebar&v=da1b8090d956c93317c4fb760051afb99a2a21e0&uuid=17e9a219-7fb4-4269-9593-2697e7181903:0
+[    4788ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o949158.ingest.sentry.io/api/5931220/envelope/?sentry_key=658be7957621436eb5ec9ae083f050d4&sentry_version=7:0
+[    4809ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o949158.ingest.sentry.io/api/5931220/envelope/?sentry_key=658be7957621436eb5ec9ae083f050d4&sentry_version=7:0
+[    5070ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o949158.ingest.sentry.io/api/4505185660370944/envelope/?sentry_key=df650867098340f0a604b46b1dba4b45&sentry_version=7&sentry_client=sentry.javascript.browser%2F7.56.0:0
+[    5081ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://platform.linkedin.com/litms/utag/voyager-web-jobs/utag.js?cb=1791270000000:0
+[    5090ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.linkedin.com/sensorCollect/?action=reportMetrics:0
+[    5598ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/4NG2vk52.js:2
+[    5598ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/4NG2vk52.js:2
+[    5598ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/4NG2vk52.js:2
+[    5601ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/4NG2vk52.js:2
+[    5606ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/4NG2vk52.js:2
+[    5606ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/4NG2vk52.js:2
+[    5606ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/4NG2vk52.js:2
+[    5607ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/4NG2vk52.js:2
+[    5620ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/4NG2vk52.js:2
+[    5623ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/4NG2vk52.js:2
+[    5629ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/4NG2vk52.js:2
+[    5632ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/4NG2vk52.js:2
+[   12263ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   12474ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   12821ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   12984ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   13024ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[   13024ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[   13024ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[   13024ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[   13024ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[   13086ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   13194ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   13375ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   13714ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   13819ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   13921ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   14023ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   14140ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   14262ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   14364ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   14466ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   14569ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   14671ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   14773ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   14970ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.linkedin.com/sensorCollect/?action=reportMetrics:0

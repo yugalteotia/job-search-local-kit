@@ -1,0 +1,52 @@
+{
+  "attempt_id": "9a7b0155-5410-4784-a255-2da08c2cdc45",
+  "requisition_id": "160926009207",
+  "captured_at": "2026-10-14T13:16:40.391227+00:00",
+  "url": "https://www.naukri.com/job-listings-backend-java-developer-naukri-e-hire-campaign-bengaluru-2-to-4-years-160926009207",
+  "confirmation_text": "Fully loaded exact-ID Applied Jobs history confirms Application Sent",
+  "history_full": true,
+  "exact_history_id_match": true,
+  "history_loaded_rows": 280,
+  "history_expected_total": 280,
+  "account_identity_verified": true,
+  "account_session_verified": true,
+  "history_filter_verified": true,
+  "history_identity": {
+    "basis": "server_history_exact_job_id",
+    "server_rows": [
+      {
+        "job_id": "160926009207",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "Backend Java Developer",
+        "company": "Naukri E Hire Campaign",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "modifiedDate": "2026-09-30 09:09:55",
+            "statusValue": "Applied",
+            "dateTime": "2026-09-30 09:09:55"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "modifiedDate": "2026-09-30 09:09:55",
+            "statusValue": "Application Sent",
+            "dateTime": "2026-09-30 09:09:55"
+          }
+        ]
+      }
+    ]
+  },
+  "new_application_action": false,
+  "saved_answer_replayed": false,
+  "read_only_reconciliation": true,
+  "automatic_reconciliation": true,
+  "phase": "validation",
+  "application_sent": true,
+  "exact_job_id_match": true,
+  "workflow_worker_proven": false,
+  "confirmation_origin": "read_only_history_reconciliation"
+}

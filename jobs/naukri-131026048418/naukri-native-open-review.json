@@ -1,0 +1,23 @@
+{
+  "job_id": 346,
+  "requisition_id": "131026048418",
+  "form_url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-pune-chennai-bengaluru-2-to-5-years-131026048418",
+  "provider": "naukri_native_chat",
+  "signed_in": true,
+  "account_name_matches": true,
+  "resume_filename": "Yugal_Teotia_Java_Full_Stack_Developer.pdf",
+  "resume_sha256": "ae927f2ab60cb8d47be6c8fb8411fb013b7702edf68d076e1f1b4939b684a2cf",
+  "final_action": "native_apply_open",
+  "visible_required_fields": 0,
+  "answers_logged": false,
+  "checks": {
+    "live": true,
+    "unapplied": true,
+    "fit": true,
+    "resume_visual": true,
+    "resume_selected": true,
+    "answers_confirmed": true,
+    "unique_apply": true
+  },
+  "created_at": "2026-10-13T16:52:08.931084+00:00"
+}

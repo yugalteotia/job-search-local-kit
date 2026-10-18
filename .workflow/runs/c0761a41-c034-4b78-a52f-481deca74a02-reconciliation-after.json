@@ -1,0 +1,36 @@
+{
+  "status": "Complete",
+  "phase": "after",
+  "providers": {
+    "naukri": {
+      "status": "NoPending",
+      "pending": 0
+    },
+    "linkedin": {
+      "status": "NoPending",
+      "pending": 0
+    }
+  },
+  "confirmed": [],
+  "new_claims": 0,
+  "tracker": {
+    "database_rows": 402,
+    "tracker_rows": 402,
+    "quick_rows": 45,
+    "detailed_rows": 402,
+    "quick": "views/quick.html",
+    "detailed": "views/detailed.html",
+    "status": {
+      "status_json": "views/status.json",
+      "applied": 32,
+      "needs_answer": 0,
+      "uncertain": 1
+    }
+  },
+  "notifications": [
+    {
+      "job_id": 402,
+      "sent": true
+    }
+  ]
+}

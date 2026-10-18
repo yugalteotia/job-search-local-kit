@@ -1,0 +1,327 @@
+{
+  "checked_at": "2026-09-28T15:50:43.241286+00:00",
+  "audited_leads": 25,
+  "saved_search_capture_note": "The earlier generic search capture contains no cards for these 25 exact IDs; no location was inferred from the search query.",
+  "saved_detail_audit": ".workflow/reviews/20260928T152845-linkedin-location-audit.json",
+  "exact_header_recheck": ".workflow/reviews/20260928T154632-linkedin-header-recheck.json",
+  "counts": {
+    "Unresolved": 18,
+    "OutsideIndia": 2,
+    "PortalNativeVerified": 1,
+    "NeedsOriginalJD": 4
+  },
+  "items": [
+    {
+      "portal_job_id": "4470826781",
+      "employer": "Infor",
+      "title": "Software Engineer, Senior",
+      "url": "https://www.linkedin.com/jobs/view/4470826781/",
+      "status": "Unresolved",
+      "location": null,
+      "location_evidence": null,
+      "reasons": [
+        "India location not visible or established on the job page",
+        "Visible job page lacks substantive duties and qualifications text"
+      ]
+    },
+    {
+      "portal_job_id": "4472481768",
+      "employer": "AfterQuery Experts",
+      "title": "Software Developer",
+      "url": "https://www.linkedin.com/jobs/view/4472481768/",
+      "status": "Unresolved",
+      "location": null,
+      "location_evidence": null,
+      "reasons": [
+        "India location not visible or established on the job page",
+        "Visible job page lacks substantive duties and qualifications text"
+      ]
+    },
+    {
+      "portal_job_id": "4472700566",
+      "employer": "SimCorp",
+      "title": "Lead Software Engineer (AI & .Net)",
+      "url": "https://www.linkedin.com/jobs/view/4472700566/",
+      "status": "Unresolved",
+      "location": null,
+      "location_evidence": null,
+      "reasons": [
+        "India location not visible or established on the job page",
+        "Visible job page lacks substantive duties and qualifications text"
+      ]
+    },
+    {
+      "portal_job_id": "4471320992",
+      "employer": "ThinkNovaa",
+      "title": "Back End Developer",
+      "url": "https://www.linkedin.com/jobs/view/4471320992/",
+      "status": "Unresolved",
+      "location": null,
+      "location_evidence": null,
+      "reasons": [
+        "India location not visible or established on the job page",
+        "Visible job page lacks substantive duties and qualifications text"
+      ]
+    },
+    {
+      "portal_job_id": "4471301322",
+      "employer": "RemoteHunter",
+      "title": "Software Engineer I",
+      "url": "https://www.linkedin.com/jobs/view/4471301322/",
+      "status": "OutsideIndia",
+      "location": "United States",
+      "location_evidence": "job_header_exact_title",
+      "reasons": [
+        "Exact job header states United States"
+      ]
+    },
+    {
+      "portal_job_id": "4434996712",
+      "employer": "Deloitte",
+      "title": "Cyber Full-Stack Technical Software Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4434996712/",
+      "status": "Unresolved",
+      "location": null,
+      "location_evidence": null,
+      "reasons": [
+        "India location not visible or established on the job page",
+        "Visible job page lacks substantive duties and qualifications text"
+      ]
+    },
+    {
+      "portal_job_id": "4470573564",
+      "employer": "CareerUS Solutions",
+      "title": "Software Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4470573564/",
+      "status": "Unresolved",
+      "location": null,
+      "location_evidence": null,
+      "reasons": [
+        "India location not visible or established on the job page",
+        "Visible job page lacks substantive duties and qualifications text"
+      ]
+    },
+    {
+      "portal_job_id": "4441532567",
+      "employer": "Playlist",
+      "title": "Sr Software Engineer - Playlist",
+      "url": "https://www.linkedin.com/jobs/view/4441532567/",
+      "status": "Unresolved",
+      "location": null,
+      "location_evidence": null,
+      "reasons": [
+        "India location not visible or established on the job page"
+      ]
+    },
+    {
+      "portal_job_id": "4472439363",
+      "employer": "Wiraa",
+      "title": "Software Developer (HTML, CSS)",
+      "url": "https://www.linkedin.com/jobs/view/4472439363/",
+      "status": "Unresolved",
+      "location": null,
+      "location_evidence": null,
+      "reasons": [
+        "India location not visible or established on the job page",
+        "Portal listing says it is no longer accepting applications"
+      ]
+    },
+    {
+      "portal_job_id": "4470185524",
+      "employer": "Goldschmitt and Associates (G&A)",
+      "title": "Senior Software Engineer and AWS Architect",
+      "url": "https://www.linkedin.com/jobs/view/4470185524/",
+      "status": "Unresolved",
+      "location": null,
+      "location_evidence": null,
+      "reasons": [
+        "India location not visible or established on the job page"
+      ]
+    },
+    {
+      "portal_job_id": "4471616813",
+      "employer": "Teambuilderz LLC",
+      "title": "Software Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4471616813/",
+      "status": "OutsideIndia",
+      "location": "United States",
+      "location_evidence": "job_header_exact_title",
+      "reasons": [
+        "Exact job header states United States"
+      ]
+    },
+    {
+      "portal_job_id": "4463501030",
+      "employer": "Servify",
+      "title": "Software Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4463501030/",
+      "status": "PortalNativeVerified",
+      "location": "Mumbai, Maharashtra, India",
+      "location_evidence": "job_header_exact_title",
+      "reasons": []
+    },
+    {
+      "portal_job_id": "4472707131",
+      "employer": "Up to 40LPA)",
+      "title": "Founding Engineer (JavaScript/TypeScript",
+      "url": "https://www.linkedin.com/jobs/view/4472707131/",
+      "status": "Unresolved",
+      "location": null,
+      "location_evidence": null,
+      "reasons": [
+        "India location not visible or established on the job page",
+        "Visible job page lacks substantive duties and qualifications text"
+      ]
+    },
+    {
+      "portal_job_id": "4472496677",
+      "employer": "SimCorp",
+      "title": "Lead Software Engineer (AI and DevOps)",
+      "url": "https://www.linkedin.com/jobs/view/4472496677/",
+      "status": "Unresolved",
+      "location": null,
+      "location_evidence": null,
+      "reasons": [
+        "India location not visible or established on the job page"
+      ]
+    },
+    {
+      "portal_job_id": "4470858507",
+      "employer": "FlexiLoans",
+      "title": "Software Engineer - III",
+      "url": "https://www.linkedin.com/jobs/view/4470858507/",
+      "status": "Unresolved",
+      "location": null,
+      "location_evidence": null,
+      "reasons": [
+        "India location not visible or established on the job page",
+        "Visible job page lacks substantive duties and qualifications text"
+      ]
+    },
+    {
+      "portal_job_id": "4470828829",
+      "employer": "Hawk Sense Business Solutions Pvt Ltd (formerly known as Hawk Sense Security Systems Pvt Ltd)",
+      "title": "Senior Software Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4470828829/",
+      "status": "NeedsOriginalJD",
+      "location": "India",
+      "location_evidence": "job_header_exact_title",
+      "reasons": [
+        "Current exact job page shows title and India location but no substantive JD; earlier JD retained for audit"
+      ]
+    },
+    {
+      "portal_job_id": "4470860430",
+      "employer": "Abacus",
+      "title": "Software Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4470860430/",
+      "status": "NeedsOriginalJD",
+      "location": "Chennai, Tamil Nadu, India",
+      "location_evidence": "job_header_exact_title",
+      "reasons": [
+        "Current exact job page shows title and India location but no substantive JD; earlier JD retained for audit"
+      ]
+    },
+    {
+      "portal_job_id": "4471342649",
+      "employer": "NielsenIQ",
+      "title": "Software Engineer (ETL Developers)",
+      "url": "https://www.linkedin.com/jobs/view/4471342649/",
+      "status": "Unresolved",
+      "location": null,
+      "location_evidence": null,
+      "reasons": [
+        "India location not visible or established on the job page",
+        "Visible job page lacks substantive duties and qualifications text"
+      ]
+    },
+    {
+      "portal_job_id": "4472496842",
+      "employer": "HRM Counsel",
+      "title": "Software Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4472496842/",
+      "status": "NeedsOriginalJD",
+      "location": "India",
+      "location_evidence": "job_header_exact_title",
+      "reasons": [
+        "Current exact job page shows title and India location but no substantive JD; earlier JD retained for audit"
+      ]
+    },
+    {
+      "portal_job_id": "4471335508",
+      "employer": "Deltacubes",
+      "title": "Senior Software Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4471335508/",
+      "status": "Unresolved",
+      "location": null,
+      "location_evidence": null,
+      "reasons": [
+        "India location not visible or established on the job page",
+        "Visible job page lacks substantive duties and qualifications text"
+      ]
+    },
+    {
+      "portal_job_id": "4468599104",
+      "employer": "Meazure Learning",
+      "title": "Principal Software Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4468599104/",
+      "status": "NeedsOriginalJD",
+      "location": "India",
+      "location_evidence": "job_header_exact_title",
+      "reasons": [
+        "Current exact job page shows title and India location but no substantive JD; earlier JD retained for audit"
+      ]
+    },
+    {
+      "portal_job_id": "4408763407",
+      "employer": "Trimble Inc.",
+      "title": "Staff Software Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4408763407/",
+      "status": "Unresolved",
+      "location": null,
+      "location_evidence": null,
+      "reasons": [
+        "India location not visible or established on the job page",
+        "Visible job page lacks substantive duties and qualifications text"
+      ]
+    },
+    {
+      "portal_job_id": "4470857163",
+      "employer": "LTM",
+      "title": "Associate Principal - Software Engineering",
+      "url": "https://www.linkedin.com/jobs/view/4470857163/",
+      "status": "Unresolved",
+      "location": null,
+      "location_evidence": null,
+      "reasons": [
+        "India location not visible or established on the job page",
+        "Visible job page lacks substantive duties and qualifications text"
+      ]
+    },
+    {
+      "portal_job_id": "4444343443",
+      "employer": "Energy Exemplar",
+      "title": "Software Engineer (Full Stack)",
+      "url": "https://www.linkedin.com/jobs/view/4444343443/",
+      "status": "Unresolved",
+      "location": null,
+      "location_evidence": null,
+      "reasons": [
+        "India location not visible or established on the job page",
+        "Visible job page lacks substantive duties and qualifications text"
+      ]
+    },
+    {
+      "portal_job_id": "4471349262",
+      "employer": "Zudu AI",
+      "title": "Backend Engineering Intern, Voice AI Platform",
+      "url": "https://www.linkedin.com/jobs/view/4471349262/",
+      "status": "Unresolved",
+      "location": null,
+      "location_evidence": null,
+      "reasons": [
+        "India location not visible or established on the job page"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+[     792ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://media.foundit.in/public/core/images/300x250.webp:0
+[    1381ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    1381ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    1381ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    1381ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    1381ms] [ERROR] Failed to load resource: the server responded with a status of 503 () @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Chennai&page=2:0
+[    3190ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/1rj77xypMWN6Z/jYeemP/qlcKdbGU/XYSOGDQXJhDkJL/WlluOA/axwhBw/JdAAcB:0
+[    3191ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/1rj77xypMWN6Z/jYeemP/qlcKdbGU/XYSOGDQXJhDkJL/WlluOA/axwhBw/JdAAcB:0
+[    3303ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/1rj77xypMWN6Z/jYeemP/qlcKdbGU/XYSOGDQXJhDkJL/WlluOA/axwhBw/JdAAcB:0

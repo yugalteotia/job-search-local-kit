@@ -1,0 +1,55 @@
+{
+  "row": 18,
+  "reason": "listing ingested",
+  "changes": {
+    "Company": {
+      "before": null,
+      "after": "WebEngage"
+    },
+    "Role": {
+      "before": null,
+      "after": "Software Engineer- JAVA"
+    },
+    "Job ID": {
+      "before": null,
+      "after": "ENG00528"
+    },
+    "Direct link": {
+      "before": null,
+      "after": "https://webengage.sensehq.com/careers/jobs/54222"
+    },
+    "Source": {
+      "before": null,
+      "after": "Original WebEngage SenseHQ page, live browser check; Indeed lead"
+    },
+    "Location": {
+      "before": null,
+      "after": "Bengaluru, Gurgaon, Mumbai, India"
+    },
+    "Verified date": {
+      "before": null,
+      "after": "2026-09-28T03:05:30Z"
+    },
+    "Fit": {
+      "before": null,
+      "after": "Low"
+    },
+    "Fit rationale": {
+      "before": null,
+      "after": "Core Java, REST, MongoDB and concurrency work align, but cloud and message queues are stated requirements without demonstrated experience; multithreading expertise and 2-year Java minimum are not established at required depth. Medium only. Required evidence coverage: 43%."
+    },
+    "Key gaps": {
+      "before": null,
+      "after": "2–5 years Java engineering; Expert multithreading and concurrent programming; Cloud infrastructure and message queues; Incident management/on-call familiarity"
+    },
+    "Status": {
+      "before": null,
+      "after": "Shortlisted"
+    },
+    "Next step": {
+      "before": null,
+      "after": "Resolve gaps / verify original before preparation"
+    }
+  },
+  "backup": ".workflow/backups/20260928T030610-f0d9008d.xlsx"
+}

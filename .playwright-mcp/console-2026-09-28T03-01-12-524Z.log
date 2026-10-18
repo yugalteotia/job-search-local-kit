@@ -1,0 +1,33 @@
+[     226ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     226ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     226ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     226ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     498ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.naukri.com/akam/13/7126510:0
+[     773ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://static.naukimg.com/s/0/0/j/nLoggerJB_v3.4.min.js:0
+[    1277ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1355ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1377ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1404ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1405ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1405ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1405ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1430ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/collectorapi/v1/uba/bulk:0
+[    1465ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1466ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1485ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/collectorapi/v1/uba/bulk:0
+[    1613ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1861ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1862ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    9672ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[   10754ms] [WARNING] User Location is blocked @ https://static.naukimg.com/s/9/121/_next/static/chunks/app/srp/page-ea79087e4df43a28.js:0
+[   30648ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[   30649ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[   31182ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[   31182ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[   31200ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[   31200ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[   31201ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[   31201ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[   31347ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/collectorapi/v1/uba/bulk:0
+[   31364ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[   31439ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/collectorapi/v1/uba/bulk:0

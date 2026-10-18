@@ -1,0 +1,1124 @@
+{
+  "pages": [
+    {
+      "query": "Java Spring Boot",
+      "location": "India",
+      "page": 1,
+      "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "observed_url": "https://www.naukri.com/java-spring-boot-jobs-in-india?jobAge=7&experience=2",
+      "checked_at": "2026-10-14T11:00:10.477517+00:00",
+      "status": "Success",
+      "visible_cards": 20,
+      "lead_count": 20,
+      "filters": {
+        "experience_label": "2",
+        "freshness_label": "Last 7 days",
+        "sort_label": "Date"
+      },
+      "rendered_search": {
+        "keywords": "java spring boot, ",
+        "location": "india, ",
+        "experience": "2 years",
+        "heading": "Java Spring Boot Jobs In India"
+      },
+      "last_search_api_parameters": {
+        "keyword": [
+          "java spring boot"
+        ],
+        "location": [
+          "india"
+        ],
+        "experience": [
+          "2",
+          "2"
+        ],
+        "jobAge": [
+          "7",
+          "7"
+        ],
+        "sort": [
+          "f"
+        ]
+      },
+      "error_kind": null,
+      "extracted_exact_ids": [
+        "141026033345",
+        "141026031487",
+        "141026031386",
+        "141026031331",
+        "141026031319",
+        "141026030841",
+        "141026030534",
+        "141026930066",
+        "141026930057",
+        "141026930028",
+        "141026930003",
+        "141026929949",
+        "141026029901",
+        "141026029814",
+        "141026929531",
+        "141026929475",
+        "141026929347",
+        "100826024093",
+        "141026929266",
+        "141026929264"
+      ],
+      "retained_leads": 2,
+      "card_filter_exclusions": {
+        "no_relevant_title_or_generic_engineering_card_skills": 15,
+        "unrelated_bpo_data_entry_qa_role": 3
+      }
+    },
+    {
+      "query": "Java Spring Boot backend",
+      "location": "India",
+      "page": 1,
+      "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "observed_url": "https://www.naukri.com/java-spring-boot-backend-jobs-in-india?jobAge=7&experience=3",
+      "checked_at": "2026-10-14T11:00:17.299391+00:00",
+      "status": "Success",
+      "visible_cards": 20,
+      "lead_count": 20,
+      "filters": {
+        "experience_label": "3",
+        "freshness_label": "Last 7 days",
+        "sort_label": "Date"
+      },
+      "rendered_search": {
+        "keywords": "java spring boot backend, ",
+        "location": "india, ",
+        "experience": "3 years",
+        "heading": "Java Spring Boot Backend Jobs In India"
+      },
+      "last_search_api_parameters": {
+        "keyword": [
+          "java spring boot backend"
+        ],
+        "location": [
+          "india"
+        ],
+        "experience": [
+          "3",
+          "3"
+        ],
+        "jobAge": [
+          "7",
+          "7"
+        ],
+        "sort": [
+          "f"
+        ]
+      },
+      "error_kind": null,
+      "extracted_exact_ids": [
+        "141026033345",
+        "141026932121",
+        "141026932006",
+        "141026931968",
+        "141026931919",
+        "141026931786",
+        "141026931785",
+        "141026931757",
+        "141026931758",
+        "141026931726",
+        "141026931731",
+        "141026931706",
+        "141026931703",
+        "141026931659",
+        "141026931633",
+        "141026931627",
+        "141026931574",
+        "141026931562",
+        "141026931557",
+        "141026931539"
+      ],
+      "retained_leads": 1,
+      "card_filter_exclusions": {
+        "no_relevant_title_or_generic_engineering_card_skills": 18,
+        "unrelated_bpo_data_entry_qa_role": 1
+      }
+    }
+  ],
+  "cards": [
+    {
+      "title": "Software Engineer - Java Developer (Struts & EJB)",
+      "url": "https://www.naukri.com/job-listings-software-engineer-java-developer-struts-ejb-nest-digital-kochi-2-to-4-years-141026030534",
+      "portal_job_id": "141026030534",
+      "employer": "Nest Digital",
+      "card_skills": [
+        "Java",
+        "Struts",
+        "EJB",
+        "MySQL",
+        "Java Development",
+        "Software engineering",
+        "Software",
+        "Development"
+      ],
+      "card_location": "Kochi",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Software Engineer - Java Developer (Struts & EJB)\nNest Digital\n3.6\n207 Reviews\n2-4 Yrs\nKochi\nJava EE: Good knowledge of Core Java and enterprise conceptsFrameworks: Hands-on experi...\nJavaStrutsEJBMySQLJava DevelopmentSoftware engineeringSoftwareDevelopment\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1"
+    },
+    {
+      "title": "Java Full Stack Developer",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-pune-bengaluru-delhi-ncr-2-to-3-years-100826024093",
+      "portal_job_id": "100826024093",
+      "employer": "Infosys",
+      "card_skills": [
+        "Java",
+        "Hibernate",
+        "Spring Boot",
+        "Microservices",
+        "React.js",
+        "Angularjs",
+        "Maven",
+        "CSS"
+      ],
+      "card_location": "Hybrid - Pune, Bengaluru, Delhi / NCR",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Java Full Stack Developer\nInfosys\n3.5\n52999 Reviews\n2-3 Yrs\nHybrid - Pune, Bengaluru, Delhi / NCR\nKey ResponsibilitiesDevelop and maintain scalable web applications using Java and front...\nJavaHibernateSpring BootMicroservicesReact.jsAngularjsMavenCSS\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1"
+    },
+    {
+      "title": "Custom Software Engineer",
+      "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-pune-3-to-8-years-141026931703",
+      "portal_job_id": "141026931703",
+      "employer": "Accenture",
+      "card_skills": [
+        "administration",
+        "kubernetes",
+        "dynatrace",
+        "js",
+        "microsoft azure",
+        "express",
+        "backend development",
+        "cloud technologies"
+      ],
+      "card_location": "Pune",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Custom Software Engineer\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nPune\nEducational Qualification : 15 years full time education. We are seeking a skilled Node...\nadministrationkubernetesdynatracejsmicrosoft azureexpressbackend developmentcloud technologies\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1"
+    }
+  ],
+  "raw_cards": [
+    {
+      "title": "Electrician and Engineer",
+      "url": "https://www.naukri.com/job-listings-electrician-and-engineer-crescent-techno-solutions-greater-noida-1-to-30-years-141026033345",
+      "portal_job_id": "141026033345",
+      "employer": "Crescent Techno Solutions",
+      "card_skills": [
+        "Electrical Maintenance",
+        "Electrical Wiring",
+        "Electrical Drawing",
+        "PLC sec",
+        "Wiring",
+        "Draw",
+        "Engineering",
+        "Maintenance"
+      ],
+      "card_location": "Greater Noida",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Electrician and Engineer\nCrescent Techno Solutions\n3.4\n26 Reviews\n1-30 Yrs\n50,000-3 Lacs PA\nGreater Noida\nJob Requirements : . 2-20 years of experience in the field of Electrical or related dis...\nElectrical MaintenanceElectrical WiringElectrical DrawingPLC secWiringDrawEngineeringMaintenance\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Software Developer",
+      "url": "https://www.naukri.com/job-listings-software-developer-cameo-corporate-services-chennai-2-to-7-years-141026031487",
+      "portal_job_id": "141026031487",
+      "employer": "Cameo Corporate Services",
+      "card_skills": [
+        "SQL",
+        "angular",
+        ".NET",
+        "C#",
+        "Microsoft Power Automate",
+        "Windows Server",
+        "AI",
+        ".Netcore"
+      ],
+      "card_location": "Chennai",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Software Developer\nCameo Corporate Services\n3.4\n343 Reviews\n2-7 Yrs\nChennai\nWe are looking for a hands-on software developer with strong experience in .NET / C#, A...\nSQLangular.NETC#Microsoft Power AutomateWindows ServerAI.Netcore\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Fluter developer _Leading NBFC _Bangalore",
+      "url": "https://www.naukri.com/job-listings-fluter-developer-leading-nbfc-bangalore-pms-consulting-bengaluru-2-to-6-years-141026031386",
+      "portal_job_id": "141026031386",
+      "employer": "Reputed Client of PMS Consulting",
+      "card_skills": [
+        "Flutter",
+        "Application Development",
+        "Application Programming",
+        "App Development",
+        "Software Engineering",
+        "Software Design",
+        "Application",
+        "NBFC"
+      ],
+      "card_location": "Bengaluru",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Fluter developer _Leading NBFC _Bangalore\nReputed Client of PMS Consulting\nPosted by PMS Consulting\n2-6 Yrs\n10-15 Lacs PA\nBengaluru\nDevelop production-grade applications using Flutter and Dart. Strong understanding of F...\nFlutterApplication DevelopmentApplication ProgrammingApp DevelopmentSoftware EngineeringSoftware DesignApplicationNBFC\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Chiller Engineer",
+      "url": "https://www.naukri.com/job-listings-chiller-engineer-deep-industries-alibag-anantapur-sanand-2-to-5-years-141026031331",
+      "portal_job_id": "141026031331",
+      "employer": "Deep Industries",
+      "card_skills": [
+        "Engineering",
+        "Oil and Gas",
+        "Oil",
+        "Gas",
+        "Chiller"
+      ],
+      "card_location": "Alibag, Anantapur, Sanand",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Chiller Engineer\nDeep Industries\n3.6\n243 Reviews\n2-5 Yrs\nAlibag, Anantapur, Sanand\nProficiency in software such as AutoCAD or similar tools used for drafting and modeling...\nEngineeringOil and GasOilGasChiller\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Front End Developer",
+      "url": "https://www.naukri.com/job-listings-front-end-developer-artificial-reality-llp-navi-mumbai-2-to-5-years-141026031319",
+      "portal_job_id": "141026031319",
+      "employer": "Artificial Reality Llp",
+      "card_skills": [
+        "Frontend Developer with Next.js",
+        "TypeScript",
+        "Webgl",
+        "REST API integration",
+        "React.js",
+        "React",
+        "Nextjs",
+        "Integration"
+      ],
+      "card_location": "Navi Mumbai",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Front End Developer\nArtificial Reality Llp\n2-5 Yrs\n70,000-1 Lacs PA\nNavi Mumbai\nWe are looking for a skilled Frontend Developer with hands-on experience in Next.js, Ty...\nFrontend Developer with Next.jsTypeScriptWebglREST API integrationReact.jsReactNextjsIntegration\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Front End Developer",
+      "url": "https://www.naukri.com/job-listings-front-end-developer-artificial-reality-llp-navi-mumbai-2-to-5-years-141026030841",
+      "portal_job_id": "141026030841",
+      "employer": "Artificial Reality Llp",
+      "card_skills": [
+        "Frontend Development",
+        "Webgl",
+        "TypeScript",
+        "GIT Repository",
+        "Visual Studio Code",
+        "HTML",
+        "Rest API Integration",
+        "React.js"
+      ],
+      "card_location": "Navi Mumbai",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Front End Developer\nArtificial Reality Llp\n2-5 Yrs\n7.2-12 Lacs PA\nNavi Mumbai\n Frontend Developer with Next.js, TypeScript, React, REST API integration, Postman and ...\nFrontend DevelopmentWebglTypeScriptGIT RepositoryVisual Studio CodeHTMLRest API IntegrationReact.js\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Software Engineer - Java Developer (Struts & EJB)",
+      "url": "https://www.naukri.com/job-listings-software-engineer-java-developer-struts-ejb-nest-digital-kochi-2-to-4-years-141026030534",
+      "portal_job_id": "141026030534",
+      "employer": "Nest Digital",
+      "card_skills": [
+        "Java",
+        "Struts",
+        "EJB",
+        "MySQL",
+        "Java Development",
+        "Software engineering",
+        "Software",
+        "Development"
+      ],
+      "card_location": "Kochi",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Software Engineer - Java Developer (Struts & EJB)\nNest Digital\n3.6\n207 Reviews\n2-4 Yrs\nKochi\nJava EE: Good knowledge of Core Java and enterprise conceptsFrameworks: Hands-on experi...\nJavaStrutsEJBMySQLJava DevelopmentSoftware engineeringSoftwareDevelopment\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": null
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "url": "https://www.naukri.com/job-listings-quality-assurance-engineer-ge-renewable-energy-technologies-private-limited-bengaluru-2-to-4-years-141026930066",
+      "portal_job_id": "141026930066",
+      "employer": "GE VERNOVA",
+      "card_skills": [
+        "agile",
+        "core data",
+        "algorithms",
+        "software frameworks",
+        "ui test",
+        "web application",
+        "mathematics",
+        "cucumber"
+      ],
+      "card_location": "Bengaluru",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Quality Assurance Engineer\nGE VERNOVA\n4.1\n1672 Reviews\n2-4 Yrs\nBengaluru\nbreak down problems and estimate time for quality related tasks. . Education: Bachelors...\nagilecore dataalgorithmssoftware frameworksui testweb applicationmathematicscucumber\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Manager, Technical Writer",
+      "url": "https://www.naukri.com/job-listings-manager-technical-writer-mongodb-software-india-private-limited-gurugram-2-to-7-years-141026930057",
+      "portal_job_id": "141026930057",
+      "employer": "Mongodb",
+      "card_skills": [
+        "ai",
+        "editorial",
+        "interviewing",
+        "cloud data",
+        "microsoft azure",
+        "database technologies",
+        "javascript",
+        "cloud"
+      ],
+      "card_location": "Gurugram",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Manager, Technical Writer\nMongodb\n3.4\n117 Reviews\n2-7 Yrs\nGurugram\nOur cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud...\naieditorialinterviewingcloud datamicrosoft azuredatabase technologiesjavascriptcloud\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "url": "https://www.naukri.com/job-listings-senior-software-engineer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-141026930028",
+      "portal_job_id": "141026930028",
+      "employer": "Capgemini",
+      "card_skills": [
+        "programming",
+        "software development",
+        "software design",
+        "software engineer",
+        "Senior",
+        "Software engineering",
+        "Program",
+        "Development"
+      ],
+      "card_location": "Bengaluru",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Senior Software Engineer\nCapgemini\n3.6\n58372 Reviews\n1-6 Yrs\nBengaluru\nJob DescriptionJob Description - Grade SpecificIs fully competent in its own area and h...\nprogrammingsoftware developmentsoftware designsoftware engineerSeniorSoftware engineeringProgramDevelopment\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-141026930003",
+      "portal_job_id": "141026930003",
+      "employer": "Capgemini",
+      "card_skills": [
+        "maintenance",
+        "software development",
+        "software design",
+        "software solutions",
+        "software engineer",
+        "software engineering",
+        "programming",
+        "research"
+      ],
+      "card_location": "Bengaluru",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Software Engineer\nCapgemini\n3.6\n58372 Reviews\n0-5 Yrs\nBengaluru\nHas more than a year of relevant work experience\nmaintenancesoftware developmentsoftware designsoftware solutionssoftware engineersoftware engineeringprogrammingresearch\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "url": "https://www.naukri.com/job-listings-senior-software-engineer-capgemini-technology-services-india-limited-pune-1-to-6-years-141026929949",
+      "portal_job_id": "141026929949",
+      "employer": "Capgemini",
+      "card_skills": [
+        "programming",
+        "software development",
+        "software design",
+        "software engineer",
+        "Software engineering",
+        "Senior",
+        "Program",
+        "Software"
+      ],
+      "card_location": "Pune",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Senior Software Engineer\nCapgemini\n3.6\n58372 Reviews\n1-6 Yrs\nPune\nJob DescriptionJob Description - Grade SpecificIs fully competent in its own area and h...\nprogrammingsoftware developmentsoftware designsoftware engineerSoftware engineeringSeniorProgramSoftware\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Skin Technician - Viman Nagar",
+      "url": "https://www.naukri.com/job-listings-skin-technician-viman-nagar-berkowits-hair-and-skin-clinic-pune-2-to-4-years-141026029901",
+      "portal_job_id": "141026029901",
+      "employer": "BERKOWITS HAIR & SKIN CLINIC",
+      "card_skills": [
+        "Beauty",
+        "Electrical Maintenance",
+        "Java",
+        "Hair Care",
+        "Dermatology",
+        "Skin Care",
+        "Cosmetology",
+        "Maintenance"
+      ],
+      "card_location": "Pune",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Skin Technician - Viman Nagar\nBERKOWITS HAIR & SKIN CLINIC\n3.1\n113 Reviews\n2-4 Yrs\n3.5-5 Lacs PA\nPune\n Skin Technician Berkowits Hair & Skin Clinics | Viman Nagar, PuneLocationUnit 108, Lun...\nBeautyElectrical MaintenanceJavaHair CareDermatologySkin CareCosmetologyMaintenance\nPrefers women\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Engineer",
+      "url": "https://www.naukri.com/job-listings-engineer-alpha-safe-secure-chennai-0-to-5-years-141026029814",
+      "portal_job_id": "141026029814",
+      "employer": "Alpha Safe & Secure",
+      "card_skills": [
+        "Electrcals",
+        "mechanical",
+        "Engineering"
+      ],
+      "card_location": "Chennai",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Engineer\nAlpha Safe & Secure\n0-5 Yrs\n1.8-2.16 Lacs PA\nChennai\nResponsibilities:* Collaborate with cross-functional teams on project delivery.* Ensure...\nElectrcalsmechanicalEngineering\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Full Stack Engineer",
+      "url": "https://www.naukri.com/job-listings-full-stack-engineer-ford-motor-private-limited-chennai-0-to-5-years-141026929531",
+      "portal_job_id": "141026929531",
+      "employer": "Ford Business Solutions",
+      "card_skills": [
+        "apis",
+        "container",
+        "front end",
+        "ci/cd pipelines",
+        "automated testing",
+        "application monitoring",
+        "docker",
+        "cloud"
+      ],
+      "card_location": "Chennai",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Full Stack Engineer\nFord Business Solutions\n4.0\n868 Reviews\n0-5 Yrs\nChennai\nStrong hands-on experience with React and modern front-end developmentPreferred Qualifi...\napiscontainerfront endci/cd pipelinesautomated testingapplication monitoringdockercloud\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "QA Automation - Senior Lead",
+      "url": "https://www.naukri.com/job-listings-qa-automation-senior-lead-iris-software-technologies-private-limited-noida-1-to-2-years-141026929475",
+      "portal_job_id": "141026929475",
+      "employer": "Iris Software",
+      "card_skills": [
+        "agile",
+        "mlops",
+        "junit",
+        "bdd",
+        "business automation",
+        "it services",
+        "cucumber",
+        "maven"
+      ],
+      "card_location": "Noida",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "QA Automation - Senior Lead\nIris Software\n3.8\n2110 Reviews\n1-2 Yrs\nNoida\nExperience: 1-2 years in QA automation with hands-on experience in functional, regressi...\nagilemlopsjunitbddbusiness automationit servicescucumbermaven\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://www.naukri.com/job-listings-software-engineer-natwest-digital-services-india-pvt-ltd-gurugram-1-to-6-years-141026929347",
+      "portal_job_id": "141026929347",
+      "employer": "Natwest Digitalx",
+      "card_skills": [
+        "agile",
+        "software design",
+        "programming languages",
+        "automation",
+        "operations",
+        "testing tools",
+        "customer centric",
+        "devops"
+      ],
+      "card_location": "Gurugram",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Software Engineer\nNatwest Digitalx\n3.9\n3605 Reviews\n1-6 Yrs\nGurugram\nIn your new role, youll engineer and maintain innovative, customer centric, high perfor...\nagilesoftware designprogramming languagesautomationoperationstesting toolscustomer centricdevops\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Java Full Stack Developer",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-pune-bengaluru-delhi-ncr-2-to-3-years-100826024093",
+      "portal_job_id": "100826024093",
+      "employer": "Infosys",
+      "card_skills": [
+        "Java",
+        "Hibernate",
+        "Spring Boot",
+        "Microservices",
+        "React.js",
+        "Angularjs",
+        "Maven",
+        "CSS"
+      ],
+      "card_location": "Hybrid - Pune, Bengaluru, Delhi / NCR",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Java Full Stack Developer\nInfosys\n3.5\n52999 Reviews\n2-3 Yrs\nHybrid - Pune, Bengaluru, Delhi / NCR\nKey ResponsibilitiesDevelop and maintain scalable web applications using Java and front...\nJavaHibernateSpring BootMicroservicesReact.jsAngularjsMavenCSS\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": null
+    },
+    {
+      "title": "WoW Software Engineer - Host",
+      "url": "https://www.naukri.com/job-listings-wow-software-engineer-host-natwest-digital-services-india-pvt-ltd-chennai-2-to-6-years-141026929266",
+      "portal_job_id": "141026929266",
+      "employer": "Natwest Digitalx",
+      "card_skills": [
+        "agile",
+        "ci/cd pipelines",
+        "api integration",
+        "agile delivery",
+        "application development",
+        "jcl",
+        "cobol",
+        "endevor"
+      ],
+      "card_location": "Chennai",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "WoW Software Engineer - Host\nNatwest Digitalx\n3.9\n3605 Reviews\n2-6 Yrs\nChennai\nYoull be working within a feature team and using your extensive experience to engineer ...\nagileci/cd pipelinesapi integrationagile deliveryapplication developmentjclcobolendevor\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Quality Automation Specialist",
+      "url": "https://www.naukri.com/job-listings-quality-automation-specialist-natwest-digital-services-india-pvt-ltd-chennai-2-to-7-years-141026929264",
+      "portal_job_id": "141026929264",
+      "employer": "Natwest Digitalx",
+      "card_skills": [
+        "agile",
+        "continuous integration",
+        "automation testing",
+        "automated testing",
+        "agile development",
+        "automated test scripts",
+        "automation",
+        "stakeholder management"
+      ],
+      "card_location": "Chennai",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Quality Automation Specialist\nNatwest Digitalx\n3.9\n3605 Reviews\n2-7 Yrs\nChennai\nWere looking for someone with experience of automated testing, particularly from an Agi...\nagilecontinuous integrationautomation testingautomated testingagile developmentautomated test scriptsautomationstakeholder management\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Electrician and Engineer",
+      "url": "https://www.naukri.com/job-listings-electrician-and-engineer-crescent-techno-solutions-greater-noida-1-to-30-years-141026033345",
+      "portal_job_id": "141026033345",
+      "employer": "Crescent Techno Solutions",
+      "card_skills": [
+        "Electrical Maintenance",
+        "Electrical Wiring",
+        "Electrical Drawing",
+        "PLC sec",
+        "Wiring",
+        "Draw",
+        "Engineering",
+        "Maintenance"
+      ],
+      "card_location": "Greater Noida",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Electrician and Engineer\nCrescent Techno Solutions\n3.4\n26 Reviews\n1-30 Yrs\n50,000-3 Lacs PA\nGreater Noida\nJob Requirements : . 2-20 years of experience in the field of Electrical or related dis...\nElectrical MaintenanceElectrical WiringElectrical DrawingPLC secWiringDrawEngineeringMaintenance\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Custom Software Engineering Lead",
+      "url": "https://www.naukri.com/job-listings-custom-software-engineering-lead-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-141026932121",
+      "portal_job_id": "141026932121",
+      "employer": "Accenture",
+      "card_skills": [
+        "agile",
+        "software development",
+        "software design",
+        "software asset management",
+        "code quality",
+        "sam pro",
+        "software architecture",
+        "servicenow"
+      ],
+      "card_location": "Bengaluru",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Custom Software Engineering Lead\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nBengaluru\nEducational Qualification : 15 years full time education. Summary: As a Custom Software...\nagilesoftware developmentsoftware designsoftware asset managementcode qualitysam prosoftware architectureservicenow\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Web Developer",
+      "url": "https://www.naukri.com/job-listings-web-developer-accenture-solutions-pvt-ltd-chennai-3-to-8-years-141026932006",
+      "portal_job_id": "141026932006",
+      "employer": "Accenture",
+      "card_skills": [
+        "automation",
+        "continuous integration",
+        "version control",
+        "web applications",
+        "research",
+        "cloud",
+        "containerization",
+        "automation tools"
+      ],
+      "card_location": "Chennai",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Web Developer\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nChennai\nProject Role :Web DeveloperProject Role Description :Design, build and test web-based a...\nautomationcontinuous integrationversion controlweb applicationsresearchcloudcontainerizationautomation tools\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Custom Software Engineer",
+      "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-141026931968",
+      "portal_job_id": "141026931968",
+      "employer": "Accenture",
+      "card_skills": [
+        "agile",
+        "cloud security",
+        "cloud solutions",
+        "performance testing",
+        "cloud platform",
+        "cloud",
+        "automation",
+        "automation tools"
+      ],
+      "card_location": "Bengaluru",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Custom Software Engineer\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nBengaluru\nEducational Qualification : 15 years full time education. Summary: As a Cloud Platform ...\nagilecloud securitycloud solutionsperformance testingcloud platformcloudautomationautomation tools\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Custom Software Engineer",
+      "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-141026931919",
+      "portal_job_id": "141026931919",
+      "employer": "Accenture",
+      "card_skills": [
+        "agile",
+        "debug",
+        "software development",
+        "business requirements",
+        "software systems",
+        "buyer",
+        "apis",
+        "procurement"
+      ],
+      "card_location": "Hyderabad",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Custom Software Engineer\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nHyderabad\nEducational Qualification : 15 years full time education. Summary: As a Custom Software...\nagiledebugsoftware developmentbusiness requirementssoftware systemsbuyerapisprocurement\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Custom Software Engineer",
+      "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-141026931786",
+      "portal_job_id": "141026931786",
+      "employer": "Accenture",
+      "card_skills": [
+        "agile",
+        "automation",
+        "software development",
+        "business requirements",
+        "agile methodologies",
+        "enterprise applications",
+        "software solutions",
+        "software engineer"
+      ],
+      "card_location": "Hyderabad",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Custom Software Engineer\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nHyderabad\nEducational Qualification : 15 years full time education. Summary: As a Custom Software...\nagileautomationsoftware developmentbusiness requirementsagile methodologiesenterprise applicationssoftware solutionssoftware engineer\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Web Developer",
+      "url": "https://www.naukri.com/job-listings-web-developer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-141026931785",
+      "portal_job_id": "141026931785",
+      "employer": "Accenture",
+      "card_skills": [
+        "application deployment",
+        "web security",
+        "css",
+        "workday",
+        "user experience",
+        "web applications",
+        "javascript",
+        "research"
+      ],
+      "card_location": "Hyderabad",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Web Developer\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nHyderabad\nEducational Qualification : 15 years full time education. Summary: As a Web Developer, ...\napplication deploymentweb securitycssworkdayuser experienceweb applicationsjavascriptresearch\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Application Support Engineer",
+      "url": "https://www.naukri.com/job-listings-application-support-engineer-accenture-solutions-pvt-ltd-navi-mumbai-3-to-8-years-141026931757",
+      "portal_job_id": "141026931757",
+      "employer": "Accenture",
+      "card_skills": [
+        "apis",
+        "continuous integration",
+        "oracle",
+        "business systems",
+        "classification",
+        "application monitoring",
+        "incentive compensation",
+        "oracle cloud"
+      ],
+      "card_location": "Navi Mumbai",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Application Support Engineer\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nNavi Mumbai\nProject Role :Application Support EngineerProject Role Description :Act as software det...\napiscontinuous integrationoraclebusiness systemsclassificationapplication monitoringincentive compensationoracle cloud\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Custom Software Engineer",
+      "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-141026931758",
+      "portal_job_id": "141026931758",
+      "employer": "Accenture",
+      "card_skills": [
+        "agile",
+        "software development",
+        "business requirements",
+        "asset management",
+        "enterprise systems",
+        "scripting",
+        "automation",
+        "servicenow"
+      ],
+      "card_location": "Bengaluru",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Custom Software Engineer\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nBengaluru\nEducational Qualification : 15 years full time education. Summary: As a Custom Software...\nagilesoftware developmentbusiness requirementsasset managemententerprise systemsscriptingautomationservicenow\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Custom Software Engineer",
+      "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-141026931726",
+      "portal_job_id": "141026931726",
+      "employer": "Accenture",
+      "card_skills": [
+        "agile",
+        "database management",
+        "oracle",
+        "software development",
+        "business requirements",
+        "software design",
+        "agile methodologies",
+        "software solutions"
+      ],
+      "card_location": "Bengaluru",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Custom Software Engineer\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nBengaluru\nEducational Qualification : 15 years full time education. Summary: As a Custom Software...\nagiledatabase managementoraclesoftware developmentbusiness requirementssoftware designagile methodologiessoftware solutions\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Web Developer",
+      "url": "https://www.naukri.com/job-listings-web-developer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-141026931731",
+      "portal_job_id": "141026931731",
+      "employer": "Accenture",
+      "card_skills": [
+        "automation",
+        "continuous integration",
+        "orchestration",
+        "workday",
+        "web applications",
+        "research",
+        "containerization",
+        "automation tools"
+      ],
+      "card_location": "Bengaluru",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Web Developer\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nBengaluru\nProject Role :Web DeveloperProject Role Description :Design, build and test web-based a...\nautomationcontinuous integrationorchestrationworkdayweb applicationsresearchcontainerizationautomation tools\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Custom Software Engineer",
+      "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-141026931706",
+      "portal_job_id": "141026931706",
+      "employer": "Accenture",
+      "card_skills": [
+        "agile",
+        "mapping",
+        "sap",
+        "business requirements",
+        "inbound",
+        "sap modules",
+        "sap implementation",
+        "badi"
+      ],
+      "card_location": "Bengaluru",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Custom Software Engineer\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nBengaluru\nEducational Qualification : 15 years full time education. Summary: As a Custom Software...\nagilemappingsapbusiness requirementsinboundsap modulessap implementationbadi\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Custom Software Engineer",
+      "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-pune-3-to-8-years-141026931703",
+      "portal_job_id": "141026931703",
+      "employer": "Accenture",
+      "card_skills": [
+        "administration",
+        "kubernetes",
+        "dynatrace",
+        "js",
+        "microsoft azure",
+        "express",
+        "backend development",
+        "cloud technologies"
+      ],
+      "card_location": "Pune",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Custom Software Engineer\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nPune\nEducational Qualification : 15 years full time education. We are seeking a skilled Node...\nadministrationkubernetesdynatracejsmicrosoft azureexpressbackend developmentcloud technologies\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": null
+    },
+    {
+      "title": "Custom Software Engineer",
+      "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-pune-3-to-8-years-141026931659",
+      "portal_job_id": "141026931659",
+      "employer": "Accenture",
+      "card_skills": [
+        "adobe analytics",
+        "adobe experience manager",
+        "kubernetes",
+        "css",
+        "html5",
+        "cms",
+        "js",
+        "express"
+      ],
+      "card_location": "Pune",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Custom Software Engineer\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nPune\nProject Role :Custom Software EngineerProject Role Description :Develop custom software...\nadobe analyticsadobe experience managerkubernetescsshtml5cmsjsexpress\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Custom Software Engineer",
+      "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-141026931633",
+      "portal_job_id": "141026931633",
+      "employer": "Accenture",
+      "card_skills": [
+        "agile",
+        "continuous integration",
+        "software products",
+        "css",
+        "database integration",
+        "restful",
+        "software development",
+        "business requirements"
+      ],
+      "card_location": "Bengaluru",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Custom Software Engineer\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nBengaluru\nEducational Qualification : 15 years full time education. Summary: As a Custom Software...\nagilecontinuous integrationsoftware productscssdatabase integrationrestfulsoftware developmentbusiness requirements\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Custom Software Engineer",
+      "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-chennai-3-to-8-years-141026931627",
+      "portal_job_id": "141026931627",
+      "employer": "Accenture",
+      "card_skills": [
+        "administration",
+        "dba",
+        "oracle",
+        "restful",
+        "software development",
+        "business requirements",
+        "application architecture",
+        "refining"
+      ],
+      "card_location": "Chennai",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Custom Software Engineer\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nChennai\nEducational Qualification : 15 years full time education. Summary: As a Custom Software...\nadministrationdbaoraclerestfulsoftware developmentbusiness requirementsapplication architecturerefining\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Custom Software Engineer",
+      "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-3-to-8-years-141026931574",
+      "portal_job_id": "141026931574",
+      "employer": "Accenture",
+      "card_skills": [
+        "agile",
+        "etl processes",
+        "oracle",
+        "software development",
+        "business requirements",
+        "data pipelines",
+        "informatica powercenter",
+        "glue"
+      ],
+      "card_location": "Gurugram",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Custom Software Engineer\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nGurugram\nProject Role :Custom Software EngineerProject Role Description :Develop custom software...\nagileetl processesoraclesoftware developmentbusiness requirementsdata pipelinesinformatica powercenterglue\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Custom Software Engineer",
+      "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-pune-3-to-8-years-141026931562",
+      "portal_job_id": "141026931562",
+      "employer": "Accenture",
+      "card_skills": [
+        "agile",
+        "software products",
+        "software development",
+        "business requirements",
+        "programming frameworks",
+        "software design",
+        "version control",
+        "agile methodologies"
+      ],
+      "card_location": "Pune",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Custom Software Engineer\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nPune\nEducational Qualification : 15 years full time education. Summary: As a Custom Software...\nagilesoftware productssoftware developmentbusiness requirementsprogramming frameworkssoftware designversion controlagile methodologies\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Custom Software Engineer",
+      "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-mumbai-3-to-8-years-141026931557",
+      "portal_job_id": "141026931557",
+      "employer": "Accenture",
+      "card_skills": [
+        "agile",
+        "software frameworks",
+        "sap",
+        "business requirements",
+        "version control",
+        "agile development",
+        "agile methodologies",
+        "software solutions"
+      ],
+      "card_location": "Mumbai",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Custom Software Engineer\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nMumbai\nEducational Qualification : 15 years full time education. Summary: As a Custom Software...\nagilesoftware frameworkssapbusiness requirementsversion controlagile developmentagile methodologiessoftware solutions\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Quality Engineer",
+      "url": "https://www.naukri.com/job-listings-quality-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-141026931539",
+      "portal_job_id": "141026931539",
+      "employer": "Accenture",
+      "card_skills": [
+        "application development",
+        "continuous integration",
+        "regression testing",
+        "automated testing",
+        "automated test scripts",
+        "quality engineer",
+        "automation",
+        "playwright"
+      ],
+      "card_location": "Bengaluru",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Quality Engineer\nAccenture\n3.7\n80220 Reviews\n3-8 Yrs\nBengaluru\nEducational Qualification : 15 years full time education. Summary: As a Quality Enginee...\napplication developmentcontinuous integrationregression testingautomated testingautomated test scriptsquality engineerautomationplaywright\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[     268ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     268ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     268ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     268ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     268ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    1075ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.naukri.com/akam/13/4d197fc:0
+[    2803ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://static.naukimg.com/s/0/0/j/nLoggerJB_v3.4.min.js:0
+[    3801ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    3802ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    3802ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    3836ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    3870ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    3907ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    4010ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    4051ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    4072ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    4433ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    4435ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    4505ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    4546ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    4577ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    4882ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/collectorapi/v1/uba/bulk:0

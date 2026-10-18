@@ -1,0 +1,55 @@
+{
+  "row": 15,
+  "reason": "listing ingested",
+  "changes": {
+    "Company": {
+      "before": null,
+      "after": "Celonis"
+    },
+    "Role": {
+      "before": null,
+      "after": "Associate Software Engineer - Java"
+    },
+    "Job ID": {
+      "before": null,
+      "after": "7791267003"
+    },
+    "Direct link": {
+      "before": null,
+      "after": "https://job-boards.greenhouse.io/celonis/jobs/7791267003"
+    },
+    "Source": {
+      "before": null,
+      "after": "Original Celonis Greenhouse page, live browser check"
+    },
+    "Location": {
+      "before": null,
+      "after": "Bangalore, India"
+    },
+    "Verified date": {
+      "before": null,
+      "after": "2026-09-27T23:08:45Z"
+    },
+    "Fit": {
+      "before": null,
+      "after": "Medium"
+    },
+    "Fit rationale": {
+      "before": null,
+      "after": "Substantial Java backend work and matching experience/location. Hibernate is documented only in an in-progress Store REST API project, while the JD seeks framework expertise. Treat as a material essential depth gap; no autonomous application. Required evidence coverage: 83%."
+    },
+    "Key gaps": {
+      "before": null,
+      "after": "Hibernate framework expertise"
+    },
+    "Status": {
+      "before": null,
+      "after": "Shortlisted"
+    },
+    "Next step": {
+      "before": null,
+      "after": "Resolve gaps / verify original before preparation"
+    }
+  },
+  "backup": ".workflow/backups/20260927T231122-d1587fed.xlsx"
+}

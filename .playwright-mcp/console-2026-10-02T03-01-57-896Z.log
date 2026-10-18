@@ -1,0 +1,14 @@
+[     361ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     361ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     361ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     361ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     361ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[     749ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.naukri.com/akam/13/3ace3534:0
+[    1225ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://static.naukimg.com/s/0/0/j/nLoggerJB_v3.4.min.js:0
+[    1507ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1508ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1534ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1870ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    2043ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/collectorapi/v1/uba/bulk:0
+[    2206ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    2331ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0

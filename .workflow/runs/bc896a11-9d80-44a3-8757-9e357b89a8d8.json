@@ -1,0 +1,545 @@
+{
+  "run_id": "bc896a11-9d80-44a3-8757-9e357b89a8d8",
+  "started_at": "2026-09-29T16:22:07.238806+00:00",
+  "mode": "read_only",
+  "upload_enabled": false,
+  "submission_enabled": false,
+  "scheduled": true,
+  "test": true,
+  "source_scope": [
+    "naukri"
+  ],
+  "fresh_only": false,
+  "status": "Partial",
+  "sources": {
+    "naukri": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-29T16:22:18.586623+00:00",
+      "pages_checked": 1,
+      "leads": 20,
+      "feed_jobs": 0
+    }
+  },
+  "coverage": {
+    "naukri": [
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Hyderabad",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=Hyderabad&pageNo=1",
+        "checked_at": "2026-09-29T16:22:18.458717+00:00",
+        "status": "Success",
+        "error_kind": null,
+        "visible_cards": 20,
+        "body_characters": 9519,
+        "render_checks": 2,
+        "lead_count": 20,
+        "card_ids": [
+          "290826005826",
+          "190826038436",
+          "190826038373",
+          "200926009243",
+          "220926004260",
+          "240926036889",
+          "290926039862",
+          "100926020103",
+          "010926037486",
+          "250926911117",
+          "280926928439",
+          "090925500088",
+          "110826000033",
+          "220926002554",
+          "290724502201",
+          "030125501970",
+          "010525501093",
+          "120926010483",
+          "090626503769",
+          "040926020888"
+        ],
+        "unresolved_cards": [],
+        "observed_url": "https://www.naukri.com/java-spring-boot-backend-jobs-in-hyderabad-secunderabad",
+        "sort": "Configured newest route where available"
+      }
+    ]
+  },
+  "leads": 20,
+  "unique_original_requisitions_verified": 0,
+  "fit_decisions": {
+    "239": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Required experience starts at 6 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "Hyderabad - India",
+        "experience": "ng for a Software Engineer II with 6+ years of relevant hands-on experience in Java backend development to design, build, and support scalable enterprise",
+        "technology": "requires practical experience with Java, Spring Boot, cloud platforms, databases, integrations, CI/CD, Agile delivery, and AI-assisted enginee",
+        "role": "Job Summary: We are looking for a Software Engineer II with 6+ years of relevant hands-on experience in Java backend development to design, build, and"
+      },
+      "jd_sha256": "cf50c26fbb0beb471d355acd2256ca93bb17d8b600593c6e9466a4e67d6eb092"
+    }
+  },
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/bc896a11-9d80-44a3-8757-9e357b89a8d8.json"
+  ],
+  "queue": {},
+  "stage_seconds": {
+    "discovery": 11.34,
+    "original_verification": 0.0,
+    "lead_resolution": 36.8,
+    "fit_review": 0.4
+  },
+  "stage_counts": {
+    "normalized_unique_ats": 0,
+    "selected_for_original_check": 0,
+    "fetched": 20,
+    "unique_portal_leads": 20,
+    "fresh": 0,
+    "unknown_date": 5,
+    "skipped_old": 0,
+    "repeat_skipped": 15,
+    "unique_original_requisitions": 0,
+    "eligible_for_review": 0,
+    "original_jds_reviewed": 1,
+    "original_or_portal_jds_reviewed": 1,
+    "portal_native_verified": 0,
+    "high": 0,
+    "queued_for_resume": 0,
+    "review_queue_added": 2,
+    "portal_originals_matched": 0,
+    "portal_leads_still_needing_original": 544
+  },
+  "top_reviewed": [
+    {
+      "job_id": 239,
+      "company": "Dun & Bradstreet",
+      "role": "Java Developer (R-19995)",
+      "location": "Hyderabad - India",
+      "direct_url": "https://jobs.lever.co/dnb/4c17dbed-8119-4bae-ad72-df27dbd23bec",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "cf50c26fbb0beb471d355acd2256ca93bb17d8b600593c6e9466a4e67d6eb092",
+      "original_page_checked_at": "2026-09-29T16:11:26.602018+00:00",
+      "reviewed_at": "2026-09-29T16:22:56.101565+00:00",
+      "experience_minimum": 6.0,
+      "evidence": {
+        "location": "Hyderabad - India",
+        "experience": "ng for a Software Engineer II with 6+ years of relevant hands-on experience in Java backend development to design, build, and support scalable enterprise",
+        "technology": "requires practical experience with Java, Spring Boot, cloud platforms, databases, integrations, CI/CD, Agile delivery, and AI-assisted enginee",
+        "role": "Job Summary: We are looking for a Software Engineer II with 6+ years of relevant hands-on experience in Java backend development to design, build, and"
+      },
+      "reasons": [
+        "Required experience starts at 6 years, above the 2.5-year High-fit gate"
+      ]
+    }
+  ],
+  "freshness": {
+    "policy": {
+      "routine_review_hours": 24,
+      "sweep_overlap_minutes": 90,
+      "unknown_date_details_per_run": 30,
+      "transient_retry_hours": 6,
+      "pending_application_recheck_hours": 6
+    },
+    "counts": {
+      "fresh": 0,
+      "recent": 0,
+      "unknown_date": 5,
+      "skipped_old": 0,
+      "repeat_skipped": 15,
+      "history_skipped": 0,
+      "unknown_date_deferred": 0
+    },
+    "detail_candidates": 5,
+    "skips": [
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-microservices-infosys-hyderabad-pune-bengaluru-2-to-7-years-290826005826",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-microservices-infosys-hyderabad-pune-bengaluru-5-to-8-years-190826038436",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-microservices-infosys-hyderabad-pune-bengaluru-5-to-8-years-190826038373",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-backend-engineer-java-spring-boot-h-advance-career-solutions-noida-kolkata-hyderabad-8-to-11-years-200926009243",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-data-engineer-gcp-bigquery-spring-boot-sdna-global-hyderabad-chennai-bengaluru-6-to-11-years-010926037486",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-enterprise-applications-consult-asia-hyderabad-6-to-11-years-250926911117",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-back-end-developer-springboot-microservices-infosys-hyderabad-chennai-bengaluru-3-to-6-years-110826000033",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-sr-backend-developer-java-spring-boot-photon-infotech-p-ltd-hyderabad-4-to-8-years-090626503769",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-tcs-is-hiring-for-java-backend-spring-boot-microservices-tata-consultancy-services-hyderabad-pune-bengaluru-5-to-10-years-290926039862",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-spring-boot-developer-pi-square-technologies-hyderabad-bengaluru-4-to-9-years-220926004260",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-springboot-aws-developer-infosys-limited-hyderabad-8-to-10-years-280926928439",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-coforge-noida-hyderabad-pune-8-to-12-years-100926020103",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-spring-boot-with-gcp-tata-consultancy-services-hyderabad-chennai-bengaluru-6-to-9-years-240926036889",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-backend-engineer-backbase-hyderabad-6-to-11-years-220926002554",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-developer-3-to-7-years-integel-institute-of-technology-tamil-nadu-hyderabad-chennai-bengaluru-3-to-6-years-120926010483",
+        "reason": "unchanged_already_reviewed"
+      }
+    ]
+  },
+  "portal_native": {
+    "selected": 0,
+    "verified": 0,
+    "unverified": 0,
+    "verified_job_ids": [],
+    "results": []
+  },
+  "lead_resolution": {
+    "navigation_links_reclassified": 85,
+    "missing_ats_jd_refresh": {
+      "candidates_found": 1,
+      "checked": 1,
+      "verified_substantive": 0,
+      "failed_or_unresolved": 1,
+      "results": [
+        {
+          "job_id": 189,
+          "company": "Brillio",
+          "role": "Senior Software Development Engineer - R01568499",
+          "direct_url": "https://jobs.lever.co/brillio-2/58d975db-1d26-4ecb-92de-66bbc3666320",
+          "requisition_id": "58d975db-1d26-4ecb-92de-66bbc3666320",
+          "provider": "lever",
+          "verified": false,
+          "status": "LiveTitleOnly",
+          "checked_at": "2026-09-29T16:22:18.985513+00:00",
+          "url": "https://jobs.lever.co/brillio-2/58d975db-1d26-4ecb-92de-66bbc3666320",
+          "title": "Senior Software Development Engineer - R01568499",
+          "error_kind": "live_page_has_no_substantive_duties_and_qualifications",
+          "visible_chars": 207,
+          "updated_from_original": false,
+          "failure_reason": "live_page_has_no_substantive_duties_and_qualifications"
+        }
+      ]
+    },
+    "direct_provider_coverage": {},
+    "direct_employer_coverage": {},
+    "portal_employer_coverage": {
+      "portal company unavailable": 4,
+      "Cutshort": 3,
+      "CBTS": 3
+    },
+    "target_title_failures_in_batch": 8,
+    "portal_jobs_inspected": 10,
+    "originals_matched": 0,
+    "substantive_originals_verified": 0,
+    "live_title_only": 0,
+    "direct_check_failures": 10,
+    "needs_original": 544,
+    "title_relevant_unresolved": 352,
+    "by_source": {
+      "naukri": {
+        "needs_original": 333,
+        "not_a_job": 3
+      },
+      "linkedin": {
+        "needs_original": 183,
+        "not_a_job": 3
+      },
+      "foundit": {
+        "needs_original": 0,
+        "not_a_job": 17
+      },
+      "indeed": {
+        "needs_original": 0,
+        "not_a_job": 32
+      },
+      "cutshort": {
+        "needs_original": 28,
+        "not_a_job": 30
+      }
+    },
+    "results": [
+      {
+        "source": "naukri",
+        "portal_url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-enterprise-applications-consult-asia-delhi-ncr-6-to-11-years-250926911107",
+        "portal_title": "Java Backend Developer : Spring Boot (Enterprise Applications)",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": null,
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      },
+      {
+        "source": "cutshort",
+        "portal_url": "https://cutshort.io/job/Senior-Java-Full-Stack-Developer-6-years-Raah-Techservices-oaOOb9J3",
+        "portal_title": "Senior Java Full Stack Developer 6+ years",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "Cutshort",
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4469697436/",
+        "portal_title": "Java Backend Modernization Engineer(onsite, only W2)\nJava Backend Modernization Engineer(onsite, only W2) with verificat",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "CBTS",
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      },
+      {
+        "source": "naukri",
+        "portal_url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-enterprise-applications-consult-asia-new-delhi-6-to-11-years-250926911105",
+        "portal_title": "Java Backend Developer : Spring Boot (Enterprise Applications)",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": null,
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      },
+      {
+        "source": "naukri",
+        "portal_url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-enterprise-applications-consult-asia-gurugram-6-to-11-years-250926911112",
+        "portal_title": "Java Backend Developer : Spring Boot (Enterprise Applications)",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": null,
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4466516292/",
+        "portal_title": "Java Backend Engineer (W2 Contract only/ No 3rd Parties)\nJava Backend Engineer (W2 Contract only/ No 3rd Parties) with v",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "CBTS",
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      },
+      {
+        "source": "cutshort",
+        "portal_url": "https://cutshort.io/job/Senior-Full-Stack-Developer-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-p7PgIKOo",
+        "portal_title": "Senior Full Stack Developer",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "Cutshort",
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      },
+      {
+        "source": "naukri",
+        "portal_url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-enterprise-applications-consult-asia-greater-noida-6-to-11-years-250926911111",
+        "portal_title": "Java Backend Developer : Spring Boot (Enterprise Applications)",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": null,
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      },
+      {
+        "source": "cutshort",
+        "portal_url": "https://cutshort.io/job/Full-Stack-Developer-Bengaluru-Bangalore-Gemba-Concepts-cqW2LlXy",
+        "portal_title": "Full Stack Developer",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "Cutshort",
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4470735836/",
+        "portal_title": "Senior (Lead) backend Java/J2EE/AWS developer\nSenior (Lead) backend Java/J2EE/AWS developer with verification",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "CBTS",
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      }
+    ]
+  },
+  "linked_portal_native": null,
+  "review_coverage": {
+    "by_source": {
+      "dnb_lever": 1
+    },
+    "by_company": {
+      "Dun & Bradstreet": 1
+    }
+  },
+  "staging": {
+    "path": ".workflow/staging.json",
+    "resume_review_ready": 0,
+    "needs_jd_evidence_review": 1
+  },
+  "blocker_alerts": [],
+  "naukri_application_worker": {
+    "enabled": true,
+    "max_submissions_per_run": 1,
+    "other_portals": "discovery_only",
+    "status": "DryRun",
+    "candidate_count": 0,
+    "checks": [],
+    "submissions": 0,
+    "forms_opened": 0,
+    "uploads": 0
+  },
+  "tab_lifecycle": {
+    "created": 21,
+    "closed": 21,
+    "remaining_automation_tabs": 0,
+    "job_tabs_created": 11,
+    "job_tabs_closed": 11,
+    "welcome_tabs_created": 10,
+    "welcome_tabs_closed": 10,
+    "remaining_job_tabs": 0,
+    "remaining_welcome_tabs": 0,
+    "reused": 0,
+    "uncertain_ids": [],
+    "recorded_ids": [
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      }
+    ],
+    "log_paths": [
+      ".workflow/runs/bc896a11-9d80-44a3-8757-9e357b89a8d8-tabs.jsonl",
+      ".workflow/runs/bc896a11-9d80-44a3-8757-9e357b89a8d8-tabs-helper.jsonl"
+    ]
+  },
+  "finished_at": "2026-09-29T16:22:56.110617+00:00",
+  "elapsed_seconds": 48.87
+}

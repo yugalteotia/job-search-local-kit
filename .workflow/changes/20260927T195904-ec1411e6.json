@@ -1,0 +1,19 @@
+{
+  "row": 10,
+  "reason": "application stopped by user",
+  "changes": {
+    "Status": {
+      "before": "Blocked",
+      "after": "Stopped"
+    },
+    "Resume version": {
+      "before": "jobs/optum-2388999-java-fullstack/Tailored_Resume.pdf",
+      "after": "Previous PDF rejected; corrected v2 is for local review only"
+    },
+    "Next step": {
+      "before": "Company ATS login handoff",
+      "after": "Do not resume Optum application without explicit user authorization. Profile reconciliation and PDF repair only."
+    }
+  },
+  "backup": ".workflow/backups/20260927T195904-ec1411e6.xlsx"
+}

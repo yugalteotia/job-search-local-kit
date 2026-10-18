@@ -1,0 +1,29 @@
+{
+  "job_id": 241,
+  "portal_job_id": "280926023134",
+  "form_url": "https://www.naukri.com/job-listings-java-developer-senior-java-developer-agiliad-pune-2-to-6-years-280926023134",
+  "provider": "naukri_native_chat",
+  "signed_in": true,
+  "account_name_matches": true,
+  "exact_listing_id": "280926023134",
+  "profile_resume_filename": "Yugal_Teotia_Java_Backend_Developer.pdf",
+  "profile_resume_sha256": "782a2ce8c41bd2f2e1860a9b673d9ab82aebc35340b1dcbd5168266aa494ad82",
+  "profile_verified_at": "2026-09-29T10:09:20.571063+00:00",
+  "listing_checked_at": "2026-09-29T10:09:22.007087+00:00",
+  "history_checked_at": "2026-09-29T10:09:13.041077+00:00",
+  "screening_question": "How many years of experience do you have in Backend?",
+  "screening_answer_confirmed": true,
+  "answer_policy": "completed_months_from_confirmed_IDeaS_start",
+  "potential_submit_action": "screening_chat_save",
+  "per_application_picker_visible": false,
+  "checks": {
+    "listing_live": true,
+    "not_previously_applied": true,
+    "jd_reviewed": true,
+    "resume_visually_reviewed": true,
+    "exact_resume_selected": true,
+    "answers_confirmed": true,
+    "final_submit_identified": true
+  },
+  "recorded_at": "2026-09-29T10:09:24.237017+00:00"
+}

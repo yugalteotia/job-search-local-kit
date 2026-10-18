@@ -1,0 +1,14 @@
+[     373ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     374ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     374ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     374ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     374ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    1430ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://static.naukimg.com/s/0/0/j/nLoggerJB_v3.4.min.js:0
+[    2353ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://static.naukimg.com/s/9/121/_next/static/assets/icons/ni-icons.1aedc3f566bc4faabdd27d5e2f85532d2d7d4a66.woff2 @ https://static.naukimg.com/s/9/121/_next/static/chunks/app/jd/page-747e1799469ad7ca.js:0
+[    2460ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    2460ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    2460ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    2460ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    2487ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    2505ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    2887ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/collectorapi/v1/uba/bulk:0

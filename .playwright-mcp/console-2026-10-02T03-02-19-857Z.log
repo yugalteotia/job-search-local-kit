@@ -1,0 +1,29 @@
+[     265ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     265ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     265ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     266ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     266ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    1070ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://static.naukimg.com/s/0/0/j/nLoggerJB_v3.4.min.js:0
+[    1376ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1377ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1377ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1469ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    1510ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    1516ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    1538ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    1561ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1563ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    1569ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    1574ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    1579ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    1584ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    1590ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    1596ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    1608ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    1615ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    1622ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    1630ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    1636ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    1664ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/collectorapi/v1/uba/bulk:0
+[    2050ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    2065ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0

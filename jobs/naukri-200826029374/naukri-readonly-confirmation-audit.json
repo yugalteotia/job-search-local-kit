@@ -1,0 +1,91 @@
+{
+  "account": {
+    "signed_in": true,
+    "confirmed_identity_matches": true
+  },
+  "generic_resume_before": {
+    "filename": "Yugal_Teotia_CV.pdf",
+    "expected_filename": "Yugal_Teotia_CV.pdf",
+    "local_expected_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255"
+  },
+  "generic_resume_after": {
+    "filename": "Yugal_Teotia_CV.pdf",
+    "expected_filename": "Yugal_Teotia_CV.pdf"
+  },
+  "url": "https://www.naukri.com/job-listings-java-springboot-developer-infosys-pune-chennai-bengaluru-2-to-3-years-200826029374",
+  "listing": {
+    "exact_path": true,
+    "apply_count": 0,
+    "applied": true,
+    "applied_control_count": 1,
+    "applied_control_labels": [
+      "Applied"
+    ],
+    "pending": false,
+    "site_restriction": false
+  },
+  "control_audit": {
+    "primary": [],
+    "applied_elements": [
+      {
+        "tag": "SPAN",
+        "id": "already-applied",
+        "classes": "styles_already-applied__4KDhw already-applied",
+        "ancestors": [
+          {
+            "tag": "DIV",
+            "id": "",
+            "classes": "styles_jhc__apply-button-container__5Bqnb"
+          },
+          {
+            "tag": "DIV",
+            "id": "",
+            "classes": "styles_jhc__bottom__DrTmB"
+          }
+        ]
+      }
+    ]
+  },
+  "history": {
+    "full": true,
+    "exact": 1,
+    "server_exact_rows": [
+      {
+        "job_id": "200826029374",
+        "title": "Java + Springboot Developer",
+        "company": "Infosys",
+        "status": [
+          {
+            "statusId": 1,
+            "statusValue": "Applied",
+            "dateTime": "2026-10-14 10:24:08"
+          },
+          {
+            "statusId": 2,
+            "statusValue": "Application Sent",
+            "dateTime": "2026-10-14 10:24:09"
+          }
+        ]
+      },
+      {
+        "job_id": "200826029374",
+        "title": "Java + Springboot Developer",
+        "company": "Infosys",
+        "status": [
+          {
+            "statusId": 1,
+            "statusValue": "Applied",
+            "dateTime": "2026-10-14 10:24:08"
+          },
+          {
+            "statusId": 2,
+            "statusValue": "Application Sent",
+            "dateTime": "2026-10-14 10:24:09"
+          }
+        ]
+      }
+    ],
+    "identity_basis": "server_history_exact_job_id"
+  },
+  "at": "2026-10-14T05:16:27.633195+00:00"
+}

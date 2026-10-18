@@ -1,0 +1,332 @@
+- generic [ref=e1]:
+  - dialog "Important System Message" [ref=e3]:
+    - generic [ref=e4]: We use cookies and other tracking technologies to support navigation, to improve our products and services, to support our marketing activities and to provide content from third parties. To manage your preferences, select "Manage Settings" or choose "Accept" to consent to the use of Cookies.
+    - generic [ref=e5]:
+      - button "Accept" [ref=e6] [cursor=pointer]
+      - button "Manage Settings" [ref=e7] [cursor=pointer]
+  - generic [ref=e8]:
+    - link "Skip to main content" [ref=e9] [cursor=pointer]:
+      - /url: "#content"
+    - banner [ref=e11]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - link [ref=e18] [cursor=pointer]:
+            - /url: https://www.unitedhealthgroup.com/
+            - img "UHG Logo" [ref=e19]
+          - link [ref=e21] [cursor=pointer]:
+            - /url: https://www.optum.com/en/
+            - img "Optum Logo" [ref=e22]
+          - link [ref=e24] [cursor=pointer]:
+            - /url: https://www.uhc.com/
+            - img "United Healthcare Logo" [ref=e25]
+        - generic [ref=e26]:
+          - list [ref=e28]:
+            - listitem [ref=e29]:
+              - link "Blogs" [ref=e30] [cursor=pointer]:
+                - /url: https://www.unitedhealthgroup.com/careers/en/job-seeker-resources/blog.html
+            - listitem [ref=e31]:
+              - link "Job seeker resources" [ref=e32] [cursor=pointer]:
+                - /url: https://www.unitedhealthgroup.com/careers/ph/job-seeker-resources.html
+            - listitem [ref=e33]:
+              - link "Login" [ref=e34] [cursor=pointer]:
+                - /url: https://uhg.taleo.net/careersection/10000/mysubmissions.ftl?lang=en
+            - listitem [ref=e35]:
+              - link "Bookmarked jobs ( 0 )" [ref=e37] [cursor=pointer]:
+                - /url: /saved-jobs
+          - list [ref=e39]:
+            - listitem [ref=e40] [cursor=pointer]:
+              - link "Career areas" [ref=e41]:
+                - /url: javascript:void(0)
+            - listitem [ref=e45] [cursor=pointer]:
+              - link "Life here" [ref=e46]:
+                - /url: javascript:void(0)
+            - listitem [ref=e50] [cursor=pointer]:
+              - link "Join our talent community" [ref=e51]:
+                - /url: https://www.unitedhealthgroup.com/careers/en/job-seeker-resources/join-our-talent-community.html
+    - main [ref=e52]:
+      - search [ref=e54]:
+        - group "Search Jobs" [ref=e55]:
+          - paragraph [ref=e56]:
+            - generic [ref=e57]: Keyword or job number
+            - searchbox "Search jobs by title, category or skills" [ref=e58]
+          - generic [ref=e59]:
+            - generic [ref=e60]: Location
+            - generic [ref=e61]:
+              - combobox "Country,state or city" [ref=e62]
+              - button "Use Location" [ref=e63] [cursor=pointer]
+          - button "Go" [ref=e64] [cursor=pointer]
+          - link "Explore remote jobs" [ref=e65] [cursor=pointer]:
+            - /url: /remote
+      - paragraph [ref=e68]: Pursue your passion and potential
+      - generic [ref=e72]:
+        - generic [ref=e74]:
+          - generic [ref=e75]:
+            - heading "Software Engineer - Java Fullstack" [level=1] [ref=e76]
+            - paragraph [ref=e77]: Noida, India
+          - generic [ref=e78]:
+            - generic [ref=e79]:
+              - link "Apply" [ref=e80] [cursor=pointer]:
+                - /url: https://uhg.taleo.net/careersection/10780/jobapply.ftl?job=2388999
+              - link "Internal apply" [ref=e81] [cursor=pointer]:
+                - /url: https://uhg.taleo.net/careersection/10020/jobapply.ftl?job=2388999
+            - button "Save Job" [ref=e82] [cursor=pointer]: Bookmark job
+        - navigation [ref=e85]:
+          - text: 
+          - list [ref=e87]:
+            - listitem [ref=e88]:
+              - link "Our values" [ref=e89] [cursor=pointer]:
+                - /url: "#anchor-our-values"
+            - listitem [ref=e90]:
+              - link "Job description" [ref=e91] [cursor=pointer]:
+                - /url: "#anchor-responsibilities"
+            - listitem [ref=e92]:
+              - link "Benefits" [ref=e93] [cursor=pointer]:
+                - /url: "#anchor-benefits"
+            - listitem [ref=e94]:
+              - link "Testimonial" [ref=e95] [cursor=pointer]:
+                - /url: "#anchor-testimonial"
+            - listitem [ref=e96]:
+              - link "Awards & recognitions" [ref=e97] [cursor=pointer]:
+                - /url: "#anchor-awards"
+            - listitem [ref=e98]:
+              - link "Related content" [ref=e99] [cursor=pointer]:
+                - /url: "#anchor-related-content"
+      - generic [ref=e100]:
+        - generic [ref=e101]:
+          - heading "Caring. Connecting. Growing together." [level=2] [ref=e102]
+          - paragraph [ref=e103]: With these values to guide us, our people are committed to making a meaningful difference in the lives of those we are honored to serve.
+          - generic [ref=e104]:
+            - generic [ref=e105]: Integrity
+            - generic [ref=e106]: Compassion
+            - generic [ref=e107]: Inclusion
+            - generic [ref=e108]: Relationships
+            - generic [ref=e109]: Innovation
+            - generic [ref=e110]: Performance
+        - generic:
+          - link "Back to nav":
+            - /url: "#nav-anchor-anchor-our-values"
+      - generic [ref=e111]:
+        - generic [ref=e112]:
+          - generic [ref=e113]:
+            - generic [ref=e114]:
+              - heading "Software Engineer - Java Fullstack" [level=2] [ref=e115]
+              - generic [ref=e116]:
+                - generic [ref=e117]: "Requisition number: 2388999"
+                - generic [ref=e118]: "Job category: Technology"
+                - generic [ref=e119]: "Primary location: Noida, India"
+                - generic [ref=e120]: "Date posted: 09/24/2026"
+                - generic [ref=e121]: "Overtime status: Exempt"
+                - generic [ref=e122]: "Travel: No"
+            - generic [ref=e124]:
+              - heading "Share this job" [level=3] [ref=e125]
+              - list [ref=e126]:
+                - listitem [ref=e127]:
+                  - link "Facebook" [ref=e128] [cursor=pointer]:
+                    - /url: https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fcareers.unitedhealthgroup.com%2fjob%2fnoida%2fsoftware-engineer-java-fullstack%2f34088%2f101107210016%3futm_source%3dfacebook.com%26utm_medium%3dsocial_post%26utm_campaign%3dUnitedHealth_Group_social
+                - listitem [ref=e129]:
+                  - link "X" [ref=e130] [cursor=pointer]:
+                    - /url: https://x.com/intent/post?text=Software+Engineer+-+Java+Fullstack&url=https://careers.unitedhealthgroup.com/job/noida/software-engineer-java-fullstack/34088/101107210016?utm_source=twitter.com%26utm_medium=social_post%26utm_campaign=UnitedHealth_Group_social
+                - listitem [ref=e131]:
+                  - link "LinkedIn" [ref=e132] [cursor=pointer]:
+                    - /url: http://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fcareers.unitedhealthgroup.com%2fjob%2fnoida%2fsoftware-engineer-java-fullstack%2f34088%2f101107210016%3futm_source%3dlinkedin.com%26utm_medium%3dsocial_post%26utm_campaign%3dUnitedHealth_Group_social&title=Software+Engineer+-+Java+Fullstack
+                - listitem [ref=e133]:
+                  - link "Email" [ref=e134] [cursor=pointer]:
+                    - /url: mailto:?subject=Software%20Engineer%20-%20Java%20Fullstack&body=https%3a%2f%2fcareers.unitedhealthgroup.com%2fjob%2fnoida%2fsoftware-engineer-java-fullstack%2f34088%2f101107210016%3futm_source%3demail%26utm_medium%3dsocial_post%26utm_campaign%3dUnitedHealth_Group_social
+          - generic [ref=e135]:
+            - generic [ref=e137]:
+              - paragraph [ref=e138]:
+                - generic [ref=e139]:
+                  - text: Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health optimization on a global scale. Join us to start
+                  - strong [ref=e140]: Caring. Connecting. Growing together.
+              - paragraph [ref=e141]:
+                - strong [ref=e143]: Role Summary
+              - paragraph [ref=e144]: The Software Engineer - Grade 26 contributes to the design, development, testing, deployment, monitoring, and maintenance of software solutions that support business and customer outcomes. This role applies coding skills to defined capabilities with limited guidance, builds an understanding of system architecture and upstream/downstream dependencies, and supports quality, reliability, security, and maintainability in every deliverable.
+              - paragraph [ref=e145]:
+                - strong [ref=e147]: "Primary Responsibilities:"
+              - list [ref=e148]:
+                - listitem [ref=e149]: Design, develop, debug, test, deploy, and maintain assigned software capabilities, features, APIs, services, scripts, or application components
+                - listitem [ref=e150]: Write clean, secure, reusable, and maintainable code that aligns with team standards, engineering practices, and quality expectations
+                - listitem [ref=e151]: Apply an automation-first mindset by improving repeatable development, testing, deployment, monitoring, and support tasks
+                - listitem [ref=e152]: Participate in Agile delivery activities including backlog refinement, estimation, sprint planning, demos, reviews, and retrospectives
+                - listitem [ref=e153]: Collaborate with product owners, business partners, quality engineers, architects, and peer engineers to translate requirements into working solutions
+                - listitem [ref=e154]: Develop an understanding of application architecture, cost/complexity tradeoffs, and dependencies across upstream and downstream systems
+                - listitem [ref=e155]: Instrument delivered features using standard logging, monitoring, alerting, and diagnostic practices so issues can be detected and resolved early
+                - listitem [ref=e156]: Support production readiness by contributing to CI/CD pipelines, automated tests, deployment validation, incident analysis, and post-release improvements
+                - listitem [ref=e157]: Troubleshoot defects, performance bottlenecks, data issues, and operational problems; recommend corrective actions with guidance from senior engineers
+                - listitem [ref=e158]: Continuously learn modern engineering practices, cloud, DevOps, security, AI-enabled development methods, and emerging tools relevant to the team's technology stack
+                - listitem [ref=e159]: Comply with the terms and conditions of the employment contract, company policies and procedures, and any and all directives (such as, but not limited to, transfer and/or re-assignment to different work locations, change in teams and/or work shifts, policies in regards to flexibility of work benefits and/or work environment, alternative work arrangements, and other decisions that may arise due to the changing business environment). The Company may adopt, vary or rescind these policies and directives in its absolute discretion and without any limitation (implied or otherwise) on its ability to do so
+              - paragraph [ref=e160]:
+                - strong [ref=e162]: "Required Qualifications:"
+              - list [ref=e163]:
+                - listitem [ref=e164]: Bachelor's degree in Computer Science, Software Engineering, Information Technology, Engineering, or equivalent practical experience
+                - listitem [ref=e165]: Typically 2+ years of relevant professional software engineering experience, or equivalent demonstrated capability
+                - listitem [ref=e166]: Hands-on experience with at least one modern programming language such as Java, Python, C#, JavaScript/TypeScript, React/Angular or similar
+                - listitem [ref=e167]: Experience developing or supporting web applications, APIs, backend services, batch jobs, cloud-native services, or enterprise application components
+                - listitem [ref=e168]: Working knowledge of software development fundamentals including data structures, algorithms, object-oriented design, debugging, unit testing, and version control
+                - listitem [ref=e169]: Awareness of CI/CD practices, automated testing, code quality tools, observability, secure coding, and production support expectations
+                - listitem [ref=e170]: Demonstrated ability to analyze problems, learn unfamiliar systems, communicate clearly, and deliver assigned work with quality and accountability
+              - paragraph [ref=e171]:
+                - strong [ref=e173]: "Preferred Qualifications:"
+              - list [ref=e174]:
+                - listitem [ref=e175]: Experience with cloud platforms such as Azure, AWS, or GCP
+                - listitem [ref=e176]: Experience with monitoring or diagnostics tools such as Splunk, Grafana, Prometheus, Dynatrace, or similar
+                - listitem [ref=e177]: Exposure to microservices, REST APIs, event-driven architecture, containers, Kubernetes/OpenShift, or platform engineering concepts
+                - listitem [ref=e178]: Working knowledge of relational or NoSQL databases and basic data modeling principles
+                - listitem [ref=e179]: Exposure to healthcare, claims, compliance, security, or regulated enterprise environments
+                - listitem [ref=e180]: Proven interest in using AI-assisted engineering tools responsibly to improve design, coding, testing, documentation, and delivery productivity
+              - paragraph [ref=e181]:
+                - generic [ref=e182]: At UnitedHealth Group, our mission is to help people live healthier lives and make the health system work better for everyone. We believe everyone-of every race, gender, sexuality, age, location and income-deserves the opportunity to live their healthiest life. Today, however, there are still far too many barriers to good health which are disproportionately experienced by people of color, historically marginalized groups and those with lower incomes. We are committed to mitigating our impact on the environment and enabling and delivering equitable care that addresses health disparities and improves health outcomes - an enterprise priority reflected in our mission.
+            - generic [ref=e183]:
+              - link "Apply" [ref=e184] [cursor=pointer]:
+                - /url: https://uhg.taleo.net/careersection/10780/jobapply.ftl?job=2388999
+              - link "Internal apply" [ref=e185] [cursor=pointer]:
+                - /url: https://uhg.taleo.net/careersection/10020/jobapply.ftl?job=2388999
+            - button "Save Job" [ref=e187] [cursor=pointer]: Bookmark job
+        - generic:
+          - link "Back to nav":
+            - /url: "#nav-anchor-anchor-responsibilities"
+      - generic [ref=e188]:
+        - generic [ref=e193]:
+          - heading "Benefits" [level=2] [ref=e194]
+          - paragraph [ref=e195]: Our mission of helping people live healthier lives extends to our team members. Learn more about our range of benefits designed to help you live well.
+          - generic [ref=e196]:
+            - generic [ref=e197]:
+              - heading "Life" [level=3] [ref=e198]
+              - paragraph [ref=e199]: Resources and support to focus on what matters most to you, in every facet of your life.
+            - generic [ref=e200]:
+              - heading "Emotional" [level=3] [ref=e201]
+              - paragraph [ref=e202]: Education, tools and resources to help you reduce and manage stress, build resilience and more.
+            - generic [ref=e203]:
+              - heading "Physical" [level=3] [ref=e204]
+              - paragraph [ref=e205]: Health plans and other coverage to support wellness for you and your loved ones.
+            - generic [ref=e206]:
+              - heading "Financial" [level=3] [ref=e207]
+              - paragraph [ref=e208]: Benefits for today and to help you plan for the future, including your retirement.
+          - link "Learn more" [ref=e209] [cursor=pointer]:
+            - /url: https://www.unitedhealthgroup.com/careers/en/life/benefits.html
+        - generic:
+          - link "Back to nav":
+            - /url: "#nav-anchor-anchor-benefits"
+      - generic [ref=e210]:
+        - region "carousel" [ref=e214]:
+          - group "slide 1" [ref=e217]:
+            - generic [ref=e219]:
+              - img "testimonial-img-1" [ref=e220]
+              - generic [ref=e221]:
+                - paragraph [ref=e222]: Since joining Optum, my professional growth has been significant. The dynamic environment has enhanced my problem-solving abilities, and the company’s commitment to innovation and continuous learning motivates me to stay. Optum provides continuous training, mentorship, and a clear path for advancement, all while supporting a healthy work-life balance.
+                - heading "Anurag J." [level=3] [ref=e223]
+                - text: Senior Software Engineering Manager
+        - generic:
+          - link "Back to nav":
+            - /url: "#nav-anchor-anchor-testimonial"
+      - generic [ref=e224]:
+        - generic [ref=e225]:
+          - paragraph [ref=e229]: We’re honored to be recognized for our exceptional work culture
+          - region "Awards" [ref=e230]:
+            - generic:
+              - img "AGWF recognition award"
+            - generic:
+              - img "2025 Campus Forward Award badge from RippleMatch"
+        - generic:
+          - link "Back to nav":
+            - /url: "#nav-anchor-anchor-awards"
+      - generic [ref=e231]:
+        - list [ref=e235]:
+          - listitem [ref=e236]:
+            - link "Discover our family of businesses See how we’re structured to help build a modern, high-performing health system. Learn more":
+              - /url: https://www.unitedhealthgroup.com/uhg/businesses.html
+              - generic:
+                - generic: Discover our family of businesses
+                - generic: See how we’re structured to help build a modern, high-performing health system.
+                - generic: Learn more
+          - listitem [ref=e238]:
+            - link "Explore our hiring process Learn what to expect when you pursue an opportunity with us. Learn more":
+              - /url: https://www.unitedhealthgroup.com/careers/in/job-seeker-resources.html
+              - generic:
+                - generic: Explore our hiring process
+                - generic: Learn what to expect when you pursue an opportunity with us.
+                - generic: Learn more
+          - listitem [ref=e240]:
+            - link "How we’re transforming care Find out how we’re making care smarter and more personalized. Learn more":
+              - /url: https://www.unitedhealthgroup.com/newsroom/posts/2025/2025-08-26-smarter-care-through-tech-trust-and-transformation.html
+              - generic:
+                - generic: How we’re transforming care
+                - generic: Find out how we’re making care smarter and more personalized.
+                - generic: Learn more
+        - generic:
+          - link "Back to nav":
+            - /url: "#nav-anchor-anchor-related-content"
+      - generic [ref=e242]:
+        - paragraph [ref=e244]: Connect with us
+        - list [ref=e246]:
+          - listitem [ref=e247]:
+            - link "Facebook" [ref=e248] [cursor=pointer]:
+              - /url: //www.facebook.com/myOptum/
+          - listitem [ref=e249]:
+            - link "Instagram" [ref=e250] [cursor=pointer]:
+              - /url: //www.instagram.com/optum/?hl=en
+          - listitem [ref=e251]:
+            - link "YouTube" [ref=e252] [cursor=pointer]:
+              - /url: //www.youtube.com/optum
+          - listitem [ref=e253]:
+            - link "LinkedIn" [ref=e254] [cursor=pointer]:
+              - /url: //www.linkedin.com/company/optum
+    - contentinfo [ref=e255]:
+      - contentinfo [ref=e257]:
+        - generic [ref=e258]:
+          - link "Do not sell or share my personal information" [ref=e259] [cursor=pointer]:
+            - /url: /cookie-management
+          - link "Social responsibility" [ref=e260] [cursor=pointer]:
+            - /url: "#"
+          - link "Fraudulent activity" [ref=e261] [cursor=pointer]:
+            - /url: "#"
+          - link "Cookie management" [ref=e262] [cursor=pointer]:
+            - /url: /cookie-management
+          - link "Site map" [ref=e263] [cursor=pointer]:
+            - /url: /sitemap
+        - generic [ref=e264]:
+          - link "Privacy Policy " [ref=e265] [cursor=pointer]:
+            - /url: https://www.unitedhealthgroup.com/privacy.html
+            - text: Privacy Policy
+            - generic [ref=e266]: 
+          - link "Family & Medical Leave Act (PDF) " [ref=e267] [cursor=pointer]:
+            - /url: https://tbcdn.talentbrew.com/company/34088/v1/document/fmlaen.pdf
+            - text: Family & Medical Leave Act (PDF)
+            - generic [ref=e268]: 
+          - link "Equal Employment Law Poster (PDF) " [ref=e269] [cursor=pointer]:
+            - /url: https://tbcdn.talentbrew.com/company/34088/v1/document/eeoc_knowyourrights_workplacediscriminationisillegal.pdf
+            - text: Equal Employment Law Poster (PDF)
+            - generic [ref=e270]: 
+          - link "SMS Terms & Conditions (PDF) " [ref=e271] [cursor=pointer]:
+            - /url: https://tbcdn.talentbrew.com/company/34088/v1/document/uhg-recruiting-texting-terms-and-conditions.pdf
+            - text: SMS Terms & Conditions (PDF)
+            - generic [ref=e272]: 
+          - link "Employee Polygraph Protection Act (PDF) " [ref=e273] [cursor=pointer]:
+            - /url: https://tbcdn.talentbrew.com/company/34088/v1/document/eppac.pdf
+            - text: Employee Polygraph Protection Act (PDF)
+            - generic [ref=e274]: 
+          - link "E-Verify Participation Poster (PDF) " [ref=e275] [cursor=pointer]:
+            - /url: https://tbcdn.talentbrew.com/company/34088/v1/document/e-verify_participation_poster.pdf
+            - text: E-Verify Participation Poster (PDF)
+            - generic [ref=e276]: 
+          - link "Pay Transparency Nondiscrimination Provision (PDF) " [ref=e277] [cursor=pointer]:
+            - /url: https://tbcdn.talentbrew.com/company/34088/v1/document/pay-transparency-supplement-nondiscrim.pdf
+            - text: Pay Transparency Nondiscrimination Provision (PDF)
+            - generic [ref=e278]: 
+          - link "Immigrant and Employee Right to Work Poster (PDF) " [ref=e279] [cursor=pointer]:
+            - /url: https://tbcdn.talentbrew.com/company/34088/v1/document/ier_righttoworkposter-eng_es-1.pdf
+            - text: Immigrant and Employee Right to Work Poster (PDF)
+            - generic [ref=e280]: 
+          - link "Health Plan Notices (PDF) " [ref=e281] [cursor=pointer]:
+            - /url: https://tbcdn.talentbrew.com/company/34088/v1/document/health-plan-notices-2022.pdf
+            - text: Health Plan Notices (PDF)
+            - generic [ref=e282]: 
+          - link "County of LA Fair Chance Ordinance (PDF) " [ref=e283] [cursor=pointer]:
+            - /url: https://tbcdn.talentbrew.com/company/34088/v1/document/fcoe-official-notice-eng-final-la
+            - text: County of LA Fair Chance Ordinance (PDF)
+            - generic [ref=e284]: 
+        - paragraph [ref=e285]: © 2026 UnitedHealth Group. All rights reserved.
+        - paragraph [ref=e286]: UnitedHealth Group is committed to working with and providing reasonable accommodations to individuals with physical and mental disabilities. If you need special assistance or accommodation for any part of the application process, please call 1-866-566-8715 to be connected to Recruitment Services. Recruitment Services hours of operation are 7 a.m. to 7 p.m. CT, Monday through Friday.
+        - paragraph [ref=e287]: UnitedHealth Group is a registered service mark of UnitedHealth Group, Inc. The UnitedHealth Group name with the dimensional logo, as well as the dimensional logo alone, are both service marks for the UnitedHealth Group, Inc.
+        - paragraph [ref=e288]: UnitedHealth Group is an Equal Employment Opportunity employer under applicable law and qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations. UnitedHealth Group is a drug-free workplace. Candidates are required to pass a drug test before beginning employment.
+  - status

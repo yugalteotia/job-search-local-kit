@@ -1,0 +1,31 @@
+{
+  "failed_run": "213e71ba-3ff8-405a-8e60-8e6f2b6a1463",
+  "original_exception_text_retained": false,
+  "reproduced_runtime_error": "Applied Jobs history is incomplete or contains a duplicate",
+  "failing_stage": "applied_history_check",
+  "actual_cause": "Two company/title matches were conservatively blocked before native API exact IDs were used to disambiguate them.",
+  "other_exact_requisitions": [
+    "020726005307",
+    "280926032117"
+  ],
+  "failed_run_potentially_submitting_actions": 0,
+  "failed_run_resume_changed": false,
+  "alert_cause": "Unclaimed Blocked jobs still in ResumeReady were excluded from the alert query; not a shared cooldown.",
+  "new_job_blocker_alert_sent": true,
+  "technical_blocker_alert_resolved": true,
+  "continuation_run": "7c426978-b603-413b-88bd-b0eceff285b4",
+  "continuation_attempt": "0ba15281-58d3-4408-9a7c-e15acf32af6b",
+  "continuation_outcome": "Applied",
+  "proof": "jobs/naukri-131026048418/naukri-native-confirmation.json",
+  "role_resume_binding_verified": true,
+  "generic_restored_verified": true,
+  "protected_uncertain_locks_preserved": true,
+  "broad_search_started": false,
+  "tests": {
+    "history": 6,
+    "alerts": 12,
+    "questionnaire": 27,
+    "passed": true
+  },
+  "recorded_at": "2026-10-13T16:55:38.534496+00:00"
+}

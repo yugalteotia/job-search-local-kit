@@ -1,0 +1,611 @@
+{
+  "run_id": "b0bc1723-83c3-4c9d-8748-3cb30df0c46a",
+  "started_at": "2026-10-13T04:59:55.330414+00:00",
+  "mode": "read_only",
+  "upload_enabled": false,
+  "submission_enabled": false,
+  "scheduled": true,
+  "test": true,
+  "source_scope": [
+    "naukri"
+  ],
+  "fresh_only": true,
+  "status": "Success",
+  "sources": {
+    "naukri": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-10-13T05:00:20.340773+00:00",
+      "pages_checked": 3,
+      "leads": 9,
+      "feed_jobs": 0
+    }
+  },
+  "coverage": {
+    "naukri": [
+      {
+        "query": "Java Backend Developer",
+        "location": "Delhi NCR",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=Delhi%20NCR&pageNo=1",
+        "observed_url": "https://www.naukri.com/java-backend-developer-jobs-in-delhi-ncr?jobAge=7&experience=2",
+        "checked_at": "2026-10-13T05:00:05.557690+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_label": "2",
+          "freshness_label": "Last 7 days",
+          "sort_label": "Date"
+        },
+        "error_kind": null
+      },
+      {
+        "query": "Java Spring Boot",
+        "location": "Mumbai",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=Mumbai&pageNo=1",
+        "observed_url": "https://www.naukri.com/java-spring-boot-jobs-in-mumbai?jobAge=7&experience=2",
+        "checked_at": "2026-10-13T05:00:12.689266+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_label": "2",
+          "freshness_label": "Last 7 days",
+          "sort_label": "Date"
+        },
+        "error_kind": null
+      },
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Chennai",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=Chennai&pageNo=1",
+        "observed_url": "https://www.naukri.com/java-spring-boot-backend-jobs-in-chennai?jobAge=7&experience=2",
+        "checked_at": "2026-10-13T05:00:20.129931+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_label": "2",
+          "freshness_label": "Last 7 days",
+          "sort_label": "Date"
+        },
+        "error_kind": null
+      }
+    ]
+  },
+  "leads": 9,
+  "unique_original_requisitions_verified": 0,
+  "fit_decisions": {
+    "318": {
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ],
+      "evidence": {
+        "location": "Pune, Bengaluru, Chennai",
+        "experience": "ne, Bengaluru, Chennai Experience: 2 - 3 years Job highlights 2-3 years experience in Java, J2EE, Spring Boot, AngularJS, REST APIs, and microservices archi",
+        "technology": "highlights 2-3 years experience in Java, J2EE, Spring Boot, AngularJS, REST APIs, and microservices architecture Design, develop, and maintain scala",
+        "role": null
+      },
+      "jd_sha256": "f50a398cbc356141cbc0fa7962bc6c5f32b6569167ed4cbc1a399b7d5ca09908"
+    },
+    "317": {
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Substantial backend work is not established in qualifications",
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ],
+      "evidence": {
+        "location": "Noida, Gurugram, Delhi",
+        "experience": "Noida, Gurugram, Delhi Experience: 0 - 4 years Job highlights Knowledge of Java and Java EE application development Design, develop, test, and maintain Java",
+        "technology": "ed with ‘‘ are preferred keyskills Java Development JAVACSSSpring Boot FrameworkmymangoSQLspringSpringboot JavaspringbMango DBMySQLAgileAPI Report this job",
+        "role": null
+      },
+      "jd_sha256": "1206ce504604dea3b3aa27fce5ce44a0a9e0bb521b123838549609dd3e08e08b"
+    },
+    "316": {
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt",
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ],
+      "evidence": {
+        "location": "Pune, Bengaluru, Chennai",
+        "experience": null,
+        "technology": "Programming->react JS Technology->Java->Springboot Role: IT & Information Security - Other Industry Type: IT Services & Consulting Departmen",
+        "role": null
+      },
+      "jd_sha256": "4c903917acf0c75d83c19c4db710f318272ab6d697b0c7ea822712185e281622"
+    }
+  },
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/b0bc1723-83c3-4c9d-8748-3cb30df0c46a.json"
+  ],
+  "queue": {
+    "ResumeReady": 3
+  },
+  "stage_seconds": {
+    "discovery": 25.0,
+    "original_verification": 0.0,
+    "lead_resolution": 17.83,
+    "fit_review": 0.03,
+    "auto_fit_resume": 0.08
+  },
+  "stage_counts": {
+    "normalized_unique_ats": 0,
+    "selected_for_original_check": 0,
+    "fetched": 9,
+    "unique_portal_leads": 9,
+    "fresh": 0,
+    "unknown_date": 5,
+    "skipped_old": 0,
+    "repeat_skipped": 4,
+    "unique_original_requisitions": 0,
+    "eligible_for_review": 3,
+    "original_jds_reviewed": 0,
+    "original_or_portal_jds_reviewed": 3,
+    "portal_native_verified": 5,
+    "high": 0,
+    "queued_for_resume": 0,
+    "review_queue_added": 3,
+    "portal_originals_matched": 0,
+    "portal_leads_still_needing_original": 2138
+  },
+  "top_reviewed": [
+    {
+      "job_id": 318,
+      "company": "Infosys",
+      "role": "Java Full Stack Developer (Angular)(2-3Y)",
+      "location": "Pune, Bengaluru, Chennai",
+      "direct_url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-2-3y-infosys-pune-chennai-bengaluru-2-to-3-years-190826009591",
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "f50a398cbc356141cbc0fa7962bc6c5f32b6569167ed4cbc1a399b7d5ca09908",
+      "original_page_checked_at": "2026-10-13T05:00:38.149737+00:00",
+      "reviewed_at": "2026-10-13T05:00:38.248546+00:00",
+      "experience_minimum": 2.0,
+      "evidence": {
+        "location": "Pune, Bengaluru, Chennai",
+        "experience": "ne, Bengaluru, Chennai Experience: 2 - 3 years Job highlights 2-3 years experience in Java, J2EE, Spring Boot, AngularJS, REST APIs, and microservices archi",
+        "technology": "highlights 2-3 years experience in Java, J2EE, Spring Boot, AngularJS, REST APIs, and microservices architecture Design, develop, and maintain scala",
+        "role": null
+      },
+      "reasons": [
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ]
+    },
+    {
+      "job_id": 317,
+      "company": "Codepanda Academy",
+      "role": "Java Developer",
+      "location": "Noida, Gurugram, Delhi",
+      "direct_url": "https://www.naukri.com/job-listings-java-developer-codepanda-academy-noida-gurugram-delhi-ncr-0-to-4-years-090724010334",
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "1206ce504604dea3b3aa27fce5ce44a0a9e0bb521b123838549609dd3e08e08b",
+      "original_page_checked_at": "2026-10-13T05:00:38.139154+00:00",
+      "reviewed_at": "2026-10-13T05:00:38.254078+00:00",
+      "experience_minimum": 0.0,
+      "evidence": {
+        "location": "Noida, Gurugram, Delhi",
+        "experience": "Noida, Gurugram, Delhi Experience: 0 - 4 years Job highlights Knowledge of Java and Java EE application development Design, develop, test, and maintain Java",
+        "technology": "ed with ‘‘ are preferred keyskills Java Development JAVACSSSpring Boot FrameworkmymangoSQLspringSpringboot JavaspringbMango DBMySQLAgileAPI Report this job",
+        "role": null
+      },
+      "reasons": [
+        "Substantial backend work is not established in qualifications",
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ]
+    },
+    {
+      "job_id": 316,
+      "company": "Infosys",
+      "role": "Java Full Stack Developer (Angular/React)(2-3 Years)",
+      "location": "Pune, Bengaluru, Chennai",
+      "direct_url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-react-2-3-years-infosys-pune-chennai-bengaluru-2-to-3-years-060826033871",
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "4c903917acf0c75d83c19c4db710f318272ab6d697b0c7ea822712185e281622",
+      "original_page_checked_at": "2026-10-13T05:00:38.120494+00:00",
+      "reviewed_at": "2026-10-13T05:00:38.259380+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "Pune, Bengaluru, Chennai",
+        "experience": null,
+        "technology": "Programming->react JS Technology->Java->Springboot Role: IT & Information Security - Other Industry Type: IT Services & Consulting Departmen",
+        "role": null
+      },
+      "reasons": [
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt",
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ]
+    }
+  ],
+  "recovery": {
+    "requeued_resume": 0,
+    "returned_to_prepared": 0,
+    "claimed_left_locked": 3
+  },
+  "freshness": {
+    "policy": {
+      "routine_review_hours": 24,
+      "sweep_overlap_minutes": 90,
+      "unknown_date_details_per_run": 30,
+      "transient_retry_hours": 6,
+      "pending_application_recheck_hours": 6
+    },
+    "counts": {
+      "fresh": 0,
+      "recent": 0,
+      "unknown_date": 5,
+      "skipped_old": 0,
+      "repeat_skipped": 4,
+      "history_skipped": 0,
+      "unknown_date_deferred": 0
+    },
+    "detail_candidates": 5,
+    "skips": [
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-springboot-microservices-inf-2-9-yrs-infosys-hyderabad-chennai-bengaluru-2-to-7-years-200826033407",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-react-js-2-3-years-infosys-hyderabad-chennai-bengaluru-2-to-3-years-190826009541",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-react-2-3-years-infosys-hyderabad-chennai-bengaluru-2-to-3-years-030826024220",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-developer-inf-2-9-yrs-infosys-hyderabad-chennai-bengaluru-2-to-7-years-070926029541",
+        "reason": "unchanged_already_reviewed"
+      }
+    ]
+  },
+  "portal_native": {
+    "selected": 5,
+    "verified": 5,
+    "unverified": 0,
+    "verified_job_ids": [
+      316,
+      317,
+      318,
+      319,
+      320
+    ],
+    "results": [
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-react-2-3-years-infosys-pune-chennai-bengaluru-2-to-3-years-060826033871",
+        "portal_job_id": "060826033871",
+        "title": "Java Full Stack Developer (Angular/React)(2-3 Years)",
+        "employer": "Infosys",
+        "location": "Pune, Bengaluru, Chennai",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 3146,
+        "experience_evidence": "2-3 Years",
+        "apply_visible": true,
+        "database_job_id": 316,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 1
+        },
+        "render_checks": 1,
+        "card_sha256": "5e2f66c5db8e81521d33f2449a2cf8b4f9bc8c67a67013b894b69505c14e1fb3",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "1 day ago"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-developer-codepanda-academy-noida-gurugram-delhi-ncr-0-to-4-years-090724010334",
+        "portal_job_id": "090724010334",
+        "title": "Java Developer",
+        "employer": "Codepanda Academy",
+        "location": "Noida, Gurugram, Delhi",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 1891,
+        "experience_evidence": "0 - 4 years",
+        "apply_visible": true,
+        "database_job_id": 317,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 0
+        },
+        "render_checks": 1,
+        "card_sha256": "2cbaa0430b4f513927719da8dd41d0632ba7b73bca10a8407e52044c51c2ba47",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "1 day ago"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-2-3y-infosys-pune-chennai-bengaluru-2-to-3-years-190826009591",
+        "portal_job_id": "190826009591",
+        "title": "Java Full Stack Developer (Angular)(2-3Y)",
+        "employer": "Infosys",
+        "location": "Pune, Bengaluru, Chennai",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 2553,
+        "experience_evidence": "2 - 3 years",
+        "apply_visible": true,
+        "database_job_id": 318,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 1
+        },
+        "render_checks": 1,
+        "card_sha256": "ab752a709af9a2700f74aa47197266df7b49fa091fdb1dbac79409865d81a35d",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "1 day ago"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-back-end-sales-support-adduco-india-chennai-2-to-4-years-121026031610",
+        "portal_job_id": "121026031610",
+        "title": "Back End Sales Support",
+        "employer": "Industrial Products",
+        "location": "Chennai",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 2455,
+        "experience_evidence": "2 - 4 years",
+        "apply_visible": true,
+        "database_job_id": 319,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 0
+        },
+        "render_checks": 1,
+        "card_sha256": "770a0458fd6a215e76c323e0086938362be42b39f805f600dba83b602cca94ab",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "1 day ago"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-react-developer-infosys-pune-chennai-bengaluru-2-to-6-years-240826012293",
+        "portal_job_id": "240826012293",
+        "title": "Java React Developer",
+        "employer": "Infosys",
+        "location": "Pune, Bengaluru, Chennai",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 2373,
+        "experience_evidence": "2 - 6 years",
+        "apply_visible": true,
+        "database_job_id": 320,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 1
+        },
+        "render_checks": 1,
+        "card_sha256": "de1c3fd0f319fd9b8a99507bd6db3fda9832abc7b03b6c8ec4033a6b6435e4eb",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "Just now"
+      }
+    ]
+  },
+  "lead_resolution": {
+    "navigation_links_reclassified": 152,
+    "missing_ats_jd_refresh": {
+      "checked": 0,
+      "results": []
+    },
+    "direct_provider_coverage": {},
+    "direct_employer_coverage": {},
+    "portal_employer_coverage": {},
+    "target_title_failures_in_batch": 0,
+    "portal_jobs_inspected": 0,
+    "originals_matched": 0,
+    "substantive_originals_verified": 0,
+    "live_title_only": 0,
+    "direct_check_failures": 0,
+    "needs_original": 2138,
+    "title_relevant_unresolved": 1245,
+    "by_source": {
+      "naukri": {
+        "needs_original": 710,
+        "not_a_job": 3
+      },
+      "linkedin": {
+        "needs_original": 1368,
+        "not_a_job": 4
+      },
+      "foundit": {
+        "needs_original": 0,
+        "not_a_job": 17
+      },
+      "indeed": {
+        "needs_original": 0,
+        "not_a_job": 98
+      },
+      "cutshort": {
+        "needs_original": 60,
+        "not_a_job": 30
+      }
+    },
+    "results": []
+  },
+  "linked_portal_native": null,
+  "review_coverage": {
+    "by_source": {
+      "naukri_portal_native": 3
+    },
+    "by_company": {
+      "Infosys": 2,
+      "Codepanda Academy": 1
+    }
+  },
+  "master_resume": {
+    "ok": true,
+    "issues": []
+  },
+  "auto_fit": {
+    "considered": 3,
+    "queued": 0,
+    "not_eligible": 3,
+    "blocked": 0,
+    "skipped_unchanged": 10,
+    "results": [
+      {
+        "job_id": 318,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer (Angular)(2-3Y)",
+        "outcome": "not_eligible",
+        "fit": "Medium",
+        "reasons": [
+          "No confirmed evidence for other_frontend",
+          "No confirmed evidence for cloud_generic",
+          "No confirmed evidence for other_frontend",
+          "No confirmed evidence for other_frontend",
+          "No confirmed evidence for other_frontend",
+          "Essential evidence coverage below 100%"
+        ]
+      },
+      {
+        "job_id": 317,
+        "employer": "Codepanda Academy",
+        "title": "Java Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Spring Boot is not explicit in the JD body",
+          "backend work is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 316,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer (Angular/React)(2-3 Years)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Spring Boot is not explicit in the JD body",
+          "backend work is not explicit in the JD body"
+        ]
+      }
+    ]
+  },
+  "auto_resume": {
+    "prepared": 0,
+    "failed": 0,
+    "results": []
+  },
+  "staging": {
+    "path": ".workflow/staging.json",
+    "resume_review_ready": 0,
+    "needs_jd_evidence_review": 0
+  },
+  "blocker_alerts": [
+    {
+      "job_id": 220,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 241,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 202,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 250,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 266,
+      "status": "cooldown"
+    }
+  ],
+  "naukri_application_worker": {
+    "enabled": true,
+    "max_submissions_per_run": 1,
+    "other_portals": "discovery_only",
+    "capability_reason": "portal_workers.naukri.apply_enabled is false",
+    "status": "DiscoveryOnly",
+    "candidate_count": 0,
+    "submissions": 0
+  },
+  "portals": {
+    "naukri": {
+      "capability": "DiscoveryOnly",
+      "reason": "portal_workers.naukri.apply_enabled is false",
+      "session": "unknown"
+    },
+    "linkedin": {
+      "capability": "DiscoveryOnly",
+      "reason": "No end-to-end application path proven for this portal",
+      "session": "unknown"
+    },
+    "foundit": {
+      "capability": "Blocked",
+      "reason": "Last discovery NoVisibleCards",
+      "session": "unknown"
+    },
+    "indeed": {
+      "capability": "DiscoveryOnly",
+      "reason": "No end-to-end application path proven for this portal",
+      "session": "unknown"
+    },
+    "cutshort": {
+      "capability": "DiscoveryOnly",
+      "reason": "No end-to-end application path proven for this portal",
+      "session": "unknown"
+    },
+    "ats": {
+      "capability": "DiscoveryOnly",
+      "reason": "Public feeds are read-only; application forms are not implemented",
+      "session": "unknown"
+    }
+  },
+  "tab_lifecycle": {
+    "created": null,
+    "reused": null,
+    "closed": null,
+    "remaining_automation_tabs": null,
+    "job_tabs_created": null,
+    "job_tabs_closed": null,
+    "welcome_tabs_created": null,
+    "welcome_tabs_closed": null,
+    "remaining_job_tabs": null,
+    "remaining_welcome_tabs": null,
+    "uncertain_ids": [
+      "No tab lifecycle report was emitted"
+    ],
+    "recorded_ids": [],
+    "log_paths": []
+  },
+  "finished_at": "2026-10-13T05:00:38.419345+00:00",
+  "elapsed_seconds": 43.09
+}

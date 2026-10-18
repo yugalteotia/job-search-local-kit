@@ -1,0 +1,232 @@
+{
+  "status": "Complete",
+  "phase": "before",
+  "providers": {
+    "naukri": {
+      "status": "Checked",
+      "pending": 3,
+      "history": {
+        "full": true,
+        "account_verified": true,
+        "rows_by_id": {
+          "290826005830": [],
+          "100826024113": [],
+          "071026019912": [
+            {
+              "job_id": "071026019912",
+              "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+              "title": "Java Aws Developer",
+              "company": "Infosys",
+              "status": [
+                {
+                  "statusId": 1,
+                  "appId": null,
+                  "count": 1,
+                  "statusValue": "Applied",
+                  "modifiedDate": "2026-10-16 15:24:38",
+                  "dateTime": "2026-10-16 15:24:33"
+                },
+                {
+                  "statusId": 2,
+                  "appId": 107,
+                  "count": 1,
+                  "statusValue": "Application Sent",
+                  "modifiedDate": "2026-10-16 15:24:33",
+                  "dateTime": "2026-10-16 15:24:33"
+                }
+              ]
+            },
+            {
+              "job_id": "071026019912",
+              "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+              "title": "Java Aws Developer",
+              "company": "Infosys",
+              "status": [
+                {
+                  "statusId": 1,
+                  "appId": null,
+                  "count": 1,
+                  "dateTime": "2026-10-16 15:24:33",
+                  "statusValue": "Applied",
+                  "modifiedDate": "2026-10-16 15:24:38"
+                },
+                {
+                  "statusId": 2,
+                  "appId": 107,
+                  "count": 1,
+                  "dateTime": "2026-10-16 15:24:33",
+                  "statusValue": "Application Sent",
+                  "modifiedDate": "2026-10-16 15:24:33"
+                }
+              ]
+            }
+          ]
+        },
+        "loaded_rows": 304,
+        "expected_total": 304,
+        "load_sweeps": [
+          {
+            "rows": 10,
+            "total": 304,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 20,
+            "total": 304,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 40,
+            "total": 304,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 60,
+            "total": 304,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 80,
+            "total": 304,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 100,
+            "total": 304,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 120,
+            "total": 304,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 140,
+            "total": 304,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 160,
+            "total": 304,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 180,
+            "total": 304,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 200,
+            "total": 304,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 220,
+            "total": 304,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 240,
+            "total": 304,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 260,
+            "total": 304,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 280,
+            "total": 304,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 300,
+            "total": 304,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 304,
+            "total": 304,
+            "exact": 0,
+            "company_role": 1,
+            "more": false
+          }
+        ],
+        "generic_filename_before": "Yugal_Teotia_CV.pdf",
+        "generic_filename_after": "Yugal_Teotia_CV.pdf",
+        "expected_generic_filename": "Yugal_Teotia_CV.pdf",
+        "blocker": null
+      }
+    },
+    "linkedin": {
+      "status": "NoPending",
+      "pending": 0
+    }
+  },
+  "confirmed": [
+    {
+      "job_id": 376,
+      "requisition_id": "071026019912",
+      "attempt_id": "5589b678-b5f0-4629-8b2c-28becdb61d79",
+      "status": "Applied",
+      "confirmation_path": "jobs/naukri-071026019912/naukri-history-reconciliation-confirmation.json",
+      "new_claim_created": false,
+      "new_application_action": false,
+      "url": "https://www.naukri.com/job-listings-java-aws-developer-infosys-hyderabad-pune-bengaluru-2-to-3-years-071026019912"
+    }
+  ],
+  "new_claims": 0,
+  "tracker": {
+    "database_rows": 382,
+    "tracker_rows": 382,
+    "quick_rows": 39,
+    "detailed_rows": 382,
+    "quick": "views/quick.html",
+    "detailed": "views/detailed.html",
+    "status": {
+      "status_json": "views/status.json",
+      "applied": 23,
+      "needs_answer": 0,
+      "uncertain": 3
+    }
+  },
+  "notifications": [
+    {
+      "job_id": 376,
+      "sent": true
+    }
+  ]
+}

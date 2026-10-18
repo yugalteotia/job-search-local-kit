@@ -1,0 +1,248 @@
+{
+  "job_id": 244,
+  "requisition_id": "070926003879",
+  "attempt_id": "392355bd-7563-49cd-9ab6-e1848ca3be53",
+  "started_at": "2026-09-29T13:31:34.819343+00:00",
+  "precondition_checks": {
+    "exact_job": true,
+    "one_existing_attempt": true,
+    "no_completion_request": true,
+    "no_commit": true,
+    "no_applied_history_match": true,
+    "not_applied_and_live": true,
+    "notice_question_waiting": true,
+    "generic_resume_restored": true
+  },
+  "new_attempt_created": false,
+  "previous_save_replayed": false,
+  "notice_answer_save_count": 1,
+  "apply_clicked_by_agent": false,
+  "save_clicked_by_agent": true,
+  "outcome": "Questionnaire remains incomplete; same attempt locked; no repeat Save",
+  "network_responses": [
+    {
+      "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+      "flowtype": "show",
+      "reason": "exact_job_show",
+      "status": 200,
+      "response_metadata": {
+        "isApply": true,
+        "isLeafNode": false,
+        "dataCommitted": false,
+        "job_id_match": true,
+        "currentNodeName": "apply6"
+      }
+    },
+    {
+      "path": "/cloudgateway-chatbot/chatbot-services/botapi/v5/respond",
+      "flowtype": "unknown",
+      "reason": "one_claimed_chat_answer",
+      "status": 200,
+      "response_metadata": {
+        "job_id_match": true
+      }
+    }
+  ],
+  "signed_in_account_verified": true,
+  "generic_resume_before": "Yugal_Teotia_CV.pdf",
+  "role_resume_verified": true,
+  "profile_upload_statuses": [
+    {
+      "endpoint": "profile_resume_upload",
+      "status": 200
+    }
+  ],
+  "listing_before_handoff": {
+    "exact_path": true,
+    "apply_visible": true,
+    "applied_button": false,
+    "applied_status": false,
+    "pending": false
+  },
+  "listing_checked_at": "2026-09-29T13:31:47.681642+00:00",
+  "manual_handoff_ready_at": "2026-09-29T13:31:47.704094+00:00",
+  "visible_apply_control": true,
+  "questionnaire_after_handoff": {
+    "drawer": true,
+    "prompts": [
+      "What is your notice period,if serving notice period last working day?"
+    ],
+    "editable_count": 1,
+    "editable_filled": [
+      false
+    ],
+    "save_controls": [
+      {
+        "label": "Save",
+        "disabled": false
+      }
+    ],
+    "thank_you": false
+  },
+  "guard_after_handoff": {
+    "job_id": "070926003879",
+    "phase": "chat_ready",
+    "show_count": 1,
+    "answer_count": 0,
+    "save_arm_count": 0,
+    "followup_status_count": 0,
+    "post_completion_status_count": 0,
+    "completion_count": 0,
+    "workflow_committed": false,
+    "events": [
+      {
+        "at": "2026-09-29T13:33:18.933068+00:00",
+        "elapsed_ms": 91251,
+        "job_id": "070926003879",
+        "phase": "show_sent",
+        "method": "POST",
+        "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+        "flowtype": "show",
+        "allowed": true,
+        "reason": "exact_job_show",
+        "response_status": 200,
+        "response_elapsed_ms": 91509,
+        "response_metadata": {
+          "isApply": true,
+          "isLeafNode": false,
+          "dataCommitted": false,
+          "job_id_match": true,
+          "currentNodeName": "apply6"
+        }
+      },
+      {
+        "at": "2026-09-29T13:33:18.935800+00:00",
+        "elapsed_ms": 91254,
+        "job_id": "070926003879",
+        "phase": "show_sent",
+        "method": "POST",
+        "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+        "flowtype": "show",
+        "allowed": false,
+        "reason": "not_claimed_job_bound_completion",
+        "response_status": null
+      }
+    ]
+  },
+  "answer_gate": [
+    {
+      "question_index": 2,
+      "answer_ready": false
+    }
+  ],
+  "questionnaire_after_notice_save": {
+    "drawer": true,
+    "prompts": [
+      "What is your notice period,if serving notice period last working day?",
+      "What is your Current location?"
+    ],
+    "editable_count": 1,
+    "editable_filled": [
+      false
+    ],
+    "save_controls": [
+      {
+        "label": "Save",
+        "disabled": false
+      }
+    ],
+    "thank_you": false,
+    "applied_visible": false
+  },
+  "network_guard": {
+    "job_id": "070926003879",
+    "phase": "answer_sent",
+    "show_count": 1,
+    "answer_count": 1,
+    "save_arm_count": 1,
+    "followup_status_count": 0,
+    "post_completion_status_count": 0,
+    "completion_count": 0,
+    "workflow_committed": false,
+    "events": [
+      {
+        "at": "2026-09-29T13:33:18.933068+00:00",
+        "elapsed_ms": 91251,
+        "job_id": "070926003879",
+        "phase": "show_sent",
+        "method": "POST",
+        "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+        "flowtype": "show",
+        "allowed": true,
+        "reason": "exact_job_show",
+        "response_status": 200,
+        "response_elapsed_ms": 91509,
+        "response_metadata": {
+          "isApply": true,
+          "isLeafNode": false,
+          "dataCommitted": false,
+          "job_id_match": true,
+          "currentNodeName": "apply6"
+        }
+      },
+      {
+        "at": "2026-09-29T13:33:18.935800+00:00",
+        "elapsed_ms": 91254,
+        "job_id": "070926003879",
+        "phase": "show_sent",
+        "method": "POST",
+        "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+        "flowtype": "show",
+        "allowed": false,
+        "reason": "not_claimed_job_bound_completion",
+        "response_status": null
+      },
+      {
+        "at": "2026-09-29T13:33:20.869161+00:00",
+        "elapsed_ms": 93187,
+        "job_id": "070926003879",
+        "phase": "answer_sent",
+        "method": "POST",
+        "path": "/cloudgateway-chatbot/chatbot-services/botapi/v5/respond",
+        "flowtype": "unknown",
+        "allowed": true,
+        "reason": "one_claimed_chat_answer",
+        "response_status": 200,
+        "response_elapsed_ms": 93288,
+        "response_metadata": {
+          "job_id_match": true
+        }
+      }
+    ]
+  },
+  "listing_after": {
+    "exact_path": true,
+    "apply_visible": true,
+    "applied_button": false,
+    "applied_status": false,
+    "pending": false
+  },
+  "history_after": {
+    "checked_at": "2026-09-29T13:33:37.085639+00:00",
+    "rows": 87,
+    "source_total": 87,
+    "full_history_loaded": true,
+    "exact_id_matches": 0,
+    "company_role_matches": 0,
+    "sweeps": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      87
+    ]
+  },
+  "generic_restored_verified": true,
+  "generic_restore_error_type": "Error",
+  "finished_at": "2026-09-29T13:33:37.245822+00:00",
+  "generic_restore_statuses": [
+    200
+  ],
+  "generic_restore_filename": "Yugal_Teotia_CV.pdf",
+  "generic_restore_verified_at": "2026-09-29T13:36:30Z",
+  "generic_restore_note": "Separate isolated-profile verification completed after the in-flow restoration error; no application action during restore."
+}

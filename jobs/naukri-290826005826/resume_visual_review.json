@@ -1,0 +1,80 @@
+{
+  "status": "visually_clean",
+  "pdf": "Yugal_Teotia_Java_Backend_Developer.pdf",
+  "pdf_sha256": "4576a2d430d571d9e9e28743c45b29fe75efe526c2d53ec9003590ec0128215c",
+  "png": "Yugal_Teotia_Java_Backend_Developer-preview.png",
+  "png_sha256": "ec471ec5562ba615430a289f1ebb65c2cf899d7b1962d4024dce3a7007a9778d",
+  "pages": 1,
+  "page_points": [
+    595.2756,
+    841.8898
+  ],
+  "png_pixels": [
+    1654,
+    2339
+  ],
+  "embedded_fonts": [
+    "/AAAAAA+LiberationSans-Bold",
+    "/AAAAAA+LiberationSans",
+    "/AAAAAA+LiberationSans-Italic"
+  ],
+  "links": [
+    {
+      "uri": "tel:+919560369538",
+      "rect": [
+        236.4317,
+        770.4898,
+        306.5132,
+        781.6498
+      ]
+    },
+    {
+      "uri": "mailto:teotia.yugal@gmail.com",
+      "rect": [
+        314.0967,
+        770.4898,
+        413.4814,
+        781.6498
+      ]
+    },
+    {
+      "uri": "https://www.linkedin.com/in/yugalteotia/",
+      "rect": [
+        261.7933,
+        757.9898,
+        296.9544,
+        769.1498
+      ]
+    },
+    {
+      "uri": "https://github.com/yugalteotia",
+      "rect": [
+        304.5379,
+        757.9898,
+        333.4823,
+        769.1498
+      ]
+    }
+  ],
+  "checks": {
+    "one_page": true,
+    "fonts_and_links": true,
+    "margins": true,
+    "text_extraction": true,
+    "grounded": true,
+    "template_visually_approved": true
+  },
+  "inspection": "Automated one-page, font, link, ink-margin and text-extraction checks passed; render template fb990bd7ef9c carries a recorded visual approval.",
+  "ink_margins_in": {
+    "left": 0.58,
+    "top": 0.56,
+    "right": 0.58,
+    "bottom": 0.8
+  },
+  "fit_plan": {
+    "ideas_bullets": 5,
+    "data_nova_bullets": 1,
+    "unity_bullets": 2
+  },
+  "spec_sha256": "f2f5bb437ced606268eb36752169a9202f7cba2e0eb0d6f35ab10d87648c3d6f"
+}

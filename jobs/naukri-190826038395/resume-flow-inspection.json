@@ -1,0 +1,67 @@
+{
+  "job_id": 220,
+  "requisition_id": "190826038395",
+  "url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-microservices-infosys-pune-chennai-bengaluru-2-to-5-years-190826038395",
+  "started_at": "2026-09-29T07:57:53.521634+00:00",
+  "role_resume_path": "jobs/naukri-190826038395/Yugal_Teotia_Java_Backend_Developer.pdf",
+  "generic_resume_path": "master-resume/Yugal_Teotia_CV.pdf",
+  "apply_show_count": 1,
+  "chat_answers_sent": 0,
+  "final_submit_sent": false,
+  "initial_profile_filename": "Yugal_Teotia_CV.pdf",
+  "role_upload": {
+    "at": "2026-09-29T07:58:05.471293+00:00",
+    "before": "Yugal_Teotia_CV.pdf",
+    "after": "Yugal_Teotia_Java_Backend_Developer.pdf",
+    "pdf_sha256": "4c30dcd8d3fa93ddebc1a1419e54791b20fbdd4e3c0f594c902d136325d6f9db",
+    "response_statuses": [
+      {
+        "path": "/cloudgateway-mynaukri/resman-aggregator-services/v0/users/self/profiles/7cb124b61d07cca5b819d1f1298276bd7432cb89a97f3944f79fd6c296adc7b6/advResume",
+        "status": 200
+      }
+    ]
+  },
+  "show_response": [
+    {
+      "status": 200,
+      "isLeafNode": false,
+      "dataCommitted": false,
+      "isApply": true,
+      "currentNodeName": "apply3",
+      "roleFilenameInResponse": false,
+      "genericFilenameInResponse": false,
+      "prefilledYes": false,
+      "prefilledValueType": "list"
+    }
+  ],
+  "chat_initial": {
+    "drawerVisible": true,
+    "prompts": [
+      "Are you available for a interview?(Virtual)"
+    ],
+    "yesOptionVisible": true,
+    "yesChecked": false,
+    "noChecked": false,
+    "visibleUploadInputs": 0,
+    "visibleResumeNames": [],
+    "thankYouVisible": false,
+    "appliedStatusVisible": false,
+    "applyButtonVisible": true
+  },
+  "blocked_application_requests": [],
+  "inspected_at": "2026-09-29T07:58:08.928625+00:00",
+  "generic_restore": {
+    "at": "2026-09-29T07:59:15.041400+00:00",
+    "before": "Yugal_Teotia_Java_Backend_Developer.pdf",
+    "after": "Yugal_Teotia_CV.pdf",
+    "pdf_sha256": "9a1322fc3058108d66aa74ef8c23b6b4027a3d341feedb029eb45b135906cb17",
+    "response_statuses": [
+      {
+        "path": "/cloudgateway-mynaukri/resman-aggregator-services/v0/users/self/profiles/7cb124b61d07cca5b819d1f1298276bd7432cb89a97f3944f79fd6c296adc7b6/advResume",
+        "status": 200
+      }
+    ]
+  },
+  "generic_restored_verified": true,
+  "finished_at": "2026-09-29T07:59:15.041931+00:00"
+}

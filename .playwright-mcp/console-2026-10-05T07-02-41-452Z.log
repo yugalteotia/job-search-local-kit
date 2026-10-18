@@ -1,0 +1,18 @@
+[     318ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     318ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     318ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     318ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     318ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    1442ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://static.naukimg.com/s/0/0/j/nLoggerJB_v3.4.min.js:0
+[    2105ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    2108ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    2108ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    2109ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    2540ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    2629ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    2651ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    2765ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    2973ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/collectorapi/v1/uba/bulk:0
+[    2987ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    3108ms] [ERROR] {level: 50, appCode: fed-static9-121, logTime: 2026-10-05T07:02:44.557Z, TRANSACTION_ID: 5848325310115973557101::25381636073161, message: https://www.naukri.com/jobapi/v3/job/210526509162/…on' on 'Response': Unexpected end of JSON input"}} @ https://static.naukimg.com/s/9/121/_next/static/chunks/8139-6f0dda5e7556c6e0.js:0
+[    3387ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0

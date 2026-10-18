@@ -1,0 +1,68 @@
+{
+  "attempt_id": "92649bb3-2263-45b9-9489-019b4ea96ab9",
+  "requisition_id": "141026016132",
+  "captured_at": "2026-10-14T07:41:24.321047+00:00",
+  "url": "https://www.naukri.com/job-listings-sde-2-backend-cult-fit-bengaluru-2-to-4-years-141026016132",
+  "confirmation_text": "Exact Naukri requisition appears in fully loaded Applied Jobs history",
+  "exact_history_id_match": true,
+  "history_full": true,
+  "delayed_confirmation": true,
+  "new_application_action": false,
+  "history_observed_at": "2026-10-14T07:41:24.320585+00:00",
+  "history_identity": {
+    "basis": "server_history_exact_job_id",
+    "server_rows": [
+      {
+        "job_id": "141026016132",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "SDE 2 -  Backend",
+        "company": "cult fit",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "dateTime": "2026-10-14 13:05:30",
+            "modifiedDate": "2026-10-14 13:05:32",
+            "statusValue": "Applied"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "dateTime": "2026-10-14 13:05:31",
+            "modifiedDate": "2026-10-14 13:05:31",
+            "statusValue": "Application Sent"
+          }
+        ]
+      },
+      {
+        "job_id": "141026016132",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "SDE 2 -  Backend",
+        "company": "cult fit",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "dateTime": "2026-10-14 13:05:30",
+            "modifiedDate": "2026-10-14 13:05:32",
+            "statusValue": "Applied"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "dateTime": "2026-10-14 13:05:31",
+            "modifiedDate": "2026-10-14 13:05:31",
+            "statusValue": "Application Sent"
+          }
+        ]
+      }
+    ]
+  },
+  "questionnaire_completion_verified": false,
+  "unverified_pending_question": "Are you currently living in or ready to relocate to Bengaluru ?",
+  "newly_confirmed_answer_sent": false
+}

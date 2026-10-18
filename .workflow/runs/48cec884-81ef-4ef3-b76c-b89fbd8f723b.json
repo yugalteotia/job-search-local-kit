@@ -1,0 +1,430 @@
+{
+  "run_id": "48cec884-81ef-4ef3-b76c-b89fbd8f723b",
+  "started_at": "2026-10-13T18:44:13.385701+00:00",
+  "mode": "native_portals_live",
+  "upload_enabled": true,
+  "submission_enabled": true,
+  "scheduled": true,
+  "test": false,
+  "source_scope": [
+    "naukri",
+    "linkedin"
+  ],
+  "fresh_only": true,
+  "queue_only": true,
+  "continuation_of": "cc10244d-dca9-408b-a967-c44d00c80c7d",
+  "status": "Success",
+  "sources": {},
+  "coverage": {},
+  "leads": 0,
+  "unique_original_requisitions_verified": 0,
+  "fit_decisions": {},
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/48cec884-81ef-4ef3-b76c-b89fbd8f723b.json"
+  ],
+  "queue": {
+    "ResumeReady": 7
+  },
+  "stage_seconds": {
+    "discovery": 0.0,
+    "original_verification": 0.0,
+    "lead_resolution": 0.09,
+    "fit_review": 0.0,
+    "auto_fit_resume": 6.64
+  },
+  "stage_counts": {
+    "normalized_unique_ats": 0,
+    "selected_for_original_check": 0,
+    "fetched": 0,
+    "unique_portal_leads": 0,
+    "fresh": 0,
+    "unknown_date": 0,
+    "skipped_old": 0,
+    "repeat_skipped": 0,
+    "unique_original_requisitions": 0,
+    "eligible_for_review": 0,
+    "original_jds_reviewed": 0,
+    "original_or_portal_jds_reviewed": 0,
+    "portal_native_verified": 0,
+    "high": 0,
+    "queued_for_resume": 2,
+    "review_queue_added": 0,
+    "portal_originals_matched": 0,
+    "portal_leads_still_needing_original": 2149
+  },
+  "top_reviewed": [],
+  "recovery": {
+    "requeued_resume": 0,
+    "returned_to_prepared": 0,
+    "claimed_left_locked": 3
+  },
+  "freshness": {
+    "policy": {
+      "routine_review_hours": 24,
+      "sweep_overlap_minutes": 90,
+      "unknown_date_details_per_run": 30,
+      "transient_retry_hours": 6,
+      "pending_application_recheck_hours": 6
+    },
+    "counts": {
+      "fresh": 0,
+      "recent": 0,
+      "unknown_date": 0,
+      "skipped_old": 0,
+      "repeat_skipped": 0,
+      "history_skipped": 0,
+      "unknown_date_deferred": 0
+    },
+    "detail_candidates": 0,
+    "skips": []
+  },
+  "portal_native": {
+    "selected": 0,
+    "verified": 0,
+    "unverified": 0,
+    "verified_job_ids": [],
+    "results": [],
+    "selection_skips": []
+  },
+  "lead_resolution": {
+    "navigation_links_reclassified": 152,
+    "missing_ats_jd_refresh": {
+      "checked": 0,
+      "results": []
+    },
+    "direct_provider_coverage": {},
+    "direct_employer_coverage": {},
+    "portal_employer_coverage": {},
+    "target_title_failures_in_batch": 0,
+    "portal_jobs_inspected": 0,
+    "originals_matched": 0,
+    "substantive_originals_verified": 0,
+    "live_title_only": 0,
+    "direct_check_failures": 0,
+    "needs_original": 2149,
+    "title_relevant_unresolved": 1256,
+    "by_source": {
+      "naukri": {
+        "needs_original": 721,
+        "not_a_job": 3
+      },
+      "linkedin": {
+        "needs_original": 1368,
+        "not_a_job": 4
+      },
+      "foundit": {
+        "needs_original": 0,
+        "not_a_job": 17
+      },
+      "indeed": {
+        "needs_original": 0,
+        "not_a_job": 98
+      },
+      "cutshort": {
+        "needs_original": 60,
+        "not_a_job": 30
+      }
+    },
+    "results": []
+  },
+  "linked_portal_native": null,
+  "review_coverage": {
+    "by_source": {},
+    "by_company": {}
+  },
+  "master_resume": {
+    "ok": true,
+    "issues": []
+  },
+  "auto_fit": {
+    "considered": 0,
+    "queued": 0,
+    "not_eligible": 0,
+    "blocked": 0,
+    "skipped_unchanged": 25,
+    "results": []
+  },
+  "auto_resume": {
+    "prepared": 2,
+    "failed": 0,
+    "results": [
+      {
+        "job_id": 329,
+        "employer": "Infosys",
+        "status": "ResumeReady",
+        "pdf": "Yugal_Teotia_JAVA_Angular_Developer.pdf"
+      },
+      {
+        "job_id": 318,
+        "employer": "Infosys",
+        "status": "ResumeReady",
+        "pdf": "Yugal_Teotia_Java_Full_Stack_Developer.pdf"
+      }
+    ]
+  },
+  "queue_eligibility": {
+    "naukri_ready_candidates": 5,
+    "resume_jobs_ready_to_build": 0,
+    "locked_or_applied_queue_rows": 1
+  },
+  "staging": {
+    "path": ".workflow/staging.json",
+    "resume_review_ready": 0,
+    "needs_jd_evidence_review": 0
+  },
+  "blocker_alerts": [
+    {
+      "job_id": 220,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 241,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 250,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 315,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 355,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 220,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 241,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 250,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 315,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 355,
+      "status": "pending",
+      "link": "https://www.naukri.com/job-listings-software-developer-ntt-data-business-solutions-bengaluru-3-to-5-years-131026049027",
+      "desktop_sent": true
+    },
+    {
+      "job_id": 342,
+      "status": "pending",
+      "link": "https://www.naukri.com/job-listings-java-full-stack-developer-naukri-assist-hyderabad-3-to-10-years-131026047727",
+      "desktop_sent": true
+    }
+  ],
+  "naukri_application_worker": {
+    "enabled": true,
+    "max_submissions_per_run": 10,
+    "max_new_attempts_per_run": 10,
+    "other_portals": "outside_focus_disabled",
+    "capability_reason": "Proof marker valid; independent new-attempt limit 10",
+    "status": "Complete",
+    "candidate_count": 5,
+    "resumable_count": 0,
+    "results": [
+      {
+        "job_id": 355,
+        "requisition_id": "131026049027",
+        "attempt_id": null,
+        "saves": 0,
+        "status": "NeedsAnswer",
+        "stage": "applied_history_check",
+        "preflight_resume_repair_only": true,
+        "generic_resume_restored": true,
+        "generic_resume_restore_evidence": "jobs/naukri-131026049027/naukri-generic-startup-verification.json",
+        "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+        "generic_resume_verified_at": "2026-10-13T18:44:33.068879+00:00",
+        "generic_resume_repaired_at_start": true,
+        "error_type": "RuntimeError",
+        "error_origin": {
+          "file": "naukri_native_worker.py",
+          "function": "_run_one",
+          "line": 460
+        },
+        "error_message": "Exact listing lacks a unique live Apply action or is already applied/pending",
+        "blocker": "application_handoff_required",
+        "new_attempt_slot_consumed": false,
+        "new_claim_created": false,
+        "existing_attempt_continued": false
+      },
+      {
+        "job_id": 344,
+        "requisition_id": "131026048006",
+        "attempt_id": "81e98c8a-ca1a-4e39-aaf9-57dd3cd98e4c",
+        "saves": 0,
+        "status": "Applied",
+        "stage": "confirmation_check",
+        "preflight_resume_repair_only": false,
+        "generic_resume_restored": true,
+        "generic_resume_restore_evidence": "jobs/naukri-131026048006/naukri-generic-startup-verification.json",
+        "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+        "generic_resume_verified_at": "2026-10-13T18:45:14.495084+00:00",
+        "generic_resume_repaired_at_start": false,
+        "question_facts": [],
+        "confirmation_path": "jobs/naukri-131026048006/naukri-native-confirmation.json",
+        "new_attempt_slot_consumed": true,
+        "new_claim_created": true,
+        "existing_attempt_continued": false
+      },
+      {
+        "job_id": 342,
+        "requisition_id": "131026047727",
+        "attempt_id": "1ec26691-8d1d-48d2-8a87-80d396ffe3ba",
+        "saves": 0,
+        "status": "NeedsAnswer",
+        "stage": "questionnaire",
+        "preflight_resume_repair_only": false,
+        "generic_resume_restored": true,
+        "generic_resume_restore_evidence": "jobs/naukri-131026047727/naukri-generic-startup-verification.json",
+        "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+        "generic_resume_verified_at": "2026-10-13T18:46:55.934797+00:00",
+        "generic_resume_repaired_at_start": false,
+        "question_facts": [],
+        "pending_question": "How many years of experience do you have in GenAI or Artificial Intelligence ?",
+        "blocker": "unknown_required_answer",
+        "question": "How many years of experience do you have in GenAI or Artificial Intelligence ?",
+        "incomplete": true,
+        "answered": 0,
+        "new_attempt_slot_consumed": true,
+        "new_claim_created": true,
+        "existing_attempt_continued": false
+      },
+      {
+        "job_id": 329,
+        "requisition_id": "170926032578",
+        "attempt_id": "ec8c9dd5-465b-49ea-a81f-3ce1b7e6780a",
+        "saves": 0,
+        "status": "Applied",
+        "stage": "confirmation_check",
+        "preflight_resume_repair_only": false,
+        "generic_resume_restored": true,
+        "generic_resume_restore_evidence": "jobs/naukri-170926032578/naukri-generic-startup-verification.json",
+        "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+        "generic_resume_verified_at": "2026-10-13T18:48:35.475431+00:00",
+        "generic_resume_repaired_at_start": false,
+        "question_facts": [],
+        "confirmation_path": "jobs/naukri-170926032578/naukri-native-confirmation.json",
+        "new_attempt_slot_consumed": true,
+        "new_claim_created": true,
+        "existing_attempt_continued": false
+      },
+      {
+        "job_id": 318,
+        "requisition_id": "190826009591",
+        "attempt_id": "399c0357-3005-4403-8e55-62369e0e11f4",
+        "saves": 0,
+        "status": "Applied",
+        "stage": "confirmation_check",
+        "preflight_resume_repair_only": false,
+        "generic_resume_restored": true,
+        "generic_resume_restore_evidence": "jobs/naukri-190826009591/naukri-generic-startup-verification.json",
+        "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+        "generic_resume_verified_at": "2026-10-13T18:50:13.682296+00:00",
+        "generic_resume_repaired_at_start": false,
+        "question_facts": [],
+        "confirmation_path": "jobs/naukri-190826009591/naukri-native-confirmation.json",
+        "new_attempt_slot_consumed": true,
+        "new_claim_created": true,
+        "existing_attempt_continued": false
+      }
+    ],
+    "submissions": 3,
+    "blocked_jobs": 2,
+    "provider_stopped": false,
+    "new_attempts_used": 4,
+    "new_claims_created": 4,
+    "existing_attempts_continued": 0,
+    "preflight_repairs_without_claim": 1,
+    "original_reported_new_attempts_used": 5
+  },
+  "profile_restore_recovery": {
+    "status": "None"
+  },
+  "portals": {
+    "naukri": {
+      "capability": "ApplyReady",
+      "reason": "Proof marker valid; independent new-attempt limit 10",
+      "session": "unknown"
+    },
+    "linkedin": {
+      "capability": "ApplyReady",
+      "reason": "Exact Easy Apply proof valid; independent new-attempt limit 10",
+      "session": "unknown"
+    },
+    "foundit": {
+      "capability": "Blocked",
+      "reason": "Discovery is switched off in config",
+      "session": "unknown"
+    },
+    "indeed": {
+      "capability": "Blocked",
+      "reason": "Discovery is switched off in config",
+      "session": "unknown"
+    },
+    "cutshort": {
+      "capability": "Blocked",
+      "reason": "Discovery is switched off in config",
+      "session": "unknown"
+    },
+    "ats": {
+      "capability": "Blocked",
+      "reason": "No employer board is enabled",
+      "session": "unknown"
+    }
+  },
+  "linkedin_application_worker": {
+    "enabled": true,
+    "max_submissions_per_run": 10,
+    "max_new_attempts_per_run": 10,
+    "capability_reason": "Exact Easy Apply proof valid; independent new-attempt limit 10",
+    "status": "Idle",
+    "candidate_count": 0,
+    "results": [],
+    "submissions": 0,
+    "blocked_jobs": 0,
+    "provider_stopped": false,
+    "new_attempts_used": 0,
+    "new_claims_created": 0,
+    "existing_attempts_continued": 0,
+    "preflight_repairs_without_claim": 0
+  },
+  "tab_lifecycle": {
+    "created": null,
+    "reused": null,
+    "closed": null,
+    "remaining_automation_tabs": null,
+    "job_tabs_created": null,
+    "job_tabs_closed": null,
+    "welcome_tabs_created": null,
+    "welcome_tabs_closed": null,
+    "remaining_job_tabs": null,
+    "remaining_welcome_tabs": null,
+    "uncertain_ids": [
+      "No tab lifecycle report was emitted"
+    ],
+    "recorded_ids": [],
+    "log_paths": []
+  },
+  "finished_at": "2026-10-13T18:51:45.658133+00:00",
+  "elapsed_seconds": 452.27,
+  "accounting_reconciliation": {
+    "repair_only_slots_excluded": 1,
+    "original_evidence": ".workflow/runs/48cec884-81ef-4ef3-b76c-b89fbd8f723b-original.json",
+    "at": "2026-10-13T18:59:08.066328+00:00"
+  }
+}

@@ -1,0 +1,74 @@
+{"time": "2026-10-03T07:00:09.541812+00:00", "event": "tab_created", "owner": "portal:naukri", "tab_id": 1}
+{"time": "2026-10-03T07:00:10.596159+00:00", "event": "tab_created", "owner": "portal:foundit", "tab_id": 1}
+{"time": "2026-10-03T07:00:15.808815+00:00", "event": "tab_reused", "owner": "portal:naukri", "tab_id": 1}
+{"time": "2026-10-03T07:00:15.811504+00:00", "event": "tab_created", "owner": "portal:linkedin", "tab_id": 1}
+{"time": "2026-10-03T07:00:21.178076+00:00", "event": "tab_reused", "owner": "portal:naukri", "tab_id": 1}
+{"time": "2026-10-03T07:00:23.980099+00:00", "event": "tab_reused", "owner": "portal:linkedin", "tab_id": 1}
+{"time": "2026-10-03T07:00:25.429744+00:00", "event": "tab_reused", "owner": "portal:foundit", "tab_id": 1}
+{"time": "2026-10-03T07:00:26.456070+00:00", "event": "tab_reused", "owner": "portal:naukri", "tab_id": 1}
+{"time": "2026-10-03T07:00:28.594346+00:00", "event": "tab_reused", "owner": "portal:linkedin", "tab_id": 1}
+{"time": "2026-10-03T07:00:32.391085+00:00", "event": "tab_reused", "owner": "portal:naukri", "tab_id": 1}
+{"time": "2026-10-03T07:00:34.266435+00:00", "event": "tab_reused", "owner": "portal:linkedin", "tab_id": 1}
+{"time": "2026-10-03T07:00:38.278631+00:00", "event": "tab_reused", "owner": "portal:naukri", "tab_id": 1}
+{"time": "2026-10-03T07:00:39.020077+00:00", "event": "tab_reused", "owner": "portal:linkedin", "tab_id": 1}
+{"time": "2026-10-03T07:00:42.040371+00:00", "event": "tab_reused", "owner": "portal:foundit", "tab_id": 1}
+{"time": "2026-10-03T07:00:43.952035+00:00", "event": "tab_closed", "owner": "portal:naukri", "tab_id": 1}
+{"time": "2026-10-03T07:00:43.952177+00:00", "event": "tab_lifecycle_summary", "owner": "portal:naukri", "created": 1, "reused": 5, "closed": 1, "remaining_automation_tabs": 0, "remaining_tab_ids": []}
+{"time": "2026-10-03T07:00:44.095113+00:00", "event": "tab_reused", "owner": "portal:linkedin", "tab_id": 1}
+{"time": "2026-10-03T07:00:46.077361+00:00", "event": "tab_closed", "owner": "portal:linkedin", "tab_id": 1}
+{"time": "2026-10-03T07:00:46.077499+00:00", "event": "tab_lifecycle_summary", "owner": "portal:linkedin", "created": 1, "reused": 5, "closed": 1, "remaining_automation_tabs": 0, "remaining_tab_ids": []}
+{"time": "2026-10-03T07:00:49.788874+00:00", "event": "tab_created", "owner": "portal:indeed", "tab_id": 1}
+{"time": "2026-10-03T07:00:49.836027+00:00", "event": "tab_created", "owner": "portal:cutshort", "tab_id": 1}
+{"time": "2026-10-03T07:00:53.300631+00:00", "event": "tab_reused", "owner": "portal:indeed", "tab_id": 1}
+{"time": "2026-10-03T07:00:55.657526+00:00", "event": "tab_reused", "owner": "portal:foundit", "tab_id": 1}
+{"time": "2026-10-03T07:00:57.979566+00:00", "event": "tab_reused", "owner": "portal:cutshort", "tab_id": 1}
+{"time": "2026-10-03T07:01:00.322828+00:00", "event": "tab_reused", "owner": "portal:cutshort", "tab_id": 1}
+{"time": "2026-10-03T07:01:02.192597+00:00", "event": "tab_reused", "owner": "portal:cutshort", "tab_id": 1}
+{"time": "2026-10-03T07:01:02.622152+00:00", "event": "tab_reused", "owner": "portal:indeed", "tab_id": 1}
+{"time": "2026-10-03T07:01:08.552383+00:00", "event": "tab_closed", "owner": "portal:cutshort", "tab_id": 1}
+{"time": "2026-10-03T07:01:08.552527+00:00", "event": "tab_lifecycle_summary", "owner": "portal:cutshort", "created": 1, "reused": 3, "closed": 1, "remaining_automation_tabs": 0, "remaining_tab_ids": []}
+{"time": "2026-10-03T07:01:09.789733+00:00", "event": "tab_reused", "owner": "portal:foundit", "tab_id": 1}
+{"time": "2026-10-03T07:01:11.556547+00:00", "event": "tab_reused", "owner": "portal:indeed", "tab_id": 1}
+{"time": "2026-10-03T07:01:19.056787+00:00", "event": "tab_reused", "owner": "portal:indeed", "tab_id": 1}
+{"time": "2026-10-03T07:01:26.630152+00:00", "event": "tab_reused", "owner": "portal:indeed", "tab_id": 1}
+{"time": "2026-10-03T07:01:27.133039+00:00", "event": "tab_reused", "owner": "portal:foundit", "tab_id": 1}
+{"time": "2026-10-03T07:01:32.724735+00:00", "event": "tab_closed", "owner": "portal:indeed", "tab_id": 1}
+{"time": "2026-10-03T07:01:32.724832+00:00", "event": "tab_lifecycle_summary", "owner": "portal:indeed", "created": 1, "reused": 5, "closed": 1, "remaining_automation_tabs": 0, "remaining_tab_ids": []}
+{"time": "2026-10-03T07:01:41.850338+00:00", "event": "tab_closed", "owner": "portal:foundit", "tab_id": 1}
+{"time": "2026-10-03T07:01:41.850442+00:00", "event": "tab_lifecycle_summary", "owner": "portal:foundit", "created": 1, "reused": 5, "closed": 1, "remaining_automation_tabs": 0, "remaining_tab_ids": []}
+{"time": "2026-10-03T07:01:48.654800+00:00", "event": "tab_created", "owner": "portal-native:naukri", "tab_id": 1}
+{"time": "2026-10-03T07:01:49.960012+00:00", "event": "tab_created", "owner": "portal-native:cutshort", "tab_id": 1}
+{"time": "2026-10-03T07:01:50.909453+00:00", "event": "tab_closed", "owner": "portal-native:cutshort", "tab_id": 1}
+{"time": "2026-10-03T07:01:50.909548+00:00", "event": "tab_lifecycle_summary", "owner": "portal-native:cutshort", "created": 1, "reused": 0, "closed": 1, "remaining_automation_tabs": 0, "remaining_tab_ids": []}
+{"time": "2026-10-03T07:01:52.462573+00:00", "event": "tab_closed", "owner": "portal-native:naukri", "tab_id": 1}
+{"time": "2026-10-03T07:01:52.462694+00:00", "event": "tab_lifecycle_summary", "owner": "portal-native:naukri", "created": 1, "reused": 0, "closed": 1, "remaining_automation_tabs": 0, "remaining_tab_ids": []}
+{"time": "2026-10-03T07:02:11.174723+00:00", "event": "tab_created", "owner": "lead:naukri", "tab_id": 1}
+{"time": "2026-10-03T07:02:12.992306+00:00", "event": "tab_closed", "owner": "lead:naukri", "tab_id": 1}
+{"time": "2026-10-03T07:02:12.992572+00:00", "event": "tab_lifecycle_summary", "owner": "lead:naukri", "created": 1, "reused": 0, "closed": 1, "remaining_automation_tabs": 0, "remaining_tab_ids": []}
+{"time": "2026-10-03T07:02:13.084041+00:00", "event": "tab_created", "owner": "lead:cutshort", "tab_id": 1}
+{"time": "2026-10-03T07:02:13.622413+00:00", "event": "tab_created", "owner": "lead:linkedin", "tab_id": 1}
+{"time": "2026-10-03T07:02:15.309460+00:00", "event": "tab_closed", "owner": "lead:linkedin", "tab_id": 1}
+{"time": "2026-10-03T07:02:15.309719+00:00", "event": "tab_lifecycle_summary", "owner": "lead:linkedin", "created": 1, "reused": 0, "closed": 1, "remaining_automation_tabs": 0, "remaining_tab_ids": []}
+{"time": "2026-10-03T07:02:16.494753+00:00", "event": "tab_created", "owner": "lead:naukri", "tab_id": 1}
+{"time": "2026-10-03T07:02:17.881749+00:00", "event": "tab_closed", "owner": "lead:naukri", "tab_id": 1}
+{"time": "2026-10-03T07:02:17.881947+00:00", "event": "tab_lifecycle_summary", "owner": "lead:naukri", "created": 1, "reused": 0, "closed": 1, "remaining_automation_tabs": 0, "remaining_tab_ids": []}
+{"time": "2026-10-03T07:02:19.983298+00:00", "event": "tab_closed", "owner": "lead:cutshort", "tab_id": 1}
+{"time": "2026-10-03T07:02:19.983451+00:00", "event": "tab_lifecycle_summary", "owner": "lead:cutshort", "created": 1, "reused": 0, "closed": 1, "remaining_automation_tabs": 0, "remaining_tab_ids": []}
+{"time": "2026-10-03T07:02:21.648802+00:00", "event": "tab_created", "owner": "lead:linkedin", "tab_id": 1}
+{"time": "2026-10-03T07:02:22.809978+00:00", "event": "tab_created", "owner": "lead:cutshort", "tab_id": 1}
+{"time": "2026-10-03T07:02:23.025259+00:00", "event": "tab_closed", "owner": "lead:linkedin", "tab_id": 1}
+{"time": "2026-10-03T07:02:23.025417+00:00", "event": "tab_lifecycle_summary", "owner": "lead:linkedin", "created": 1, "reused": 0, "closed": 1, "remaining_automation_tabs": 0, "remaining_tab_ids": []}
+{"time": "2026-10-03T07:02:23.734256+00:00", "event": "tab_created", "owner": "lead:naukri", "tab_id": 1}
+{"time": "2026-10-03T07:02:24.378264+00:00", "event": "tab_closed", "owner": "lead:cutshort", "tab_id": 1}
+{"time": "2026-10-03T07:02:24.379257+00:00", "event": "tab_lifecycle_summary", "owner": "lead:cutshort", "created": 1, "reused": 0, "closed": 1, "remaining_automation_tabs": 0, "remaining_tab_ids": []}
+{"time": "2026-10-03T07:02:25.169297+00:00", "event": "tab_closed", "owner": "lead:naukri", "tab_id": 1}
+{"time": "2026-10-03T07:02:25.169521+00:00", "event": "tab_lifecycle_summary", "owner": "lead:naukri", "created": 1, "reused": 0, "closed": 1, "remaining_automation_tabs": 0, "remaining_tab_ids": []}
+{"time": "2026-10-03T07:02:29.737172+00:00", "event": "tab_created", "owner": "lead:naukri", "tab_id": 1}
+{"time": "2026-10-03T07:02:31.368025+00:00", "event": "tab_created", "owner": "lead:linkedin", "tab_id": 1}
+{"time": "2026-10-03T07:02:31.369759+00:00", "event": "tab_created", "owner": "lead:cutshort", "tab_id": 1}
+{"time": "2026-10-03T07:02:31.458898+00:00", "event": "tab_closed", "owner": "lead:naukri", "tab_id": 1}
+{"time": "2026-10-03T07:02:31.459017+00:00", "event": "tab_lifecycle_summary", "owner": "lead:naukri", "created": 1, "reused": 0, "closed": 1, "remaining_automation_tabs": 0, "remaining_tab_ids": []}
+{"time": "2026-10-03T07:02:32.690128+00:00", "event": "tab_closed", "owner": "lead:cutshort", "tab_id": 1}
+{"time": "2026-10-03T07:02:32.690251+00:00", "event": "tab_lifecycle_summary", "owner": "lead:cutshort", "created": 1, "reused": 0, "closed": 1, "remaining_automation_tabs": 0, "remaining_tab_ids": []}
+{"time": "2026-10-03T07:02:33.428513+00:00", "event": "tab_closed", "owner": "lead:linkedin", "tab_id": 1}
+{"time": "2026-10-03T07:02:33.428837+00:00", "event": "tab_lifecycle_summary", "owner": "lead:linkedin", "created": 1, "reused": 0, "closed": 1, "remaining_automation_tabs": 0, "remaining_tab_ids": []}

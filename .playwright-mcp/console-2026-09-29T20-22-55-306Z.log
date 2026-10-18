@@ -1,0 +1,30 @@
+[     420ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     420ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     420ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     421ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    1496ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o949158.ingest.sentry.io/api/4505185660370944/envelope/?sentry_key=df650867098340f0a604b46b1dba4b45&sentry_version=7&sentry_client=sentry.javascript.browser%2F7.56.0:0
+[    2440ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o949158.ingest.sentry.io/api/4505185660370944/envelope/?sentry_key=df650867098340f0a604b46b1dba4b45&sentry_version=7&sentry_client=sentry.javascript.browser%2F7.56.0:0
+[   10991ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[   10993ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[   10993ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[   10993ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[   11919ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://edge.fullstory.com/s/fs.js:0
+[   10991ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[   10993ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[   10993ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[   10993ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[   11919ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://edge.fullstory.com/s/fs.js:0
+[   11940ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[   11941ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[   11941ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[   11941ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[   13919ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o949158.ingest.sentry.io/api/5931220/envelope/?sentry_key=658be7957621436eb5ec9ae083f050d4&sentry_version=7:0
+[   15567ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o949158.ingest.sentry.io/api/5931220/envelope/?sentry_key=658be7957621436eb5ec9ae083f050d4&sentry_version=7:0
+[   18206ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[   18206ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[   18206ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[   18206ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[   18224ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   18366ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   18493ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[   18635ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0

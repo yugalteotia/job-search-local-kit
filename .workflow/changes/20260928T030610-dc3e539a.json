@@ -1,0 +1,55 @@
+{
+  "row": 17,
+  "reason": "listing ingested",
+  "changes": {
+    "Company": {
+      "before": null,
+      "after": "Qualys"
+    },
+    "Role": {
+      "before": null,
+      "after": "Software Engineer"
+    },
+    "Job ID": {
+      "before": null,
+      "after": "R0004942"
+    },
+    "Direct link": {
+      "before": null,
+      "after": "https://qualys.wd5.myworkdayjobs.com/en-US/Careers/job/Software-Engineer_R0004942"
+    },
+    "Source": {
+      "before": null,
+      "after": "Original Qualys Workday page, live browser check; Naukri lead"
+    },
+    "Location": {
+      "before": null,
+      "after": "Pune, India"
+    },
+    "Verified date": {
+      "before": null,
+      "after": "2026-09-28T03:05:30Z"
+    },
+    "Fit": {
+      "before": null,
+      "after": "Medium"
+    },
+    "Fit rationale": {
+      "before": null,
+      "after": "Pune Java/REST overlap, but professional Elasticsearch and caching experience is required and absent; QA automation depth is also unclear. The 2-year Java minimum is borderline by exact employment dates. Medium only. Required evidence coverage: 50%."
+    },
+    "Key gaps": {
+      "before": null,
+      "after": "2–5 years enterprise Java development; QA automation design and build; Professional Elasticsearch indexing and Redis/Memcached caching"
+    },
+    "Status": {
+      "before": null,
+      "after": "Shortlisted"
+    },
+    "Next step": {
+      "before": null,
+      "after": "Resolve gaps / verify original before preparation"
+    }
+  },
+  "backup": ".workflow/backups/20260928T030610-dc3e539a.xlsx"
+}

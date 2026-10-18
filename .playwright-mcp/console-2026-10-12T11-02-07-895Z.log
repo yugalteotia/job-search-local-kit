@@ -1,0 +1,70 @@
+[     443ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     443ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     443ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     443ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     443ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    1223ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    1223ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    1223ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    1223ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    1223ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    2103ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://static.naukimg.com/s/0/0/j/nLoggerJB_v3.4.min.js:0
+[    2356ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o949158.ingest.sentry.io/api/4505185660370944/envelope/?sentry_key=df650867098340f0a604b46b1dba4b45&sentry_version=7&sentry_client=sentry.javascript.browser%2F7.56.0:0
+[    2775ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    2776ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    2777ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    2777ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    2991ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    3024ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    3084ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    3094ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    3134ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    3144ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    3164ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    3178ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    3190ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    3211ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    3236ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    3271ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    3302ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    3319ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    3349ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    3369ms] [LOG] company detail {title: More Information, data: Object} @ https://static.naukimg.com/s/9/121/_next/static/chunks/7681.78bf936e79465cae.js:0
+[    3581ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/collectorapi/v1/uba/bulk:0
+[    3587ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    3640ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    4028ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    4028ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    4029ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    4029ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    4029ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    4241ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o949158.ingest.sentry.io/api/4505185660370944/envelope/?sentry_key=df650867098340f0a604b46b1dba4b45&sentry_version=7&sentry_client=sentry.javascript.browser%2F7.56.0:0
+[    4387ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://edge.fullstory.com/s/fs.js:0
+[    4028ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    4028ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    4029ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    4029ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    4029ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    4387ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://edge.fullstory.com/s/fs.js:0
+[    4398ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    4398ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    4398ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    4398ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    4398ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    4793ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o949158.ingest.sentry.io/api/5931220/envelope/?sentry_key=658be7957621436eb5ec9ae083f050d4&sentry_version=7:0
+[    5074ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at r8 (https://static.licdn.com/aero-v1/sc/h/assets/CNyVMc-P.js:1:54563)
+    at iS (https://static.licdn.com/aero-v1/sc/h/assets/CNyVMc-P.js:1:105953)
+    at uC (https://static.licdn.com/aero-v1/sc/h/assets/CNyVMc-P.js:1:147615)
+    at https://static.licdn.com/aero-v1/sc/h/assets/CNyVMc-P.js:1:142608
+    at uh (https://static.licdn.com/aero-v1/sc/h/assets/CNyVMc-P.js:1:142709)
+    at u4 (https://static.licdn.com/aero-v1/sc/h/assets/CNyVMc-P.js:1:169172)
+    at MessagePort._ (https://static.licdn.com/aero-v1/sc/h/assets/CNyVMc-P.js:1:15089)
+[    5234ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/CzjbQsp0.js:2
+[    5236ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/CzjbQsp0.js:2
+[    5948ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o949158.ingest.sentry.io/api/5931220/envelope/?sentry_key=658be7957621436eb5ec9ae083f050d4&sentry_version=7:0
+[    5952ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.linkedin.com/sensorCollect/?action=reportMetrics:0
+[    5955ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/CzjbQsp0.js:2
+[    6181ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/CzjbQsp0.js:2
+[    6184ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/CzjbQsp0.js:2
+[    6186ms] [WARNING] Attribute 'exception.tags' of type 'object' could not be converted to a proto attribute. @ https://static.licdn.com/aero-v1/sc/h/assets/CzjbQsp0.js:2

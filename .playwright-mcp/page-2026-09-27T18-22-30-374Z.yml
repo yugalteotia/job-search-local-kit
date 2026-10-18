@@ -1,0 +1,6 @@
+- generic [ref=e1]:
+  - main [ref=e23]
+  - alert [ref=e107]
+  - contentinfo [ref=e108]:
+    - generic [ref=e112]:
+      - list

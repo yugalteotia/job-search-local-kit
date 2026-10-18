@@ -1,0 +1,25 @@
+{
+  "job_id": 342,
+  "requisition_id": "131026047727",
+  "attempt_id": null,
+  "saves": 0,
+  "status": "Blocked",
+  "stage": "applied_history_check",
+  "preflight_resume_repair_only": false,
+  "generic_resume_restored": true,
+  "generic_resume_restore_evidence": "jobs/naukri-131026047727/naukri-generic-startup-verification.json",
+  "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+  "generic_resume_verified_at": "2026-10-13T19:01:32.052839+00:00",
+  "generic_resume_repaired_at_start": false,
+  "error_type": "RuntimeError",
+  "error_origin": {
+    "file": "naukri_native_worker.py",
+    "function": "_run_one",
+    "line": 445
+  },
+  "error_message": "Delayed confirmation lacks matching durable questionnaire progress",
+  "url": "https://www.naukri.com/job-listings-java-full-stack-developer-naukri-assist-hyderabad-3-to-10-years-131026047727",
+  "reason": "application_handoff_required",
+  "detail": "Delayed confirmation lacks matching durable questionnaire progress",
+  "at": "2026-10-13T19:02:07.775998+00:00"
+}

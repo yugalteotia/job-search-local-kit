@@ -1,0 +1,6 @@
+[     384ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     384ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     384ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     384ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     385ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://jobs.natwestgroup.com/jobs/18275600-software-engineer:0
+[    1135ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://jobs.natwestgroup.com/favicon.ico:0

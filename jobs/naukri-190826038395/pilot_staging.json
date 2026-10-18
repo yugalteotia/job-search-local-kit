@@ -1,0 +1,47 @@
+{
+  "job_id": 220,
+  "employer": "Infosys",
+  "role": "Java Backend Developer | Spring Boot | Microservices",
+  "portal_job_id": "190826038395",
+  "direct_url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-microservices-infosys-pune-chennai-bengaluru-2-to-5-years-190826038395",
+  "source": "naukri_portal_native",
+  "jd_sha256": "7b115e4fcecb7439468a540783d9316f3417de94de542abcfc097baf97b944e9",
+  "checked_at": "2026-09-29T03:51:35.851105+00:00",
+  "live_check": {
+    "exact_job": true,
+    "signed_in": true,
+    "apply_visible": true,
+    "already_applied_visible": false,
+    "form_opened": true,
+    "final_submission_attempted": false
+  },
+  "fit": "Medium",
+  "experience_requirement": "2 - 5 years; do not round up exact experience",
+  "confirmed_project_training": [
+    "SQL",
+    "MySQL",
+    "Spring Data JPA",
+    "Hibernate"
+  ],
+  "hard_skill_questions": [],
+  "other_gap": "Cloud deployment contribution is a JD responsibility; production cloud work remains unestablished.",
+  "stage": "Uncertain (locked): one claimed native chat Save sent; Thank You shown; exact listing and full Applied Jobs history have no submission proof",
+  "next_action": "Investigate Naukri-side exact requisition confirmation; do not click Apply or Save again while this attempt is uncertain.",
+  "updated_at": "2026-09-29T08:14:49.505572+00:00",
+  "confirmed_answers": {
+    "Spring MVC": "Used at IDeaS and in Store REST API project",
+    "Java version": "Java 17 at IDeaS; project used Java 8+ features"
+  },
+  "posting_date": "Unknown; listing displayed relative \"Posted: 1 day ago\" only",
+  "resume_pdf": "jobs/naukri-190826038395/Yugal_Teotia_Java_Backend_Developer.pdf",
+  "resume_sha256": "4c30dcd8d3fa93ddebc1a1419e54791b20fbdd4e3c0f594c902d136325d6f9db",
+  "resume_visual_review": "jobs/naukri-190826038395/resume_visual_review.json",
+  "blocked_question": null,
+  "profile_default_resume": "Yugal_Teotia_CV.pdf (restored and independently verified after attempt)",
+  "outcome_evidence": "jobs/naukri-190826038395/outcome_investigation.json",
+  "readonly_audit": "jobs/naukri-190826038395/readonly-outcome-audit.json",
+  "full_history_audit": "jobs/naukri-190826038395/full-applied-history-audit.json",
+  "resume_flow_inspection": "jobs/naukri-190826038395/resume-flow-inspection.json",
+  "attempt_id": "b59f715d-900f-4ce8-94eb-32385b97bf92",
+  "attempt_evidence": "jobs/naukri-190826038395/naukri-native-attempt-outcome.json"
+}

@@ -1,0 +1,55 @@
+{
+  "row": 16,
+  "reason": "listing ingested",
+  "changes": {
+    "Company": {
+      "before": null,
+      "after": "Brillio"
+    },
+    "Role": {
+      "before": null,
+      "after": "Senior Engineer"
+    },
+    "Job ID": {
+      "before": null,
+      "after": "R01571651"
+    },
+    "Direct link": {
+      "before": null,
+      "after": "https://jobs.lever.co/brillio-2/170fb4c9-1346-49f1-9014-d56a36cae2c3"
+    },
+    "Source": {
+      "before": null,
+      "after": "Original Brillio Lever page, live browser check"
+    },
+    "Location": {
+      "before": null,
+      "after": "Bangalore, Karnataka, India"
+    },
+    "Verified date": {
+      "before": null,
+      "after": "2026-09-27T23:04:18Z"
+    },
+    "Fit": {
+      "before": null,
+      "after": "Medium"
+    },
+    "Fit rationale": {
+      "before": null,
+      "after": "Java/Spring backend overlap is strong but advanced AngularJS/React, production Hibernate and relational database integration are not demonstrated at the required depth; Medium only. Required evidence coverage: 50%."
+    },
+    "Key gaps": {
+      "before": null,
+      "after": "Advanced AngularJS or React JS; Hibernate; MySQL/Oracle RDBMS integration"
+    },
+    "Status": {
+      "before": null,
+      "after": "Shortlisted"
+    },
+    "Next step": {
+      "before": null,
+      "after": "Resolve gaps / verify original before preparation"
+    }
+  },
+  "backup": ".workflow/backups/20260927T231122-85f3d742.xlsx"
+}

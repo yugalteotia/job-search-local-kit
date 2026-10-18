@@ -1,0 +1,78 @@
+{
+  "attempt_id": "9f11e9ab-ba31-4fdc-bd78-6f6e9aebfbf2",
+  "requisition_id": "290826005830",
+  "captured_at": "2026-10-17T15:00:46.408762+00:00",
+  "url": "https://www.naukri.com/job-listings-java-full-stack-developer-react-js-infosys-kolkata-hyderabad-pune-2-to-7-years-290826005830",
+  "confirmation_text": "Fully loaded exact-ID Applied Jobs history confirms Application Sent",
+  "history_full": true,
+  "exact_history_id_match": true,
+  "history_loaded_rows": 314,
+  "history_expected_total": 314,
+  "account_identity_verified": true,
+  "account_session_verified": true,
+  "history_filter_verified": true,
+  "history_identity": {
+    "basis": "server_history_exact_job_id",
+    "server_rows": [
+      {
+        "job_id": "290826005830",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "Java Full Stack Developer(React.js)",
+        "company": "Infosys",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "statusValue": "Applied",
+            "modifiedDate": "2026-10-17 12:39:22",
+            "dateTime": "2026-10-17 12:39:21"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "statusValue": "Application Sent",
+            "modifiedDate": "2026-10-17 12:39:22",
+            "dateTime": "2026-10-17 12:39:22"
+          }
+        ]
+      },
+      {
+        "job_id": "290826005830",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "Java Full Stack Developer(React.js)",
+        "company": "Infosys",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "statusValue": "Applied",
+            "modifiedDate": "2026-10-17 12:39:22",
+            "dateTime": "2026-10-17 12:39:21"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "statusValue": "Application Sent",
+            "modifiedDate": "2026-10-17 12:39:22",
+            "dateTime": "2026-10-17 12:39:22"
+          }
+        ]
+      }
+    ]
+  },
+  "new_application_action": false,
+  "saved_answer_replayed": false,
+  "read_only_reconciliation": true,
+  "automatic_reconciliation": true,
+  "phase": "before",
+  "application_sent": true,
+  "exact_job_id_match": true,
+  "workflow_worker_proven": false,
+  "confirmation_origin": "read_only_history_reconciliation",
+  "unverified_pending_question": null,
+  "screening_answer_delivery_not_verified_by_history": true
+}

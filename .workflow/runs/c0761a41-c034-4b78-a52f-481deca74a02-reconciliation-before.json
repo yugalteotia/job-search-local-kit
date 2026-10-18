@@ -1,0 +1,230 @@
+{
+  "status": "Complete",
+  "phase": "before",
+  "providers": {
+    "naukri": {
+      "status": "Checked",
+      "pending": 1,
+      "history": {
+        "full": true,
+        "account_verified": true,
+        "rows_by_id": {
+          "100826024113": [
+            {
+              "job_id": "100826024113",
+              "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+              "title": "Java Full Stack Developer(React.js)",
+              "company": "Infosys",
+              "status": [
+                {
+                  "statusId": 1,
+                  "appId": null,
+                  "count": 1,
+                  "statusValue": "Applied",
+                  "modifiedDate": "2026-10-17 20:35:11",
+                  "dateTime": "2026-10-17 20:35:11"
+                },
+                {
+                  "statusId": 2,
+                  "appId": 107,
+                  "count": 1,
+                  "statusValue": "Application Sent",
+                  "modifiedDate": "2026-10-17 20:35:11",
+                  "dateTime": "2026-10-17 20:35:11"
+                }
+              ]
+            },
+            {
+              "job_id": "100826024113",
+              "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+              "title": "Java Full Stack Developer(React.js)",
+              "company": "Infosys",
+              "status": [
+                {
+                  "statusId": 1,
+                  "appId": null,
+                  "count": 1,
+                  "modifiedDate": "2026-10-17 20:35:11",
+                  "statusValue": "Applied",
+                  "dateTime": "2026-10-17 20:35:11"
+                },
+                {
+                  "statusId": 2,
+                  "appId": 107,
+                  "count": 1,
+                  "modifiedDate": "2026-10-17 20:35:11",
+                  "statusValue": "Application Sent",
+                  "dateTime": "2026-10-17 20:35:11"
+                }
+              ]
+            }
+          ]
+        },
+        "loaded_rows": 315,
+        "expected_total": 315,
+        "load_sweeps": [
+          {
+            "rows": 10,
+            "total": 315,
+            "exact": 0,
+            "company_role": 2,
+            "more": true
+          },
+          {
+            "rows": 20,
+            "total": 315,
+            "exact": 0,
+            "company_role": 2,
+            "more": true
+          },
+          {
+            "rows": 40,
+            "total": 315,
+            "exact": 0,
+            "company_role": 2,
+            "more": true
+          },
+          {
+            "rows": 60,
+            "total": 315,
+            "exact": 0,
+            "company_role": 2,
+            "more": true
+          },
+          {
+            "rows": 80,
+            "total": 315,
+            "exact": 0,
+            "company_role": 2,
+            "more": true
+          },
+          {
+            "rows": 100,
+            "total": 315,
+            "exact": 0,
+            "company_role": 2,
+            "more": true
+          },
+          {
+            "rows": 120,
+            "total": 315,
+            "exact": 0,
+            "company_role": 2,
+            "more": true
+          },
+          {
+            "rows": 140,
+            "total": 315,
+            "exact": 0,
+            "company_role": 2,
+            "more": true
+          },
+          {
+            "rows": 160,
+            "total": 315,
+            "exact": 0,
+            "company_role": 2,
+            "more": true
+          },
+          {
+            "rows": 180,
+            "total": 315,
+            "exact": 0,
+            "company_role": 2,
+            "more": true
+          },
+          {
+            "rows": 200,
+            "total": 315,
+            "exact": 0,
+            "company_role": 2,
+            "more": true
+          },
+          {
+            "rows": 220,
+            "total": 315,
+            "exact": 0,
+            "company_role": 2,
+            "more": true
+          },
+          {
+            "rows": 240,
+            "total": 315,
+            "exact": 0,
+            "company_role": 2,
+            "more": true
+          },
+          {
+            "rows": 260,
+            "total": 315,
+            "exact": 0,
+            "company_role": 2,
+            "more": true
+          },
+          {
+            "rows": 280,
+            "total": 315,
+            "exact": 0,
+            "company_role": 2,
+            "more": true
+          },
+          {
+            "rows": 300,
+            "total": 315,
+            "exact": 0,
+            "company_role": 2,
+            "more": true
+          },
+          {
+            "rows": 315,
+            "total": 315,
+            "exact": 0,
+            "company_role": 2,
+            "more": false
+          }
+        ],
+        "generic_filename_before": "Yugal_Teotia_Resume.pdf",
+        "generic_filename_after": "Yugal_Teotia_Resume.pdf",
+        "expected_generic_filename": "Yugal_Teotia_CV.pdf",
+        "blocker": null
+      }
+    },
+    "linkedin": {
+      "status": "NoPending",
+      "pending": 0
+    }
+  },
+  "confirmed": [
+    {
+      "job_id": 380,
+      "requisition_id": "100826024113",
+      "attempt_id": "9b2f7235-5fb0-4bc2-841d-721d23ffe17e",
+      "status": "Applied",
+      "confirmation_path": "jobs/naukri-100826024113/naukri-history-reconciliation-confirmation.json",
+      "new_claim_created": false,
+      "new_application_action": false,
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-react-js-infosys-kolkata-hyderabad-pune-2-to-5-years-100826024113"
+    }
+  ],
+  "new_claims": 0,
+  "tracker": {
+    "database_rows": 400,
+    "tracker_rows": 400,
+    "quick_rows": 44,
+    "detailed_rows": 400,
+    "quick": "views/quick.html",
+    "detailed": "views/detailed.html",
+    "status": {
+      "status_json": "views/status.json",
+      "applied": 31,
+      "needs_answer": 0,
+      "uncertain": 1
+    }
+  },
+  "notifications": [
+    {
+      "job_id": 380,
+      "sent": true
+    }
+  ]
+}

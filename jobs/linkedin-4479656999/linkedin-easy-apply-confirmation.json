@@ -1,0 +1,10 @@
+{
+  "attempt_id": "0e796b4f-8a5d-4563-84f3-053903f8d3e1",
+  "requisition_id": "4479656999",
+  "captured_at": "2026-10-17T07:06:38.747150+00:00",
+  "url": "https://www.linkedin.com/jobs/view/4479656999/",
+  "confirmation_text": "Application sent on the exact LinkedIn job flow",
+  "application_sent": true,
+  "exact_job_id_match": true,
+  "role_resume_sha256": "03e54d99bd4d96f6c73833e6da316d21fde12f6c999a825edfe303b493c382f5"
+}

@@ -1,0 +1,231 @@
+{
+  "checked": "2026-09-27T21:53:20.547681+00:00",
+  "as_of_ist": "2026-09-28",
+  "master_sha256": "498eb1ca1e8f5db09278708dc57541a4188c4c7245245e705c93359f8156060f",
+  "answers": {
+    "name": {
+      "value": "Yugal Teotia",
+      "state": "confirmed",
+      "evidence": "master header"
+    },
+    "email": {
+      "value": "teotia.yugal@gmail.com",
+      "state": "confirmed",
+      "evidence": "master header"
+    },
+    "phone": {
+      "value": "+91 9560369538",
+      "state": "confirmed",
+      "evidence": "master header"
+    },
+    "location": {
+      "value": "Pune, India",
+      "state": "confirmed",
+      "evidence": "master header"
+    },
+    "linkedin": {
+      "value": "https://www.linkedin.com/in/yugalteotia/",
+      "state": "confirmed",
+      "evidence": "master header"
+    },
+    "github": {
+      "value": "https://github.com/yugalteotia",
+      "state": "confirmed",
+      "evidence": "master header"
+    },
+    "first_name": {
+      "value": "Yugal",
+      "state": "confirmed",
+      "evidence": "First component of master full name"
+    },
+    "last_name": {
+      "value": "Teotia",
+      "state": "confirmed",
+      "evidence": "Last component of master full name"
+    },
+    "country": {
+      "value": "India",
+      "state": "confirmed",
+      "evidence": "Current location in master, not citizenship/work authorization"
+    },
+    "relocation": {
+      "value": "Any city in India",
+      "state": "confirmed",
+      "evidence": "Both profile documents; preference, not a resume claim"
+    },
+    "work_mode": {
+      "value": "Onsite, hybrid or remote",
+      "state": "confirmed",
+      "evidence": "Both profile documents; preference, not a resume claim"
+    },
+    "joining_date": {
+      "value": "2026-10-01",
+      "state": "confirmed",
+      "evidence": "Explicit user confirmation preserved in APPLICATION_PROFILE.md (2026-09-27); stale SEARCH_PROFILE line reconciled"
+    },
+    "total_experience_approx": {
+      "value": "2+ years overall professional experience",
+      "state": "confirmed",
+      "evidence": "Master employment month ranges: Oct 2024–Sep 2026 plus Feb–May 2023; rounded overall claim only, excludes training"
+    },
+    "java_professional_experience_approx": {
+      "value": "Approximately 2 years at IDeaS",
+      "state": "confirmed",
+      "evidence": "Master IDeaS Oct 2024–Sep 2026; not a claim of 2+ professional Java years; PG-DAC separate"
+    },
+    "total_experience": {
+      "value": null,
+      "state": "uncertain",
+      "evidence": "Data Nova exact dates are not established; user disallowed assumed dates and the 27-month figure as a confirmed answer. Ask only when a portal requires exact dates or exact total experience."
+    },
+    "java_professional_experience": {
+      "value": {
+        "completed_months": 23,
+        "years": 1,
+        "months": 11,
+        "elapsed_days": 714,
+        "decimal_years": 1.955
+      },
+      "state": "confirmed",
+      "evidence": "Derived from exact IDeaS dates in employment_dates.json; full calendar months; decimal years = elapsed days / 365.2425. Past end dates inclusive, current day excluded; training excluded."
+    },
+    "datanova_employment_dates": {
+      "value": null,
+      "state": "uncertain",
+      "evidence": "Month/year dates supported by generic resume; user revoked assumed day-level dates. Ask if a portal requires exact dates."
+    },
+    "datanova_employment_months": {
+      "value": {
+        "start": "2023-02",
+        "end": "2023-05"
+      },
+      "state": "confirmed",
+      "evidence": "Month/year dates supported by generic resume; user revoked assumed day-level dates. Ask if a portal requires exact dates. Use only in month/year fields."
+    },
+    "ideas_employment_dates": {
+      "value": {
+        "start": "2024-10-14",
+        "end": "2026-09-30"
+      },
+      "state": "confirmed",
+      "evidence": "User confirmed exact start day 14 October; year from master; last working day from confirmed profile; portal-only, not resume day dates"
+    },
+    "reason_for_leaving": {
+      "value": "My role at IDeaS ends on 30 September 2026, and I'm seeking a backend-focused software engineering position where I can build services and APIs.",
+      "state": "confirmed",
+      "evidence": "Confirmed reason in both profiles; tense follows confirmed last working day; no new reason inferred"
+    },
+    "notice_period": {
+      "value": "Last working day 30 September 2026; available from 1 October 2026",
+      "state": "confirmed",
+      "evidence": "Release/availability dates; use only in an open-text availability or remaining-notice question"
+    },
+    "remaining_notice_days": {
+      "value": 3,
+      "state": "confirmed",
+      "evidence": "Calendar days from 2026-09-28 IST to confirmed joining date; only for days until joining"
+    },
+    "contractual_notice_period": {
+      "value": null,
+      "state": "uncertain",
+      "evidence": "Original employment-contract notice duration is not in the documents; ask only if a form explicitly requires it"
+    },
+    "citizenship": {
+      "value": null,
+      "state": "uncertain",
+      "evidence": "TBD in application profile"
+    },
+    "dob": {
+      "value": null,
+      "state": "uncertain",
+      "evidence": "TBD in application profile"
+    },
+    "address": {
+      "value": null,
+      "state": "uncertain",
+      "evidence": "TBD in application profile"
+    },
+    "education_grade": {
+      "value": null,
+      "state": "uncertain",
+      "evidence": "TBD in application profile"
+    },
+    "gender": {
+      "value": "Male",
+      "state": "confirmed",
+      "evidence": "Latest explicit user confirmation in APPLICATION_PROFILE.md"
+    },
+    "work_authorization": {
+      "value": "Unrestricted authorization to work in India",
+      "state": "confirmed",
+      "evidence": "User confirmation, India jobs only; not citizenship"
+    },
+    "sponsorship_india": {
+      "value": "No",
+      "state": "confirmed",
+      "evidence": "Explicit user confirmation in APPLICATION_PROFILE.md; reuse only for an equivalent question"
+    },
+    "armed_forces": {
+      "value": "No",
+      "state": "confirmed",
+      "evidence": "Explicit user confirmation in APPLICATION_PROFILE.md; reuse only for an equivalent question"
+    },
+    "restrictive_covenant": {
+      "value": "No",
+      "state": "confirmed",
+      "evidence": "Explicit user confirmation in APPLICATION_PROFILE.md; reuse only for an equivalent question"
+    },
+    "prior_uhg_offer": {
+      "value": "No",
+      "state": "confirmed",
+      "evidence": "Explicit user confirmation in APPLICATION_PROFILE.md; reuse only for an equivalent question"
+    },
+    "prior_uhg_employment": {
+      "value": "No",
+      "state": "confirmed",
+      "evidence": "Explicit user confirmation in APPLICATION_PROFILE.md; reuse only for an equivalent question"
+    },
+    "current_annual_total_ctc_inr": {
+      "value": 1000000,
+      "state": "confirmed",
+      "mandatory_only": true,
+      "evidence": "Explicit user salary confirmation; exact label and units must match"
+    },
+    "current_annual_fixed_pay_inr": {
+      "value": 900000,
+      "state": "confirmed",
+      "mandatory_only": true,
+      "evidence": "Explicit user salary confirmation; exact label and units must match"
+    },
+    "current_annual_variable_pay_inr": {
+      "value": 100000,
+      "state": "confirmed",
+      "mandatory_only": true,
+      "evidence": "Explicit user salary confirmation; exact label and units must match"
+    },
+    "data_nova_annual_total_ctc_inr": {
+      "value": 360000,
+      "state": "confirmed",
+      "mandatory_only": true,
+      "evidence": "Explicit user salary confirmation; exact label and units must match"
+    },
+    "current_ctc": {
+      "value": "10 LPA annual total CTC (9 LPA fixed + 1 LPA performance-based variable)",
+      "state": "confirmed",
+      "mandatory_only": true,
+      "evidence": "Both profile documents; user-provided salary, not independently verified"
+    },
+    "expected_ctc": {
+      "value": "Approximately 15 LPA",
+      "state": "confirmed",
+      "mandatory_only": true,
+      "evidence": "Both profile documents; user-provided salary, not independently verified"
+    }
+  },
+  "notes": [
+    "Generic master remains source of truth; employment tense follows confirmed end date.",
+    "Legacy tailored resume contains unsupported claims; do not reuse.",
+    "Data Nova Kotlin/Agile claims in legacy helper are not established by master experience bullets.",
+    "Daily submissions require passed private browser probe, active control gate and pre-submit verification. Optum 2388999 never retried."
+  ]
+}

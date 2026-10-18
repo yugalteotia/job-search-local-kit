@@ -1,0 +1,395 @@
+{
+  "run_id": "c78925ae-ff8e-4760-bad2-1f423625a2c4",
+  "started_at": "2026-09-28T06:13:53.067797+00:00",
+  "mode": "read_only",
+  "upload_enabled": false,
+  "submission_enabled": false,
+  "scheduled": false,
+  "test": true,
+  "status": "Partial",
+  "sources": {
+    "naukri": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:14:00.143344+00:00",
+      "pages_checked": 1,
+      "leads": 0,
+      "feed_jobs": 0
+    },
+    "linkedin": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:14:06.909553+00:00",
+      "pages_checked": 1,
+      "leads": 5,
+      "feed_jobs": 0
+    },
+    "foundit": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:14:09.964060+00:00",
+      "pages_checked": 1,
+      "leads": 17,
+      "feed_jobs": 0
+    },
+    "indeed": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:14:09.969077+00:00",
+      "pages_checked": 1,
+      "leads": 12,
+      "feed_jobs": 0
+    },
+    "celonis_greenhouse": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:14:09.969303+00:00",
+      "pages_checked": 1,
+      "leads": 0,
+      "feed_jobs": 100,
+      "unique_originals_verified": 98
+    },
+    "cutshort": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:14:14.360080+00:00",
+      "pages_checked": 1,
+      "leads": 30,
+      "feed_jobs": 0
+    },
+    "brillio_lever": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:14:09.964308+00:00",
+      "pages_checked": 2,
+      "leads": 0,
+      "feed_jobs": 50,
+      "unique_originals_verified": 50
+    }
+  },
+  "coverage": {
+    "naukri": [
+      {
+        "query": "Java backend API",
+        "location": "Remote India",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20backend%20API&l=Remote%20India&pageNo=1",
+        "checked_at": "2026-09-28T06:14:00.106600+00:00",
+        "status": "Success",
+        "lead_count": 0,
+        "observed_url": "https://www.naukri.com/java-backend-api-jobs-in-remote-india",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "linkedin": [
+      {
+        "query": "Java backend API",
+        "location": "Remote India",
+        "page": 1,
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20backend%20API&location=Remote%20India&sortBy=DD&start=0",
+        "checked_at": "2026-09-28T06:14:06.877797+00:00",
+        "status": "Success",
+        "lead_count": 5,
+        "observed_url": "https://www.linkedin.com/jobs/search/",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "foundit": [
+      {
+        "query": "Java backend API",
+        "location": "Remote India",
+        "page": 1,
+        "url": "https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Remote%20India&page=1",
+        "checked_at": "2026-09-28T06:14:09.931287+00:00",
+        "status": "Success",
+        "lead_count": 17,
+        "observed_url": "https://www.foundit.in/srp/results",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "indeed": [
+      {
+        "query": "Java backend API",
+        "location": "Remote India",
+        "page": 1,
+        "url": "https://in.indeed.com/jobs?q=Java%20backend%20API&l=Remote%20India&sort=date&start=0",
+        "checked_at": "2026-09-28T06:14:09.936214+00:00",
+        "status": "Success",
+        "lead_count": 12,
+        "observed_url": "https://in.indeed.com/jobs",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "celonis_greenhouse": [
+      {
+        "page": 1,
+        "url": "https://boards-api.greenhouse.io/v1/boards/celonis/jobs?content=true",
+        "items": 100,
+        "total_returned": 253,
+        "checked_at": "2026-09-28T06:14:10.956191+00:00",
+        "status": "Partial"
+      }
+    ],
+    "cutshort": [
+      {
+        "query": "Java backend API",
+        "location": "Remote India",
+        "page": 1,
+        "url": "https://cutshort.io/jobs/java-jobs?query=Java%20backend%20API&location=Remote%20India&page=1",
+        "checked_at": "2026-09-28T06:14:14.328065+00:00",
+        "status": "Success",
+        "lead_count": 30,
+        "observed_url": "https://cutshort.io/jobs/java-jobs",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "brillio_lever": [
+      {
+        "page": 1,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=0&limit=25&mode=json",
+        "items": 25,
+        "checked_at": "2026-09-28T06:14:12.784014+00:00",
+        "status": "Success"
+      },
+      {
+        "page": 2,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=25&limit=25&mode=json",
+        "items": 25,
+        "checked_at": "2026-09-28T06:14:15.830514+00:00",
+        "status": "Success"
+      }
+    ]
+  },
+  "leads": 214,
+  "unique_original_requisitions_verified": 148,
+  "fit_decisions": {
+    "154": {
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "mputer Science or a related field. 3-6 years of hands-on software engineering experience. Hands on experience in Java, Spring, Hibernate frameworks. Expos",
+        "technology": "experience. Hands on experience in Java, Spring, Hibernate frameworks. Exposure to geographically distributed work environments. Ability",
+        "role": "Title: Software Engineer - Java, Springboot, SAAS Location: Bangalore, India Celonis is the trusted platform to industrializ"
+      },
+      "jd_sha256": "5b77338eab387200bc0c7b4950ee1facb98d244cb0c01955fa83f8d5d55a190c"
+    },
+    "156": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Required experience starts at 5 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "neering) or equivalent experience. 5+ years of experience (mandatory) as Backend Engineer with strong expertise in building microservices based products",
+        "technology": "microservices based products using Java, Spring framework, JPA, Hibernate is a must. Experience with building data pipelines in Databrick",
+        "role": "Title: Senior Software Engineer - Java, Springboot, SAAS Location: Bangalore, India Celonis is the trusted platform to industrializ"
+      },
+      "jd_sha256": "582e710aa4eb2921618ee506df37c29777647128e20a6662f3541fc80c4ff8ac"
+    },
+    "155": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Required experience starts at 10 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "ineering) or equivalent experience 10+ years of software engineering experience 7+ years of experience as Backend Engineer with strong expertise in buildi",
+        "technology": "microservices based products using Java, Spring framework, JPA, Hibernate is a must. Experience with building data pipelines in Databrick",
+        "role": "Title: Staff Software Engineer - Java, Springboot, SAAS Location: Bangalore, India Celonis is the trusted platform to industrializ"
+      },
+      "jd_sha256": "cec77a5f72367b75893c803fa810a1f135df203ed97a8b98e08d11f12cd9f4bb"
+    },
+    "146": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience starts at 5 years, above the 2.5-year High-fit gate",
+        "SAP ABAP role; no matching production work evidence in generic master"
+      ],
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "Have at least 5 years of experience as a professional ABAP Developer. High level of commitment and responsibility as well as enthus",
+        "technology": null,
+        "role": "Title: Software Engineer - SAP ABAP Location: Bangalore, India Celonis is the trusted platform to industrialize Enterprise A"
+      },
+      "jd_sha256": "5c13710cd0e1b85b9fccbae029b6cac739d469deb856f785ec42fd923381052a"
+    },
+    "147": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience starts at 5 years, above the 2.5-year High-fit gate",
+        "SAP ABAP role; no matching production work evidence in generic master"
+      ],
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "Have at least 5 years of experience as a professional ABAP Developer. High level of commitment and responsibility as well as enthus",
+        "technology": null,
+        "role": "Title: Senior Software Engineer - SAP ABAP Location: Bangalore, India Celonis is the trusted platform to industrialize Enterprise A"
+      },
+      "jd_sha256": "18ab557a44844ca2bbfb4acdcba4195ac61a4b29f37c0699d0a50db1fef08cf7"
+    }
+  },
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [
+    {
+      "original_url": "https://job-boards.greenhouse.io/celonis/jobs/7988115003",
+      "reason": "TimeoutError"
+    },
+    {
+      "original_url": "https://job-boards.greenhouse.io/celonis/jobs/7817387003",
+      "reason": "TimeoutError"
+    }
+  ],
+  "evidence_paths": [
+    ".workflow/runs/c78925ae-ff8e-4760-bad2-1f423625a2c4.json"
+  ],
+  "queue": {},
+  "stage_seconds": {
+    "discovery": 22.76,
+    "original_verification": 38.86,
+    "fit_review": 0.08
+  },
+  "stage_counts": {
+    "fetched": 214,
+    "unique_original_requisitions": 148,
+    "eligible_for_review": 5,
+    "original_jds_reviewed": 5,
+    "high": 0,
+    "queued_for_resume": 0,
+    "review_queue_added": 5
+  },
+  "top_reviewed": [
+    {
+      "job_id": 154,
+      "company": "Celonis",
+      "role": "Software Engineer - Java, Springboot, SAAS",
+      "location": "Bangalore, India",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7791275003",
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "jd_sha256": "5b77338eab387200bc0c7b4950ee1facb98d244cb0c01955fa83f8d5d55a190c",
+      "original_page_checked_at": "2026-09-28T06:14:42.684368+00:00",
+      "reviewed_at": "2026-09-28T06:14:55.388009+00:00",
+      "experience_minimum": 3.0,
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "mputer Science or a related field. 3-6 years of hands-on software engineering experience. Hands on experience in Java, Spring, Hibernate frameworks. Expos",
+        "technology": "experience. Hands on experience in Java, Spring, Hibernate frameworks. Exposure to geographically distributed work environments. Ability",
+        "role": "Title: Software Engineer - Java, Springboot, SAAS Location: Bangalore, India Celonis is the trusted platform to industrializ"
+      },
+      "reasons": [
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 156,
+      "company": "Celonis",
+      "role": "Senior Software Engineer - Java, Springboot, SAAS",
+      "location": "Bangalore, India",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7791291003",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "jd_sha256": "582e710aa4eb2921618ee506df37c29777647128e20a6662f3541fc80c4ff8ac",
+      "original_page_checked_at": "2026-09-28T06:14:42.659262+00:00",
+      "reviewed_at": "2026-09-28T06:14:55.396715+00:00",
+      "experience_minimum": 5.0,
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "neering) or equivalent experience. 5+ years of experience (mandatory) as Backend Engineer with strong expertise in building microservices based products",
+        "technology": "microservices based products using Java, Spring framework, JPA, Hibernate is a must. Experience with building data pipelines in Databrick",
+        "role": "Title: Senior Software Engineer - Java, Springboot, SAAS Location: Bangalore, India Celonis is the trusted platform to industrializ"
+      },
+      "reasons": [
+        "Required experience starts at 5 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 155,
+      "company": "Celonis",
+      "role": "Staff Software Engineer - Java, Springboot, SAAS",
+      "location": "Bangalore, India",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7791427003",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "jd_sha256": "cec77a5f72367b75893c803fa810a1f135df203ed97a8b98e08d11f12cd9f4bb",
+      "original_page_checked_at": "2026-09-28T06:14:42.694057+00:00",
+      "reviewed_at": "2026-09-28T06:14:55.404040+00:00",
+      "experience_minimum": 10.0,
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "ineering) or equivalent experience 10+ years of software engineering experience 7+ years of experience as Backend Engineer with strong expertise in buildi",
+        "technology": "microservices based products using Java, Spring framework, JPA, Hibernate is a must. Experience with building data pipelines in Databrick",
+        "role": "Title: Staff Software Engineer - Java, Springboot, SAAS Location: Bangalore, India Celonis is the trusted platform to industrializ"
+      },
+      "reasons": [
+        "Required experience starts at 10 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 146,
+      "company": "Celonis",
+      "role": "Software Engineer - SAP ABAP",
+      "location": "Bangalore, India",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7559247003",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "jd_sha256": "5c13710cd0e1b85b9fccbae029b6cac739d469deb856f785ec42fd923381052a",
+      "original_page_checked_at": "2026-09-28T06:14:40.258420+00:00",
+      "reviewed_at": "2026-09-28T06:14:55.411365+00:00",
+      "experience_minimum": 5.0,
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "Have at least 5 years of experience as a professional ABAP Developer. High level of commitment and responsibility as well as enthus",
+        "technology": null,
+        "role": "Title: Software Engineer - SAP ABAP Location: Bangalore, India Celonis is the trusted platform to industrialize Enterprise A"
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience starts at 5 years, above the 2.5-year High-fit gate",
+        "SAP ABAP role; no matching production work evidence in generic master"
+      ]
+    },
+    {
+      "job_id": 147,
+      "company": "Celonis",
+      "role": "Senior Software Engineer -  SAP ABAP",
+      "location": "Bangalore, India",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7559294003",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "jd_sha256": "18ab557a44844ca2bbfb4acdcba4195ac61a4b29f37c0699d0a50db1fef08cf7",
+      "original_page_checked_at": "2026-09-28T06:14:40.935793+00:00",
+      "reviewed_at": "2026-09-28T06:14:55.417871+00:00",
+      "experience_minimum": 5.0,
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "Have at least 5 years of experience as a professional ABAP Developer. High level of commitment and responsibility as well as enthus",
+        "technology": null,
+        "role": "Title: Senior Software Engineer - SAP ABAP Location: Bangalore, India Celonis is the trusted platform to industrialize Enterprise A"
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience starts at 5 years, above the 2.5-year High-fit gate",
+        "SAP ABAP role; no matching production work evidence in generic master"
+      ]
+    }
+  ],
+  "finished_at": "2026-09-28T06:14:55.431449+00:00",
+  "elapsed_seconds": 62.36
+}

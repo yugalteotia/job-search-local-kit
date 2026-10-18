@@ -1,0 +1,19 @@
+{
+  "attempt_id": "6c7cfbe8-a371-4665-9083-9df98dc67558",
+  "requisition_id": "290826005826",
+  "status": "awaiting_proof",
+  "answered": [
+    {
+      "question": "Are you available for a interview?(Virtual)",
+      "question_key": "91765a1b932aea74b4d8bfc5de8f5da3368261fe16665f36311f2aab8d4b4bae",
+      "fact_ref": "virtual_interview_availability",
+      "at": "2026-10-16T11:02:49.905531+00:00"
+    }
+  ],
+  "saves": 1,
+  "pending_question": null,
+  "resumes": 0,
+  "save_in_flight": false,
+  "updated_at": "2026-10-16T11:02:49.905557+00:00",
+  "answers_logged": false
+}

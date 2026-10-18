@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Job search</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="/style.css"></head><body>
+<header><h1>Job search</h1><nav id="nav"></nav><span id="banner" class="muted"></span></header>
+<main>
+<section id="run"><div class="box"><div id="runstate"></div><p>
+<button class="act" id="btnrun">Run configured mode now</button><button class="act grey" id="btndry">Dry run (no application)</button>
+<button class="act warn" id="btnpause">Pause</button><button class="act grey" id="btnresume">Resume</button></p>
+<p class="muted">Run now and Dry run start the same pipeline as the timer and <code>workflow apply-now</code>. They never start while paused or while another run is active; the timer does not need to be enabled.</p></div>
+<div id="log"></div><h3>Last full run</h3><div id="lastrun"></div></section>
+<section id="handoffs"></section>
+<section id="tracker"><p><button class="act grey" id="tq">Quick</button><button class="act grey" id="td">Detailed</button></p><div id="trk"></div></section>
+<section id="portals"></section>
+</main><script src="/app.js"></script></body></html>

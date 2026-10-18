@@ -1,0 +1,55 @@
+{
+  "row": 11,
+  "reason": "listing ingested",
+  "changes": {
+    "Company": {
+      "before": null,
+      "after": "Hevo Data"
+    },
+    "Role": {
+      "before": null,
+      "after": "SDE II"
+    },
+    "Job ID": {
+      "before": null,
+      "after": "53987105-3d28-42b1-9132-3672abcef2aa"
+    },
+    "Direct link": {
+      "before": null,
+      "after": "https://jobs.lever.co/hevodata/53987105-3d28-42b1-9132-3672abcef2aa"
+    },
+    "Source": {
+      "before": null,
+      "after": "Original company Lever ATS via Playwright"
+    },
+    "Location": {
+      "before": null,
+      "after": "Bangalore, India"
+    },
+    "Verified date": {
+      "before": null,
+      "after": "2026-09-27T18:50:50Z"
+    },
+    "Fit": {
+      "before": null,
+      "after": "Medium"
+    },
+    "Fit rationale": {
+      "before": null,
+      "after": "Strong Java/REST/concurrency overlap, but stated 3–4 years exceeds documented professional experience. Medium/stretch; do not prepare autonomously. Required evidence coverage: 60%."
+    },
+    "Key gaps": {
+      "before": null,
+      "after": "3–4 years SaaS/API experience; SaaS connector token refresh/schema drift expertise"
+    },
+    "Status": {
+      "before": null,
+      "after": "Shortlisted"
+    },
+    "Next step": {
+      "before": null,
+      "after": "Resolve gaps / verify original before preparation"
+    }
+  },
+  "backup": ".workflow/backups/20260927T185250-6c4a8505.xlsx"
+}

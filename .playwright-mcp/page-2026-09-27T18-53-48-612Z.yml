@@ -1,0 +1,146 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "Back to jobs" [ref=e5] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/india
+        - generic [ref=e9]:
+          - generic [ref=e10]:
+            - heading "Engineering - Portfolio Analytics - Java Developer - Associate" [level=1] [ref=e11]
+            - generic [ref=e12]: Bengaluru
+          - button "Apply" [ref=e16] [cursor=pointer]
+        - generic [ref=e18]:
+          - paragraph [ref=e19]
+          - paragraph [ref=e20]:
+            - strong [ref=e21]: About AQR Capital Management
+          - paragraph [ref=e22]: AQR is a global investment management firm built at the intersection of financial theory and practical application. We strive to deliver superior, long-term results for our clients by seeking to filter out market noise to identify and isolate what matters most, and by developing ideas that stand up to rigorous testing. Underpinning this philosophy is an unrelenting commitment to excellence in technology — powering our insights and analysis. This unique combination has made us leaders in alternative and traditional strategies since 1998.
+          - paragraph [ref=e23]: AQR takes a systematic, research-driven approach, applying quantitative tools to process fundamental information and manage risk. Our clients include institutional investors, such as pension funds, insurance companies, endowments, foundations and sovereign wealth funds, as well as financial advisors.
+          - paragraph [ref=e24]:
+            - strong [ref=e25]
+          - paragraph [ref=e26]: Technology is central to AQR’s success. As a Software Engineer in Portfolio Implementation, you will work on mission-critical systems that turn investment ideas into reality. Partnering closely with researchers and portfolio managers, you will design and build proprietary tools that support quantitative strategy research and systematic investing at scale.
+          - paragraph [ref=e27]:
+            - strong [ref=e28]: Your Role
+            - text: ":"
+          - paragraph [ref=e29]: "As a Software Engineer in Portfolio Implementation, you will design, build, and extend systems that sit at the core of AQR’s investment process, including:"
+          - list [ref=e30]:
+            - listitem [ref=e31]: Portfolio Implementation platforms that consume research outputs, perform constrained optimizations, and generate orders
+          - list [ref=e32]:
+            - listitem [ref=e33]: Cloud-based microservices engineered to run reliably and efficiently at scale
+          - list [ref=e34]:
+            - listitem [ref=e35]: Participate in architectural design discussions for high-performance, high-volume, highly available systems, gaining experience with trade-offs across performance, flexibility, and maintainability
+          - list [ref=e36]:
+            - listitem [ref=e37]: Bespoke technology solutions tailored to specific asset classes and evolving research needs
+          - list [ref=e38]:
+            - listitem [ref=e39]: Collaboration with a global team of researchers, portfolio managers and engineers for successful product delivery
+          - paragraph [ref=e40]:
+            - strong [ref=e41]: What You’ll Bring
+            - text: ":"
+          - list [ref=e42]:
+            - listitem [ref=e43]: Degree in Computer Science or a related technical field
+          - list [ref=e44]:
+            - listitem [ref=e45]: 2+ years of professional programming experience with strong proficiency in Java
+          - list [ref=e46]:
+            - listitem [ref=e47]: Python experience is a strong plus, particularly for research integration and tooling
+          - list [ref=e48]:
+            - listitem [ref=e49]: Strong software design skills and the ability to translate design concepts into high-quality, maintainable code
+          - list [ref=e50]:
+            - listitem [ref=e51]: Excellent analytical thinking and problem-solving abilities
+          - list [ref=e52]:
+            - listitem [ref=e53]: Clear and effective communication skills
+          - list [ref=e54]:
+            - listitem [ref=e55]: Interest in financial markets and the investment process
+          - list [ref=e56]:
+            - listitem [ref=e57]: Experience operating microservice-based architectures and building scalable, distributed systems, using technologies such as Java, Elasticsearch, Redis, RabbitMQ / AMQ, and relational databases (e.g., PostgreSQL, MS SQL Server)
+          - list [ref=e58]:
+            - listitem [ref=e59]: Strong engineering best practices, including attention to code quality, peer code reviews (PRs), automated testing, and test coverage
+          - list [ref=e60]:
+            - listitem [ref=e61]: Experience operating, tuning, and profiling high-performance systems in production environments
+          - list [ref=e62]:
+            - listitem [ref=e63]: Experience with observability and monitoring platforms (e.g., New Relic) is a strong plus
+          - paragraph [ref=e64]:
+            - strong [ref=e65]: Who You Are
+            - text: ":"
+          - list [ref=e66]:
+            - listitem [ref=e67]: Take strong ownership of your work, with the drive to see initiatives through from idea to completion
+          - list [ref=e68]:
+            - listitem [ref=e69]: Comfortable leading change, overcoming obstacles, and navigating ambiguity to deliver results
+          - list [ref=e70]:
+            - listitem [ref=e71]: Naturally collaborative, thoughtful, and effective in a team-oriented environment
+          - list [ref=e72]:
+            - listitem [ref=e73]: Hard-working, curious, and eager to learn in a fast-paced setting
+          - list [ref=e74]:
+            - listitem [ref=e75]: Committed to intellectual integrity, transparency, and openness
+          - paragraph [ref=e76]
+          - paragraph [ref=e77]
+          - paragraph [ref=e78]
+      - separator [ref=e79]
+      - generic [ref=e80]:
+        - generic [ref=e82]:
+          - heading "Apply for this job" [level=2] [ref=e84]
+          - generic [ref=e85]:
+            - paragraph [ref=e87]: "*"
+            - paragraph [ref=e88]: indicates a required field
+        - generic [ref=e89]:
+          - generic [ref=e90]:
+            - generic [ref=e93]:
+              - generic [ref=e94]: First Name*
+              - textbox "First Name" [ref=e95]
+            - generic [ref=e98]:
+              - generic [ref=e99]: Last Name*
+              - textbox "Last Name" [ref=e100]
+            - generic [ref=e103]:
+              - generic [ref=e104]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e105]
+            - generic [ref=e108]:
+              - generic [ref=e109]: Email*
+              - textbox "Email" [ref=e110]
+            - group "Phone" [ref=e112]:
+              - generic [ref=e116]:
+                - generic [ref=e117]: Country
+                - generic [ref=e118]:
+                  - log [ref=e120]
+                  - generic [ref=e122]:
+                    - combobox "Country" [ref=e125]
+                    - button "Toggle flyout" [ref=e127] [cursor=pointer]
+              - generic [ref=e132]:
+                - generic [ref=e133]: Phone
+                - textbox "Phone" [ref=e134]
+            - group "Resume/CV" [ref=e136]:
+              - generic [ref=e139]:
+                - generic [ref=e141]:
+                  - button "Attach" [ref=e142] [cursor=pointer]
+                  - generic [ref=e143]: Attach
+                  - button "Attach" [ref=e144]
+                - button "Dropbox" [ref=e146] [cursor=pointer]
+                - button "Google Drive" [ref=e148] [cursor=pointer]
+                - generic [ref=e150]:
+                  - button "Enter manually" [ref=e151] [cursor=pointer]
+                  - generic [ref=e152]: Enter manually
+                - paragraph [ref=e153]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e155]:
+              - generic [ref=e158]:
+                - generic [ref=e160]:
+                  - button "Attach" [ref=e161] [cursor=pointer]
+                  - generic [ref=e162]: Attach
+                  - button "Attach" [ref=e163]
+                - button "Dropbox" [ref=e165] [cursor=pointer]
+                - button "Google Drive" [ref=e167] [cursor=pointer]
+                - generic [ref=e169]:
+                  - button "Enter manually" [ref=e170] [cursor=pointer]
+                  - generic [ref=e171]: Enter manually
+                - paragraph [ref=e172]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e173]:
+            - separator [ref=e174]
+            - generic [ref=e177]:
+              - generic [ref=e178]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e179]
+            - generic [ref=e182]:
+              - generic [ref=e183]: Website
+              - textbox "Website" [ref=e184]
+          - button "Submit application" [ref=e186] [cursor=pointer]
+  - contentinfo [ref=e187]:
+    - generic [ref=e188]:
+      - paragraph [ref=e189]: Powered by
+      - link [ref=e190] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e191]

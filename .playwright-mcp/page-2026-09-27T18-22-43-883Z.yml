@@ -1,0 +1,948 @@
+- generic [ref=e2]:
+  - heading "0 notifications" [level=2] [ref=e3]
+  - generic [ref=e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - generic [ref=e5]:
+          - button "Skip to search" [ref=e6] [cursor=pointer]
+          - button "Skip to main content" [ref=e9] [cursor=pointer]
+          - button "Skip to sidebar" [ref=e12] [cursor=pointer]
+          - button "Skip to primary content" [ref=e15] [cursor=pointer]
+          - button "Skip to aside" [ref=e18] [cursor=pointer]
+          - button "Close jump menu" [ref=e22] [cursor=pointer]
+    - generic [ref=e26]:
+      - banner [ref=e28]:
+        - generic [ref=e31]:
+          - button [ref=e32] [cursor=pointer]:
+            - img "LinkedIn" [ref=e33]
+          - generic [ref=e35]:
+            - status [ref=e36]
+            - search [ref=e37]:
+              - textbox "Search" [ref=e42]
+          - generic [ref=e44]:
+            - navigation [ref=e48]:
+              - list [ref=e49]:
+                - listitem [ref=e50]:
+                  - button "Home, 1 new notification" [ref=e51] [cursor=pointer]:
+                    - generic [ref=e55]: Home
+                - listitem [ref=e57]:
+                  - link "My Network, 0 new notifications" [ref=e58] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=e62]: My Network
+                - listitem [ref=e64]:
+                  - link "Jobs, 0 new notifications" [ref=e65] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=e69]: Jobs
+                - listitem [ref=e71]:
+                  - link "Messaging, 0 new notifications" [ref=e72] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=e76]: Messaging
+                - listitem [ref=e78]:
+                  - link "Notifications, 0 new notifications" [ref=e79] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=e83]: Notifications
+                - listitem [ref=e85]:
+                  - button "Me" [ref=e86] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=e88]
+            - generic [ref=e94]:
+              - navigation [ref=e95]:
+                - list [ref=e96]:
+                  - listitem [ref=e97]:
+                    - button "For Business" [ref=e98] [cursor=pointer]
+              - button [ref=e107] [cursor=pointer]:
+                - paragraph [ref=e115]: Get hired for ₹0
+      - main [ref=e118]:
+        - generic [ref=e120]:
+          - complementary "Sidebar" [ref=e121]:
+            - generic [ref=e124]:
+              - generic [ref=e128]:
+                - link [ref=e129] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/yugalteotia/
+                  - generic [ref=e130]:
+                    - figure [aria-hidden] [ref=e132]
+                    - figure [ref=e134]:
+                      - img "Yugal Teotia" [ref=e135]
+                - generic [ref=e136]:
+                  - link [ref=e137] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/yugalteotia/
+                    - generic "Yugal Teotia, Software Engineer | Full Stack | Java | JavaScript | Passionate about making people’s lives easy using tech, Pune District, Maharashtra, Verified profile" [ref=e138]:
+                      - generic [ref=e139]:
+                        - paragraph [ref=e141]: Yugal Teotia
+                        - img "Verified profile" [ref=e142]
+                      - paragraph [ref=e145]: Software Engineer | Full Stack | Java | JavaScript | Passionate about making people’s lives easy using tech
+                      - paragraph [ref=e146]: Pune District, Maharashtra
+                  - link [ref=e147] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/yugalteotia/
+                    - generic [ref=e148]:
+                      - figure [aria-hidden] [ref=e149]
+                      - paragraph [ref=e150]: IDeaS Revenue Solutions
+              - link [ref=e155] [cursor=pointer]:
+                - /url: https://www.linkedin.com/premium/products/?upsellOrderOrigin=Tracking%3Av1%3Apremium_homepage_identity_upsell%3ANav%3AIn-Product&utype=job&referenceId=033U6XusQTuS4HKPqSCEGQ%3D%3D&isSS=true&upsellSlotId=IDENTITY_MODULE
+                - generic [ref=e156]:
+                  - paragraph [ref=e157]: Access exclusive tools & insights
+                  - paragraph [ref=e164]: Try Premium for ₹0
+              - menu [ref=e167]:
+                - link [ref=e169] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/me/profile-views/
+                  - generic "Profile viewers 23" [ref=e170]:
+                    - paragraph [ref=e172]: Profile viewers
+                    - paragraph [ref=e173]: "23"
+                - link [ref=e175] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/analytics/creator/content/
+                  - generic "View all analytics 0" [ref=e176]:
+                    - paragraph [ref=e178]: View all analytics
+              - menu [ref=e181]:
+                - link [ref=e182] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/my-items/saved-posts/
+                  - paragraph [ref=e186]: Saved items
+                - link [ref=e187] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/groups/
+                  - paragraph [ref=e195]: Groups
+                - link [ref=e196] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mynetwork/network-manager/newsletters/
+                  - paragraph [ref=e200]: Newsletters
+                - link [ref=e201] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/events/
+                  - paragraph [ref=e205]: Events
+          - region "Primary content" [ref=e206]:
+            - list [ref=e207]:
+              - listitem [ref=e209]:
+                - generic [ref=e210]:
+                  - generic [ref=e211]:
+                    - link [ref=e213] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/yugalteotia/
+                      - figure [aria-hidden] [ref=e214]
+                    - button [ref=e216] [cursor=pointer]:
+                      - generic "Start a post" [ref=e217]:
+                        - generic [ref=e219]:
+                          - paragraph [ref=e220]: Start a post
+                          - generic:
+                            - paragraph
+                  - generic [ref=e221]:
+                    - button [ref=e222] [cursor=pointer]:
+                      - paragraph [ref=e226]: Video
+                    - button [ref=e227] [cursor=pointer]:
+                      - paragraph [ref=e231]: Photo
+                    - link [ref=e232] [cursor=pointer]:
+                      - /url: /article/new/
+                      - paragraph [ref=e236]: Write article
+              - listitem [ref=e238]:
+                - button [ref=e239] [cursor=pointer]:
+                  - paragraph [ref=e241]:
+                    - text: "Sort by:"
+                    - strong [ref=e242]: Top
+              - listitem [ref=e249]:
+                - generic [ref=e251]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=e253]:
+                    - paragraph [ref=e256]: Suggested
+                    - button "Open control menu for post by Abbas Ali" [ref=e257] [cursor=pointer]
+                    - button "Hide post by Abbas Ali" [ref=e261] [cursor=pointer]
+                  - generic [ref=e265]:
+                    - link [ref=e268] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/abbasalibaloch/
+                      - figure [ref=e269]:
+                        - img "View Abbas Ali’s profile" [ref=e270]
+                    - generic [ref=e272]:
+                      - link [ref=e275] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/abbasalibaloch/
+                        - generic "Abbas Ali 3rd+" [ref=e279]:
+                          - paragraph [ref=e282]: Abbas Ali
+                          - paragraph [ref=e284]: • 3rd+
+                      - paragraph [ref=e286]: MERN Stack Developer | React.js • Node.js • MongoDB • Express.js | AI Integration & SaaS Application Developer
+                      - paragraph [ref=e288]:
+                        - generic [ref=e289]:
+                          - text: 6d •
+                          - 'img "Visibility: Global" [ref=e290]'
+                      - link "Abbas Ali 3rd+":
+                        - /url: https://www.linkedin.com/in/abbasalibaloch/
+                    - button "Follow Abbas Ali" [ref=e295] [cursor=pointer]:
+                      - generic [ref=e296]: Follow
+                  - paragraph [ref=e301]:
+                    - generic [ref=e302]: Software development was never just about writing code.Today, AI can write a function, generate an API, build a UI, or even create an entire feature from a prompt.But real development starts after the code is generated.How will it scale?What happens when traffic increases?How will you handle caching, queues, retries, rate limiting and failures?What about database indexing, transactions, concurrency and race conditions?How will services communicate?How will you handle authentication, authorization, security and data consistency?What happens when a service goes down?Redis, Kafka, Docker, Kubernetes, load balancing, pub/sub, idempotency, circuit breakers, observability, database design, system architecture...These aren't just technical terms to memorize.This is the engineering behind the code.AI can help us write code faster.But understanding what to build, why to build it, how it should behave, and what can go wrong is still the real challenge.Coding is becoming easier.Engineering is not.
+                  - generic [ref=e303]:
+                    - link [ref=e304] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - figure [ref=e305]:
+                        - img "View image" [ref=e306]
+                    - button "This image has content credentials." [ref=e307] [cursor=pointer]:
+                      - figure [aria-hidden] [ref=e309]
+                  - generic [ref=e313]:
+                    - generic [ref=e314]:
+                      - 'button "Reaction button state: no reaction" [ref=e317] [cursor=pointer]':
+                        - generic [ref=e318]: "125"
+                      - button "Open reactions menu":
+                        - generic [ref=e324] [cursor=pointer]
+                    - button "Comment" [ref=e327] [cursor=pointer]:
+                      - generic [ref=e328]: "1"
+                    - button "Repost" [ref=e334] [cursor=pointer]:
+                      - generic [ref=e335]: "7"
+                    - link "Send" [ref=e341] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=e345] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "125 reactions" [ref=e346]
+              - listitem [ref=e377]:
+                - generic [ref=e379]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=e381]:
+                    - generic [ref=e382]:
+                      - link [ref=e385] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/sanket-deshmukh-449463126/
+                        - figure [aria-hidden] [ref=e386]
+                      - paragraph [ref=e388]:
+                        - generic [ref=e389]:
+                          - link "View Sanket Deshmukh’s profile" [ref=e390] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/sanket-deshmukh-449463126/
+                            - strong [ref=e391]: Sanket Deshmukh
+                          - text: follows this page
+                    - button "Open control menu for post by Myntra" [ref=e392] [cursor=pointer]
+                  - generic [ref=e396]:
+                    - link [ref=e399] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/myntra/
+                      - figure [ref=e400]:
+                        - 'img "View company: Myntra" [ref=e401]'
+                    - generic [ref=e403]:
+                      - link [ref=e406] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/company/myntra/
+                        - generic "Myntra Verified" [ref=e410]:
+                          - paragraph [ref=e413]: Myntra
+                          - paragraph [ref=e415]
+                      - paragraph [ref=e421]: 2,768,887 followers
+                      - paragraph [ref=e423]: Promoted
+                      - link "Myntra Verified":
+                        - /url: https://www.linkedin.com/company/myntra/
+                    - button "Follow Myntra" [ref=e427] [cursor=pointer]:
+                      - generic [ref=e428]: Follow
+                  - paragraph [ref=e433]:
+                    - generic [ref=e434]: We hate to give you more reasons to follow Myntra (but we never seem to run out!).From the people you’ll meet and the ideas you’ll work on to the fashion, technology and opportunities that keep things interesting, there’s quite a bit going on here.Follow Myntra.
+                  - generic [ref=e437]:
+                    - list [ref=e439]:
+                      - listitem [ref=e440]:
+                        - generic [ref=e443]:
+                          - link [ref=e444] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/myntra/?utm_id=875280456&utm_medium=paid-social&utm_source=linkedin
+                            - figure [aria-hidden] [ref=e446]
+                          - link [ref=e447] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/myntra/?utm_id=875280456&utm_medium=paid-social&utm_source=linkedin
+                            - paragraph [ref=e450]: Swipe before deciding
+                      - listitem [ref=e451]:
+                        - generic [ref=e454]:
+                          - link [ref=e455] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/myntra/?utm_id=875280456&utm_medium=paid-social&utm_source=linkedin
+                            - figure [aria-hidden] [ref=e457]
+                          - link [ref=e458] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/myntra/?utm_id=875280456&utm_medium=paid-social&utm_source=linkedin
+                            - paragraph [ref=e461]: Contains real tech talk.
+                      - listitem [ref=e462]:
+                        - generic [ref=e465]:
+                          - link [ref=e466] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/myntra/?utm_id=875280456&utm_medium=paid-social&utm_source=linkedin
+                            - figure [aria-hidden] [ref=e468]
+                          - link [ref=e469] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/myntra/?utm_id=875280456&utm_medium=paid-social&utm_source=linkedin
+                            - paragraph [ref=e472]: Might change how you see fashion.
+                      - listitem [ref=e473]:
+                        - generic [ref=e476]:
+                          - link [ref=e477] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/myntra/?utm_id=875280456&utm_medium=paid-social&utm_source=linkedin
+                            - figure [aria-hidden] [ref=e479]
+                          - link [ref=e480] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/myntra/?utm_id=875280456&utm_medium=paid-social&utm_source=linkedin
+                            - paragraph [ref=e483]: Your feed gets interesting.
+                      - listitem [ref=e484]:
+                        - generic [ref=e487]:
+                          - link [ref=e488] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/myntra/?utm_id=875280456&utm_medium=paid-social&utm_source=linkedin
+                            - figure [aria-hidden] [ref=e490]
+                          - link [ref=e491] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/myntra/?utm_id=875280456&utm_medium=paid-social&utm_source=linkedin
+                            - paragraph [ref=e494]: Follow Myntra. Be the trend.
+                    - button "Next" [ref=e495] [cursor=pointer]
+                  - generic [ref=e499]:
+                    - generic [ref=e500]:
+                      - 'button "Reaction button state: no reaction" [ref=e503] [cursor=pointer]':
+                        - generic [ref=e504]: "118"
+                      - button "Open reactions menu":
+                        - generic [ref=e510] [cursor=pointer]
+                    - button "Comment" [ref=e513] [cursor=pointer]:
+                      - generic [ref=e514]: "2"
+                    - button "Repost" [ref=e520] [cursor=pointer]
+                    - link "Send" [ref=e524] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=e528] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "118 reactions" [ref=e529]
+              - listitem [ref=e540]:
+                - generic [ref=e542]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=e544]:
+                    - link [ref=e547] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/dheerajtechnolegends/
+                      - figure [ref=e548]:
+                        - img "View Mr. Dheeraj Madhukar’s profile, open to work" [ref=e549]
+                    - generic [ref=e551]:
+                      - link [ref=e554] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/dheerajtechnolegends/
+                        - generic "Mr. Dheeraj Madhukar, Open to work 1st" [ref=e558]:
+                          - paragraph [ref=e561]: Mr. Dheeraj Madhukar
+                          - paragraph [ref=e563]: • 1st
+                      - paragraph [ref=e565]: Freelance Security Researcher & Trainer | CyberSec consultant | Mentor of 10L+ candidates all over world | Lead Researcher | Bug Hunter | Web, Android & API Pentester | Cloud & DevSecOps Engineer | Speaker | Blogger
+                      - paragraph [ref=e567]:
+                        - generic [ref=e568]:
+                          - text: 1d •
+                          - 'img "Visibility: Global" [ref=e569]'
+                      - link "Mr. Dheeraj Madhukar, Open to work 1st":
+                        - /url: https://www.linkedin.com/in/dheerajtechnolegends/
+                    - button "Open control menu for post by Mr. Dheeraj Madhukar" [ref=e571] [cursor=pointer]
+                    - button "Hide post by Mr. Dheeraj Madhukar" [ref=e575] [cursor=pointer]
+                  - paragraph [ref=e579]:
+                    - generic [ref=e580]:
+                      - text: "🏴‍☠️ Adding another layer to the stack:"
+                      - strong [ref=e581]: AI Security Certified
+                      - text: "This one's squarely in the AI Offensive Security space Spent the last few hours; Here's the outcome:1. I identified and exploited AI attack surfaces - prompt injection, RAG poisoning, tool abuse, memory poisoning - the kind of stuff that sounds abstract until you've watched it work firsthand.2. I manipulated AI agent planning and MCP configurations to see exactly how unauthorized access and control can slip in when these systems aren't locked down properly.3. I structured and engineered prompts specifically to control and override AI system behavior - which is a strange skill to build, honestly. You spend years learning to write clear instructions for machines, then you spend a course learning how to break that same trust.4. I applied trust boundary analysis to actually distinguish trusted from untrusted data inside AI architectures - a distinction a lot of current AI deployments blur without realizing it.5. And underneath all of that, I circled back to fundamentals: securing core services - IAM, RBAC, compute, and storage - because none of the flashy AI-specific attacks matter if the basics aren't solid.Finally, mapped classified AI security risks using the OWASP Top 10 for LLM Applications and MITRE ATLAS."
+                      - 'link "View hashtag: #aisecurity" [ref=e583] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23aisecurity&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e584]: "#AISecurity"
+                      - 'link "View hashtag: #cybersecurity" [ref=e586] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23cybersecurity&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e587]: "#CyberSecurity"
+                      - 'link "View hashtag: #promptinjection" [ref=e589] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23promptinjection&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e590]: "#PromptInjection"
+                      - 'link "View hashtag: #llmsecurity" [ref=e592] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23llmsecurity&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e593]: "#LLMSecurity"
+                      - 'link "View hashtag: #devsecops" [ref=e595] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23devsecops&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e596]: "#DevSecOps"
+                      - 'link "View hashtag: #mitreatlas" [ref=e598] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23mitreatlas&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e599]: "#MITREATLAS"
+                      - 'link "View hashtag: #owasp" [ref=e601] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23owasp&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e602]: "#OWASP"
+                      - 'link "View hashtag: #infosec" [ref=e604] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23infosec&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e605]: "#InfoSec"
+                  - link [ref=e607] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+                    - figure [ref=e608]:
+                      - img "View image" [ref=e609]
+                  - generic [ref=e610]:
+                    - generic [ref=e611]:
+                      - 'button "Reaction button state: no reaction" [ref=e614] [cursor=pointer]':
+                        - generic [ref=e615]: "66"
+                      - button "Open reactions menu":
+                        - generic [ref=e621] [cursor=pointer]
+                    - button "Comment" [ref=e624] [cursor=pointer]:
+                      - generic [ref=e625]: "2"
+                    - button "Repost" [ref=e631] [cursor=pointer]
+                    - link "Send" [ref=e635] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=e639] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "66 reactions" [ref=e640]
+              - listitem [ref=e665]:
+                - generic [ref=e667]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=e669]:
+                    - paragraph [ref=e672]: Suggested
+                    - button "Open control menu for post by Aso William" [ref=e673] [cursor=pointer]
+                    - button "Hide post by Aso William" [ref=e677] [cursor=pointer]
+                  - generic [ref=e681]:
+                    - link [ref=e684] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/aso-william-aa5448184/
+                      - figure [ref=e685]:
+                        - img "View Aso William’s profile, open to work" [ref=e686]
+                    - generic [ref=e688]:
+                      - link [ref=e691] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/aso-william-aa5448184/
+                        - generic "Aso William, Open to work Premium Profile 3rd+" [ref=e695]:
+                          - paragraph [ref=e698]: Aso William
+                          - paragraph [ref=e700]:
+                            - generic [ref=e701]: • 3rd+
+                      - paragraph [ref=e706]: Full-Stack Developer | Web & Mobile App Development for Global Clients | Web3 · React · Next.js · Node.js · React Native · Flutter · More
+                      - paragraph [ref=e708]:
+                        - generic [ref=e709]:
+                          - text: 5d • Edited •
+                          - 'img "Visibility: Global" [ref=e710]'
+                      - link "Aso William, Open to work Premium Profile 3rd+":
+                        - /url: https://www.linkedin.com/in/aso-william-aa5448184/
+                    - button "Follow Aso William" [ref=e715] [cursor=pointer]:
+                      - generic [ref=e716]: Follow
+                  - paragraph [ref=e721]:
+                    - generic [ref=e722]:
+                      - text: 🚗
+                      - link "Open https://efetech.online" [ref=e724] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fefetech%2Eonline&urlhash=z0Nl&mt=2UvpcYc_g2-DuyXl5Gdh0r87Oz2vAh9zhkXhpCWUCrmMiHIQ8uMQ_Emy8t-YnH9LI4ytU_FqDqlT2NOmtpjOZXDaWFK6fdEaRe6bLyDBj5R1o6e6FbdJJ858xA&isSdui=true
+                        - strong [ref=e725]: https://efetech.online
+                      - text: I built a car-hiring app — and here’s how the booking process works.What if hiring a car could be as simple as booking a ride online?That was the idea behind one of the web applications I recently built.The goal was to create a platform where users can easily find a vehicle, check the details, choose their dates, and make a booking without having to call or visit a physical office.🔎 How it works1️⃣ Search for a carUsers can browse available vehicles and filter them based on location, price, car type, and availability.2️⃣ View the carEach vehicle has its own page with important information such as:🚘 Car model💰 Rental price📍 Location📅 Availability📝 Vehicle details📸 Images3️⃣ Choose your rental datesThe user selects when they want to pick up and return the vehicle.The system checks availability so users don't accidentally book an unavailable car.4️⃣ Make a bookingAfter reviewing the booking details, the user can proceed with the reservation and payment.5️⃣ Manage the bookingUsers can view their bookings and keep track of their rental information from their account.👨‍💻 What I built behind the scenesThis wasn't just about creating a nice interface.I had to think about:- Database architecture- User authentication- Vehicle availability- Booking logic- Date and time calculations- Payment processing- Admin management- API integration- Responsive design- Security- Error handlingThis is one of the things I enjoy about full-stack development.The UI is only one part of the product.The real work is making sure everything behind that UI works correctly.💡 One thing I learnedWhen building booking platforms, availability logic is extremely important.You don't want two customers successfully booking the same car for the same dates.That means the database, backend, and booking logic all have to work together properly.🚀 Why I enjoy building projects like thisI don't just want to write code.I enjoy taking an idea like:«“I want to build a car rental platform.”»…and turning it into an actual working product.From the design and frontend to the backend, database, authentication, booking system, and deployment.That's what I do through EfeTech.If you’re looking to build a car-hiring platform, booking website, marketplace, e-commerce store, business website, or custom web application, I can help turn your idea into a working product.📩 Want one built for your business? Contact me.🌐 Visit **** to learn more about our services.👇 Let's talkIf you were building a car-hiring platform, what feature would you add?A. Driver bookingB. Airport pickupC. Car delivery to your locationD. All of the aboveDrop your answer in the comments — and tell me what you would add. 🚗💻
+                      - 'link "View hashtag: #webdevelopment" [ref=e728] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23webdevelopment&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e729]: "#WebDevelopment"
+                      - 'link "View hashtag: #carrental" [ref=e731] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23carrental&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e732]: "#CarRental"
+                      - 'link "View hashtag: #carhire" [ref=e734] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23carhire&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e735]: "#CarHire"
+                      - 'link "View hashtag: #react" [ref=e737] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23react&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e738]: "#React"
+                      - 'link "View hashtag: #nextjs" [ref=e740] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23nextjs&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e741]: "#Nextjs"
+                      - 'link "View hashtag: #fullstackdeveloper" [ref=e743] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23fullstackdeveloper&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e744]: "#FullStackDeveloper"
+                      - 'link "View hashtag: #softwaredevelopment" [ref=e746] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23softwaredevelopment&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e747]: "#SoftwareDevelopment"
+                      - 'link "View hashtag: #webapp" [ref=e749] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23webapp&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e750]: "#WebApp"
+                      - 'link "View hashtag: #tech" [ref=e752] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23tech&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e753]: "#Tech"
+                      - 'link "View hashtag: #efetech" [ref=e755] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23efetech&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e756]: "#EfeTech"
+                      - 'link "View hashtag: #bookingplatformthis" [ref=e758] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23bookingplatformthis&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e759]: "#BookingPlatformThis"
+                  - generic [ref=e761]:
+                    - region "Video Player" [ref=e763]:
+                      - generic [ref=e766] [cursor=pointer]
+                      - text:              
+                    - button "Play video" [ref=e768] [cursor=pointer]
+                  - generic [ref=e772]:
+                    - generic [ref=e773]:
+                      - 'button "Reaction button state: no reaction" [ref=e776] [cursor=pointer]':
+                        - generic [ref=e777]: "453"
+                      - button "Open reactions menu":
+                        - generic [ref=e783] [cursor=pointer]
+                    - button "Comment" [ref=e786] [cursor=pointer]:
+                      - generic [ref=e787]: "43"
+                    - button "Repost" [ref=e793] [cursor=pointer]:
+                      - generic [ref=e794]: "6"
+                    - link "Send" [ref=e800] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                    - link [ref=e804] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - generic "453 reactions" [ref=e805]
+              - listitem [ref=e836]:
+                - generic [ref=e838]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=e840]:
+                    - generic [ref=e841]:
+                      - link [ref=e844] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/nilesh-g/
+                        - figure [ref=e845]:
+                          - img "View Nilesh Ghule’s profile" [ref=e846]
+                      - paragraph [ref=e848]:
+                        - generic [ref=e849]:
+                          - link "View Nilesh Ghule’s profile" [ref=e850] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/nilesh-g/
+                            - strong [ref=e851]: Nilesh Ghule
+                          - text: likes this
+                    - button "Open control menu for post by Mo Bunnell" [ref=e852] [cursor=pointer]
+                    - button "Hide post by Mo Bunnell" [ref=e856] [cursor=pointer]
+                  - generic [ref=e860]:
+                    - link [ref=e863] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/mobunnell/
+                      - figure [ref=e864]:
+                        - img "View Mo Bunnell’s profile" [ref=e865]
+                    - generic [ref=e867]:
+                      - link [ref=e870] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/mobunnell/
+                        - generic "Mo Bunnell Premium Profile 3rd+" [ref=e874]:
+                          - paragraph [ref=e877]: Mo Bunnell
+                          - paragraph [ref=e879]:
+                            - generic [ref=e880]: • 3rd+
+                      - paragraph [ref=e885]: Trained 50,000+ professionals | CEO & Founder of BIG | National Bestselling Author | Creator of GrowBIG® Training, the go-to system for business development
+                      - link [ref=e889] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fbunnell-idea-group-inc%2Ekit%2Ecom%2Fa9d68c6c15&urlhash=G6xh&mt=Dd51MECmY76xOK5y7weVF7HJccA5wNcxVo31I--0HCftcu4UyH5Q4Oj3HUe20jgOTdXgH2jzWppiwZTtTp3hFSergANh8xhtSFlGlhSF&isSdui=true
+                        - paragraph [ref=e890]: View my newsletter
+                      - paragraph [ref=e892]:
+                        - generic [ref=e893]:
+                          - text: 4h •
+                          - 'img "Visibility: Global" [ref=e894]'
+                      - link "Mo Bunnell Premium Profile 3rd+":
+                        - /url: https://www.linkedin.com/in/mobunnell/
+                    - button "Follow Mo Bunnell" [ref=e899] [cursor=pointer]:
+                      - generic [ref=e900]: Follow
+                  - paragraph [ref=e905]:
+                    - generic [ref=e906]:
+                      - text: "You can't wish your way into great relationships.I've had the pleasure of training over 50,000 client-facing professionals.And without fail, there's always someone who's read every book under the sun, hoping it'll grow their book of business.How to Win Friends and Influence People.Influence: The Psychology of Persuasion.To Sell Is Human.That's a wonderful place to start.But if you want to improve, at some point BD has to become something you go and practice.Practicing it is simple:1/ Pick one person and give first, before anything is owed.2/ Make it one of the four gifts:↳ An insight.↳ An introduction.↳ A bit of expertise.↳ An experience they'll remember.3/ Do it again next week, and the week after that.I know that first step feels like the scary part. But when Vanessa Bohns and Frank Flynn studied it, they found we underestimate how often people say yes by about 50%. The rejection we brace for mostly lives in our heads.So the real gap for most of us was never knowledge. It's the reps we haven't done yet.Every professional I've watched grow started right here, giving to one relationship at a time, week after week.You already know enough to help someone this week. That's all it takes to start.What's one relationship you could give to this week?(Image Credit:"
+                      - link "View Gary Vaynerchuk’s profile" [ref=e909] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/garyvaynerchuk/
+                        - strong [ref=e910]:
+                          - strong [ref=e912]: Gary Vaynerchuk
+                      - text: )
+                  - link [ref=e914] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/
+                    - figure [ref=e915]:
+                      - img "View image" [ref=e916]
+                  - generic [ref=e917]:
+                    - generic [ref=e918]:
+                      - 'button "Reaction button state: no reaction" [ref=e921] [cursor=pointer]':
+                        - generic [ref=e922]: "269"
+                      - button "Open reactions menu":
+                        - generic [ref=e928] [cursor=pointer]
+                    - button "Comment" [ref=e931] [cursor=pointer]:
+                      - generic [ref=e932]: "32"
+                    - button "Repost" [ref=e938] [cursor=pointer]:
+                      - generic [ref=e939]: "15"
+                    - link "Send" [ref=e945] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                    - link [ref=e949] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - generic "269 reactions" [ref=e950]
+              - listitem [ref=e975]:
+                - generic [ref=e977]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=e979]:
+                    - generic [ref=e980]:
+                      - link [ref=e983] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/rajandhage/
+                        - figure [aria-hidden] [ref=e984]
+                      - paragraph [ref=e986]:
+                        - generic [ref=e987]:
+                          - link "View Rajan Dhage’s profile" [ref=e988] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/rajandhage/
+                            - strong [ref=e989]: Rajan Dhage
+                          - text: follows this page
+                    - button "Open control menu for post by Cohesity" [ref=e990] [cursor=pointer]
+                  - generic [ref=e994]:
+                    - link [ref=e997] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/cohesity/
+                      - figure [ref=e998]:
+                        - 'img "View company: Cohesity" [ref=e999]'
+                    - generic [ref=e1001]:
+                      - link [ref=e1004] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/company/cohesity/
+                        - generic "Cohesity Verified" [ref=e1008]:
+                          - paragraph [ref=e1011]: Cohesity
+                          - paragraph [ref=e1013]
+                      - paragraph [ref=e1019]: 503,587 followers
+                      - paragraph [ref=e1021]: Promoted
+                      - link "Cohesity Verified":
+                        - /url: https://www.linkedin.com/company/cohesity/
+                    - button "Follow Cohesity" [ref=e1025] [cursor=pointer]:
+                      - generic [ref=e1026]: Follow
+                  - paragraph [ref=e1031]:
+                    - generic [ref=e1032]:
+                      - text: "In this week's spotlight: Cohesity 🤝"
+                      - 'link "View company: NVIDIA" [ref=e1034] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/nvidia/
+                        - strong [ref=e1035]:
+                          - strong [ref=e1037]: NVIDIA
+                      - text: This week did not disappoint! We're at
+                      - 'link "View company: NVIDIA GTC" [ref=e1040] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/showcase/nvidia-gtc/
+                        - strong [ref=e1041]:
+                          - strong [ref=e1043]: NVIDIA GTC
+                      - text: "showing what's possible when your AI tools finally have access to the data they've been missing all along. Cohesity Gaia makes that happen, no new pipelines, no duplicating data, no rebuilding permissions from scratch. Your data was already there. We just unlocked it. 🔓And the agents doing all that work? They run inside NVIDIA OpenShell so they can't be turned into the very thing they're fighting against.Come find us at booth #3003 before it wraps tomorrow. 👇"
+                  - generic [ref=e1044]:
+                    - link [ref=e1045] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/pulse/safer-agents-smarter-recovery-cohesity-nvidia-gtc-2026-cohesity-uikvf/?li_fat_id=d3a12ca2-cd52-48ca-a3d3-93e0f810617a
+                      - figure [ref=e1046]:
+                        - img "Safer agents. Smarter recovery. Cohesity + NVIDIA at GTC 2026." [ref=e1047]
+                    - link [ref=e1048] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/pulse/safer-agents-smarter-recovery-cohesity-nvidia-gtc-2026-cohesity-uikvf/?li_fat_id=d3a12ca2-cd52-48ca-a3d3-93e0f810617a
+                      - generic [ref=e1049]:
+                        - link [ref=e1050]:
+                          - /url: https://www.linkedin.com/newsletters/security-spotlight-6983470072002428928/
+                          - generic [ref=e1051]:
+                            - figure [aria-hidden] [ref=e1052]
+                            - paragraph [ref=e1054]: Security Spotlight
+                            - button "Subscribe to Security Spotlight newsletter" [ref=e1056]:
+                              - generic [ref=e1057]: Subscribe
+                        - paragraph [ref=e1062]: Safer agents. Smarter recovery. Cohesity + NVIDIA at GTC 2026.
+                        - paragraph [ref=e1064]: Cohesity
+                  - generic [ref=e1065]:
+                    - generic [ref=e1066]:
+                      - 'button "Reaction button state: no reaction" [ref=e1069] [cursor=pointer]':
+                        - generic [ref=e1070]: 24,018
+                      - button "Open reactions menu":
+                        - generic [ref=e1076] [cursor=pointer]
+                    - button "Comment" [ref=e1079] [cursor=pointer]:
+                      - generic [ref=e1080]: "226"
+                    - button "Repost" [ref=e1086] [cursor=pointer]:
+                      - generic [ref=e1087]: "217"
+                    - link "Send" [ref=e1093] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                    - link [ref=e1097] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - generic "24,018 reactions" [ref=e1098]
+              - listitem [ref=e1129]:
+                - generic [ref=e1131]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=e1133]:
+                    - paragraph [ref=e1136]: Suggested
+                    - button "Open control menu for post by Aman Kumar" [ref=e1137] [cursor=pointer]
+                    - button "Hide post by Aman Kumar" [ref=e1141] [cursor=pointer]
+                  - generic [ref=e1145]:
+                    - link [ref=e1148] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/aman-kumar-02718b207/
+                      - figure [ref=e1149]:
+                        - img "View Aman Kumar’s profile, open to work" [ref=e1150]
+                    - generic [ref=e1152]:
+                      - link [ref=e1155] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/aman-kumar-02718b207/
+                        - generic "Aman Kumar, Open to work Verified Profile 2nd" [ref=e1159]:
+                          - paragraph [ref=e1162]: Aman Kumar
+                          - paragraph [ref=e1164]:
+                            - generic [ref=e1165]: • 2nd
+                      - paragraph [ref=e1170]: Software developer || Frontend Web developer || C++ || React.js || SQL || MongoDB
+                      - paragraph [ref=e1172]:
+                        - generic [ref=e1173]:
+                          - text: 7h •
+                          - 'img "Visibility: Global" [ref=e1174]'
+                      - link "Aman Kumar, Open to work Verified Profile 2nd":
+                        - /url: https://www.linkedin.com/in/aman-kumar-02718b207/
+                    - button "Follow Aman Kumar" [ref=e1179] [cursor=pointer]:
+                      - generic [ref=e1180]: Follow
+                  - paragraph [ref=e1185]:
+                    - generic [ref=e1186]:
+                      - text: "💻 Remote frontend and fullstack roles worth checkingReact.js, TypeScript, Node.js, PostgreSQL, APIs, fullstack systems.Good fit for developers working across frontend interfaces, backend services, and scalable web applications.💼 Role: Software Engineer, Internal Platforms🏢 Company: micro1📍 Location: Remote, US🕒 Type: Full-time💰 Pay: $120,000 – $155,000 USD🌎 Work mode: Remote✨ Why it is worth checking: React, TypeScript, Node.js, PostgreSQL, internal platform systems, AI-driven infrastructure.🔗"
+                      - link "Open https://lnkd.in/eYwbA9dt" [ref=e1188] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FeYwbA9dt&urlhash=wEh8&mt=UDedTPDYRagf30igwnWxRxonVo4MYFTLGomzpTluO2f8k5fALtZH-mOXhVQt2DyihS6XMhHvZxf3WXYjVRxjgOJb3sfkiV9QJ2OZzhO0fhvfewoPabk-0Yjn7Q&isSdui=true
+                        - strong [ref=e1189]: https://lnkd.in/eYwbA9dt
+                      - text: "💼 Role: JavaScript Frontend Developer (remote)🏢 Company: Hire Feed📍 Location: Remote, India🕒 Type: Full-time✨ Why it is worth checking: JavaScript, ES6+, React/Angular/Vue.js, Node.js, REST APIs, scalable applications.🔗"
+                      - link "Open https://lnkd.in/ekgqtxSz" [ref=e1191] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FekgqtxSz&urlhash=dJxV&mt=l4psnkaJlNHL0eU7qAy2ulLuB-_m95XYQnffUZF8rZEJI0atkNQNITRM4pgl9sMoYn1KajQr73axyK4-asIqdrDb5DGDQ_XPwhvsExoO84xV2URS9fFlx8Q6NA&isSdui=true
+                        - strong [ref=e1192]: https://lnkd.in/ekgqtxSz
+                      - text: 🚀
+                      - strong [ref=e1193]: Remote Job Platforms & Career Tools
+                      - text: Looking for remote jobs or tools to make your job search easier? Here are a few platforms you can check out 👇🔹
+                      - strong [ref=e1194]: Remote Rocketship
+                      - text: Find remote job opportunities and explore company culture insights to help you decide where to apply.👉
+                      - link "Open https://lnkd.in/e4hgH2uT" [ref=e1196] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Fe4hgH2uT&urlhash=4rcD&mt=My1GBkQBiUFH6btOpzs18ztuki76EMZ7SCXyKz3Uau_DqsuZEDDMPkn3OMC3SNW3j_C2mXITeh5CH84gYRl8vJHjrxEyIYPHhslFAr4870OJZaiSppLWW8eqKA&isSdui=true
+                        - strong [ref=e1197]: https://lnkd.in/e4hgH2uT
+                      - text: 🔹
+                      - strong [ref=e1198]: Eztrackr
+                      - text: Keep your job search organized by tracking applications, companies, interview stages, and application progress in one place.👉
+                      - link "Open https://lnkd.in/eHSCD_m5" [ref=e1200] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FeHSCD_m5&urlhash=5swM&mt=zyUNjbytG8BDiBaUfySqe86B5Q2YWX_yOLdLeuTG8D1Q895Khq1K9sfkJXLddz2acRTWOwPrZcYhKZ6uLDVD5DavzHvoAuDgAjuBpNQUEF3RTn0ElHDuiwjXTA&isSdui=true
+                        - strong [ref=e1201]: https://lnkd.in/eHSCD_m5
+                      - text: 🔹
+                      - strong [ref=e1202]: Remotive
+                      - text: Explore remote opportunities across
+                      - strong [ref=e1203]: AI, Tech, Marketing, Sales, and more
+                      - text: .👉
+                      - link "Open https://lnkd.in/g6NGnF9X" [ref=e1205] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Fg6NGnF9X&urlhash=RFuj&mt=ySYdl9bO7TtgZ2pa-fxeQUF1zCKHVeSsalmJG6lF5EarzMKx3hEDv4QieSC1mCoKQAafSNZrb7F3KYAPusoRaXG5InKYhZroyI5jSryUtgql3x89MYkq2GL8zQ&isSdui=true
+                        - strong [ref=e1206]: https://lnkd.in/g6NGnF9X
+                      - text: 🔹
+                      - strong [ref=e1207]: Decktopus
+                      - text: Create professional presentations faster with AI — useful for interviews, projects, pitches, and work presentations.👉
+                      - link "Open https://lnkd.in/e_7vfE4p" [ref=e1209] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Fe_7vfE4p&urlhash=g_6W&mt=xRhND6fqNrdVp5XlIkgsW1kXxVPieA24H7tqelTdX7FU2js0USyl7Y4UN5w6SWMemepjG7D1-W2VkNR4JylyWohmqK3JCtxsDsdMU4FnwDjm5riSeykdGH39MA&isSdui=true
+                        - strong [ref=e1210]: https://lnkd.in/e_7vfE4p
+                      - text: "👉 1000+ Coursera programs:"
+                      - link "Open https://lnkd.in/eCi8F-r7" [ref=e1212] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FeCi8F-r7&urlhash=-3z4&mt=ibdBI50D7fbhDu3xNkjZiWdcyOQSchin3i9bTJig1qilJl-pAvMkwgSGzmUfeA1J0YNiR1elUfIDnWusQrzyNB8dpYYS-uYqmgAa5cehzviPrSAu8moOlLbKKA&isSdui=true
+                        - strong [ref=e1213]: https://lnkd.in/eCi8F-r7
+                      - text: "Here are some worth checking out: 1️⃣ Introduction to Generative AI🔗"
+                      - link "Open http://imp.i384100.net/qWvBoj" [ref=e1215] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=http%3A%2F%2Fimp%2Ei384100%2Enet%2FqWvBoj&urlhash=_tWc&mt=H4vxhwkkdg9ua_QLawUcjrQZIAnfIedAL1kX0GC72dD4eJTsTop3VLb_HTAWEaJfxLgZlda_yqqBn06fj3dmAAyoqiYYlYZ4QqTkI30kEx9LBzbaYz0TAaVUrA&isSdui=true
+                        - strong [ref=e1216]: imp.i384100.net/qWvBoj
+                      - text: 2️⃣ Foundations of Project Management🔗
+                      - link "Open http://imp.i384100.net/PzgWnX" [ref=e1218] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=http%3A%2F%2Fimp%2Ei384100%2Enet%2FPzgWnX&urlhash=mTGf&mt=dtIsezNhjjMVINUAKPXhZ8c969vUa2IsIMe7bg4OXR7U-YYqhesn0rBfvK6xAeNA8iNnHqyh0QLNwL8Lf1WMcPDOLQrqnNdg77SbuoKChK-zBnxBMyosfsSg6w&isSdui=true
+                        - strong [ref=e1219]: imp.i384100.net/PzgWnX
+                      - text: 3️⃣ Google Project Management🔗
+                      - link "Open http://imp.i384100.net/aNz4Db" [ref=e1221] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=http%3A%2F%2Fimp%2Ei384100%2Enet%2FaNz4Db&urlhash=g6Ld&mt=h9Gq9j5-m4VCcuet6X4AhKdp6wzV-r9G3mTvTs19FlCePNgLnJPn8JfKP-eFQr-aJ3TeSW3ADKyqCASMzUXiApiggGcfA9M9JBjEtLqtW9tPvRAuN3fVCMIMAg&isSdui=true
+                        - strong [ref=e1222]: imp.i384100.net/aNz4Db
+                      - text: 4️⃣ IBM Python for Data Science, AI & Development🔗
+                      - link "Open http://imp.i384100.net/7XVKqA" [ref=e1224] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=http%3A%2F%2Fimp%2Ei384100%2Enet%2F7XVKqA&urlhash=CR7l&mt=h2SXthcase6-BRE0VoIEfSgiiNUlbEq7RkfEN5QhgXCkLwVsj15JFYeqQb62IWvk_RpF8R09n1XrthNUrSLMiedzWSE5VcsbiwMKMKyxHG-aHIQ0SolpiU1q4A&isSdui=true
+                        - strong [ref=e1225]: imp.i384100.net/7XVKqA
+                      - text: 5️⃣ Google Digital Marketing & E-commerce🔗
+                      - link "Open http://imp.i384100.net/xJvoaA" [ref=e1227] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=http%3A%2F%2Fimp%2Ei384100%2Enet%2FxJvoaA&urlhash=dkc4&mt=zNLihPSYW8tqTBrCfvGjONlF4CUiy6-9ZmwjwRG-lp5ErfA7TYFbA1ZyGgEa81BrXR4CsXZKXwRsMBNaeS-AfmPHvk-sCF08famPI3KrVTDEsUe8S3_w1i9uWw&isSdui=true
+                        - strong [ref=e1228]: imp.i384100.net/xJvoaA
+                      - text: 6️⃣ Google IT Support🔗
+                      - link "Open http://imp.i384100.net/5kGzdj" [ref=e1230] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=http%3A%2F%2Fimp%2Ei384100%2Enet%2F5kGzdj&urlhash=OLSv&mt=h9OylE4DygWsGXtiQYIXjCbo5Wb0faZ8TPvZ6qjKHbMCoZIQLJMXxIig_V0TN_1hVJfyAhAvlNo3p6EGL1390V7lvaY8amT1IhB4QIZ2SQQ3HN_6XiJgHrgBdA&isSdui=true
+                        - strong [ref=e1231]: imp.i384100.net/5kGzdj
+                      - text: 7️⃣ Google Data Analytics🔗
+                      - link "Open http://imp.i384100.net/JkAZ6R" [ref=e1233] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=http%3A%2F%2Fimp%2Ei384100%2Enet%2FJkAZ6R&urlhash=0YhF&mt=f-WjZiGDBrhwcro7Y1JsEL8Pn3wPf4yYS7nvlq_HDhpyomqZcsS4_oB6h1W4GPVUOYE_1AqACOtZsfChXrGeZ1nh_36Sp38RiWZW5ruEbJypFmPCLB8LANTDrg&isSdui=true
+                        - strong [ref=e1234]: imp.i384100.net/JkAZ6R
+                      - text: 8️⃣ Machine Learning Specialization🔗
+                      - link "Open http://imp.i384100.net/WOzEeP" [ref=e1236] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=http%3A%2F%2Fimp%2Ei384100%2Enet%2FWOzEeP&urlhash=hqwT&mt=6oFFcUMPEpNekPwb8zK8LJX90jYi_Ma5SNrqboCiXSb_RYVGTIFdPDRCl84vIZ7pftQ-uSLap5ZZ1yAeScWfWdZlz8ewYO_SMPaGCOdT17SkTvhQ7Q2cA1dkaA&isSdui=true
+                        - strong [ref=e1237]: imp.i384100.net/WOzEeP
+                      - text: 9️⃣ Deep Learning Specialization🔗
+                      - link "Open http://imp.i384100.net/4aAM79" [ref=e1239] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=http%3A%2F%2Fimp%2Ei384100%2Enet%2F4aAM79&urlhash=0xXR&mt=9BOfxDV8gu6o0lE7AxzJ4RqLJ0ownrGyRMeVv7SW7uGc5yniILGjjH2X1432sO5KM_vyyVjOAcA8N-HckiuiDrCMz3ST6yCWqPTwaTRsQpBJisG_cBZ3cTW1Cg&isSdui=true
+                        - strong [ref=e1240]: imp.i384100.net/4aAM79
+                      - text: 🔟 Google Cybersecurity🔗
+                      - link "Open http://imp.i384100.net/4aAM79" [ref=e1242] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=http%3A%2F%2Fimp%2Ei384100%2Enet%2F4aAM79&urlhash=0xXR&mt=OSZ5cTTdZ4rjOuO4ji_gZ-JhjaH8voHj6Hh3FzAaJVa1_Noj2i_KKJoJwa1SRKM5nNSdmKOcXaTeyv0js-KdHY5f-Oj1efrt2NF4ijzDbW8Xotko-ld_rrjspg&isSdui=true
+                        - strong [ref=e1243]: imp.i384100.net/4aAM79
+                      - text: 1️⃣1️⃣ Google UX Design🔗
+                      - link "Open http://imp.i384100.net/rEyWPQ" [ref=e1245] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=http%3A%2F%2Fimp%2Ei384100%2Enet%2FrEyWPQ&urlhash=fekA&mt=59jo-HYC-BWD-vL0d4wghTLoiEPx4AmozkNk2l-LrqdZwDDdHQU_GI-2cXOXi4-BhZWfrS2vmkAJhfvrElktjJsYBtv7ky1rAqjFBlaBQJvCOcum9xQl3brXEg&isSdui=true
+                        - strong [ref=e1246]: imp.i384100.net/rEyWPQ
+                      - text: 1️⃣2️⃣ Web Applications for Everybody🔗
+                      - link "Open http://imp.i384100.net/PzgnDz" [ref=e1248] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=http%3A%2F%2Fimp%2Ei384100%2Enet%2FPzgnDz&urlhash=gB24&mt=sPg6Bz5RDuVRvUG8RC1fsFeHTCLdropDmnCdnU5HwIHiMPFjkvI-jl3S8GYj_thx-SLoZLucyOsD9r3N8J9TLublHQxclRlrD24uzc1WlVatvfnP48a_0u_NJQ&isSdui=true
+                        - strong [ref=e1249]: imp.i384100.net/PzgnDz
+                      - text: Explore these roles here.Save this for later or send it to someone job hunting.
+                      - 'link "View hashtag: #frontenddeveloper" [ref=e1251] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23frontenddeveloper&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1252]: "#FrontendDeveloper"
+                      - 'link "View hashtag: #reactjs" [ref=e1254] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23reactjs&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1255]: "#ReactJS"
+                      - 'link "View hashtag: #javascript" [ref=e1257] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23javascript&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1258]: "#JavaScript"
+                      - 'link "View hashtag: #typescript" [ref=e1260] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23typescript&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1261]: "#TypeScript"
+                      - 'link "View hashtag: #nodejs" [ref=e1263] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23nodejs&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1264]: "#NodeJS"
+                      - 'link "View hashtag: #softwareengineer" [ref=e1266] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23softwareengineer&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1267]: "#SoftwareEngineer"
+                      - 'link "View hashtag: #webdevelopment" [ref=e1269] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23webdevelopment&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1270]: "#WebDevelopment"
+                  - link [ref=e1272] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/
+                    - figure [ref=e1273]:
+                      - img "View image" [ref=e1274]
+                  - generic [ref=e1275]:
+                    - generic [ref=e1276]:
+                      - 'button "Reaction button state: no reaction" [ref=e1279] [cursor=pointer]':
+                        - generic [ref=e1280]: "17"
+                      - button "Open reactions menu":
+                        - generic [ref=e1286] [cursor=pointer]
+                    - button "Comment" [ref=e1289] [cursor=pointer]:
+                      - generic [ref=e1290]: "1"
+                    - button "Repost" [ref=e1296] [cursor=pointer]:
+                      - generic [ref=e1297]: "1"
+                    - link "Send" [ref=e1303] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                    - link [ref=e1307] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - generic "17 reactions" [ref=e1308]
+              - listitem [ref=e1333]:
+                - generic [ref=e1335]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=e1337]:
+                    - generic [ref=e1338]:
+                      - link [ref=e1341] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/pravesh-kumar537/
+                        - figure [ref=e1342]:
+                          - img "View Pravesh Kumar’s profile" [ref=e1343]
+                      - paragraph [ref=e1345]:
+                        - generic [ref=e1346]:
+                          - link "View Pravesh Kumar’s profile" [ref=e1347] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/pravesh-kumar537/
+                            - strong [ref=e1348]: Pravesh Kumar
+                          - text: likes this
+                    - button "Open control menu for post by Mukut Gupta" [ref=e1349] [cursor=pointer]
+                    - button "Hide post by Mukut Gupta" [ref=e1353] [cursor=pointer]
+                  - generic [ref=e1357]:
+                    - link [ref=e1360] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/mukut-gupta-124583253/
+                      - figure [ref=e1361]:
+                        - img "View Mukut Gupta’s profile" [ref=e1362]
+                    - generic [ref=e1364]:
+                      - link [ref=e1367] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/mukut-gupta-124583253/
+                        - generic "Mukut Gupta Verified Profile 2nd" [ref=e1371]:
+                          - paragraph [ref=e1374]: Mukut Gupta
+                          - paragraph [ref=e1376]:
+                            - generic [ref=e1377]: • 2nd
+                      - paragraph [ref=e1382]: Student at Indian Institute of Mass Communication, Delhi.
+                      - paragraph [ref=e1384]:
+                        - generic [ref=e1385]:
+                          - text: 4h •
+                          - 'img "Visibility: Global" [ref=e1386]'
+                      - link "Mukut Gupta Verified Profile 2nd":
+                        - /url: https://www.linkedin.com/in/mukut-gupta-124583253/
+                    - link "Invite Mukut Gupta to connect" [ref=e1391] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - generic [ref=e1392]: Connect
+                  - paragraph [ref=e1397]:
+                    - generic [ref=e1398]:
+                      - text: Hello everyone!This past summer, I interned at
+                      - 'link "View company: Centre For Land Warfare Studies (CLAWS)" [ref=e1400] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/centre-for-land-warfare-studies-claws/
+                        - strong [ref=e1401]:
+                          - strong [ref=e1403]: Centre For Land Warfare Studies (CLAWS)
+                      - text: "where I had the opportunity to read and write in detail about an area that is of a particular interest to me: West Asia. It helped that the region has been in vogue these many months due to multiple conflicts, which made by job somewhat challenging, but also satisfying in equal measure. As part of my internship, I contributed articles and an issue brief on topics that ranged from the conflict between Israel and Hezbollah in Lebanon, Iran's foreign policy imperatives and India-Iran cooperation over the Chabahar Port. Through all of it, I was mentored by"
+                      - link "View Suyash Dwivedi’s profile" [ref=e1405] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/suyashdwivedi/
+                        - strong [ref=e1406]:
+                          - strong [ref=e1408]: Suyash Dwivedi
+                      - text: at CLAWS, to whom I am very grateful.I'd also like to thank
+                      - link "View Shambhu Sahu’s profile" [ref=e1410] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/shambhu-sahu-36468528/
+                        - strong [ref=e1411]:
+                          - strong [ref=e1413]: Shambhu Sahu
+                      - text: and
+                      - link "View Yashasvika Yadav’s profile" [ref=e1415] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/yashasvika-yadav-a03b5783/
+                        - strong [ref=e1416]:
+                          - strong [ref=e1418]: Yashasvika Yadav
+                      - text: for helping me grab the opportunity.
+                  - generic [ref=e1419]:
+                    - generic [ref=e1422]:
+                      - status [ref=e1423]
+                      - list [ref=e1424]:
+                        - listitem [ref=e1425]:
+                          - button "Page 1 of 1" [ref=e1426] [cursor=pointer]:
+                            - figure [aria-hidden] [ref=e1427]
+                    - generic [ref=e1430]:
+                      - paragraph [ref=e1432]: Internship Certificate
+                      - paragraph [ref=e1434]: ·
+                      - paragraph [ref=e1436]: 1 page
+                    - button "Full screen" [ref=e1438] [cursor=pointer]
+                  - generic [ref=e1442]:
+                    - generic [ref=e1443]:
+                      - 'button "Reaction button state: no reaction" [ref=e1446] [cursor=pointer]':
+                        - generic [ref=e1447]: "6"
+                      - button "Open reactions menu":
+                        - generic [ref=e1453] [cursor=pointer]
+                    - button "Comment" [ref=e1456] [cursor=pointer]
+                    - button "Repost" [ref=e1460] [cursor=pointer]
+                    - link "Send" [ref=e1464] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                    - link [ref=e1468] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - generic "6 reactions" [ref=e1469]
+          - complementary "Aside" [ref=e1482]:
+            - generic [ref=e1483]:
+              - generic [ref=e1484]:
+                - generic [ref=e1488]:
+                  - generic [ref=e1489]:
+                    - paragraph [ref=e1490]: LinkedIn News
+                    - button "Info tooltip" [ref=e1491] [cursor=pointer]
+                  - paragraph [ref=e1495]: Top stories
+                  - generic [ref=e1496]:
+                    - link [ref=e1498] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/us-and-china-extend-trade-truce-begin-ai-talks-7624652/
+                      - generic [ref=e1500]:
+                        - paragraph [ref=e1502]: US and China extend trade truce, begin AI talks
+                        - generic [ref=e1503]:
+                          - paragraph [ref=e1504]: 4h ago
+                          - paragraph [ref=e1505]: •
+                          - paragraph [ref=e1506]: 9,306 readers
+                    - link [ref=e1508] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/meet-linkedins-top-voices-in-india-8670913/
+                      - generic [ref=e1510]:
+                        - paragraph [ref=e1512]: Meet LinkedIn’s Top Voices in India
+                        - generic [ref=e1513]:
+                          - paragraph [ref=e1514]: 2d ago
+                          - paragraph [ref=e1515]: •
+                          - paragraph [ref=e1516]: 4,579 readers
+                    - link [ref=e1518] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/tata-clash-puts-business-families-on-alert-8682113/
+                      - generic [ref=e1520]:
+                        - paragraph [ref=e1522]: Tata clash puts business families on alert
+                        - generic [ref=e1523]:
+                          - paragraph [ref=e1524]: 2d ago
+                          - paragraph [ref=e1525]: •
+                          - paragraph [ref=e1526]: 1,456 readers
+                    - link [ref=e1528] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/appetite-grows-for-clean-labels-on-packaged-food-8670225/
+                      - generic [ref=e1530]:
+                        - paragraph [ref=e1532]: Appetite grows for clean labels on packaged food
+                        - generic [ref=e1533]:
+                          - paragraph [ref=e1534]: 2d ago
+                          - paragraph [ref=e1535]: •
+                          - paragraph [ref=e1536]: 605 readers
+                    - link [ref=e1538] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/the-sports-conversations-to-join-this-week-8332809/
+                      - generic [ref=e1540]:
+                        - paragraph [ref=e1542]: The sports conversations to join this week
+                        - generic [ref=e1543]:
+                          - paragraph [ref=e1544]: 2d ago
+                          - paragraph [ref=e1545]: •
+                          - paragraph [ref=e1546]: 22,221 readers
+                    - button "Show more news" [ref=e1547] [cursor=pointer]
+                - generic [ref=e1557]:
+                  - paragraph [ref=e1558]: Today’s puzzles
+                  - generic [ref=e1559]:
+                    - link [ref=e1561] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/games/zip/
+                      - generic "Play Zip" [ref=e1562]:
+                        - generic [ref=e1563]:
+                          - figure [aria-hidden] [ref=e1564]
+                          - generic [ref=e1565]:
+                            - paragraph [ref=e1566]:
+                              - strong [ref=e1567]: Zip
+                              - text: "#559"
+                            - paragraph [ref=e1568]: 30 connections played
+                    - link [ref=e1572] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/games/wend/
+                      - generic "Play Wend" [ref=e1573]:
+                        - generic [ref=e1574]:
+                          - figure [aria-hidden] [ref=e1575]
+                          - generic [ref=e1576]:
+                            - paragraph [ref=e1577]:
+                              - strong [ref=e1578]: Wend
+                              - text: "#111"
+                            - paragraph [ref=e1579]: 18 connections played
+                    - link [ref=e1583] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/games/patches/
+                      - generic "Play Patches" [ref=e1584]:
+                        - generic [ref=e1585]:
+                          - figure [aria-hidden] [ref=e1586]
+                          - generic [ref=e1587]:
+                            - paragraph [ref=e1588]:
+                              - strong [ref=e1589]: Patches
+                              - text: "#194"
+                            - paragraph [ref=e1590]: 18 connections played
+                    - link [ref=e1594] [cursor=pointer]:
+                      - /url: /games/mini-sudoku/
+                      - generic "Play MiniSudoku" [ref=e1595]:
+                        - generic [ref=e1596]:
+                          - figure [aria-hidden] [ref=e1597]
+                          - generic [ref=e1598]:
+                            - paragraph [ref=e1599]:
+                              - strong [ref=e1600]: Mini Sudoku
+                              - text: "#412"
+                            - paragraph [ref=e1601]: 9 connections played
+                    - button "Show more" [ref=e1605] [cursor=pointer]
+              - generic [ref=e1614]:
+                - generic [ref=e1615]:
+                  - link [ref=e1616] [cursor=pointer]:
+                    - /url: https://about.linkedin.com/
+                    - paragraph [ref=e1617]: About
+                  - link [ref=e1618] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/accessibility/
+                    - paragraph [ref=e1619]: Accessibility
+                  - link [ref=e1620] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/
+                    - paragraph [ref=e1621]: Help Center
+                  - button [ref=e1622] [cursor=pointer]:
+                    - paragraph [ref=e1624]: Privacy & Terms
+                  - link [ref=e1627] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                    - paragraph [ref=e1628]: Ad Choices
+                  - link [ref=e1629] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                    - paragraph [ref=e1630]: Advertising
+                  - button [ref=e1631] [cursor=pointer]:
+                    - paragraph [ref=e1633]: Business Services
+                  - link [ref=e1636] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mobile/
+                    - paragraph [ref=e1637]: Get the LinkedIn app
+                  - link [ref=e1638] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+                    - paragraph [ref=e1639]: More
+                - paragraph [ref=e1643]: LinkedIn Corporation © 2026
+  - iframe [ref=e1644]:
+    - region [ref=f12e12]

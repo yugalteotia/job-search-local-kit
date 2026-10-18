@@ -1,0 +1,12 @@
+[    1243ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    1243ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    1244ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    1244ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    3143ms] [LOG] i18next: languageChanged en-GB @ https://webengage.sensehq.com/careers/_next/static/chunks/pages/_app-25517f7d4ae77c14.js:0
+[    3144ms] [LOG] i18next: initialized {debug: true, initImmediate: true, ns: Array(1), defaultNS: Array(1), fallbackLng: Array(1)} @ https://webengage.sensehq.com/careers/_next/static/chunks/pages/_app-25517f7d4ae77c14.js:0
+[    3281ms] [WARNING]  [33m[1m⚠[22m[39m Runtime config is deprecated and will be removed in Next.js 16. Please remove the usage of "next/config" from your project. @ https://webengage.sensehq.com/careers/_next/static/chunks/2275-09a2a3df4c477cdb.js:0
+[    3385ms] [LOG] {columns: Object} @ https://webengage.sensehq.com/careers/_next/static/chunks/6893-bced1f2f57b9aa6d.js:0
+[   19913ms] [LOG] {columns: Object} @ https://webengage.sensehq.com/careers/_next/static/chunks/6893-bced1f2f57b9aa6d.js:0
+[   19944ms] [LOG] Loading: /careers/jobs/54222 @ https://webengage.sensehq.com/careers/_next/static/chunks/pages/_app-25517f7d4ae77c14.js:0
+[   20284ms] [LOG] {organization: Object} @ https://webengage.sensehq.com/careers/_next/static/chunks/7781-b2cd2e047fbdd22c.js:0
+[   20363ms] [LOG] {organization: Object} @ https://webengage.sensehq.com/careers/_next/static/chunks/7781-b2cd2e047fbdd22c.js:0

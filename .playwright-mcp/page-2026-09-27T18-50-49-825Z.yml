@@ -1,0 +1,62 @@
+- generic [ref=e1]:
+  - link [ref=e4] [cursor=pointer]:
+    - /url: https://jobs.lever.co/hevodata
+    - img "Hevo Data logo" [ref=e5]
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - heading "SDE II" [level=2] [ref=e11]
+        - generic [ref=e12]:
+          - generic [ref=e13]: Bangalore, India
+          - generic [ref=e14]: Engineering – Backend /
+          - generic [ref=e15]: Full time /
+          - generic [ref=e16]: On-site
+      - link "apply for this job" [ref=e18] [cursor=pointer]:
+        - /url: https://jobs.lever.co/hevodata/53987105-3d28-42b1-9132-3672abcef2aa/apply
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - strong [ref=e22]:
+          - text: About Hevo (
+          - link "HevoData.com" [ref=e23] [cursor=pointer]:
+            - /url: http://hevodata.com/
+          - text: )
+        - generic [ref=e25]: Hevo is a simple, intuitive, and powerful No-code Data Pipeline platform that enables companies to consolidate data from multiple software for faster analytics.
+        - generic [ref=e26]: Hevo powers data analytics for 2000+ data-driven companies across multiple industry verticals including Deliverr, Neo4J, Groww, Marqeta, and Betway. By automating complex data integration tasks, Hevo allows data teams to focus on deriving groundbreaking insights and driving their businesses forward.
+        - generic [ref=e27]: "Hevo’s mission is simple, but bold: Build technology from India, for the world that is simple to adopt and easy to access so that everyone can unlock the potential of data."
+        - generic [ref=e28]: Based in San Francisco and Bangalore, Hevo has seen exponential growth since its inception. The team has grown by 3X and the customer base has expanded by a staggering 20X in just the last two years.
+        - generic [ref=e29]: With a total funding of $42 Mil from Sequoia India, Qualgro, and Chiratae Ventures, Hevo is now entering a new phase of hyper-growth.
+        - generic [ref=e30]: Hevoites are a bunch of thoughtful, helpful problem solvers, who are obsessed with making a difference in the lives of their customers, colleagues and their own individual trajectory.
+        - generic [ref=e31]: If you are someone who is passionate about redefining the future of technology, then Hevo is the place for you.
+      - generic [ref=e34]:
+        - heading "What you’ll own as SDE II at Hevo" [level=3] [ref=e35]
+        - list [ref=e38]:
+          - listitem [ref=e39]: Build and optimize SaaS connectors for multiple applications, grasping key application specific nuances like API limits and data syncing.
+          - listitem [ref=e40]: Contribute to customer facing REST API layers, implementing features like endpoints, authentication, and basic scalability.
+          - listitem [ref=e41]: Resolve performance issues in data pipelines and maintain high-quality, efficient codebases.
+          - listitem [ref=e42]: Collaborate on feature scoping, breakdown, and implementation with seniors; own smaller components end-to-end.
+          - listitem [ref=e43]: Document integrations and contribute to system improvements under guidance.
+          - listitem [ref=e44]: Support juniors with code reviews and best practices for system reliability.
+      - generic [ref=e46]:
+        - heading "What you’ll bring to the table" [level=3] [ref=e47]
+        - list [ref=e50]:
+          - listitem [ref=e51]: Solid object-oriented design and experience applying patterns for maintainable SaaS integrations.
+          - listitem [ref=e52]: Hands-on work with concurrent systems or data pipelines, awareness of performance trade-offs and high availability basics.
+          - listitem [ref=e53]: Good understanding of REST API development (e.g., building endpoints, handling requests/responses) for customer exposure.
+          - listitem [ref=e54]: Strong programming in Java, solid grasp of data structures, algorithms, and problem-solving.
+          - listitem [ref=e55]: Analytical mindset for troubleshooting SaaS connector challenges like data inconsistencies, token refreshes or schema drifts etc.
+      - generic [ref=e57]:
+        - heading "Candidate Persona" [level=3] [ref=e58]
+        - list [ref=e61]:
+          - listitem [ref=e62]: 3-4 years in SaaS integrations, API development, or scalable data systems.
+          - listitem [ref=e63]: B Tech in Computer Science or equivalent from a reputed college.
+      - generic [ref=e64]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=e67] [cursor=pointer]:
+        - /url: https://jobs.lever.co/hevodata/53987105-3d28-42b1-9132-3672abcef2aa/apply
+  - generic [ref=e69]:
+    - paragraph [ref=e70]:
+      - link "Hevo Data Home Page" [ref=e71] [cursor=pointer]:
+        - /url: http://www.hevodata.com
+    - link "Jobs powered by Lever logo" [ref=e72] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e73]: Jobs powered by
+      - img "Lever logo" [ref=e74]

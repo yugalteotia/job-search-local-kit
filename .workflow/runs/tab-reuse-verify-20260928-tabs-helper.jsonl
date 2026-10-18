@@ -1,0 +1,4 @@
+{"time": "2026-09-28T09:02:37.392370+00:00", "event": "tab_created", "owner": "portal:linkedin", "tab_id": 1}
+{"time": "2026-09-28T09:02:42.241579+00:00", "event": "tab_reused", "owner": "portal:linkedin", "tab_id": 1}
+{"time": "2026-09-28T09:02:43.024389+00:00", "event": "tab_closed", "owner": "portal:linkedin", "tab_id": 1}
+{"time": "2026-09-28T09:02:43.024499+00:00", "event": "tab_lifecycle_summary", "owner": "portal:linkedin", "created": 1, "reused": 1, "closed": 1, "remaining_automation_tabs": 0, "remaining_tab_ids": []}

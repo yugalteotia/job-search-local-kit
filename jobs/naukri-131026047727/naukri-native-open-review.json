@@ -1,0 +1,23 @@
+{
+  "job_id": 342,
+  "requisition_id": "131026047727",
+  "form_url": "https://www.naukri.com/job-listings-java-full-stack-developer-naukri-assist-hyderabad-3-to-10-years-131026047727",
+  "provider": "naukri_native_chat",
+  "signed_in": true,
+  "account_name_matches": true,
+  "resume_filename": "Yugal_Teotia_Java_Full_Stack_Developer.pdf",
+  "resume_sha256": "d9472f7b286605d9e4d9b1e0cc68b9adda2c5f1de10a66f3075555e04c480943",
+  "final_action": "native_apply_open",
+  "visible_required_fields": 0,
+  "answers_logged": false,
+  "checks": {
+    "live": true,
+    "unapplied": true,
+    "fit": true,
+    "resume_visual": true,
+    "resume_selected": true,
+    "answers_confirmed": true,
+    "unique_apply": true
+  },
+  "created_at": "2026-10-13T18:47:40.948258+00:00"
+}

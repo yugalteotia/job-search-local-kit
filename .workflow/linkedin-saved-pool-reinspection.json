@@ -1,0 +1,107 @@
+{
+  "selected": 4,
+  "verified": 3,
+  "unverified": 1,
+  "verified_job_ids": [
+    338,
+    339,
+    340
+  ],
+  "results": [
+    {
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4478789469/",
+      "portal_job_id": "4478789469",
+      "title": "Backend Developer (SDE II)",
+      "employer": "Drip Capital",
+      "location": "Mumbai, Maharashtra, India \u00b7 2 hours ago \u00b7 Over 100 applicants\n\nPromoted by hirer \u00b7 No response insights available yet",
+      "status": "PortalNativeVerified",
+      "reasons": [],
+      "jd_characters": 2118,
+      "experience_evidence": null,
+      "apply_visible": true,
+      "database_job_id": 338,
+      "duplicate_check": {
+        "status": "clear",
+        "possible_matches": [],
+        "compared_by_exact_id": 0
+      },
+      "render_checks": 1,
+      "card_sha256": null,
+      "freshness": null,
+      "posted_at": "2026-10-13",
+      "posted_text": "1 hour ago\nWithin the past 24 hours"
+    },
+    {
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4476410162/",
+      "portal_job_id": "4476410162",
+      "title": "Software Engineer",
+      "employer": "Syntrace",
+      "location": "Mumbai Metropolitan Region \u00b7 1 hour ago \u00b7 82 applicants\n\nPromoted by hirer \u00b7 No response insights available yet",
+      "status": "PortalNativeUnverified",
+      "reasons": [
+        "substantive_duties_and_qualifications_not_visible"
+      ],
+      "jd_characters": 1035,
+      "experience_evidence": null,
+      "apply_visible": true,
+      "database_job_id": null,
+      "duplicate_check": null,
+      "render_checks": 1,
+      "card_sha256": null,
+      "freshness": null,
+      "posted_at": "2026-10-13",
+      "posted_text": "1 hour ago\nWithin the past 24 hours"
+    },
+    {
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4470285110/",
+      "portal_job_id": "4470285110",
+      "title": "Software Engineer",
+      "employer": "DigiCert",
+      "location": "Bengaluru, Karnataka, India \u00b7 Reposted 1 hour ago \u00b7 Over 100 applicants\n\nPromoted by hirer \u00b7 No response insights available yet",
+      "status": "PortalNativeVerified",
+      "reasons": [],
+      "jd_characters": 3120,
+      "experience_evidence": null,
+      "apply_visible": true,
+      "database_job_id": 339,
+      "duplicate_check": {
+        "status": "clear",
+        "possible_matches": [],
+        "compared_by_exact_id": 0
+      },
+      "render_checks": 1,
+      "card_sha256": null,
+      "freshness": null,
+      "posted_at": "2026-10-13",
+      "posted_text": "54 minutes ago\nWithin the past 24 hours"
+    },
+    {
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4476429855/",
+      "portal_job_id": "4476429855",
+      "title": "Full Stack Software Engineer",
+      "employer": "Sapiogen AI",
+      "location": "Ahmedabad, Gujarat, India \u00b7 22 minutes ago \u00b7 64 applicants\n\nPromoted by hirer \u00b7 Company review time is typically 1 week",
+      "status": "PortalNativeVerified",
+      "reasons": [],
+      "jd_characters": 6957,
+      "experience_evidence": null,
+      "apply_visible": true,
+      "database_job_id": 340,
+      "duplicate_check": {
+        "status": "clear",
+        "possible_matches": [],
+        "compared_by_exact_id": 0
+      },
+      "render_checks": 1,
+      "card_sha256": null,
+      "freshness": null,
+      "posted_at": "2026-10-13",
+      "posted_text": "5 minutes ago\nWithin the past 24 hours"
+    }
+  ],
+  "selection_skips": []
+}

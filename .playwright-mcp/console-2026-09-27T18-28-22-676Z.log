@@ -1,0 +1,34 @@
+[    5180ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    5180ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    5180ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    5180ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    7614ms] [LOG] {ModuleType: 13, ApplyButtonText: Apply, JobDetailsAlign: 0, JobDetailsDate: 0, JobDetailsJobTypeId: 1} site @ https://careers.unitedhealthgroup.com/job/noida/software-engineer-java-fullstack/34088/101107210016:763
+[    7685ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.bugherd.com/sidebarv2.js?apikey=ufgor8s2wnwkrwzpeixung:0
+[    7736ms] [LOG] JQMIGRATE: Migrate is installed with logging active, version 3.3.1 @ https://tbcdn.talentbrew.com/bundles/jquery-client.js:18
+[    7906ms] [LOG] %c Horizontal Free-Scroller v1.4 in use.  background: #6e00ee; color: #fff @ https://tbcdn.talentbrew.com/company/34088/js/67476-UHG-AJD-Theme.min.js:0
+[    7907ms] [WARNING] JQMIGRATE: jQuery.fn.scroll() event shorthand is deprecated @ https://tbcdn.talentbrew.com/bundles/jquery-client.js:18
+[    7908ms] [LOG] %cHorizontal Free-Scroller%cv1.5.0 background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #6e00ee; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://tbcdn.talentbrew.com/company/34088/js/67476-UHG-AJD-Theme.min.js:15
+[    8322ms] [LOG] %cMagicBullet%cv2.2 background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #6e00ee; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/init.js:26
+[    8347ms] [WARNING] JQMIGRATE: jQuery.type is deprecated @ https://tbcdn.talentbrew.com/bundles/jquery-client.js:18
+[    9185ms] [INFO] fancyBox already initialized @ https://services1.tmpwebeng.com/custom-imports/library/fancybox/jquery.fancybox.min.js?_=1790533710408:10
+[    9435ms] [LOG] %cMagicBullet: A11y%cv2.0.5 background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #6e00ee; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:47
+[    9441ms] [LOG] %cMagicBullet: A11y%cStatic Scripts ✔ background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #228B22; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:224
+[    9444ms] [LOG] %cMagicBullet: A11y%cDynamic Scripts ✔ background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #228B22; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:202
+[   10446ms] [LOG] %cMagicBullet: A11y%cDynamic Scripts ✔ background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #228B22; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:202
+[   16414ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[   16414ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[   16414ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[   16414ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[   16444ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.bugherd.com/sidebarv2.js?apikey=ufgor8s2wnwkrwzpeixung:0
+[   16517ms] [LOG] {ModuleType: 13, ApplyButtonText: Apply, JobDetailsAlign: 0, JobDetailsDate: 0, JobDetailsJobTypeId: 1} site @ https://careers.unitedhealthgroup.com/job/noida/software-engineer-java-fullstack/34088/101107210016:763
+[   16547ms] [LOG] JQMIGRATE: Migrate is installed with logging active, version 3.3.1 @ https://tbcdn.talentbrew.com/bundles/jquery-client.js:18
+[   16598ms] [LOG] %c Horizontal Free-Scroller v1.4 in use.  background: #6e00ee; color: #fff @ https://tbcdn.talentbrew.com/company/34088/js/67476-UHG-AJD-Theme.min.js:0
+[   16599ms] [WARNING] JQMIGRATE: jQuery.fn.scroll() event shorthand is deprecated @ https://tbcdn.talentbrew.com/bundles/jquery-client.js:18
+[   16599ms] [LOG] %cHorizontal Free-Scroller%cv1.5.0 background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #6e00ee; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://tbcdn.talentbrew.com/company/34088/js/67476-UHG-AJD-Theme.min.js:15
+[   16711ms] [LOG] %cMagicBullet%cv2.2 background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #6e00ee; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/init.js:26
+[   16731ms] [WARNING] JQMIGRATE: jQuery.type is deprecated @ https://tbcdn.talentbrew.com/bundles/jquery-client.js:18
+[   16745ms] [LOG] %cMagicBullet: A11y%cv2.0.5 background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #6e00ee; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:47
+[   16746ms] [LOG] %cMagicBullet: A11y%cStatic Scripts ✔ background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #228B22; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:224
+[   16748ms] [LOG] %cMagicBullet: A11y%cDynamic Scripts ✔ background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #228B22; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:202
+[   17058ms] [INFO] fancyBox already initialized @ https://services1.tmpwebeng.com/custom-imports/library/fancybox/jquery.fancybox.min.js?_=1790533719223:10
+[   17749ms] [LOG] %cMagicBullet: A11y%cDynamic Scripts ✔ background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #228B22; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:202

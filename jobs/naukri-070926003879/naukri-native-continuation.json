@@ -1,0 +1,203 @@
+{
+  "job_id": 244,
+  "requisition_id": "070926003879",
+  "attempt_id": "392355bd-7563-49cd-9ab6-e1848ca3be53",
+  "started_at": "2026-09-29T13:48:25.909153+00:00",
+  "precondition_checks": {
+    "exact_job_and_url": true,
+    "same_single_locked_attempt": true,
+    "no_completion_request": true,
+    "no_commit": true,
+    "no_applied_history_match": true,
+    "listing_live_unapplied": true,
+    "current_location_blank": true,
+    "notice_answer_saved_once": true,
+    "generic_profile_restored": true
+  },
+  "new_attempt_created": false,
+  "prior_answers_repeated": false,
+  "question_saves_in_this_continuation": 1,
+  "outcome": "Applied with positive job-bound listing and Applied Jobs confirmation",
+  "network_responses": [
+    {
+      "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+      "flowtype": "show",
+      "reason": "exact_job_show",
+      "status": 200,
+      "response_metadata": {
+        "isApply": true,
+        "isLeafNode": false,
+        "dataCommitted": false,
+        "job_id_match": true,
+        "currentNodeName": "apply7"
+      }
+    },
+    {
+      "path": "/cloudgateway-chatbot/chatbot-services/botapi/v5/respond",
+      "flowtype": "unknown",
+      "reason": "one_claimed_chat_answer",
+      "status": 200,
+      "response_metadata": {
+        "job_id_match": true
+      }
+    },
+    {
+      "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+      "flowtype": "show",
+      "reason": "claimed_job_status_refresh",
+      "status": 200,
+      "response_metadata": {
+        "job_id_match": true
+      }
+    }
+  ],
+  "profile_resume_observed_at_start": "Yugal_Teotia_CV.pdf",
+  "signed_in_account_verified": true,
+  "role_resume_verified": true,
+  "profile_upload_statuses": [
+    {
+      "endpoint": "profile_resume_upload",
+      "status": 200
+    }
+  ],
+  "live_listing_before": {
+    "exact_path": true,
+    "apply_visible": true,
+    "applied_button": false,
+    "applied_status": false,
+    "pending": false
+  },
+  "applied_history_before": {
+    "checked_at": "2026-09-29T13:33:37.085639+00:00",
+    "full_history_loaded": true,
+    "exact_id_matches": 0,
+    "company_role_matches": 0,
+    "reused_after_prior_question_save": true
+  },
+  "same_listing_reopened_by_agent": true,
+  "questionnaire_after_reopen": {
+    "drawer": true,
+    "prompts": [
+      "What is your Current location?"
+    ],
+    "editable_count": 1,
+    "editable_filled": [
+      false
+    ],
+    "save_controls": [
+      {
+        "label": "Save",
+        "disabled": false
+      }
+    ],
+    "thank_you": false
+  },
+  "answer_gate": [
+    {
+      "question_index": 1,
+      "answer_ready": false
+    }
+  ],
+  "answer_fact_refs": [
+    "APPLICATION_PROFILE.md: confirmed current location"
+  ],
+  "last_prompt": "What is your Current location?",
+  "questionnaire_after_last_save": {
+    "drawer": false,
+    "prompts": [],
+    "editable_count": 0,
+    "editable_filled": [],
+    "thank_you": false,
+    "applied_visible": false
+  },
+  "network_guard": {
+    "job_id": "070926003879",
+    "phase": "followup_status_received",
+    "show_count": 1,
+    "answer_count": 1,
+    "save_arm_count": 1,
+    "followup_status_count": 1,
+    "post_completion_status_count": 0,
+    "completion_count": 0,
+    "workflow_committed": false,
+    "events": [
+      {
+        "at": "2026-09-29T13:48:39.512132+00:00",
+        "elapsed_ms": 39,
+        "job_id": "070926003879",
+        "phase": "show_sent",
+        "method": "POST",
+        "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+        "flowtype": "show",
+        "allowed": true,
+        "reason": "exact_job_show",
+        "response_status": 200,
+        "response_elapsed_ms": 451,
+        "response_metadata": {
+          "isApply": true,
+          "isLeafNode": false,
+          "dataCommitted": false,
+          "job_id_match": true,
+          "currentNodeName": "apply7"
+        }
+      },
+      {
+        "at": "2026-09-29T13:48:42.128678+00:00",
+        "elapsed_ms": 2655,
+        "job_id": "070926003879",
+        "phase": "answer_sent",
+        "method": "POST",
+        "path": "/cloudgateway-chatbot/chatbot-services/botapi/v5/respond",
+        "flowtype": "unknown",
+        "allowed": true,
+        "reason": "one_claimed_chat_answer",
+        "response_status": 200,
+        "response_elapsed_ms": 2742,
+        "response_metadata": {
+          "job_id_match": true
+        }
+      },
+      {
+        "at": "2026-09-29T13:48:44.218717+00:00",
+        "elapsed_ms": 4746,
+        "job_id": "070926003879",
+        "phase": "followup_status_sent",
+        "method": "POST",
+        "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+        "flowtype": "show",
+        "allowed": true,
+        "reason": "claimed_job_status_refresh",
+        "response_status": 200,
+        "response_elapsed_ms": 4839,
+        "response_metadata": {
+          "job_id_match": true
+        }
+      }
+    ]
+  },
+  "generic_restored_verified": true,
+  "generic_restore_statuses": [
+    {
+      "endpoint": "profile_resume_upload",
+      "status": 200
+    }
+  ],
+  "finished_at": "2026-09-29T13:48:55.488823+00:00",
+  "confirmation_path": "jobs/naukri-070926003879/naukri-native-confirmation.json",
+  "job_bound_proof": {
+    "exact_listing_applied": true,
+    "exact_history_id_match": true,
+    "history_matches": 1,
+    "captured_at": "2026-09-29T13:50:22.109447+00:00"
+  },
+  "final_network_outcome": {
+    "chat_answer_http_status": 200,
+    "chat_answer_job_id_match": true,
+    "job_status_refresh_flowtype": "show",
+    "job_status_refresh_http_status": 200,
+    "completion_request_observed": false,
+    "workflow_committed_metadata": false,
+    "note": "Naukri closed the questionnaire after the third answer; no separate completion-flow request or dataCommitted=true was observed."
+  },
+  "completed_at": "2026-09-29T13:51:41.141263+00:00"
+}

@@ -1,0 +1,171 @@
+{
+  "full": true,
+  "exact": 1,
+  "loaded_rows": 272,
+  "expected_total": 272,
+  "load_sweeps": [
+    {
+      "rows": 10,
+      "total": 272,
+      "exact": 0,
+      "company_role": 1,
+      "more": true
+    },
+    {
+      "rows": 20,
+      "total": 272,
+      "exact": 0,
+      "company_role": 1,
+      "more": true
+    },
+    {
+      "rows": 40,
+      "total": 272,
+      "exact": 0,
+      "company_role": 1,
+      "more": true
+    },
+    {
+      "rows": 60,
+      "total": 272,
+      "exact": 0,
+      "company_role": 1,
+      "more": true
+    },
+    {
+      "rows": 80,
+      "total": 272,
+      "exact": 0,
+      "company_role": 1,
+      "more": true
+    },
+    {
+      "rows": 100,
+      "total": 272,
+      "exact": 0,
+      "company_role": 1,
+      "more": true
+    },
+    {
+      "rows": 120,
+      "total": 272,
+      "exact": 0,
+      "company_role": 1,
+      "more": true
+    },
+    {
+      "rows": 140,
+      "total": 272,
+      "exact": 0,
+      "company_role": 1,
+      "more": true
+    },
+    {
+      "rows": 160,
+      "total": 272,
+      "exact": 0,
+      "company_role": 1,
+      "more": true
+    },
+    {
+      "rows": 180,
+      "total": 272,
+      "exact": 0,
+      "company_role": 1,
+      "more": true
+    },
+    {
+      "rows": 200,
+      "total": 272,
+      "exact": 0,
+      "company_role": 1,
+      "more": true
+    },
+    {
+      "rows": 220,
+      "total": 272,
+      "exact": 0,
+      "company_role": 1,
+      "more": true
+    },
+    {
+      "rows": 240,
+      "total": 272,
+      "exact": 0,
+      "company_role": 1,
+      "more": true
+    },
+    {
+      "rows": 260,
+      "total": 272,
+      "exact": 0,
+      "company_role": 1,
+      "more": true
+    },
+    {
+      "rows": 272,
+      "total": 272,
+      "exact": 0,
+      "company_role": 1,
+      "more": false
+    }
+  ],
+  "company_role": 1,
+  "company_role_observed": 1,
+  "company_role_disambiguated": false,
+  "company_role_other_exact_ids": [],
+  "server_company_role_rows": [],
+  "identity_basis": "server_history_exact_job_id",
+  "server_exact_rows": [
+    {
+      "job_id": "141026016132",
+      "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "title": "SDE 2 -  Backend",
+      "company": "cult fit",
+      "status": [
+        {
+          "statusId": 1,
+          "appId": null,
+          "count": 1,
+          "dateTime": "2026-10-14 13:05:30",
+          "modifiedDate": "2026-10-14 13:05:32",
+          "statusValue": "Applied"
+        },
+        {
+          "statusId": 2,
+          "appId": 107,
+          "count": 1,
+          "dateTime": "2026-10-14 13:05:31",
+          "modifiedDate": "2026-10-14 13:05:31",
+          "statusValue": "Application Sent"
+        }
+      ]
+    },
+    {
+      "job_id": "141026016132",
+      "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "title": "SDE 2 -  Backend",
+      "company": "cult fit",
+      "status": [
+        {
+          "statusId": 1,
+          "appId": null,
+          "count": 1,
+          "dateTime": "2026-10-14 13:05:30",
+          "modifiedDate": "2026-10-14 13:05:32",
+          "statusValue": "Applied"
+        },
+        {
+          "statusId": 2,
+          "appId": 107,
+          "count": 1,
+          "dateTime": "2026-10-14 13:05:31",
+          "modifiedDate": "2026-10-14 13:05:31",
+          "statusValue": "Application Sent"
+        }
+      ]
+    }
+  ],
+  "observed_exact_rows_unverified": 0,
+  "at": "2026-10-14T07:41:24.320585+00:00"
+}

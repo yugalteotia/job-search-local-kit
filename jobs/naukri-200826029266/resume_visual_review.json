@@ -1,0 +1,85 @@
+{
+  "status": "visually_clean",
+  "pdf": "Yugal_Teotia_Java_Springboot_Developer.pdf",
+  "pdf_sha256": "e99b2d85a02b7506b846ef2090ed7f8b47f6b93ed17a5aadb2ee710b68f99f95",
+  "png": "Yugal_Teotia_Java_Springboot_Developer-preview.png",
+  "png_sha256": "f00ac28cf6e34d26cbff9dce65f8ef9f8f6b16be45834f1e576cb2e164b1ccaf",
+  "pages": 1,
+  "page_points": [
+    595.2756,
+    841.8898
+  ],
+  "png_pixels": [
+    1654,
+    2339
+  ],
+  "embedded_fonts": [
+    "/AAAAAA+LiberationSans-Bold",
+    "/AAAAAA+LiberationSans",
+    "/AAAAAA+LiberationSans-Italic"
+  ],
+  "links": [
+    {
+      "uri": "tel:+919560369538",
+      "rect": [
+        236.4317,
+        770.4898,
+        306.5132,
+        781.6498
+      ]
+    },
+    {
+      "uri": "mailto:teotia.yugal@gmail.com",
+      "rect": [
+        314.0967,
+        770.4898,
+        413.4814,
+        781.6498
+      ]
+    },
+    {
+      "uri": "https://www.linkedin.com/in/yugalteotia/",
+      "rect": [
+        261.7933,
+        757.9898,
+        296.9544,
+        769.1498
+      ]
+    },
+    {
+      "uri": "https://github.com/yugalteotia",
+      "rect": [
+        304.5379,
+        757.9898,
+        333.4823,
+        769.1498
+      ]
+    }
+  ],
+  "checks": {
+    "one_page": true,
+    "fonts_and_links": true,
+    "margins": true,
+    "text_extraction": true,
+    "grounded": true,
+    "template_visually_approved": true
+  },
+  "inspection": "Automated one-page, font, link, ink-margin and text-extraction checks passed; render template fb990bd7ef9c carries a recorded visual approval.",
+  "ink_margins_in": {
+    "left": 0.58,
+    "top": 0.56,
+    "right": 0.58,
+    "bottom": 0.8
+  },
+  "fit_plan": {
+    "ideas_bullets": 5,
+    "data_nova_bullets": 1,
+    "unity_bullets": 2
+  },
+  "spec_sha256": "1dc94d915f3108206093de915e6fa787249a9eef1f2e852eeaf8604b7b23156b",
+  "direct_visual_inspection": {
+    "inspected_at": "2026-10-14T04:48:43.903330+00:00",
+    "reviewer": "assistant",
+    "result": "Single-page layout readable; no clipping; role content grounded; confirmed employment end shown."
+  }
+}

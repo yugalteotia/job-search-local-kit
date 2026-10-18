@@ -1,0 +1,8 @@
+{
+  "run_id": "9cfc23dc-1b50-459f-8b51-26e3a91d05f0",
+  "status": "Failed",
+  "mode": "read_only",
+  "error": "UNIQUE constraint failed: jobs.slug",
+  "log": ".workflow/runs/three-portal-daily-test-stderr.log",
+  "finished_at": "2026-09-28T16:35:37.248902+00:00"
+}

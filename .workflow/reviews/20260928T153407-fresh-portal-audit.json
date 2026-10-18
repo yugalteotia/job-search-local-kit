@@ -1,0 +1,354 @@
+{
+  "started_at": "2026-09-28T15:32:58.561485+00:00",
+  "finished_at": "2026-09-28T15:34:07.640994+00:00",
+  "mode": "read_only",
+  "search_terms": [
+    "Java Spring Boot backend engineer",
+    "Java backend developer API"
+  ],
+  "locations": [
+    "India",
+    "Bengaluru"
+  ],
+  "detail_cap_per_portal": 2,
+  "pages_per_portal": 2,
+  "browser_forms_opened": 0,
+  "uploads": 0,
+  "submissions": 0,
+  "sources": {
+    "naukri": {
+      "status": "Partial",
+      "error_kind": null,
+      "search_pages": [
+        {
+          "query": "Java Spring Boot backend engineer",
+          "location": "India",
+          "page": 1,
+          "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend%20engineer&l=India&pageNo=1",
+          "checked_at": "2026-09-28T15:33:10.904776+00:00",
+          "status": "Success",
+          "lead_count": 0,
+          "observed_url": "https://www.naukri.com/java-spring-boot-backend-engineer-jobs-in-india",
+          "sort": "Configured newest route where available"
+        },
+        {
+          "query": "Java backend developer API",
+          "location": "Bengaluru",
+          "page": 1,
+          "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20backend%20developer%20API&l=Bengaluru&pageNo=1",
+          "checked_at": "2026-09-28T15:33:13.946256+00:00",
+          "status": "Success",
+          "lead_count": 3,
+          "observed_url": "https://www.naukri.com/java-backend-developer-api-jobs-in-bengaluru",
+          "sort": "Configured newest route where available"
+        }
+      ],
+      "raw_links": 3,
+      "unique_job_leads": 0,
+      "target_title_leads": 0,
+      "search_card_locations": 0,
+      "detail_pages_inspected": 0,
+      "substantive_jds": 0,
+      "detail_locations": 0,
+      "verified_roles": 0,
+      "high_fit": 0,
+      "low_fit": 0,
+      "unresolved_fit": 0,
+      "recent_filter_requested": "No verified URL filter; configured search order",
+      "details": [],
+      "fetch_status": "Success",
+      "coverage_reason": "Bounded to two queries and one page each, below configured source coverage"
+    },
+    "indeed": {
+      "status": "Partial",
+      "error_kind": null,
+      "search_pages": [
+        {
+          "query": "Java Spring Boot backend engineer",
+          "location": "India",
+          "page": 1,
+          "url": "https://in.indeed.com/jobs?q=Java%20Spring%20Boot%20backend%20engineer&l=India&sort=date&start=0&fromage=7",
+          "checked_at": "2026-09-28T15:33:25.075547+00:00",
+          "status": "Success",
+          "lead_count": 14,
+          "observed_url": "https://in.indeed.com/jobs",
+          "sort": "Configured newest route where available"
+        },
+        {
+          "query": "Java backend developer API",
+          "location": "Bengaluru",
+          "page": 1,
+          "url": "https://in.indeed.com/jobs?q=Java%20backend%20developer%20API&l=Bengaluru&sort=date&start=0&fromage=7",
+          "checked_at": "2026-09-28T15:33:28.409582+00:00",
+          "status": "Success",
+          "lead_count": 12,
+          "observed_url": "https://in.indeed.com/jobs",
+          "sort": "Configured newest route where available"
+        }
+      ],
+      "raw_links": 26,
+      "unique_job_leads": 2,
+      "target_title_leads": 2,
+      "search_card_locations": 0,
+      "detail_pages_inspected": 2,
+      "substantive_jds": 0,
+      "detail_locations": 0,
+      "verified_roles": 0,
+      "high_fit": 0,
+      "low_fit": 0,
+      "unresolved_fit": 0,
+      "recent_filter_requested": "past 7 days",
+      "details": [
+        {
+          "source": "indeed",
+          "url": "https://in.indeed.com/viewjob?jk=123456789abcdef0",
+          "search_title": "Java Springboot +AWS Developer",
+          "portal_job_id": "123456789abcdef0",
+          "title": null,
+          "employer": null,
+          "location": null,
+          "location_evidence": null,
+          "card_location": null,
+          "inspection_status": "Unavailable",
+          "substantive_jd": false,
+          "jd_characters": 0,
+          "active_apply": false,
+          "application_method": null,
+          "verified": false,
+          "fit": null,
+          "reasons": [
+            "Unavailable",
+            "Job title not visible",
+            "Employer not visible",
+            "Job-specific location not visible",
+            "No substantive visible duties and qualifications",
+            "No enabled Apply action on the job page"
+          ],
+          "jd_text": null
+        },
+        {
+          "source": "indeed",
+          "url": "https://in.indeed.com/viewjob?jk=a1b2c3d4e5f67890",
+          "search_title": "Software Engineer",
+          "portal_job_id": "a1b2c3d4e5f67890",
+          "title": null,
+          "employer": null,
+          "location": null,
+          "location_evidence": null,
+          "card_location": null,
+          "inspection_status": "Unavailable",
+          "substantive_jd": false,
+          "jd_characters": 0,
+          "active_apply": false,
+          "application_method": null,
+          "verified": false,
+          "fit": null,
+          "reasons": [
+            "Unavailable",
+            "Job title not visible",
+            "Employer not visible",
+            "Job-specific location not visible",
+            "No substantive visible duties and qualifications",
+            "No enabled Apply action on the job page"
+          ],
+          "jd_text": null
+        }
+      ],
+      "fetch_status": "Success",
+      "coverage_reason": "Bounded to two queries and one page each, below configured source coverage",
+      "detail_http_evidence": [
+        ".playwright-mcp/console-2026-09-28T15-33-44-897Z.log",
+        ".playwright-mcp/console-2026-09-28T15-33-45-100Z.log"
+      ]
+    },
+    "foundit": {
+      "status": "Partial",
+      "error_kind": null,
+      "search_pages": [
+        {
+          "query": "Java Spring Boot backend engineer",
+          "location": "India",
+          "page": 1,
+          "url": "https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend%20engineer&locations=India&page=1",
+          "checked_at": "2026-09-28T15:33:15.938874+00:00",
+          "status": "Success",
+          "lead_count": 17,
+          "observed_url": "https://www.foundit.in/srp/results",
+          "sort": "Configured newest route where available"
+        },
+        {
+          "query": "Java backend developer API",
+          "location": "Bengaluru",
+          "page": 1,
+          "url": "https://www.foundit.in/srp/results?query=Java%20backend%20developer%20API&locations=Bengaluru&page=1",
+          "checked_at": "2026-09-28T15:33:30.048136+00:00",
+          "status": "Success",
+          "lead_count": 17,
+          "observed_url": "https://www.foundit.in/srp/results",
+          "sort": "Configured newest route where available"
+        }
+      ],
+      "raw_links": 34,
+      "unique_job_leads": 0,
+      "target_title_leads": 0,
+      "search_card_locations": 0,
+      "detail_pages_inspected": 0,
+      "substantive_jds": 0,
+      "detail_locations": 0,
+      "verified_roles": 0,
+      "high_fit": 0,
+      "low_fit": 0,
+      "unresolved_fit": 0,
+      "recent_filter_requested": "No verified URL filter; configured search order",
+      "details": [],
+      "fetch_status": "Success",
+      "coverage_reason": "Bounded to two queries and one page each, below configured source coverage"
+    },
+    "linkedin": {
+      "status": "Partial",
+      "error_kind": null,
+      "search_pages": [
+        {
+          "query": "Java Spring Boot backend engineer",
+          "location": "India",
+          "page": 1,
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Spring%20Boot%20backend%20engineer&location=India&sortBy=DD&start=0&f_TPR=r604800",
+          "checked_at": "2026-09-28T15:33:21.225991+00:00",
+          "status": "Success",
+          "lead_count": 10,
+          "observed_url": "https://www.linkedin.com/jobs/search/",
+          "sort": "Configured newest route where available"
+        },
+        {
+          "query": "Java backend developer API",
+          "location": "Bengaluru",
+          "page": 1,
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20backend%20developer%20API&location=Bengaluru&sortBy=DD&start=0&f_TPR=r604800",
+          "checked_at": "2026-09-28T15:33:37.244876+00:00",
+          "status": "Success",
+          "lead_count": 9,
+          "observed_url": "https://www.linkedin.com/jobs/search/",
+          "sort": "Configured newest route where available"
+        }
+      ],
+      "raw_links": 19,
+      "unique_job_leads": 13,
+      "target_title_leads": 7,
+      "search_card_locations": 11,
+      "detail_pages_inspected": 2,
+      "substantive_jds": 1,
+      "detail_locations": 2,
+      "verified_roles": 1,
+      "high_fit": 0,
+      "low_fit": 1,
+      "unresolved_fit": 0,
+      "recent_filter_requested": "past 7 days",
+      "details": [
+        {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/jobs/view/4472740933/",
+          "search_title": "Senior Software Engineer - Backend (Java))\nSenior Software Engineer - Backend (Java)) with verification",
+          "portal_job_id": "4472740933",
+          "title": "Senior Software Engineer - Backend (Java))",
+          "employer": "PayPal",
+          "location": "Bengaluru, Karnataka, India (Hybrid)",
+          "location_evidence": "search_card_exact_url",
+          "card_location": "Bengaluru, Karnataka, India (Hybrid)",
+          "inspection_status": "InspectedTitleOnly",
+          "substantive_jd": false,
+          "jd_characters": 0,
+          "active_apply": true,
+          "application_method": "Apply",
+          "verified": false,
+          "fit": null,
+          "reasons": [
+            "No substantive visible duties and qualifications"
+          ],
+          "jd_text": null
+        },
+        {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/jobs/view/4472753578/",
+          "search_title": "Senior Java Cloud Developer",
+          "portal_job_id": "4472753578",
+          "title": "Senior Java Cloud Developer",
+          "employer": "Tata Consultancy Services",
+          "location": "Bengaluru, Chennai & Hyderabad",
+          "location_evidence": "job_description_location_label",
+          "card_location": null,
+          "inspection_status": "Inspected",
+          "substantive_jd": true,
+          "jd_characters": 3164,
+          "active_apply": true,
+          "application_method": "Easy Apply",
+          "verified": true,
+          "fit": {
+            "fit": "Low",
+            "eligible_for_resume": false,
+            "review_version": 6,
+            "jd_sha256": "ddda54ae4619d69f8c3a9f995dac2547a928eb01c6f9c66de01e0e00890007a2",
+            "original_page_checked_at": "2026-09-28T15:34:07.606245+00:00",
+            "reviewed_at": "2026-09-28T15:34:07.638742+00:00",
+            "experience_minimum": 15.0,
+            "evidence": {
+              "location": "Bengaluru, Chennai & Hyderabad",
+              "experience": "eveloper Experience Range: - 06 To 10 Years (Mandatory) (Note: Candidates below 6 years of IT experience shall not be considered) JOB LOCATION: Bengaluru",
+              "technology": "distributed backend services using Java, Spring Boot, and Spring Framework. Containerization: Package Java applications into secure, lightweig",
+              "role": "lifications & Skills: Professional software engineering experience. Programming Languages: Advanced proficiency in Java and modern frameworks (Spring Bo"
+            },
+            "reasons": [
+              "Required experience starts at 15 years, above the 2.5-year High-fit gate"
+            ]
+          },
+          "reasons": [],
+          "jd_text": "About the job\n\nTCS Hiring for Senior Java Cloud Developer\n\n\n\n\nExperience Range: - 06 To 10 Years (Mandatory)\n\n(Note: Candidates below 6 years of IT experience shall not be considered)\n\nJOB LOCATION: Bengaluru, Chennai & Hyderabad\n\n\n\n\nJOB DESCRIPTION\n\n\n\n\nKey Responsibilities:\n\n\n\n\nMicroservices Development: Design and develop robust REST APIs and distributed backend services using Java, Spring Boot, and Spring Framework. \nContainerization: Package Java applications into secure, lightweight container images using Docker.\nOrchestration & Deployment: Manage workloads on Kubernetes (EKS, AKS, or GKE); configure Deployments, Services, ConfigMaps, Secrets, health probes, and resource limits.\nCloud Infrastructure: Leverage public cloud services (AWS or Azure) for storage, networking, database management, and load balancing. \nCI/CD & Automation: Build, maintain, and optimize automated deployment pipelines for continuous integration, vulnerability scanning, testing, and rollout.\nObservability: Set up application monitoring, logging, and performance.\n\n\n\n\nRequired Qualifications & Skills:\n\n\n\n\nProfessional software engineering experience.\nProgramming Languages: Advanced proficiency in Java and modern frameworks (Spring Boot, Spring Cloud, JPA).\nContainer Tools: Hands-on experience with Docker and image optimization for Java runtimes.\nOrchestration: Solid understanding of Kubernetes clustering, ingress controllers, and service discovery.\nCloud Platforms: Practical working experience with at least one major cloud provider (AWS or Azure).\nCloud certifications such as AWS/Azure Certified Solutions Architect or Certified Kubernetes Application Developer (CKAD).\nDevOps & CI/CD: Familiarity with Git, Jenkins, GitHub Actions, or Terraform (Infrastructure as Code). \n\n\n\n\nMinimum Qualification:\n\n15 years of Full Time Education\n\n\n\n\nInterested candidates kindly share your updated resume to govind.vijayan@tcs.com along with filling the following details to maximize your chances of getting calls from TCS. The details are as follows:\n\n\n\n\nSection 1: Basic Details:\n\nCandidate Name:\nEmail ID:\nPhone Number:\nCurrent Location (City):\nPreferred Location (City):\n\n\n\n\nSection 2: Educational Details:\n\nHighest Regular Full‑Time Qualification\n(Diploma / Graduation / Post Graduation / Others)\n10th Completion Year\n12th / Intermediate Completion Year\nGraduation Completion Year\nPost‑Graduation Completion Year (if applicable)\n\n\n\n\nSection 3: Work Experience:\n\nCurrent Company Name\nTotal Experience (in years)\nNumber of Companies Worked\nEmployment Timeline\n(Example: Company A – 2021 to Present, Company B – 2019 to 2021)\n\n\n\n\nSection 4: Compensation Details:\n\n\n\n\nCurrent CTC (in LPA)\nExpected CTC (in LPA)\nNotice Period\n(Immediate / 15 Days / 30 Days / 60+ Days)\n\n\n\n\nSection 5: Documentation & Compliance (Yes / No):\n\n\n\n\nValid ID Proof Available (Aadhar & Pan Card): (Yes/No)\nEducational Documents Available: (Yes/No)\nEmployment Documents Available: (Yes/No)\nUAN Number Available: (Yes/No)\n\n\n\n\nRequirements added by the job poster\n\n• 6+ years of work experience with Java\n\n• 6+ years of work experience with Microservices\n\n• 6+ years of work experience with Spring Boot\n"
+        }
+      ],
+      "fetch_status": "Success",
+      "coverage_reason": "Bounded to two queries and one page each, below configured source coverage"
+    },
+    "cutshort": {
+      "status": "Partial",
+      "error_kind": null,
+      "search_pages": [
+        {
+          "query": "Java Spring Boot backend engineer",
+          "location": "India",
+          "page": 1,
+          "url": "https://cutshort.io/jobs/java-jobs?query=Java%20Spring%20Boot%20backend%20engineer&location=India&page=1",
+          "checked_at": "2026-09-28T15:33:37.747233+00:00",
+          "status": "Success",
+          "lead_count": 30,
+          "observed_url": "https://cutshort.io/jobs/java-jobs",
+          "sort": "Configured newest route where available"
+        },
+        {
+          "query": "Java backend developer API",
+          "location": "Bengaluru",
+          "page": 1,
+          "url": "https://cutshort.io/jobs/java-jobs?query=Java%20backend%20developer%20API&location=Bengaluru&page=1",
+          "checked_at": "2026-09-28T15:33:41.919029+00:00",
+          "status": "Success",
+          "lead_count": 30,
+          "observed_url": "https://cutshort.io/jobs/java-jobs",
+          "sort": "Configured newest route where available"
+        }
+      ],
+      "raw_links": 60,
+      "unique_job_leads": 0,
+      "target_title_leads": 0,
+      "search_card_locations": 0,
+      "detail_pages_inspected": 0,
+      "substantive_jds": 0,
+      "detail_locations": 0,
+      "verified_roles": 0,
+      "high_fit": 0,
+      "low_fit": 0,
+      "unresolved_fit": 0,
+      "recent_filter_requested": "No verified URL filter; configured search order",
+      "details": [],
+      "fetch_status": "Success",
+      "coverage_reason": "Bounded to two queries and one page each, below configured source coverage"
+    }
+  }
+}

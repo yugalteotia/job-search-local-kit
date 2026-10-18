@@ -1,0 +1,248 @@
+{
+  "sqlite-naukri-190826038395": {
+    "blocker_id": "220:2026-09-29T08:10:23.168773+00:00:b59f715d-900f-4ce8-94eb-32385b97bf92",
+    "kind": "uncertain_submission",
+    "acknowledged": false,
+    "resolved": true,
+    "desktop_id": 27,
+    "last_desktop_sent": "2026-10-14T11:00:35.727695+00:00",
+    "resolved_at": "2026-10-14T13:16:40.351706+00:00",
+    "resolution_evidence": "jobs/naukri-190826038395/naukri-history-reconciliation-confirmation.json",
+    "resolution": "Exact job application confirmed"
+  },
+  "sqlite-agiliad-java-backend-developer-280926023134": {
+    "blocker_id": "241:2026-09-29T10:09:24.386109+00:00:1e71b9fe-7638-4205-98d9-09fc908f5ba6",
+    "kind": "uncertain_submission",
+    "acknowledged": false,
+    "resolved": true,
+    "desktop_id": 28,
+    "last_desktop_sent": "2026-10-14T11:00:36.453405+00:00",
+    "resolved_at": "2026-10-14T13:16:40.380959+00:00",
+    "resolution_evidence": "jobs/agiliad-java-backend-developer-280926023134/naukri-history-reconciliation-confirmation.json",
+    "resolution": "Exact job application confirmed"
+  },
+  "sqlite-infosys-javabackenddeveloperspringbootmi": {
+    "blocker_id": "202:2026-09-29T19:40:15.867434+00:00",
+    "kind": "unknown_required_answer",
+    "acknowledged": false,
+    "resolved": false,
+    "desktop_id": 3,
+    "last_desktop_sent": "2026-10-13T04:46:46.529664+00:00"
+  },
+  "sqlite-naukri-160926009207": {
+    "blocker_id": "250:2026-09-29T19:44:53.821983+00:00:9a7b0155-5410-4784-a255-2da08c2cdc45",
+    "kind": "uncertain_submission",
+    "acknowledged": false,
+    "resolved": true,
+    "desktop_id": 29,
+    "last_desktop_sent": "2026-10-14T11:00:37.176466+00:00",
+    "resolved_at": "2026-10-14T13:16:40.399068+00:00",
+    "resolution_evidence": "jobs/naukri-160926009207/naukri-history-reconciliation-confirmation.json",
+    "resolution": "Exact job application confirmed"
+  },
+  "sqlite-naukri-290926917619": {
+    "blocker_id": "266:2026-10-01T11:03:09.329979+00:00",
+    "kind": "unknown_required_answer",
+    "acknowledged": false,
+    "resolved": true,
+    "desktop_id": 5,
+    "last_desktop_sent": "2026-10-13T04:46:47.809682+00:00",
+    "resolved_at": "2026-10-14T13:30:07.364849+00:00",
+    "resolution_evidence": "jobs/naukri-290926917619/naukri-history-reconciliation-confirmation.json",
+    "resolution": "Exact job application confirmed"
+  },
+  "sqlite-naukri-280926032117": {
+    "blocker_id": "314:2026-10-13T05:15:45.600153+00:00:d69e7dc1-111f-46ed-9293-a4cdf6e0172f",
+    "kind": "uncertain_submission",
+    "acknowledged": false,
+    "resolved": true,
+    "desktop_id": 7,
+    "last_desktop_sent": "2026-10-13T05:16:07.345762+00:00",
+    "resolved_at": "2026-10-14T13:16:40.428610+00:00",
+    "resolution_evidence": "jobs/naukri-280926032117/naukri-history-reconciliation-confirmation.json",
+    "resolution": "Exact job application confirmed"
+  },
+  "sqlite-naukri-081026040485": {
+    "blocker_id": "309:2026-10-13T13:30:58.450854+00:00:3fa65894-186e-44de-a4eb-cadde135e80d",
+    "kind": "uncertain_submission",
+    "acknowledged": false,
+    "resolved": false,
+    "desktop_id": 4,
+    "last_desktop_sent": "2026-10-13T13:31:17.958371+00:00"
+  },
+  "sqlite-linkedin-4470285110": {
+    "blocker_id": "339:2026-10-13T14:10:50.543215+00:00",
+    "kind": "unknown_required_answer",
+    "acknowledged": false,
+    "resolved": false,
+    "desktop_id": 6,
+    "last_desktop_sent": "2026-10-13T14:10:52.926408+00:00"
+  },
+  "sqlite-naukri-070926029541": {
+    "blocker_id": "315:2026-10-14T03:01:32.251012+00:00",
+    "kind": "unknown_required_answer",
+    "acknowledged": false,
+    "resolved": false,
+    "desktop_id": 21,
+    "last_desktop_sent": "2026-10-14T03:01:33.095547+00:00"
+  },
+  "sqlite-naukri-131026048418": {
+    "blocker_id": "346:2026-10-13T16:06:35.375943+00:00:f3423d3bae64428b259ec38a746e449f63f2fd4cc08604b2936aa04251091c63",
+    "kind": "application_worker_blocked",
+    "acknowledged": false,
+    "resolved": true,
+    "desktop_id": 8,
+    "last_desktop_sent": "2026-10-13T16:51:19.743852+00:00",
+    "resolved_at": "2026-10-13T16:55:38.523940+00:00",
+    "resolution_evidence": "jobs/naukri-131026048418/naukri-native-confirmation.json",
+    "resolution": "Exact job application confirmed"
+  },
+  "sqlite-naukri-131026049027": {
+    "blocker_id": "355:2026-10-13T18:45:08.909150+00:00",
+    "kind": "unknown_required_answer",
+    "acknowledged": false,
+    "resolved": true,
+    "desktop_id": 30,
+    "last_desktop_sent": "2026-10-14T11:00:37.819207+00:00",
+    "resolved_at": "2026-10-14T13:30:07.381244+00:00",
+    "resolution_evidence": "jobs/naukri-131026049027/naukri-history-reconciliation-confirmation.json",
+    "resolution": "Exact job application confirmed"
+  },
+  "sqlite-naukri-131026047727": {
+    "blocker_id": "342:2026-10-13T18:48:20.093508+00:00",
+    "kind": "unknown_required_answer",
+    "acknowledged": false,
+    "resolved": false,
+    "desktop_id": 15,
+    "last_desktop_sent": "2026-10-13T18:51:45.656067+00:00"
+  },
+  "sqlite-naukri-200826029442": {
+    "blocker_id": "358:2026-10-14T04:49:56.125622+00:00:3cdf1aa9-e42e-43ed-850d-2e376c4af1a5",
+    "kind": "uncertain_submission",
+    "acknowledged": false,
+    "resolved": true,
+    "desktop_id": 22,
+    "last_desktop_sent": "2026-10-14T04:54:08.329373+00:00",
+    "resolved_at": "2026-10-14T05:18:19.237119+00:00",
+    "resolution_evidence": "jobs/naukri-200826029442/naukri-native-confirmation.json",
+    "resolution": "Exact job application confirmed"
+  },
+  "sqlite-naukri-200826029266": {
+    "blocker_id": "359:2026-10-14T04:51:36.307666+00:00:f92c3633-d18a-4da8-a4da-d2cac33150f7",
+    "kind": "uncertain_submission",
+    "acknowledged": false,
+    "resolved": true,
+    "desktop_id": 23,
+    "last_desktop_sent": "2026-10-14T04:54:09.096668+00:00",
+    "resolved_at": "2026-10-14T05:18:19.267023+00:00",
+    "resolution_evidence": "jobs/naukri-200826029266/naukri-native-confirmation.json",
+    "resolution": "Exact job application confirmed"
+  },
+  "sqlite-naukri-200826029374": {
+    "blocker_id": "360:2026-10-14T04:53:18.869119+00:00:67b0ad72-997a-4606-a588-4a6968a4708c",
+    "kind": "uncertain_submission",
+    "acknowledged": false,
+    "resolved": true,
+    "desktop_id": 24,
+    "last_desktop_sent": "2026-10-14T04:54:09.761220+00:00",
+    "resolved_at": "2026-10-14T05:18:19.297643+00:00",
+    "resolution_evidence": "jobs/naukri-200826029374/naukri-native-confirmation.json",
+    "resolution": "Exact job application confirmed"
+  },
+  "sqlite-naukri-141026016132": {
+    "blocker_id": "365:2026-10-14T07:03:09.495977+00:00",
+    "kind": "unknown_required_answer",
+    "acknowledged": false,
+    "resolved": true,
+    "desktop_id": 26,
+    "last_desktop_sent": "2026-10-14T07:03:18.478129+00:00",
+    "resolved_at": "2026-10-14T07:41:24.513711+00:00",
+    "resolution_evidence": "jobs/naukri-141026016132/naukri-native-confirmation.json",
+    "resolution": "Exact job application confirmed"
+  },
+  "sqlite-naukri-100826024093": {
+    "blocker_id": "326:2026-10-14T11:01:26.638668+00:00:b9fe87ea-007a-42b4-b4b3-8f0ba35eac05",
+    "kind": "uncertain_submission",
+    "acknowledged": false,
+    "resolved": true,
+    "desktop_id": 31,
+    "last_desktop_sent": "2026-10-14T11:02:21.222843+00:00",
+    "resolved_at": "2026-10-14T12:31:48.143605+00:00",
+    "resolution_evidence": "jobs/naukri-100826024093/naukri-native-confirmation.json",
+    "resolution": "Exact job application confirmed"
+  },
+  "sqlite-linkedin-4478450952": {
+    "blocker_id": "372:2026-10-14T15:01:53.127176+00:00",
+    "kind": "unknown_required_answer",
+    "acknowledged": false,
+    "resolved": false,
+    "desktop_id": 38,
+    "last_desktop_sent": "2026-10-14T15:02:05.214169+00:00"
+  },
+  "sqlite-naukri-290826005830": {
+    "blocker_id": "381:2026-10-16T07:02:56.630567+00:00:9f11e9ab-ba31-4fdc-bd78-6f6e9aebfbf2",
+    "kind": "uncertain_submission",
+    "acknowledged": false,
+    "resolved": true,
+    "desktop_id": 3,
+    "last_desktop_sent": "2026-10-17T07:02:34.706939+00:00",
+    "resolved_at": "2026-10-17T15:00:46.418389+00:00",
+    "resolution_evidence": "jobs/naukri-290826005830/naukri-history-reconciliation-confirmation.json",
+    "resolution": "Exact job application confirmed"
+  },
+  "sqlite-naukri-100826024113": {
+    "blocker_id": "380:2026-10-16T07:04:45.797215+00:00:9b2f7235-5fb0-4bc2-841d-721d23ffe17e",
+    "kind": "uncertain_submission",
+    "acknowledged": false,
+    "resolved": true,
+    "desktop_id": 3,
+    "last_desktop_sent": "2026-10-17T15:02:29.483442+00:00",
+    "resolved_at": "2026-10-18T07:00:48.657095+00:00",
+    "resolution_evidence": "jobs/naukri-100826024113/naukri-history-reconciliation-confirmation.json",
+    "resolution": "Exact job application confirmed"
+  },
+  "sqlite-naukri-071026019912": {
+    "blocker_id": "376:2026-10-16T07:07:18.247556+00:00",
+    "kind": "unknown_required_answer",
+    "acknowledged": false,
+    "resolved": true,
+    "desktop_id": 3,
+    "last_desktop_sent": "2026-10-16T07:08:10.232767+00:00",
+    "resolved_at": "2026-10-16T11:00:43.628704+00:00",
+    "resolution_evidence": "jobs/naukri-071026019912/naukri-history-reconciliation-confirmation.json",
+    "resolution": "Exact job application confirmed"
+  },
+  "sqlite-naukri-290826005826": {
+    "blocker_id": "245:2026-10-16T11:02:45.082292+00:00:6c7cfbe8-a371-4665-9083-9df98dc67558",
+    "kind": "uncertain_submission",
+    "acknowledged": false,
+    "resolved": true,
+    "desktop_id": 6,
+    "last_desktop_sent": "2026-10-16T11:07:56.250842+00:00",
+    "resolved_at": "2026-10-17T07:00:45.488667+00:00",
+    "resolution_evidence": "jobs/naukri-290826005826/naukri-history-reconciliation-confirmation.json",
+    "resolution": "Exact job application confirmed"
+  },
+  "sqlite-naukri-100826014171": {
+    "blocker_id": "384:2026-10-16T11:05:18.851308+00:00",
+    "kind": "unknown_required_answer",
+    "acknowledged": false,
+    "resolved": true,
+    "desktop_id": 7,
+    "last_desktop_sent": "2026-10-16T11:07:56.890098+00:00",
+    "resolved_at": "2026-10-17T07:00:45.516522+00:00",
+    "resolution_evidence": "jobs/naukri-100826014171/naukri-history-reconciliation-confirmation.json",
+    "resolution": "Exact job application confirmed"
+  },
+  "sqlite-naukri-171026009891": {
+    "blocker_id": "392:2026-10-17T07:04:21.370935+00:00",
+    "kind": "unknown_required_answer",
+    "acknowledged": false,
+    "resolved": true,
+    "desktop_id": 7,
+    "last_desktop_sent": "2026-10-17T07:07:25.783373+00:00",
+    "resolved_at": "2026-10-17T15:00:46.448210+00:00",
+    "resolution_evidence": "jobs/naukri-171026009891/naukri-history-reconciliation-confirmation.json",
+    "resolution": "Exact job application confirmed"
+  }
+}

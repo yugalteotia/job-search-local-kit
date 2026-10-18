@@ -1,0 +1,107 @@
+{
+  "audit_started_at": "2026-09-29T07:30:21.021164+00:00",
+  "audit_finished_at": "2026-09-29T07:30:25.808575+00:00",
+  "job_id": 220,
+  "requisition_id": "190826038395",
+  "sqlite_state_before": "NeedsReview",
+  "submission_attempt_rows": 0,
+  "listing": {
+    "path": "/job-listings-java-backend-developer-spring-boot-microservices-infosys-pune-chennai-bengaluru-2-to-5-years-190826038395",
+    "title": "Java Backend Developer | Spring Boot | Microservices - Bengaluru,Pune,Chennai - Infosys - 2 to 5 years of experience",
+    "exactIdInPath": true,
+    "applyButtonCount": 1,
+    "appliedButtonCount": 0,
+    "appliedStatusVisible": false,
+    "pendingLanguageVisible": false,
+    "chatDrawerVisible": false,
+    "chatPrompts": [],
+    "fileInputCount": 0,
+    "resumeNames": [],
+    "checked_at": "2026-09-29T07:30:21.021164+00:00",
+    "url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-microservices-infosys-pune-chennai-bengaluru-2-to-5-years-190826038395"
+  },
+  "history": {
+    "path": "/myapply/historypage",
+    "title": "Application History | Mynaukri",
+    "bodyLength": 2445,
+    "exactIdVisible": false,
+    "exactLinks": [],
+    "infosysVisible": false,
+    "exactRoleVisible": false,
+    "nxtwaveVisible": true,
+    "recentSentRows": 7,
+    "navigationControls": [
+      {
+        "tag": "BUTTON",
+        "text": "2",
+        "path": null
+      },
+      {
+        "tag": "BUTTON",
+        "text": "2",
+        "path": null
+      },
+      {
+        "tag": "A",
+        "text": "1477 Reviews",
+        "path": null
+      },
+      {
+        "tag": "A",
+        "text": "1090 Reviews",
+        "path": null
+      },
+      {
+        "tag": "A",
+        "text": "2291 Reviews",
+        "path": null
+      },
+      {
+        "tag": "A",
+        "text": "2291 Reviews",
+        "path": null
+      },
+      {
+        "tag": "A",
+        "text": "290 Reviews",
+        "path": null
+      },
+      {
+        "tag": "A",
+        "text": "116 Reviews",
+        "path": null
+      },
+      {
+        "tag": "A",
+        "text": "9 Reviews",
+        "path": null
+      },
+      {
+        "tag": "A",
+        "text": "116 Reviews",
+        "path": null
+      },
+      {
+        "tag": "A",
+        "text": "30 Reviews",
+        "path": null
+      },
+      {
+        "tag": "A",
+        "text": "1477 Reviews",
+        "path": null
+      }
+    ],
+    "checked_at": "2026-09-29T07:30:23.897864+00:00",
+    "url": "https://www.naukri.com/myapply/historypage"
+  },
+  "profile": {
+    "path": "/mnjuser/profile",
+    "defaultResumeFilename": "Yugal_Teotia_CV.pdf",
+    "resumeUploadControlPresent": true,
+    "checked_at": "2026-09-29T07:30:25.638396+00:00"
+  },
+  "application_write_requests_blocked": [],
+  "controls_clicked": [],
+  "application_mutation_attempted": false
+}

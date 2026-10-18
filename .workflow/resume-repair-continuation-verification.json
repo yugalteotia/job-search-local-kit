@@ -1,0 +1,57 @@
+{
+  "parent_run": "cc10244d-dca9-408b-a967-c44d00c80c7d",
+  "continuation_run": "48cec884-81ef-4ef3-b76c-b89fbd8f723b",
+  "original_observed_filename_unknown": true,
+  "later_observed_filename": "Yugal_Teotia_Resume.pdf",
+  "expected_filename": "Yugal_Teotia_CV.pdf",
+  "expected_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+  "change_actor_or_cause_unknown": true,
+  "startup_repair_verified": "jobs/naukri-131026049027/naukri-generic-startup-verification.json",
+  "parent_slots_used": 0,
+  "continuation_new_slots_used": 4,
+  "continuation_new_claims": 4,
+  "confirmed_applications": [
+    {
+      "job_id": 344,
+      "requisition_id": "131026048006",
+      "link": "https://www.naukri.com/job-listings-java-full-stack-engineer-nexiotech-bengaluru-3-to-6-years-131026048006",
+      "proof": "jobs/naukri-131026048006/naukri-native-confirmation.json"
+    },
+    {
+      "job_id": 329,
+      "requisition_id": "170926032578",
+      "link": "https://www.naukri.com/job-listings-java-angular-developer-inf-2-15-yrs-infosys-hyderabad-chennai-bengaluru-2-to-7-years-170926032578",
+      "proof": "jobs/naukri-170926032578/naukri-native-confirmation.json"
+    },
+    {
+      "job_id": 318,
+      "requisition_id": "190826009591",
+      "link": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-2-3y-infosys-pune-chennai-bengaluru-2-to-3-years-190826009591",
+      "proof": "jobs/naukri-190826009591/naukri-native-confirmation.json"
+    }
+  ],
+  "generic_restored_verified_for_confirmed_jobs": true,
+  "pending_recovery_marker": false,
+  "protected_locks_preserved": true,
+  "new_discovery_performed": false,
+  "tests_passed": {
+    "startup_repair": 4,
+    "provider_budgets": 11,
+    "questionnaire": 28
+  },
+  "recorded_at": "2026-10-13T18:59:08.074388+00:00",
+  "same_attempt_delayed_confirmation": {
+    "job_id": 342,
+    "requisition_id": "131026047727",
+    "attempt_id": "1ec26691-8d1d-48d2-8a87-80d396ffe3ba",
+    "confirmation_path": "jobs/naukri-131026047727/naukri-native-confirmation.json",
+    "history_full": true,
+    "exact_history_id_match": true,
+    "new_application_action": false,
+    "new_claims": 0,
+    "questionnaire_completion_verified": false,
+    "newly_confirmed_genai_answer_sent": false,
+    "generic_resume_verified": true,
+    "protected_locks_unchanged": true
+  }
+}

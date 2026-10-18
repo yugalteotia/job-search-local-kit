@@ -1,0 +1,87 @@
+{
+  "mode": "read_only",
+  "queued_for_review": 0,
+  "reviewed": 0,
+  "by_source": {},
+  "by_company": {},
+  "high": 0,
+  "queued_for_resume": 0,
+  "selection_coverage": {
+    "verified_live_postings": 211,
+    "with_requisition_and_https_url": 174,
+    "with_verified_identity_and_https_url": 211,
+    "portal_native_verified": 33,
+    "india_location": 110,
+    "target_engineering_title": 36,
+    "substantive_original_jd": 9,
+    "substantive_job_jd": 35,
+    "reviewable": 35,
+    "excluded": {
+      "missing_identity": 0,
+      "location_not_india": 97,
+      "title_outside_target": 74,
+      "no_substantive_jd": 1,
+      "latest_jd_unreadable": 4
+    }
+  },
+  "pending_after_run": 0,
+  "roles": [],
+  "top_hard_filtered": [
+    {
+      "job_id": 221,
+      "company": "Infosys",
+      "role": "Java + Spring boot Developer_2-3yrs",
+      "source": "naukri_portal_native",
+      "direct_url": "https://www.naukri.com/job-listings-java-spring-boot-developer-2-3yrs-infosys-hyderabad-chennai-bengaluru-2-to-3-years-200826032888",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Title does not indicate a target software engineering role"
+      ]
+    },
+    {
+      "job_id": 219,
+      "company": "Infosys",
+      "role": "Java Spring boot Developer with AWS",
+      "source": "naukri_portal_native",
+      "direct_url": "https://www.naukri.com/job-listings-java-spring-boot-developer-with-aws-infosys-hyderabad-chennai-bengaluru-3-to-5-years-260426004474",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Title does not indicate a target software engineering role"
+      ]
+    },
+    {
+      "job_id": 224,
+      "company": "Leading MNC",
+      "role": "Java Backend + Data Engineer | GCP | BigQuery | Spring Boot",
+      "source": "naukri_portal_native",
+      "direct_url": "https://www.naukri.com/job-listings-java-backend-data-engineer-gcp-bigquery-spring-boot-sdna-global-hyderabad-chennai-bengaluru-6-to-11-years-010926037486",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Primary role title is outside Java/Spring backend target",
+        "Title does not indicate a target software engineering role"
+      ]
+    },
+    {
+      "job_id": 225,
+      "company": "Blackstraw Technologies",
+      "role": "Java Spring Boot & SQL Developer- Blackstraw- Immediate Joiner",
+      "source": "naukri_portal_native",
+      "direct_url": "https://www.naukri.com/job-listings-java-spring-boot-sql-developer-blackstraw-immediate-joiner-blackstraw-technologies-chennai-4-to-9-years-230926044153",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Title does not indicate a target software engineering role"
+      ]
+    },
+    {
+      "job_id": 198,
+      "company": "Abacus",
+      "role": "Software Engineer",
+      "source": "linkedin_portal_native",
+      "direct_url": "https://www.linkedin.com/jobs/view/4470860430/",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Latest exact portal page showed no substantive JD"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "job_id": 344,
+  "requisition_id": "131026048006",
+  "form_url": "https://www.naukri.com/job-listings-java-full-stack-engineer-nexiotech-bengaluru-3-to-6-years-131026048006",
+  "provider": "naukri_native_chat",
+  "signed_in": true,
+  "account_name_matches": true,
+  "resume_filename": "Yugal_Teotia_Java_Full_Stack_Engineer.pdf",
+  "resume_sha256": "1992ecc29f1d5be7ca4114b694ae3497e65c20987f19dbd5cf12f24153e2e8d6",
+  "final_action": "native_apply_open",
+  "visible_required_fields": 0,
+  "answers_logged": false,
+  "checks": {
+    "live": true,
+    "unapplied": true,
+    "fit": true,
+    "resume_visual": true,
+    "resume_selected": true,
+    "answers_confirmed": true,
+    "unique_apply": true
+  },
+  "created_at": "2026-10-13T18:45:59.803544+00:00"
+}

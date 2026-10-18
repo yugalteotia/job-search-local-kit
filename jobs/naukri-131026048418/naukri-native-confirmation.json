@@ -1,0 +1,69 @@
+{
+  "attempt_id": "0ba15281-58d3-4408-9a7c-e15acf32af6b",
+  "requisition_id": "131026048418",
+  "captured_at": "2026-10-13T16:52:47.756682+00:00",
+  "url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-pune-chennai-bengaluru-2-to-5-years-131026048418",
+  "confirmation_text": "Exact Naukri requisition appears as Applied",
+  "exact_listing_applied": true,
+  "exact_history_id_match": true,
+  "history_full": true,
+  "network_reason": "positive_exact_applied_after_claimed_open",
+  "history_identity": {
+    "basis": "server_history_exact_job_id",
+    "server_rows": [
+      {
+        "job_id": "131026048418",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "Java Full Stack Developer",
+        "company": "Infosys",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "dateTime": "2026-10-13 22:22:09",
+            "modifiedDate": "2026-10-13 22:22:09",
+            "statusValue": "Applied"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "dateTime": "2026-10-13 22:22:09",
+            "modifiedDate": "2026-10-13 22:22:09",
+            "statusValue": "Application Sent"
+          }
+        ]
+      },
+      {
+        "job_id": "131026048418",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "Java Full Stack Developer",
+        "company": "Infosys",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "modifiedDate": "2026-10-13 22:22:09",
+            "statusValue": "Applied",
+            "dateTime": "2026-10-13 22:22:09"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "modifiedDate": "2026-10-13 22:22:09",
+            "statusValue": "Application Sent",
+            "dateTime": "2026-10-13 22:22:09"
+          }
+        ]
+      }
+    ]
+  },
+  "network_status": 200,
+  "flowtype": "show",
+  "response_metadata": {
+    "job_id_match": true
+  }
+}

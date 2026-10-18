@@ -1,0 +1,23 @@
+{
+  "job_id": 402,
+  "requisition_id": "210826932489",
+  "form_url": "https://www.naukri.com/job-listings-java-springboot-developer-infosys-limited-bengaluru-1-to-2-years-210826932489",
+  "provider": "naukri_native_chat",
+  "signed_in": true,
+  "account_name_matches": true,
+  "resume_filename": "Yugal_Teotia_Java_Springboot_Developer.pdf",
+  "resume_sha256": "26298ff297a9045fe83849680730f8f3d7f5a00d187a7c6e00fc667b8f4a9e16",
+  "final_action": "native_apply_open",
+  "visible_required_fields": 0,
+  "answers_logged": false,
+  "checks": {
+    "live": true,
+    "unapplied": true,
+    "fit": true,
+    "resume_visual": true,
+    "resume_selected": true,
+    "answers_confirmed": true,
+    "unique_apply": true
+  },
+  "created_at": "2026-10-18T07:03:04.078907+00:00"
+}

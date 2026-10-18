@@ -1,0 +1,19 @@
+{
+  "row": 10,
+  "reason": "Post-submit completed-submission status verified",
+  "changes": {
+    "Status": {
+      "before": "Applied",
+      "after": "Rejected"
+    },
+    "Responses": {
+      "before": null,
+      "after": "Taleo My Submissions: No longer under consideration; updated Sep 28, 2026. Completed submission verified. Reason not shown."
+    },
+    "Next step": {
+      "before": "Verify current submission status; do not reapply",
+      "after": "No longer under consideration; do not reapply to 2388999. Confirmation and current status evidence saved."
+    }
+  },
+  "backup": ".workflow/backups/20260927T211936-bc27b721.xlsx"
+}

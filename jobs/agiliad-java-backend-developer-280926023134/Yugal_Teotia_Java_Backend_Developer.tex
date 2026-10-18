@@ -1,0 +1,82 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[margin=0.43in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+\input{glyphtounicode}
+\pdfgentounicode=1
+\renewcommand{\familydefault}{\sfdefault}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\raggedright
+\linespread{1.0}
+\titleformat{\section}{\normalsize\bfseries}{}{0pt}{}[\vspace{2pt}\titlerule]
+\titlespacing*{\section}{0pt}{9pt}{4pt}
+\setlist[itemize]{leftmargin=12pt,itemsep=2.5pt,topsep=2.5pt,parsep=0pt,partopsep=0pt}
+\hypersetup{pdftitle={Yugal Teotia - Software Engineer},pdfauthor={Yugal Teotia}}
+\begin{document}
+{\centering
+{\fontsize{19}{22}\selectfont\bfseries Yugal Teotia}\par
+\vspace{5pt}
+{\small \href{tel:+919560369538}{+91 9560369538} \enspace|\enspace \href{mailto:teotia.yugal@gmail.com}{teotia.yugal@gmail.com} \enspace|\enspace \href{https://www.linkedin.com/in/yugalteotia/}{LinkedIn} \enspace|\enspace \href{https://github.com/yugalteotia}{GitHub} \enspace|\enspace Pune, India}\par
+}
+
+\section{SUMMARY}
+Backend-focused Software Engineer building Java and Spring Boot services at IDeaS. Designed REST and gRPC APIs, improved MongoDB access, strengthened backend concurrency controls, and upgraded a 20-module Spring Boot application. SQL, MySQL, Spring Data JPA, and Hibernate experience comes from PG-DAC training and the in-progress Store REST API project.
+
+\section{TECHNICAL SKILLS}
+\textbf{Languages:} Java, JavaScript, TypeScript, Kotlin\par\vspace{2pt}
+\textbf{Backend:} Spring Boot, Spring Security, REST APIs, gRPC, Protocol Buffers, Microservices\par\vspace{2pt}
+\textbf{Data at work:} MongoDB\par\vspace{2pt}
+\textbf{Data in project/training:} SQL, MySQL, Spring Data JPA, Hibernate, Flyway, Mongock/Mongobee\par\vspace{2pt}
+\textbf{Frontend \& mobile:} Ember.js, React.js, Jetpack Compose, HTML/CSS\par\vspace{2pt}
+\textbf{Engineering tools:} Git, Gradle, Maven, GitHub Actions, Docker, Linux, JUnit, Mockito\par\vspace{2pt}
+\textbf{AI-assisted development:} GitHub Copilot, prompt engineering, agent workflows, RCA, debugging, scenario generation
+
+\section{PROFESSIONAL EXPERIENCE}
+\textbf{IDeaS - A SAS Company} \hfill Pune, India\par
+\textit{Software Engineer} \hfill Oct 2024 - Present\par
+% Last working date confirmed: 30 September 2026. After that date, replace Present with Sep 2026.
+\begin{itemize}
+\item Designed and implemented REST and gRPC APIs for cross-product communication, with pagination, filtering, audit information, and backward-compatible Protocol Buffer contracts validated through contract-style tests.
+\item Implemented concurrency controls for long-running jobs using centralized mutation guards and dedicated status APIs; connected backend state to progress tracking and conflict handling in the frontend.
+\item Optimized MongoDB data access using targeted indexes, bulk reads, and batched audit retrieval; developed migration logic to transform and upsert legacy records.
+\item Upgraded a microservice application across \textbf{20 Java modules} from Spring Boot 2.6 to Spring Boot 3.5, redesigning security configuration for Spring Security 6, migrating Jakarta APIs, and upgrading five generated API-client modules.
+\item Built Ember.js/TypeScript configuration and reporting workflows with reusable multiselect components, input validation, and conditional rendering; consolidated logic and removed redundant service calls.
+\item Applied GitHub Copilot and iterative agent workflows across feature development, RCA, scenario design, debugging, and code review to shorten delivery cycles while independently owning architecture and validation.
+\item Reduced manual operational effort by approximately \textbf{60\%} through API orchestration guided by live database load; built a browser extension to make development, staging, and production environments visually distinct.
+\end{itemize}
+\vspace{3pt}
+\textbf{Data Nova India Pvt. Ltd.} \hfill Noida, India\par
+\textit{Application Developer} \hfill Feb 2023 - May 2023\par
+\begin{itemize}
+\item Developed ERP mobile application modules using MVVM, separating user interfaces from presentation and application logic.
+\item Improved API-backed data retrieval by approximately \textbf{30\%} by refining retrieval logic and eliminating unnecessary processing in ERP workflows.
+\item Reduced reported application issues by approximately \textbf{20\%} through targeted defect resolution; refined interface behavior to improve usability.
+\end{itemize}
+
+\section{PROJECTS}
+\textbf{UNITY - Peer-to-Peer Music Sync} \hfill \href{https://github.com/yugalteotia/unity-music-sync}{GitHub}\par
+\textit{Kotlin, Jetpack Compose, Media3 ExoPlayer, Coroutines, TCP/UDP | Functional prototype}
+\begin{itemize}
+\item Designed the architecture and protocol for a local-network Android music session with leader/follower control, device discovery, pairing-code joining, and synchronized queues.
+\item Used iterative AI-assisted development to implement TCP commands, UDP playback synchronization, local media discovery, and MediaSession controls; reviewed and refined generated code against the intended design.
+\end{itemize}
+\vspace{2pt}
+\textbf{Store REST API} \hfill \href{https://github.com/yugalteotia/spring_api_starter}{GitHub}\par
+\textit{In progress | Spring Boot, Spring Data JPA, MySQL, Flyway, OpenAPI}
+\begin{itemize}
+\item Implemented cart-management REST APIs with controller/service/repository separation, DTO mapping, request validation, exception handling, database migrations, and Swagger/OpenAPI documentation.
+\end{itemize}
+
+\section{EDUCATION}
+\textbf{PG Diploma in Advanced Computing (PG-DAC)} \hfill Mar 2024 - Aug 2024\par
+Centre for Development of Advanced Computing, Pune\par
+\vspace{4pt}
+\textbf{B.Tech in Computer Science \& Engineering} \hfill 2020 - 2023\par
+Dr. A.P.J. Abdul Kalam Technical University
+\end{document}

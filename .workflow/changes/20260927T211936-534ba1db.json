@@ -1,0 +1,23 @@
+{
+  "row": 10,
+  "reason": "Single submission confirmed by Taleo Process completed",
+  "changes": {
+    "Status": {
+      "before": "Submission unconfirmed",
+      "after": "Applied"
+    },
+    "Submission date": {
+      "before": null,
+      "after": "2026-09-28"
+    },
+    "Confirmation evidence": {
+      "before": null,
+      "after": "jobs/optum-2388999-java-fullstack/submission-confirmation.md"
+    },
+    "Next step": {
+      "before": "Authorized single submission attempt starting; verify confirmation before retrying. Do not reapply.",
+      "after": "Verify current submission status; do not reapply"
+    }
+  },
+  "backup": ".workflow/backups/20260927T211936-534ba1db.xlsx"
+}

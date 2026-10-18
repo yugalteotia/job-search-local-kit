@@ -1,0 +1,513 @@
+{
+  "run_id": "1e5ae1a4-f904-4028-a5ba-299670748a90",
+  "started_at": "2026-10-13T04:46:21.395833+00:00",
+  "mode": "read_only",
+  "upload_enabled": false,
+  "submission_enabled": false,
+  "scheduled": true,
+  "test": true,
+  "source_scope": [
+    "naukri"
+  ],
+  "fresh_only": true,
+  "status": "Success",
+  "sources": {
+    "naukri": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-10-13T04:46:29.786050+00:00",
+      "pages_checked": 2,
+      "leads": 40,
+      "feed_jobs": 0
+    }
+  },
+  "coverage": {
+    "naukri": [
+      {
+        "query": "Java backend API",
+        "location": "Bengaluru",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20backend%20API&l=Bengaluru&pageNo=1&experience=2&jobAge=7&sort=1",
+        "observed_url": "https://www.naukri.com/java-backend-api-jobs-in-bengaluru",
+        "checked_at": "2026-10-13T04:46:27.000621+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_years": 2,
+          "posting_age_days": 7,
+          "sort": "newest"
+        },
+        "error_kind": null
+      },
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Hyderabad",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Spring%20Boot%20software%20engineer&l=Hyderabad&pageNo=1&experience=2&jobAge=7&sort=1",
+        "observed_url": "https://www.naukri.com/spring-boot-software-engineer-jobs-in-hyderabad-secunderabad",
+        "checked_at": "2026-10-13T04:46:29.588101+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_years": 2,
+          "posting_age_days": 7,
+          "sort": "newest"
+        },
+        "error_kind": null
+      }
+    ]
+  },
+  "leads": 40,
+  "unique_original_requisitions_verified": 0,
+  "fit_decisions": {
+    "309": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "Bengaluru",
+        "experience": "Location: Bengaluru Experience: 3 - 4 years Job highlights 3+ years software development experience with proficiency in Java, Python, Go, or Kotlin and s",
+        "technology": null,
+        "role": null
+      },
+      "jd_sha256": "ce5c64d1a324b9b257a7636ff3463a35a10b1d8c676089020f90d0f45aff958c"
+    }
+  },
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/1e5ae1a4-f904-4028-a5ba-299670748a90.json"
+  ],
+  "queue": {
+    "ResumeReady": 3
+  },
+  "stage_seconds": {
+    "discovery": 8.38,
+    "original_verification": 0.0,
+    "lead_resolution": 13.94,
+    "fit_review": 0.01,
+    "auto_fit_resume": 0.06
+  },
+  "stage_counts": {
+    "normalized_unique_ats": 0,
+    "selected_for_original_check": 0,
+    "fetched": 40,
+    "unique_portal_leads": 40,
+    "fresh": 0,
+    "unknown_date": 27,
+    "skipped_old": 0,
+    "repeat_skipped": 13,
+    "unique_original_requisitions": 0,
+    "eligible_for_review": 1,
+    "original_jds_reviewed": 0,
+    "original_or_portal_jds_reviewed": 1,
+    "portal_native_verified": 2,
+    "high": 0,
+    "queued_for_resume": 0,
+    "review_queue_added": 1,
+    "portal_originals_matched": 0,
+    "portal_leads_still_needing_original": 2137
+  },
+  "top_reviewed": [
+    {
+      "job_id": 309,
+      "company": "Navi Limited",
+      "role": "SDE II (Backend)",
+      "location": "Bengaluru",
+      "direct_url": "https://www.naukri.com/job-listings-sde-ii-backend-navi-limited-bengaluru-3-to-4-years-081026040485",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "ce5c64d1a324b9b257a7636ff3463a35a10b1d8c676089020f90d0f45aff958c",
+      "original_page_checked_at": "2026-10-13T04:46:43.854023+00:00",
+      "reviewed_at": "2026-10-13T04:46:43.969588+00:00",
+      "experience_minimum": 3.0,
+      "evidence": {
+        "location": "Bengaluru",
+        "experience": "Location: Bengaluru Experience: 3 - 4 years Job highlights 3+ years software development experience with proficiency in Java, Python, Go, or Kotlin and s",
+        "technology": null,
+        "role": null
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ]
+    }
+  ],
+  "recovery": {
+    "requeued_resume": 0,
+    "returned_to_prepared": 0,
+    "claimed_left_locked": 3
+  },
+  "freshness": {
+    "policy": {
+      "routine_review_hours": 24,
+      "sweep_overlap_minutes": 90,
+      "unknown_date_details_per_run": 30,
+      "transient_retry_hours": 6,
+      "pending_application_recheck_hours": 6
+    },
+    "counts": {
+      "fresh": 0,
+      "recent": 0,
+      "unknown_date": 27,
+      "skipped_old": 0,
+      "repeat_skipped": 13,
+      "history_skipped": 0,
+      "unknown_date_deferred": 0
+    },
+    "detail_candidates": 27,
+    "skips": [
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-aviintech-business-solutions-bengaluru-5-to-10-years-090726504525",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-j2ee-backend-developer-lead-consult-asia-bengaluru-5-to-10-years-250926916487",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-aws-backend-developer-silfra-technologies-pune-bengaluru-3-to-8-years-280722502794",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-5-to-20-years-integel-institute-of-technology-tamil-nadu-hyderabad-chennai-bengaluru-5-to-10-years-170926004998",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-developer-photon-hyderabad-chennai-bengaluru-5-to-7-years-180926020236",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-developer-p-r-glolinks-consulting-private-limited-bengaluru-5-to-10-years-270726503544",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-developer-purple-drive-technologies-private-limited-bengaluru-6-to-8-years-110626501361",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-fullstack-developer-careernet-chennai-bengaluru-4-to-8-years-240926034442",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-vservice-it-solutions-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-7-to-8-years-120824502363",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-lead-java-developer-hdfc-bank-mumbai-chennai-bengaluru-8-to-13-years-071026049105",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-with-kafka-vservice-it-solutions-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-8-to-12-years-120824502365",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-with-kafka-vservice-it-solutions-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-7-to-8-years-120824502364",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-aws-java-react-js-fullstack-6-yrs-sp-staffing-pune-chennai-bengaluru-6-to-10-years-070926033587",
+        "reason": "unchanged_already_reviewed"
+      }
+    ]
+  },
+  "portal_native": {
+    "selected": 4,
+    "verified": 2,
+    "unverified": 2,
+    "verified_job_ids": [
+      309,
+      310
+    ],
+    "results": [
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-sde-ii-backend-navi-limited-bengaluru-3-to-4-years-081026040485",
+        "portal_job_id": "081026040485",
+        "title": "SDE II (Backend)",
+        "employer": "Navi Limited",
+        "location": "Bengaluru",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 6549,
+        "experience_evidence": "3 - 4 years",
+        "apply_visible": true,
+        "database_job_id": 309,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 0
+        },
+        "render_checks": 1,
+        "card_sha256": "a267ca5eca35e577733913862871899e29a6cafa55f5ede2607dc9f391206f39",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-4-to-10-years-integel-institute-of-technology-tamil-nadu-hyderabad-chennai-bengaluru-5-to-8-years-010926019602",
+        "portal_job_id": "010926019602",
+        "title": "Java Backend Developer - 4 To 10 years",
+        "employer": "CONFIDENTIAL",
+        "location": "Bengaluru, Hyderabad, Chennai",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 1853,
+        "experience_evidence": "10 years",
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 1,
+        "card_sha256": "71c61d47f1ba4bc74e812c5a30d14402c476d379b1a9febca571b3fb7e19f040",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-j2ee-tata-consultancy-services-hyderabad-pune-bengaluru-6-to-11-years-300926030275",
+        "portal_job_id": "300926030275",
+        "title": "Java J2EE",
+        "employer": "Tata Consultancy Services",
+        "location": "Pune, Bengaluru, Hyderabad",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 3964,
+        "experience_evidence": "6 - 11 years",
+        "apply_visible": true,
+        "database_job_id": 310,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 0
+        },
+        "render_checks": 1,
+        "card_sha256": "6f89262de674773c73aea59773054a21c64f68f0e170610cc3138ebff1c88c80",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-azure-java-fullstack-6-yrs-sp-staffing-pune-chennai-bengaluru-6-to-10-years-290926038140",
+        "portal_job_id": "290926038140",
+        "title": "Azure Java Fullstack | 6+ yrs!!",
+        "employer": "India's Largest IT Service Provider",
+        "location": "Pune, Bengaluru, Chennai",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 1059,
+        "experience_evidence": "6 - 10 years",
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 1,
+        "card_sha256": "d9302902d9bdafd39a69304275306b2cd0b05a9fa97511b35e816308bf444249",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      }
+    ]
+  },
+  "lead_resolution": {
+    "navigation_links_reclassified": 152,
+    "missing_ats_jd_refresh": {
+      "checked": 0,
+      "results": []
+    },
+    "direct_provider_coverage": {},
+    "direct_employer_coverage": {},
+    "portal_employer_coverage": {},
+    "target_title_failures_in_batch": 0,
+    "portal_jobs_inspected": 0,
+    "originals_matched": 0,
+    "substantive_originals_verified": 0,
+    "live_title_only": 0,
+    "direct_check_failures": 0,
+    "needs_original": 2137,
+    "title_relevant_unresolved": 1244,
+    "by_source": {
+      "naukri": {
+        "needs_original": 709,
+        "not_a_job": 3
+      },
+      "linkedin": {
+        "needs_original": 1368,
+        "not_a_job": 4
+      },
+      "foundit": {
+        "needs_original": 0,
+        "not_a_job": 17
+      },
+      "indeed": {
+        "needs_original": 0,
+        "not_a_job": 98
+      },
+      "cutshort": {
+        "needs_original": 60,
+        "not_a_job": 30
+      }
+    },
+    "results": []
+  },
+  "linked_portal_native": null,
+  "review_coverage": {
+    "by_source": {
+      "naukri_portal_native": 1
+    },
+    "by_company": {
+      "Navi Limited": 1
+    }
+  },
+  "master_resume": {
+    "ok": true,
+    "issues": []
+  },
+  "auto_fit": {
+    "considered": 1,
+    "queued": 0,
+    "not_eligible": 1,
+    "blocked": 0,
+    "skipped_unchanged": 5,
+    "results": [
+      {
+        "job_id": 309,
+        "employer": "Navi Limited",
+        "title": "SDE II (Backend)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Spring Boot is not explicit in the JD body"
+        ]
+      }
+    ]
+  },
+  "auto_resume": {
+    "prepared": 0,
+    "failed": 0,
+    "results": []
+  },
+  "staging": {
+    "path": ".workflow/staging.json",
+    "resume_review_ready": 0,
+    "needs_jd_evidence_review": 0
+  },
+  "blocker_alerts": [
+    {
+      "job_id": 220,
+      "status": "pending",
+      "link": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-microservices-infosys-pune-chennai-bengaluru-2-to-5-years-190826038395",
+      "desktop_sent": true
+    },
+    {
+      "job_id": 241,
+      "status": "pending",
+      "link": "https://www.naukri.com/job-listings-java-developer-senior-java-developer-agiliad-pune-2-to-6-years-280926023134",
+      "desktop_sent": true
+    },
+    {
+      "job_id": 202,
+      "status": "pending",
+      "link": "https://www.naukri.com/job-listings-java-back-end-developer-springboot-microservices-infosys-hyderabad-chennai-bengaluru-3-to-6-years-110826000033",
+      "desktop_sent": true
+    },
+    {
+      "job_id": 250,
+      "status": "pending",
+      "link": "https://www.naukri.com/job-listings-backend-java-developer-naukri-e-hire-campaign-bengaluru-2-to-4-years-160926009207",
+      "desktop_sent": true
+    },
+    {
+      "job_id": 266,
+      "status": "pending",
+      "link": "https://www.naukri.com/job-listings-java-backend-engineer-luxoft-india-llp-pune-3-to-5-years-290926917619",
+      "desktop_sent": true
+    }
+  ],
+  "naukri_application_worker": {
+    "enabled": true,
+    "max_submissions_per_run": 1,
+    "other_portals": "discovery_only",
+    "capability_reason": "portal_workers.naukri.apply_enabled is false",
+    "status": "DiscoveryOnly",
+    "candidate_count": 0,
+    "submissions": 0
+  },
+  "portals": {
+    "naukri": {
+      "capability": "DiscoveryOnly",
+      "reason": "portal_workers.naukri.apply_enabled is false",
+      "session": "unknown"
+    },
+    "linkedin": {
+      "capability": "DiscoveryOnly",
+      "reason": "No end-to-end application path proven for this portal",
+      "session": "unknown"
+    },
+    "foundit": {
+      "capability": "Blocked",
+      "reason": "Last discovery NoVisibleCards",
+      "session": "unknown"
+    },
+    "indeed": {
+      "capability": "DiscoveryOnly",
+      "reason": "No end-to-end application path proven for this portal",
+      "session": "unknown"
+    },
+    "cutshort": {
+      "capability": "DiscoveryOnly",
+      "reason": "No end-to-end application path proven for this portal",
+      "session": "unknown"
+    },
+    "ats": {
+      "capability": "DiscoveryOnly",
+      "reason": "Public feeds are read-only; application forms are not implemented",
+      "session": "unknown"
+    }
+  },
+  "tab_lifecycle": {
+    "created": null,
+    "reused": null,
+    "closed": null,
+    "remaining_automation_tabs": null,
+    "job_tabs_created": null,
+    "job_tabs_closed": null,
+    "welcome_tabs_created": null,
+    "welcome_tabs_closed": null,
+    "remaining_job_tabs": null,
+    "remaining_welcome_tabs": null,
+    "uncertain_ids": [
+      "No tab lifecycle report was emitted"
+    ],
+    "recorded_ids": [],
+    "log_paths": []
+  },
+  "finished_at": "2026-10-13T04:46:47.839113+00:00",
+  "elapsed_seconds": 26.44
+}

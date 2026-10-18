@@ -1,0 +1,84 @@
+{
+  "company": "Celonis",
+  "role": "Associate Software Engineer - Java",
+  "job_id": "7791267003",
+  "slug": "celonis-associate-java-7791267003",
+  "url": "https://job-boards.greenhouse.io/celonis/jobs/7791267003",
+  "direct_application_url": "https://job-boards.greenhouse.io/celonis/jobs/7791267003",
+  "source": "Original Celonis Greenhouse page, live browser check",
+  "checked_at": "2026-09-27T23:08:45Z",
+  "posted_date": null,
+  "location": "Bangalore, India",
+  "original_verified": true,
+  "live": true,
+  "india": true,
+  "development_role": true,
+  "fit_checks": {
+    "java_spring_backend": {
+      "verified": true,
+      "evidence": "Original JD calls this an Associate Software Backend Engineer for Java/Spring Boot/Hibernate product development; IDeaS work includes Spring Boot services and REST/gRPC APIs."
+    },
+    "experience_band": {
+      "verified": true,
+      "evidence": "Original JD requires 1–3 years hands-on software engineering; profile confirms IDeaS Oct 2024–Sep 2026 plus Data Nova Feb–May 2023, about 2+ professional years overall."
+    },
+    "india_location": {
+      "verified": true,
+      "evidence": "Original page says Bangalore, India; profile confirms relocation anywhere in India."
+    }
+  },
+  "jd": "Associate Software Engineer - Java; Bangalore, India. Celonis seeks an Associate Software Backend Engineer with expertise in Java (Spring Boot, Hibernate). The team improves its on-premise Process Mining product and migration to SaaS. Work includes product lifecycle ownership, stability/security, dependency and standard upgrades, development process automation and mentoring. Qualifications: CS degree; 1–3 years hands-on software engineering; hands-on Java, Spring and Hibernate frameworks; enterprise security, compliance, scalability and data consistency; troubleshooting; microservices-based distributed systems; data structures and algorithms. Highly desired: AI-powered IDEs and Windows/Linux management. Live original page contained a direct application form. No posting date displayed.",
+  "rationale": "Substantial Java backend work and matching experience/location. Hibernate is documented only in an in-progress Store REST API project, while the JD seeks framework expertise. Treat as a material essential depth gap; no autonomous application.",
+  "requirements": [
+    {
+      "name": "Java and Spring backend",
+      "required": true,
+      "basis": "work",
+      "master_bullet": [
+        0,
+        0
+      ],
+      "evidence": "Designed and implemented REST and gRPC APIs for cross-product communication, with pagination, filtering, audit information, and backward-compatible Protocol Buffer contracts validated through contract-style tests."
+    },
+    {
+      "name": "1–3 years hands-on software engineering",
+      "required": true,
+      "basis": "profile",
+      "evidence": "IDeaS 14 Oct 2024–30 Sep 2026 and Data Nova Feb–May 2023; training excluded."
+    },
+    {
+      "name": "Hibernate framework expertise",
+      "required": true,
+      "basis": "project",
+      "evidence": "Store REST API in progress uses Spring Data JPA/Hibernate; no production Hibernate expertise shown."
+    },
+    {
+      "name": "Microservices distributed systems",
+      "required": true,
+      "basis": "work",
+      "master_bullet": [
+        0,
+        3
+      ],
+      "evidence": "Upgraded a microservice application across 20 Java modules from Spring Boot 2.6 to Spring Boot 3.5, redesigning security configuration for Spring Security 6, migrating Jakarta APIs, and upgrading five generated API-client modules."
+    },
+    {
+      "name": "CS degree",
+      "required": true,
+      "basis": "education",
+      "evidence": "B.Tech CSE, AKTU 2020–2023."
+    },
+    {
+      "name": "Enterprise reliability/security and troubleshooting",
+      "required": true,
+      "basis": "work",
+      "master_bullet": [
+        0,
+        3
+      ],
+      "evidence": "Upgraded a microservice application across 20 Java modules from Spring Boot 2.6 to Spring Boot 3.5, redesigning security configuration for Spring Security 6, migrating Jakarta APIs, and upgrading five generated API-client modules."
+    }
+  ],
+  "fit": "Medium",
+  "score": 83
+}

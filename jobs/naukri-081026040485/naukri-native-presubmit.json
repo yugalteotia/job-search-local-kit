@@ -1,0 +1,25 @@
+{
+  "job_id": 309,
+  "requisition_id": "081026040485",
+  "form_url": "https://www.naukri.com/job-listings-sde-ii-backend-navi-limited-bengaluru-3-to-4-years-081026040485",
+  "provider": "naukri_native_chat",
+  "signed_in": true,
+  "account_name_matches": true,
+  "resume_filename": "Yugal_Teotia_SDE.pdf",
+  "resume_sha256": "c6c835a60130f64b52629a73d1bd9fd9c493693380a242005ae270cc88d04540",
+  "final_action": "screening_chat_save",
+  "checks": {
+    "live": true,
+    "unapplied": true,
+    "fit": true,
+    "resume_visual": true,
+    "resume_selected": true,
+    "answers_confirmed": true,
+    "unique_apply": true
+  },
+  "facts_used": [
+    "relocation"
+  ],
+  "answers_logged": false,
+  "created_at": "2026-10-13T13:31:02.348979+00:00"
+}

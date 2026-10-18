@@ -1,0 +1,50 @@
+[    1032ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    1032ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    1032ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    1032ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    1556ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    1556ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    1556ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    1556ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    2226ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://uhg.taleo.net/careersection/2026PRD.1.4.14.3.0/akira/pub/js/akira-corec.js:216
+[    2228ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://uhg.taleo.net/careersection/2026PRD.1.4.14.3.0/akira/pub/js/akira-corec.js:660
+[    8173ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    8173ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    8173ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    8173ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    8685ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://uhg.taleo.net/careersection/2026PRD.1.4.14.3.0/akira/pub/js/akira-corec.js:216
+[    8687ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://uhg.taleo.net/careersection/2026PRD.1.4.14.3.0/akira/pub/js/akira-corec.js:660
+[   23623ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[   23623ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[   23623ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[   23623ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[   23953ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[   23953ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[   23953ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[   23953ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[   24224ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://uhg.taleo.net/careersection/2026PRD.1.4.14.3.0/akira/pub/js/akira-corec.js:216
+[   24226ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://uhg.taleo.net/careersection/2026PRD.1.4.14.3.0/akira/pub/js/akira-corec.js:660
+[  106171ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[  106171ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[  106171ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[  106171ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[  106473ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://uhg.taleo.net/careersection/2026PRD.1.4.14.3.0/akira/pub/js/akira-corec.js:216
+[  106475ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://uhg.taleo.net/careersection/2026PRD.1.4.14.3.0/akira/pub/js/akira-corec.js:660
+[  109337ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[  109337ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[  109337ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[  109337ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[  109739ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.bugherd.com/sidebarv2.js?apikey=ufgor8s2wnwkrwzpeixung:0
+[  110306ms] [LOG] {ModuleType: 15, OrganizationId: 34088, FormType: 0, ModuleName: Job Alert Form, SuccessMessage: Your subscription was submitted successfully.} site @ https://careers.unitedhealthgroup.com/search-jobs/:71783
+[  110403ms] [LOG] JQMIGRATE: Migrate is installed with logging active, version 3.3.1 @ https://tbcdn.talentbrew.com/bundles/jquery-client.js:18
+[  110486ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://tbcdn.talentbrew.com/company/34088/v1/fonts/enterprise-font-family/uhcserifheadline-semibold.woff2:0
+[  110517ms] [LOG] %c Horizontal Free-Scroller v1.4 in use.  background: #6e00ee; color: #fff @ https://tbcdn.talentbrew.com/company/34088/js/67476-GST.min.js:0
+[  110524ms] [WARNING] JQMIGRATE: jQuery.fn.scroll() event shorthand is deprecated @ https://tbcdn.talentbrew.com/bundles/jquery-client.js:18
+[  110525ms] [LOG] %cHorizontal Free-Scroller%cv1.5.0 background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #6e00ee; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://tbcdn.talentbrew.com/company/34088/js/67476-GST.min.js:15
+[  110737ms] [WARNING] JQMIGRATE: jQuery.fn.click() event shorthand is deprecated @ https://tbcdn.talentbrew.com/bundles/jquery-client.js:18
+[  110750ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://tbcdn.talentbrew.com/company/34088/v1/fonts/enterprise-font-family/uhcserifheadline-semibold.ttf:0
+[  111284ms] [LOG] %cMagicBullet%cv2.2 background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #6e00ee; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/init.js:26
+[  111957ms] [LOG] %cMagicBullet: A11y%cv2.0.5 background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #6e00ee; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:47
+[  111994ms] [LOG] %cMagicBullet: A11y%cStatic Scripts ✔ background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #228B22; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:224
+[  112065ms] [LOG] %cMagicBullet: A11y%cDynamic Scripts ✔ background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #228B22; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:202
+[  113617ms] [LOG] %cMagicBullet: A11y%cDynamic Scripts ✔ background: #2d2d2d; color: #fff; padding: 6px 10px; border-radius: 16px 0 0 16px; font-weight: 600; background: #228B22; color: #fff; padding: 6px 10px; border-radius: 0 16px 16px 0; font-weight: 600; @ https://services.tmpwebeng.com/magicbullet/a11y/init.js:202

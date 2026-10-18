@@ -1,0 +1,14 @@
+{
+  "job_id": 250,
+  "requisition_id": "160926009207",
+  "observed_at": "2026-09-29T19:49:20.814300+00:00",
+  "read_only": true,
+  "method": "Exact listing reopened once with the phase guard allowing only the single show request; nothing answered or saved.",
+  "listing_applied": false,
+  "applied_jobs_history_exact_match": false,
+  "applied_jobs_history_full": true,
+  "pending_question": "Are you comfortable with Work from office role for Bangalore location?",
+  "question_format": "Yes/No radio choice with Save (no text editor)",
+  "saved_before_stop": "1 answer (notice period) in attempt 9a7b0155-5410-4784-a255-2da08c2cdc45",
+  "conclusion": "Not applied. Attempt stays locked as Uncertain; do not retry automatically."
+}

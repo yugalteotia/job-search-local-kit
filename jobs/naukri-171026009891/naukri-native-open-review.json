@@ -1,0 +1,23 @@
+{
+  "job_id": 392,
+  "requisition_id": "171026009891",
+  "form_url": "https://www.naukri.com/job-listings-ai-first-java-developer-zycus-infotech-bengaluru-3-to-8-years-171026009891",
+  "provider": "naukri_native_chat",
+  "signed_in": true,
+  "account_name_matches": true,
+  "resume_filename": "Yugal_Teotia_First_Java_Developer.pdf",
+  "resume_sha256": "d85178f8e572c6e32f2be4363da7f4d934cbf8424103dedc58c3a1a039dc51e4",
+  "final_action": "native_apply_open",
+  "visible_required_fields": 0,
+  "answers_logged": false,
+  "checks": {
+    "live": true,
+    "unapplied": true,
+    "fit": true,
+    "resume_visual": true,
+    "resume_selected": true,
+    "answers_confirmed": true,
+    "unique_apply": true
+  },
+  "created_at": "2026-10-17T07:03:37.018363+00:00"
+}

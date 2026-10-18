@@ -1,0 +1,865 @@
+{
+  "at": "2026-10-14T12:28:22.390357+00:00",
+  "read_only": true,
+  "jobs": {
+    "100826024093": {
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-pune-bengaluru-delhi-ncr-2-to-3-years-100826024093",
+      "listing": {
+        "exact_path": true,
+        "apply_count": 0,
+        "applied": true,
+        "applied_control_count": 1,
+        "applied_control_labels": [
+          "Applied"
+        ],
+        "pending": false,
+        "site_restriction": false
+      },
+      "control_audit": {
+        "primary": [],
+        "applied_elements": [
+          {
+            "tag": "SPAN",
+            "id": "already-applied",
+            "classes": "styles_already-applied__4KDhw already-applied",
+            "ancestors": [
+              {
+                "tag": "DIV",
+                "id": "",
+                "classes": "styles_jhc__apply-button-container__5Bqnb"
+              },
+              {
+                "tag": "DIV",
+                "id": "",
+                "classes": "styles_jhc__bottom__DrTmB"
+              }
+            ]
+          }
+        ]
+      },
+      "history": {
+        "full": true,
+        "exact": 1,
+        "server_exact_rows": [
+          {
+            "job_id": "100826024093",
+            "title": "Java Full Stack Developer",
+            "company": "Infosys",
+            "status": [
+              {
+                "statusId": 1,
+                "statusValue": "Applied",
+                "dateTime": "2026-10-14 17:03:10"
+              },
+              {
+                "statusId": 2,
+                "statusValue": "Application Sent",
+                "dateTime": "2026-10-14 17:03:11"
+              }
+            ]
+          },
+          {
+            "job_id": "100826024093",
+            "title": "Java Full Stack Developer",
+            "company": "Infosys",
+            "status": [
+              {
+                "statusId": 1,
+                "statusValue": "Applied",
+                "dateTime": "2026-10-14 17:03:10"
+              },
+              {
+                "statusId": 2,
+                "statusValue": "Application Sent",
+                "dateTime": "2026-10-14 17:03:11"
+              }
+            ]
+          }
+        ],
+        "identity_basis": "server_history_exact_job_id"
+      }
+    }
+  },
+  "denied_mutations": [
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    },
+    {
+      "method": "POST",
+      "path": "[nonapplication path omitted]"
+    }
+  ],
+  "account": {
+    "signed_in": true,
+    "confirmed_identity_matches": true
+  },
+  "generic_resume_before": {
+    "filename": "Yugal_Teotia_CV.pdf",
+    "expected_filename": "Yugal_Teotia_CV.pdf",
+    "local_expected_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255"
+  },
+  "confirmation_observations": [
+    {
+      "listing": {
+        "exact_path": true,
+        "apply_count": 0,
+        "applied": true,
+        "applied_control_count": 1,
+        "applied_control_labels": [
+          "Applied"
+        ],
+        "pending": false,
+        "site_restriction": false
+      },
+      "history": {
+        "full": true,
+        "exact": 1,
+        "loaded_rows": 279,
+        "expected_total": 279,
+        "load_sweeps": [
+          {
+            "rows": 10,
+            "total": 279,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 20,
+            "total": 279,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 40,
+            "total": 279,
+            "exact": 0,
+            "company_role": 3,
+            "more": true
+          },
+          {
+            "rows": 60,
+            "total": 279,
+            "exact": 0,
+            "company_role": 4,
+            "more": true
+          },
+          {
+            "rows": 80,
+            "total": 279,
+            "exact": 0,
+            "company_role": 4,
+            "more": true
+          },
+          {
+            "rows": 100,
+            "total": 279,
+            "exact": 0,
+            "company_role": 4,
+            "more": true
+          },
+          {
+            "rows": 120,
+            "total": 279,
+            "exact": 0,
+            "company_role": 4,
+            "more": true
+          },
+          {
+            "rows": 140,
+            "total": 279,
+            "exact": 0,
+            "company_role": 4,
+            "more": true
+          },
+          {
+            "rows": 160,
+            "total": 279,
+            "exact": 0,
+            "company_role": 4,
+            "more": true
+          },
+          {
+            "rows": 180,
+            "total": 279,
+            "exact": 0,
+            "company_role": 4,
+            "more": true
+          },
+          {
+            "rows": 200,
+            "total": 279,
+            "exact": 0,
+            "company_role": 4,
+            "more": true
+          },
+          {
+            "rows": 220,
+            "total": 279,
+            "exact": 0,
+            "company_role": 4,
+            "more": true
+          },
+          {
+            "rows": 240,
+            "total": 279,
+            "exact": 0,
+            "company_role": 5,
+            "more": true
+          },
+          {
+            "rows": 260,
+            "total": 279,
+            "exact": 0,
+            "company_role": 5,
+            "more": true
+          },
+          {
+            "rows": 279,
+            "total": 279,
+            "exact": 0,
+            "company_role": 5,
+            "more": false
+          }
+        ],
+        "company_role": 5,
+        "company_role_observed": 5,
+        "company_role_disambiguated": false,
+        "company_role_other_exact_ids": [],
+        "server_company_role_rows": [
+          {
+            "job_id": "100826024093",
+            "title": "Java Full Stack Developer",
+            "company": "Infosys",
+            "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+          },
+          {
+            "job_id": "190826009591",
+            "title": "Java Full Stack Developer (Angular)(2-3Y)",
+            "company": "Infosys",
+            "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+          },
+          {
+            "job_id": "131026048418",
+            "title": "Java Full Stack Developer",
+            "company": "Infosys",
+            "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+          },
+          {
+            "job_id": "280926032117",
+            "title": "Java Full Stack Developer(React.js/Angular.js)",
+            "company": "Infosys",
+            "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+          },
+          {
+            "job_id": "020726005307",
+            "title": "Java Full Stack Developer",
+            "company": "Infosys",
+            "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+          }
+        ],
+        "identity_basis": "server_history_exact_job_id",
+        "server_exact_rows": [
+          {
+            "job_id": "100826024093",
+            "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+            "title": "Java Full Stack Developer",
+            "company": "Infosys",
+            "status": [
+              {
+                "statusId": 1,
+                "appId": null,
+                "count": 1,
+                "modifiedDate": "2026-10-14 17:03:11",
+                "statusValue": "Applied",
+                "dateTime": "2026-10-14 17:03:10"
+              },
+              {
+                "statusId": 2,
+                "appId": 107,
+                "count": 1,
+                "modifiedDate": "2026-10-14 17:03:11",
+                "statusValue": "Application Sent",
+                "dateTime": "2026-10-14 17:03:11"
+              }
+            ]
+          },
+          {
+            "job_id": "100826024093",
+            "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+            "title": "Java Full Stack Developer",
+            "company": "Infosys",
+            "status": [
+              {
+                "statusId": 1,
+                "appId": null,
+                "count": 1,
+                "modifiedDate": "2026-10-14 17:03:11",
+                "statusValue": "Applied",
+                "dateTime": "2026-10-14 17:03:10"
+              },
+              {
+                "statusId": 2,
+                "appId": 107,
+                "count": 1,
+                "modifiedDate": "2026-10-14 17:03:11",
+                "statusValue": "Application Sent",
+                "dateTime": "2026-10-14 17:03:11"
+              }
+            ]
+          }
+        ],
+        "observed_exact_rows_unverified": 0,
+        "at": "2026-10-14T12:29:03.662457+00:00"
+      },
+      "at": "2026-10-14T12:29:03.662472+00:00"
+    }
+  ],
+  "history_load": {
+    "full": true,
+    "exact": 1,
+    "loaded_rows": 279,
+    "expected_total": 279,
+    "load_sweeps": [
+      {
+        "rows": 10,
+        "total": 279,
+        "exact": 0,
+        "company_role": 1,
+        "more": true
+      },
+      {
+        "rows": 20,
+        "total": 279,
+        "exact": 0,
+        "company_role": 1,
+        "more": true
+      },
+      {
+        "rows": 40,
+        "total": 279,
+        "exact": 0,
+        "company_role": 3,
+        "more": true
+      },
+      {
+        "rows": 60,
+        "total": 279,
+        "exact": 0,
+        "company_role": 4,
+        "more": true
+      },
+      {
+        "rows": 80,
+        "total": 279,
+        "exact": 0,
+        "company_role": 4,
+        "more": true
+      },
+      {
+        "rows": 100,
+        "total": 279,
+        "exact": 0,
+        "company_role": 4,
+        "more": true
+      },
+      {
+        "rows": 120,
+        "total": 279,
+        "exact": 0,
+        "company_role": 4,
+        "more": true
+      },
+      {
+        "rows": 140,
+        "total": 279,
+        "exact": 0,
+        "company_role": 4,
+        "more": true
+      },
+      {
+        "rows": 160,
+        "total": 279,
+        "exact": 0,
+        "company_role": 4,
+        "more": true
+      },
+      {
+        "rows": 180,
+        "total": 279,
+        "exact": 0,
+        "company_role": 4,
+        "more": true
+      },
+      {
+        "rows": 200,
+        "total": 279,
+        "exact": 0,
+        "company_role": 4,
+        "more": true
+      },
+      {
+        "rows": 220,
+        "total": 279,
+        "exact": 0,
+        "company_role": 4,
+        "more": true
+      },
+      {
+        "rows": 240,
+        "total": 279,
+        "exact": 0,
+        "company_role": 5,
+        "more": true
+      },
+      {
+        "rows": 260,
+        "total": 279,
+        "exact": 0,
+        "company_role": 5,
+        "more": true
+      },
+      {
+        "rows": 279,
+        "total": 279,
+        "exact": 0,
+        "company_role": 5,
+        "more": false
+      }
+    ],
+    "company_role": 5,
+    "company_role_observed": 5,
+    "company_role_disambiguated": false,
+    "company_role_other_exact_ids": [],
+    "server_company_role_rows": [
+      {
+        "job_id": "100826024093",
+        "title": "Java Full Stack Developer",
+        "company": "Infosys",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+      },
+      {
+        "job_id": "190826009591",
+        "title": "Java Full Stack Developer (Angular)(2-3Y)",
+        "company": "Infosys",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+      },
+      {
+        "job_id": "131026048418",
+        "title": "Java Full Stack Developer",
+        "company": "Infosys",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+      },
+      {
+        "job_id": "280926032117",
+        "title": "Java Full Stack Developer(React.js/Angular.js)",
+        "company": "Infosys",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+      },
+      {
+        "job_id": "020726005307",
+        "title": "Java Full Stack Developer",
+        "company": "Infosys",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+      }
+    ],
+    "identity_basis": "server_history_exact_job_id",
+    "server_exact_rows": [
+      {
+        "job_id": "100826024093",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "Java Full Stack Developer",
+        "company": "Infosys",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "modifiedDate": "2026-10-14 17:03:11",
+            "statusValue": "Applied",
+            "dateTime": "2026-10-14 17:03:10"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "modifiedDate": "2026-10-14 17:03:11",
+            "statusValue": "Application Sent",
+            "dateTime": "2026-10-14 17:03:11"
+          }
+        ]
+      },
+      {
+        "job_id": "100826024093",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "Java Full Stack Developer",
+        "company": "Infosys",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "modifiedDate": "2026-10-14 17:03:11",
+            "statusValue": "Applied",
+            "dateTime": "2026-10-14 17:03:10"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "modifiedDate": "2026-10-14 17:03:11",
+            "statusValue": "Application Sent",
+            "dateTime": "2026-10-14 17:03:11"
+          }
+        ]
+      }
+    ],
+    "observed_exact_rows_unverified": 0,
+    "at": "2026-10-14T12:29:03.662457+00:00"
+  },
+  "sanitized_history_responses": [
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": [
+        {
+          "job_id": "100826024093",
+          "title": "Java Full Stack Developer",
+          "company": "Infosys",
+          "status": [
+            {
+              "statusId": 1,
+              "statusValue": "Applied",
+              "dateTime": "2026-10-14 17:03:10"
+            },
+            {
+              "statusId": 2,
+              "statusValue": "Application Sent",
+              "dateTime": "2026-10-14 17:03:11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": [
+        {
+          "job_id": "100826024093",
+          "title": "Java Full Stack Developer",
+          "company": "Infosys",
+          "status": [
+            {
+              "statusId": 1,
+              "statusValue": "Applied",
+              "dateTime": "2026-10-14 17:03:10"
+            },
+            {
+              "statusId": 2,
+              "statusValue": "Application Sent",
+              "dateTime": "2026-10-14 17:03:11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    },
+    {
+      "path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "status": 200,
+      "matched_rows": []
+    }
+  ],
+  "generic_resume_after": {
+    "filename": "Yugal_Teotia_CV.pdf",
+    "expected_filename": "Yugal_Teotia_CV.pdf"
+  }
+}

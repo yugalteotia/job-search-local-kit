@@ -1,0 +1,23 @@
+{
+  "job_id": 318,
+  "requisition_id": "190826009591",
+  "form_url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-2-3y-infosys-pune-chennai-bengaluru-2-to-3-years-190826009591",
+  "provider": "naukri_native_chat",
+  "signed_in": true,
+  "account_name_matches": true,
+  "resume_filename": "Yugal_Teotia_Java_Full_Stack_Developer.pdf",
+  "resume_sha256": "c592064f90b1f3c1e11c6c307b67d67e02fd902ee070af7645171007517275c8",
+  "final_action": "native_apply_open",
+  "visible_required_fields": 0,
+  "answers_logged": false,
+  "checks": {
+    "live": true,
+    "unapplied": true,
+    "fit": true,
+    "resume_visual": true,
+    "resume_selected": true,
+    "answers_confirmed": true,
+    "unique_apply": true
+  },
+  "created_at": "2026-10-13T18:50:57.609872+00:00"
+}

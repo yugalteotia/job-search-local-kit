@@ -1,0 +1,16 @@
+{
+  "requisition_id": "081026040485",
+  "listing_applied": true,
+  "independently_reconciled": true,
+  "retry_allowed": false,
+  "workflow_worker_proven": true,
+  "outcome_label": "Applied",
+  "discrepancy": "Resolved from exact jobId in history API plus fully loaded Applied Jobs history. No retry.",
+  "generic_resume_restored": true,
+  "evidence": [
+    "jobs/naukri-081026040485/naukri-native-outcome.json",
+    "jobs/naukri-081026040485/naukri-readonly-reconciliation.json"
+  ],
+  "audited_at": "2026-10-13T13:38:46.547096+00:00",
+  "reconciliation_proof": "jobs/naukri-081026040485/naukri-native-confirmation.json"
+}

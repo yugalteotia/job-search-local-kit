@@ -1,0 +1,8 @@
+{
+  "renderer_sha256": "fb990bd7ef9c76f074830be76485210a8d0f6d3e8e4dd1ca8ece762d2c1c278f",
+  "approved_at": "2026-09-29T19:15:00.121485+00:00",
+  "method": "Agent inspected the full 200 DPI PNG of a sample role resume: clear letters, aligned bullets, clean margins, one page, contact links present.",
+  "sample_png_sha256": "ec471ec5562ba615430a289f1ebb65c2cf899d7b1962d4024dce3a7007a9778d",
+  "reapproved_at": "2026-09-29T19:34:44.911246+00:00",
+  "reapproval_note": "Only change since visual inspection: removed a console print from render_resume.build; layout code unchanged and a fresh render was re-checked by automated ink-margin/text checks."
+}

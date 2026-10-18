@@ -1,0 +1,52 @@
+{
+  "attempt_id": "1e71b9fe-7638-4205-98d9-09fc908f5ba6",
+  "requisition_id": "280926023134",
+  "captured_at": "2026-10-14T13:16:40.369796+00:00",
+  "url": "https://www.naukri.com/job-listings-java-developer-senior-java-developer-agiliad-pune-2-to-6-years-280926023134",
+  "confirmation_text": "Fully loaded exact-ID Applied Jobs history confirms Application Sent",
+  "history_full": true,
+  "exact_history_id_match": true,
+  "history_loaded_rows": 280,
+  "history_expected_total": 280,
+  "account_identity_verified": true,
+  "account_session_verified": true,
+  "history_filter_verified": true,
+  "history_identity": {
+    "basis": "server_history_exact_job_id",
+    "server_rows": [
+      {
+        "job_id": "280926023134",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "Java Developer /Senior Java Developer",
+        "company": "Agiliad",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "statusValue": "Applied",
+            "modifiedDate": "2026-09-29 16:53:06",
+            "dateTime": "2026-09-29 16:53:05"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "statusValue": "Application Sent",
+            "modifiedDate": "2026-09-29 16:53:06",
+            "dateTime": "2026-09-29 16:53:06"
+          }
+        ]
+      }
+    ]
+  },
+  "new_application_action": false,
+  "saved_answer_replayed": false,
+  "read_only_reconciliation": true,
+  "automatic_reconciliation": true,
+  "phase": "validation",
+  "application_sent": true,
+  "exact_job_id_match": true,
+  "workflow_worker_proven": false,
+  "confirmation_origin": "read_only_history_reconciliation"
+}

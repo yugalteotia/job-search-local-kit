@@ -1,0 +1,28 @@
+{
+  "job_id": 202,
+  "requisition_id": "110826000033",
+  "url": "https://www.naukri.com/job-listings-java-back-end-developer-springboot-microservices-infosys-hyderabad-chennai-bengaluru-3-to-6-years-110826000033",
+  "at": "2026-10-13T05:36:53.282770+00:00",
+  "listing": {
+    "exact_path": true,
+    "apply_count": 0,
+    "applied": true,
+    "pending": false
+  },
+  "detail": {
+    "host": "www.naukri.com",
+    "url": "https://www.naukri.com/job-listings-java-back-end-developer-springboot-microservices-infosys-hyderabad-chennai-bengaluru-3-to-6-years-110826000033",
+    "page_title": "Java Back End Developer | Springboot | Microservices - Hyderabad,Bengaluru,Chennai - Infosys - 3 to 6 years of experience",
+    "title": "Java Back End Developer | Springboot | Microservices",
+    "employer": "",
+    "location": "Bengaluru, Hyderabad, Chennai",
+    "experience": "3 - 6 years",
+    "jd": "Job highlights\n3-6 years Java backend development with expertise in Java 8/11/17, Spring Boot, Microservices, REST APIs, and SQL databases\nDesign, develop, and maintain backend services and APIs; build scalable microservices; optimize performance and security; troubleshoot production issues; participate in code reviews and architecture discussions\nJob match score\nEarly Applicant\nKeyskills\nLocation\nWork Experience\nJob description\n\n\n\nKey Responsibilities\n\nDesign, develop, and maintain backend services and APIs using Java and Spring Boot.\nBuild scalable Microservices-based applications.\nDevelop RESTful APIs and integrate with internal and external systems.\nCollaborate with cross-functional teams to understand business requirements and translate them into technical solutions.\nOptimize application performance, security, and scalability.\nTroubleshoot and resolve production issues.\nParticipate in code reviews and ensure adherence to coding standards.\nContribute to application architecture and technical design discussions.\n\n\n\nRequired Skills\n\n3-6 years of experience in Java Backend Development.\nStrong hands-on experience in:\nJava 8/11/17\nSpring Boot\nMicroservices\nREST APIs\nSpring MVC\nSpring Data JPA / Hibernate\nSQL (Oracle, MySQL, PostgreSQL)\nExperience with Git and version control systems.\nKnowledge of Design Patterns and OOP concepts.\nUnderstanding of Agile development methodologies.\nStrong analytical and problem-solving skills.\n\n\n\nPreferred Skills\n\nExperience with Kafka/RabbitMQ.\nExposure to Cloud platforms (AWS, Azure, GCP).\nExperience with Docker and Kubernetes.\nKnowledge of CI/CD tools such as Jenkins, GitHub Actions, or Azure DevOps.\nExperience with Redis or other caching technologies.\nRole: Software Development - Other\nIndustry Type: IT Services & Consulting\nDepartment: Engineering - Software & QA\nEmployment Type: Full Time, Permanent\nRole Category: Software Development\nEducation\nUG: B.C.A. in Any Specialization, B.Sc in Any Specialization, Any Graduate, B.Tech / B.E. in Any Specialization\n\nread more\n\nKey Skills\nSkills highlighted with \u2018\u2018 are preferred keyskills\nJavaSpring BootMicroservicesMySQLRest API Services\nMavenHibernateSpring MVCPostgresqlKafkaJ2EEJSONJava 8JenkinsRestGITDockerMicrosoft AzureJPASpring BatchSpring Data JPAAWSKubernetes\nReport this job",
+    "body_characters": 3574,
+    "apply_visible": false,
+    "unavailable": false,
+    "blocked": false
+  },
+  "apply_controls": [],
+  "application_action": false
+}

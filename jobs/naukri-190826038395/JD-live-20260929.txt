@@ -1,0 +1,77 @@
+Location: Pune, Bengaluru, Chennai
+Experience: 2 - 5 years
+
+Job highlights
+Expertise in Java (8/11/17), Spring Boot, Microservices, REST APIs, Spring Data JPA, and SQL databases
+Design, develop, and maintain scalable backend applications and APIs; collaborate with cross-functional teams; optimize performance and implement security; participate in CI/CD and cloud deployment
+Job match score
+Early Applicant
+Keyskills
+Location
+Work Experience
+Job description
+
+
+
+Job Summary
+
+We are seeking a talented Java Backend Developer with strong expertise in Java, Spring Boot, and Microservices architecture. The ideal candidate will be responsible for designing, developing, and maintaining scalable backend applications and APIs that support enterprise-grade business solutions.
+
+
+
+
+Key Responsibilities
+
+Design, develop, and maintain robust backend applications using Java and Spring Boot.
+Build scalable and high-performance Microservices-based solutions.
+Develop RESTful APIs and integrate with internal and external systems.
+Write clean, efficient, and reusable code following best coding practices.
+Collaborate with Architects, Product Owners, Frontend Developers, and QA teams.
+Optimize application performance, reliability, and scalability.
+Participate in code reviews, troubleshooting, and production support activities.
+Implement security, logging, monitoring, and exception handling mechanisms.
+Work within Agile/Scrum teams to deliver high-quality software solutions.
+Contribute to CI/CD implementation and cloud deployment initiatives.
+
+
+
+Mandatory Skills
+
+Core Java (Java 8/11/17)
+Spring Boot
+Microservices
+REST APIs
+Spring MVC
+Spring Data JPA / Hibernate
+SQL (Oracle, PostgreSQL, MySQL)
+Maven / Gradle
+Git
+
+
+
+Preferred Skills
+
+Apache Kafka
+Docker
+Kubernetes
+AWS / Azure
+CI/CD Pipelines
+Redis
+Elasticsearch
+Agile Methodology
+Role: Software Development - Other
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Tech / B.E. in Any Specialization, B.Sc in Any Specialization, B.C.A. in Any Specialization, Any Graduate
+PG: MCA in Any Specialization, Any Postgraduate
+
+read more
+
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+JavaHibernateSpring BootMicroservicesRest
+MavenSpring MVCPostgresqlKafkaSpring DataSQLJenkinsGITDockerMySQLJDBCJPAMongoDBSpring Data JPAWeb ServicesSpring SecurityKubernetesSpring Web Services
+Report this job

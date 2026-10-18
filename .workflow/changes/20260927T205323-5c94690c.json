@@ -1,0 +1,15 @@
+{
+  "row": 10,
+  "reason": "Standing authorization restored for Optum after batch confirmation; draft inspected through eSignature",
+  "changes": {
+    "Resume version": {
+      "before": "Tailored_Resume_v2.pdf — approved/hash verified; upload rejected by Chrome; not attached",
+      "after": "Tailored_Resume_v2.pdf — manually attached; relevant file and Resume/CV designation saved"
+    },
+    "Next step": {
+      "before": "Blocked on About You: confirmed contact/source fields filled in browser; not saved/advanced. Confirm required personal/COI/legal answers directly in portal; manually attach approved v2 PDF (Chrome upload Not allowed). Later pages not inspected. Do not submit.",
+      "after": "Blocked pending single required-answer batch (required-answer-batch.md). At eSignature, not signed/submitted. User authorized submission of Optum 2388999 after confirmed answers. Scheduling remains disabled."
+    }
+  },
+  "backup": ".workflow/backups/20260927T205323-5c94690c.xlsx"
+}

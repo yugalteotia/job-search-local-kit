@@ -1,0 +1,61 @@
+{
+  "attempt_id": "b9fe87ea-007a-42b4-b4b3-8f0ba35eac05",
+  "requisition_id": "100826024093",
+  "captured_at": "2026-10-14T12:31:48.113809+00:00",
+  "url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-pune-bengaluru-delhi-ncr-2-to-3-years-100826024093",
+  "confirmation_text": "Exact listing header Applied and fully loaded exact server Application Sent history",
+  "exact_listing_applied": true,
+  "applied_control": "#already-applied in exact listing header",
+  "exact_history_id_match": true,
+  "history_full": true,
+  "history_loaded_rows": 279,
+  "history_expected_total": 279,
+  "history_identity": {
+    "basis": "server_history_exact_job_id",
+    "server_rows": [
+      {
+        "job_id": "100826024093",
+        "title": "Java Full Stack Developer",
+        "company": "Infosys",
+        "status": [
+          {
+            "statusId": 1,
+            "statusValue": "Applied",
+            "dateTime": "2026-10-14 17:03:10"
+          },
+          {
+            "statusId": 2,
+            "statusValue": "Application Sent",
+            "dateTime": "2026-10-14 17:03:11"
+          }
+        ]
+      },
+      {
+        "job_id": "100826024093",
+        "title": "Java Full Stack Developer",
+        "company": "Infosys",
+        "status": [
+          {
+            "statusId": 1,
+            "statusValue": "Applied",
+            "dateTime": "2026-10-14 17:03:10"
+          },
+          {
+            "statusId": 2,
+            "statusValue": "Application Sent",
+            "dateTime": "2026-10-14 17:03:11"
+          }
+        ]
+      }
+    ]
+  },
+  "account_identity_verified": true,
+  "new_application_action": false,
+  "saved_answer_replayed": false,
+  "delayed_confirmation": true,
+  "read_only_reconciliation": true,
+  "original_saved_answers": 1,
+  "generic_resume_restored": true,
+  "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+  "audit_path": "jobs/naukri-100826024093/naukri-readonly-confirmation-audit.json"
+}

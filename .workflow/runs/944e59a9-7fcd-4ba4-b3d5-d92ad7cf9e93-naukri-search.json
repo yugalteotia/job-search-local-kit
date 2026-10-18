@@ -1,0 +1,35 @@
+{
+  "pages": [
+    {
+      "query": "Java Backend Developer",
+      "location": "Delhi NCR",
+      "page": 1,
+      "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=Delhi%20NCR&pageNo=1",
+      "observed_url": "https://www.naukri.com/java-backend-developer-jobs-in-delhi-ncr?jobAge=7&experience=2",
+      "checked_at": "2026-10-13T05:11:39.381092+00:00",
+      "status": "Success",
+      "visible_cards": 20,
+      "lead_count": 20,
+      "filters": {
+        "experience_label": "2",
+        "freshness_label": "Last 7 days",
+        "sort_label": "Date"
+      },
+      "error_kind": null
+    }
+  ],
+  "cards": [
+    {
+      "title": "Java Developer",
+      "url": "https://www.naukri.com/job-listings-java-developer-codepanda-academy-noida-gurugram-delhi-ncr-0-to-4-years-090724010334",
+      "portal_job_id": "090724010334",
+      "employer": "Codepanda Academy",
+      "card_location": "Noida, Gurugram, Delhi / NCR",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Java Developer\nCodepanda Academy\n4.6\n6 Reviews\n0-4 Yrs\n4-7 Lacs PA\nNoida, Gurugram, Delhi / NCR\nPreferred candidate profile . FRESHERS CAN ALSO APPLY\nJava DevelopmentJAVACSSSpring Boot FrameworkmymangoSQLspring\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=Delhi%20NCR&pageNo=1"
+    }
+  ]
+}

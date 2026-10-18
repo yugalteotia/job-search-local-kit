@@ -1,0 +1,22 @@
+{
+  "job_id": 342,
+  "requisition_id": "131026047727",
+  "attempt_id": "1ec26691-8d1d-48d2-8a87-80d396ffe3ba",
+  "saves": 0,
+  "status": "Applied",
+  "stage": "saved_history_reconciliation",
+  "preflight_resume_repair_only": false,
+  "generic_resume_restored": true,
+  "generic_resume_restore_evidence": "jobs/naukri-131026047727/naukri-generic-startup-verification.json",
+  "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+  "generic_resume_verified_at": "2026-10-13T19:01:32.052839+00:00",
+  "generic_resume_repaired_at_start": false,
+  "url": "https://www.naukri.com/job-listings-java-full-stack-developer-naukri-assist-hyderabad-3-to-10-years-131026047727",
+  "at": "2026-10-13T19:02:07.775998+00:00",
+  "confirmation_path": "jobs/naukri-131026047727/naukri-native-confirmation.json",
+  "delayed_confirmation": true,
+  "new_application_action": false,
+  "questionnaire_completion_verified": false,
+  "newly_confirmed_answer_sent": false,
+  "reconciliation_source": "naukri-native-history-preflight.json"
+}

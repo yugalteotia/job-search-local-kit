@@ -1,0 +1,20 @@
+{
+  "signed_in": true,
+  "verification_required": false,
+  "health_samples": [
+    {
+      "path": "/feed/",
+      "feed_links": 10,
+      "password_fields": 0
+    },
+    {
+      "path": "/feed/",
+      "feed_links": 10,
+      "password_fields": 0
+    }
+  ],
+  "launcher": "linkedin_browser.chrome",
+  "profile": "/home/yugal/.local/share/job-search-private/linkedin-direct-playwright/user-data",
+  "read_only": true,
+  "service_workers": "block"
+}

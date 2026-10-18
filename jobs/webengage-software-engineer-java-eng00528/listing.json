@@ -1,0 +1,86 @@
+{
+  "company": "WebEngage",
+  "role": "Software Engineer- JAVA",
+  "job_id": "ENG00528",
+  "slug": "webengage-software-engineer-java-eng00528",
+  "url": "https://webengage.sensehq.com/careers/jobs/54222",
+  "direct_application_url": "https://webengage.sensehq.com/careers/jobs/54222",
+  "source": "Original WebEngage SenseHQ page, live browser check; Indeed lead",
+  "checked_at": "2026-09-28T03:05:30Z",
+  "posted_date": null,
+  "location": "Bengaluru, Gurgaon, Mumbai, India",
+  "original_verified": true,
+  "live": true,
+  "india": true,
+  "development_role": true,
+  "fit_checks": {
+    "java_spring_backend": {
+      "verified": true,
+      "evidence": "Original JD asks core Java, web frameworks and REST APIs; IDeaS production Java/Spring Boot REST and gRPC work matches."
+    },
+    "experience_band": {
+      "verified": true,
+      "evidence": "Original JD says 2–5 years; IDeaS professional Java is just under 2 years, while total professional development includes a short Data Nova mobile role. Essential minimum is not clearly met for Java."
+    },
+    "india_location": {
+      "verified": true,
+      "evidence": "Original page lists Bengaluru, Gurgaon and Mumbai; candidate is willing to relocate anywhere in India."
+    }
+  },
+  "jd": "Live original WebEngage SenseHQ page: Software Engineer- JAVA, ENG00528, Engineering, Bengaluru/Gurgaon/Mumbai. Java development in functional pods for customer engagement platform; build scalable systems processing large event volume, code reviews, refactoring, tests, performance monitoring, troubleshooting and on-call. Requirements: strong core Java/OOP and data structures, expertise in multithreading/concurrency, web frameworks, REST APIs, relational or NoSQL databases, profiling and performance optimization, working knowledge of AWS/Azure/GCP and Kafka/RabbitMQ, version control/secure coding, incident management; 2–5 years experience. Source URL is a reliable reference to the original JD.",
+  "rationale": "Core Java, REST, MongoDB and concurrency work align, but cloud and message queues are stated requirements without demonstrated experience; multithreading expertise and 2-year Java minimum are not established at required depth. Low fit.",
+  "requirements": [
+    {
+      "name": "Core Java and REST web services",
+      "required": true,
+      "basis": "work",
+      "master_bullet": [
+        0,
+        0
+      ],
+      "evidence": "Designed and implemented REST and gRPC APIs for cross-product communication, with pagination, filtering, audit information, and backward-compatible Protocol Buffer contracts validated through contract-style tests."
+    },
+    {
+      "name": "2–5 years Java engineering",
+      "required": true,
+      "basis": "gap",
+      "evidence": "IDeaS professional Java 14 Oct 2024–30 Sep 2026 is just under two years; Data Nova was mobile work."
+    },
+    {
+      "name": "Expert multithreading and concurrent programming",
+      "required": true,
+      "basis": "gap",
+      "evidence": "IDeaS concurrency controls for long-running jobs are documented, but expert multithreading is not demonstrated."
+    },
+    {
+      "name": "Relational or NoSQL databases",
+      "required": true,
+      "basis": "work",
+      "master_bullet": [
+        0,
+        2
+      ],
+      "evidence": "Optimized MongoDB data access using targeted indexes, bulk reads, and batched audit retrieval; developed migration logic to transform and upsert legacy records."
+    },
+    {
+      "name": "Cloud infrastructure and message queues",
+      "required": true,
+      "basis": "gap",
+      "evidence": "No production AWS/Azure/GCP or Kafka/RabbitMQ demonstrated."
+    },
+    {
+      "name": "Version control and secure coding",
+      "required": true,
+      "basis": "profile",
+      "evidence": "Master lists Git and Spring Security 6 migration at IDeaS."
+    },
+    {
+      "name": "Incident management/on-call familiarity",
+      "required": true,
+      "basis": "gap",
+      "evidence": "RCA/debugging documented, but incident management/on-call is not explicitly established."
+    }
+  ],
+  "fit": "Low",
+  "score": 43
+}

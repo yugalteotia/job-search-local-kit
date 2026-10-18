@@ -1,0 +1,11 @@
+[Unit]
+Description=Local job search bounded test
+[Service]
+Type=oneshot
+WorkingDirectory=/home/yugal/Documents/job-search/job-search-local-kit
+ExecStart=/usr/bin/python3 /home/yugal/Documents/job-search/job-search-local-kit/workflow daily --test --max-seconds 240
+TimeoutStartSec=270
+KillMode=control-group
+StandardOutput=null
+StandardError=null
+Environment=PATH=/home/yugal/.codex/packages/app-server-daemon/releases/0.157.1-x86_64-unknown-linux-musl/codex-path:/home/yugal/.local/bin:/home/yugal/bin:/home/yugal/.codex/tmp/arg0/codex-arg0sigTI3:/home/yugal/.codex/packages/app-server-daemon/releases/0.157.1-x86_64-unknown-linux-musl/codex-path:/home/yugal/.codex/tmp/arg0/codex-arg00MdOKb:/home/yugal/.codex/packages/standalone/releases/0.157.1-x86_64-unknown-linux-musl/codex-path:/home/yugal/.local/bin:/home/yugal/.nvm/versions/node/v24.14.0/bin:/home/yugal/bin:/usr/lib/jvm/java-17-openjdk-amd64/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin

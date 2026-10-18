@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-10-13T07:30:49.612733+00:00",
+  "requested_slot": "2026-10-13 12:30 Asia/Kolkata",
+  "saved_run_found": false,
+  "saved_journal_entries_for_slot": 0,
+  "latest_saved_run_id": "3aef6c80-369f-4427-aaf6-2aa66ff8ea19",
+  "latest_saved_run_trigger": "cli",
+  "latest_saved_run_finished_at": "2026-10-13T06:25:08.856990+00:00",
+  "jobs_reviewed": null,
+  "application_attempts": null,
+  "confirmed_outcomes": null,
+  "blockers": null,
+  "generic_resume_restoration": null,
+  "assessment": "No saved 12:30 run evidence found; results are unknown, not zero. Latest evidence is an 11:55 IST manual CLI run.",
+  "browser_started_for_check": false,
+  "application_started_for_check": false,
+  "dashboard_label": "Applied on listing \u2014 reconciliation pending",
+  "dedupe_preserved": true,
+  "history_guard": "Positive history-match claims require complete load; incomplete observations are unverified only."
+}

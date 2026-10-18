@@ -1,0 +1,10 @@
+{
+  "authorized": true,
+  "source": "User standing autonomous daily application authorization; private probe passed",
+  "blocked_requisitions": [
+    [
+      "unitedhealthgroup",
+      "2388999"
+    ]
+  ]
+}

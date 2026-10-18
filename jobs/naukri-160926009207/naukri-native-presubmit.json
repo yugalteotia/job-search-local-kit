@@ -1,0 +1,25 @@
+{
+  "job_id": 250,
+  "requisition_id": "160926009207",
+  "form_url": "https://www.naukri.com/job-listings-backend-java-developer-naukri-e-hire-campaign-bengaluru-2-to-4-years-160926009207",
+  "provider": "naukri_native_chat",
+  "signed_in": true,
+  "account_name_matches": true,
+  "resume_filename": "Yugal_Teotia_Backend_Java_Developer.pdf",
+  "resume_sha256": "7ab5d6274f30dcc2d5a22e1603e75b40ff6258fcb7381377c79e9a480649d149",
+  "final_action": "screening_chat_save",
+  "checks": {
+    "live": true,
+    "unapplied": true,
+    "fit": true,
+    "resume_visual": true,
+    "resume_selected": true,
+    "answers_confirmed": true,
+    "unique_apply": true
+  },
+  "facts_used": [
+    "notice_period"
+  ],
+  "answers_logged": false,
+  "created_at": "2026-09-29T19:44:53.811935+00:00"
+}

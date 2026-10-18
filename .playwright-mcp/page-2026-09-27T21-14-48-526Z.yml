@@ -1,0 +1,712 @@
+- generic [active] [ref=f20e1]:
+  - link "Go to the main content section." [ref=f20e2] [cursor=pointer]:
+    - /url: "#mainContent"
+  - text:     
+  - generic [ref=f20e3]:
+    - generic [ref=f20e8]:
+      - generic:
+        - textbox [ref=f20e9]
+        - button ""
+      - generic [ref=f20e11]:
+        - link [ref=f20e13] [cursor=pointer]:
+          - /url: https://careers.unitedhealthgroup.com/
+          - img "UHG Logo" [ref=f20e14]
+        - generic [ref=f20e15]:
+          - list [ref=f20e17]:
+            - listitem [ref=f20e18]:
+              - link "My Profile" [ref=f20e19] [cursor=pointer]:
+                - /url: https://uhg.taleo.net/careersection/10000/profile.ftl?lang=en
+            - listitem [ref=f20e20]:
+              - link "Join Our Talent Community" [ref=f20e21] [cursor=pointer]:
+                - /url: https://www.unitedhealthgroup.com/careers/en/hiring-process/join-our-talent-community.html
+            - listitem [ref=f20e22]:
+              - link "My Dashboard" [ref=f20e23] [cursor=pointer]:
+                - /url: https://uhg.taleo.net/careersection/10000/mysubmissions.ftl?lang=en
+          - list [ref=f20e25]:
+            - listitem [ref=f20e26]:
+              - link "Work Here" [ref=f20e27] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/work.html
+            - listitem [ref=f20e28]:
+              - link "Our Culture" [ref=f20e29] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/culture.html
+            - listitem [ref=f20e30]:
+              - link "Hiring Process & Guidance" [ref=f20e31] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/hiring-process.html
+            - listitem [ref=f20e32]:
+              - link "Early Careers" [ref=f20e33] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/early-careers.html
+            - listitem [ref=f20e34]:
+              - link "Blog" [ref=f20e35] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/blog.html
+    - generic [ref=f20e36]: Improve the lives of others while Caring. Connecting. Growing together.
+    - generic [ref=f20e40]:
+      - generic [ref=f20e42]:
+        - generic [ref=f20e43]:
+          - generic [ref=f20e44]: YUGAL TEOTIA, you are signed in.
+          - generic [aria-hidden] [ref=f20e47]: "|"
+          - link "Sign Out" [ref=f20e49] [cursor=pointer]:
+            - /url: "#"
+        - list [ref=f20e50]:
+          - listitem [ref=f20e51]:
+            - generic:
+              - link "Go to the section":
+                - /url: "#"
+          - listitem [ref=f20e52]:
+            - link "My Dashboard" [ref=f20e53] [cursor=pointer]:
+              - /url: "#"
+      - generic [ref=f20e54]:
+        - generic [ref=f20e55]:
+          - generic [ref=f20e56]:
+            - text: "Applying for:"
+            - 'link "Software Engineer - Java Fullstack (Job Number: 2388999)" [ref=f20e59] [cursor=pointer]':
+              - /url: "#"
+            - generic [ref=f20e60] [cursor=pointer]
+          - table [ref=f20e62]:
+            - rowgroup [ref=f20e63]:
+              - row [ref=f20e64]:
+                - cell [ref=f20e65]:
+                  - list [ref=f20e69]:
+                    - group "Section allowing navigation through the pages of the job submission flow" [ref=f20e70]:
+                      - listitem [ref=f20e73]:
+                        - link "Attachments" [ref=f20e77] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f20e80]:
+                        - generic [ref=f20e81]: About You
+                      - listitem [ref=f20e86]:
+                        - link "Education and Experience" [ref=f20e90] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f20e93]:
+                        - link "Job Profile Questions" [ref=f20e97] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f20e100]:
+                        - link "eSignature" [ref=f20e104] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f20e107]:
+                        - generic [ref=f20e108]: Review and Submit
+        - generic:
+          - link "Beginning of the main content section." [ref=f20e113] [cursor=pointer]:
+            - /url: "#"
+          - table:
+            - rowgroup:
+              - row:
+                - cell [ref=f20e114]:
+                  - heading "About You" [level=1] [ref=f20e115]
+                  - paragraph [ref=f20e121]
+                  - generic [ref=f20e123]:
+                    - text: Mandatory fields are marked with an asterisk.
+                    - generic "This field is mandatory" [ref=f20e127]:
+                      - generic [ref=f20e128]: .
+                      - generic [ref=f20e129]: Required
+                  - generic [ref=f20e130]:
+                    - heading "Personal Information" [level=2] [ref=f20e131]
+                    - generic [ref=f20e134]: Please enter all relevant personal information in the fields below.
+                    - generic [ref=f20e137]:
+                      - generic [ref=f20e138]:
+                        - paragraph [ref=f20e140]: Please provide full legal name
+                        - generic [ref=f20e142]:
+                          - generic "The field First Name is mandatory." [ref=f20e143]:
+                            - text: First Name
+                            - generic [ref=f20e146]: .
+                            - generic [ref=f20e147]: Required
+                          - textbox "First Name . Required" [ref=f20e148]: YUGAL
+                        - generic [ref=f20e149]:
+                          - generic [ref=f20e150]: Middle Name
+                          - textbox "Middle Name" [ref=f20e153]
+                        - generic [ref=f20e154]:
+                          - generic "The field Last Name is mandatory." [ref=f20e155]:
+                            - text: Last Name
+                            - generic [ref=f20e158]: .
+                            - generic [ref=f20e159]: Required
+                          - textbox "Last Name . Required" [ref=f20e160]: TEOTIA
+                        - generic [ref=f20e161]:
+                          - generic "The field Country Code is mandatory." [ref=f20e162]:
+                            - text: Country Code
+                            - generic [ref=f20e165]: .
+                            - generic [ref=f20e166]: Required
+                          - textbox "Country Code . Required" [ref=f20e167]: "91"
+                        - generic [ref=f20e168]:
+                          - generic "The field Preferred Phone Number (ex 1231231234) is mandatory." [ref=f20e169]:
+                            - text: Preferred Phone Number (ex 1231231234)
+                            - generic [ref=f20e172]: .
+                            - generic [ref=f20e173]: Required
+                          - textbox "Preferred Phone Number (ex 1231231234) . Required" [ref=f20e174]: "9560369538"
+                        - text: Text field default value
+                        - generic [ref=f20e176]:
+                          - generic "The field Email Address is mandatory." [ref=f20e177]:
+                            - text: Email Address
+                            - generic [ref=f20e180]: .
+                            - generic [ref=f20e181]: Required
+                          - textbox "Email Address . Required" [ref=f20e182]: teotia.yugal@gmail.com
+                        - generic [ref=f20e183]:
+                          - generic "The field Gender is mandatory." [ref=f20e184]:
+                            - text: Gender
+                            - generic [ref=f20e187]: .
+                            - generic [ref=f20e188]: Required
+                          - combobox "Gender . Required" [ref=f20e189]:
+                            - option "Not Specified"
+                            - option "Female"
+                            - option "Male" [selected]
+                            - option "Transgender"
+                        - generic [ref=f20e190]:
+                          - generic "The field Have you served in the Indian Armed forces? is mandatory." [ref=f20e191]:
+                            - text: Have you served in the Indian Armed forces?
+                            - generic [ref=f20e194]: .
+                            - generic [ref=f20e195]: Required
+                          - combobox "Have you served in the Indian Armed forces? . Required" [ref=f20e196]:
+                            - option "Not Specified"
+                            - option "Yes"
+                            - option "No" [selected]
+                        - generic [ref=f20e197]:
+                          - paragraph [ref=f20e198]
+                          - paragraph [ref=f20e200]:
+                            - strong [ref=f20e204]: Present Address
+                          - paragraph [ref=f20e205]
+                        - group "Place of Residence . Required" [ref=f20e208]:
+                          - generic "The field Place of Residence is mandatory." [ref=f20e211]:
+                            - text: Place of Residence
+                            - generic [ref=f20e214]: .
+                            - generic [ref=f20e215]: Required
+                          - generic [ref=f20e216]:
+                            - generic [ref=f20e217]: Country
+                            - combobox "Country" [ref=f20e218]:
+                              - option "Not Specified"
+                              - option "United States"
+                              - option "Canada"
+                              - option "Afghanistan"
+                              - option "Åland Islands"
+                              - option "Albania"
+                              - option "Algeria"
+                              - option "American Samoa"
+                              - option "Andorra"
+                              - option "Angola"
+                              - option "Anguilla"
+                              - option "Antarctica"
+                              - option "Antigua and Barbuda"
+                              - option "Argentina"
+                              - option "Armenia"
+                              - option "Aruba"
+                              - option "Australia"
+                              - option "Austria"
+                              - option "Azerbaijan"
+                              - option "Bahamas"
+                              - option "Bahrain"
+                              - option "Bangladesh"
+                              - option "Barbados"
+                              - option "Belarus"
+                              - option "Belgium"
+                              - option "Belize"
+                              - option "Benin"
+                              - option "Bermuda"
+                              - option "Bhutan"
+                              - option "Bolivia"
+                              - option "Bonaire, Sint Eustatius and Saba"
+                              - option "Bosnia and Herzegovina"
+                              - option "Botswana"
+                              - option "Bouvet Island"
+                              - option "Brazil"
+                              - option "British Indian Ocean Territory"
+                              - option "Brunei Darussalam"
+                              - option "Bulgaria"
+                              - option "Burkina Faso"
+                              - option "Burundi"
+                              - option "Cambodia"
+                              - option "Cameroon"
+                              - option "Cape Verde"
+                              - option "Cayman Islands"
+                              - option "Central African Republic"
+                              - option "Chad"
+                              - option "Chile"
+                              - option "China"
+                              - option "Christmas Island"
+                              - option "Cocos (Keeling) Islands"
+                              - option "Colombia"
+                              - option "Comoros"
+                              - option "Congo"
+                              - option "Congo, the Democratic Republic of"
+                              - option "Cook Islands"
+                              - option "Costa Rica"
+                              - option "Côte d'Ivoire"
+                              - option "Croatia"
+                              - option "Cuba"
+                              - option "Curaçao"
+                              - option "Cyprus"
+                              - option "Czech Republic"
+                              - option "Denmark"
+                              - option "Djibouti"
+                              - option "Dominica"
+                              - option "Dominican Republic"
+                              - option "Ecuador"
+                              - option "Egypt"
+                              - option "El Salvador"
+                              - option "Equatorial Guinea"
+                              - option "Eritrea"
+                              - option "Estonia"
+                              - option "Eswatini"
+                              - option "Ethiopia"
+                              - option "Falkland Islands"
+                              - option "Faroe Islands"
+                              - option "Fiji"
+                              - option "Finland"
+                              - option "France"
+                              - option "Gabon"
+                              - option "Gambia"
+                              - option "Georgia"
+                              - option "Germany"
+                              - option "Ghana"
+                              - option "Gibraltar"
+                              - option "Greece"
+                              - option "Greenland"
+                              - option "Grenada"
+                              - option "Guatemala"
+                              - option "Guernsey"
+                              - option "Guinea"
+                              - option "Guinea-Bissau"
+                              - option "Guyana"
+                              - option "Haiti"
+                              - option "Heard and McDonald Islands"
+                              - option "Holy See (Vatican City State)"
+                              - option "Honduras"
+                              - option "Hong Kong"
+                              - option "Hungary"
+                              - option "Iceland"
+                              - option "India" [selected]
+                              - option "Indonesia"
+                              - option "Iran (Islamic Republic of)"
+                              - option "Iraq"
+                              - option "Ireland"
+                              - option "Isle of Man"
+                              - option "Israel"
+                              - option "Italy"
+                              - option "Jamaica"
+                              - option "Japan"
+                              - option "Jersey"
+                              - option "Jordan"
+                              - option "Kazakhstan"
+                              - option "Kenya"
+                              - option "Kiribati"
+                              - option "Korea, Democratic People's Republic of"
+                              - option "Korea, Republic of"
+                              - option "Kosovo"
+                              - option "Kuwait"
+                              - option "Kyrgyzstan"
+                              - option "Lao People's Democratic Rep."
+                              - option "Latvia"
+                              - option "Lebanon"
+                              - option "Lesotho"
+                              - option "Liberia"
+                              - option "Libyan Arab Jamahiriya"
+                              - option "Liechtenstein"
+                              - option "Lithuania"
+                              - option "Luxembourg"
+                              - option "Macao"
+                              - option "Madagascar"
+                              - option "Malawi"
+                              - option "Malaysia"
+                              - option "Maldives"
+                              - option "Mali"
+                              - option "Malta"
+                              - option "Marshall Islands"
+                              - option "Mauritania"
+                              - option "Mauritius"
+                              - option "Mexico"
+                              - option "Micronesia, Federated States"
+                              - option "Moldova, Republic of"
+                              - option "Monaco"
+                              - option "Mongolia"
+                              - option "Montenegro"
+                              - option "Montserrat"
+                              - option "Morocco"
+                              - option "Mozambique"
+                              - option "Myanmar"
+                              - option "Namibia"
+                              - option "Nauru"
+                              - option "Nepal"
+                              - option "Netherlands"
+                              - option "New Zealand"
+                              - option "Nicaragua"
+                              - option "Niger"
+                              - option "Nigeria"
+                              - option "Niue"
+                              - option "Norfolk Island"
+                              - option "North Macedonia (the Republic of)"
+                              - option "Norway"
+                              - option "Oman"
+                              - option "Pakistan"
+                              - option "Palau"
+                              - option "Palestinian Territories"
+                              - option "Panama"
+                              - option "Papua New Guinea"
+                              - option "Paraguay"
+                              - option "Peru"
+                              - option "Philippines"
+                              - option "Pitcairn"
+                              - option "Poland"
+                              - option "Portugal"
+                              - option "Qatar"
+                              - option "Romania"
+                              - option "Russia"
+                              - option "Rwanda"
+                              - option "Saint-Barthélemy"
+                              - option "Saint Helena"
+                              - option "Saint Kitts and Nevis"
+                              - option "Saint Lucia"
+                              - option "Samoa"
+                              - option "San Marino"
+                              - option "Sao Tome and Principe"
+                              - option "Saudi Arabia"
+                              - option "Senegal"
+                              - option "Serbia"
+                              - option "Seychelles"
+                              - option "Sierra Leone"
+                              - option "Singapore"
+                              - option "Sint-Maarten"
+                              - option "Slovakia"
+                              - option "Slovenia"
+                              - option "Solomon Islands"
+                              - option "Somalia"
+                              - option "South Africa"
+                              - option "South Georgia and the South Sandwich Islands"
+                              - option "South Sudan"
+                              - option "Spain"
+                              - option "Sri Lanka"
+                              - option "St Vincent and the Grenadines"
+                              - option "Sudan"
+                              - option "Suriname"
+                              - option "Sweden"
+                              - option "Switzerland"
+                              - option "Syrian Arab Republic"
+                              - option "Taiwan (Province of China)"
+                              - option "Tajikistan"
+                              - option "Tanzania, United Republic of"
+                              - option "Thailand"
+                              - option "Timor-Leste"
+                              - option "Togo"
+                              - option "Tokelau"
+                              - option "Tonga"
+                              - option "Trinidad and Tobago"
+                              - option "Tunisia"
+                              - option "Türkiye"
+                              - option "Turkmenistan"
+                              - option "Turks and Caicos Islands"
+                              - option "Tuvalu"
+                              - option "Uganda"
+                              - option "Ukraine"
+                              - option "United Arab Emirates"
+                              - option "United Kingdom"
+                              - option "Uruguay"
+                              - option "Uzbekistan"
+                              - option "Vanuatu"
+                              - option "Venezuela"
+                              - option "Vietnam"
+                              - option "Virgin Islands (British)"
+                              - option "Western Sahara"
+                              - option "Yemen"
+                              - option "Zambia"
+                              - option "Zimbabwe"
+                          - generic [ref=f20e219]:
+                            - generic [ref=f20e220]: State/Province
+                            - combobox "State/Province" [ref=f20e221]:
+                              - option "Not Specified"
+                              - option "Andaman and Nicobar Islands"
+                              - option "Andhra Pradesh"
+                              - option "Arunachal Pradesh"
+                              - option "Assam"
+                              - option "Bihar"
+                              - option "Chandigarh"
+                              - option "Chhattisgarh"
+                              - option "Dādra and Nagar Haveli and Damān and Diu"
+                              - option "Delhi"
+                              - option "Goa"
+                              - option "Gujarat"
+                              - option "Haryana"
+                              - option "Himachal Pradesh"
+                              - option "Jammu and Kashmir"
+                              - option "Jharkhand"
+                              - option "Karnataka"
+                              - option "Kerala"
+                              - option "Ladakh"
+                              - option "Lakshadweep"
+                              - option "Madhya Pradesh"
+                              - option "Maharashtra" [selected]
+                              - option "Manipur"
+                              - option "Meghalaya"
+                              - option "Mizoram"
+                              - option "Nagaland"
+                              - option "Odisha"
+                              - option "Puducherry"
+                              - option "Punjab"
+                              - option "Rajasthan"
+                              - option "Sikkim"
+                              - option "Tamil Nadu"
+                              - option "Telangana"
+                              - option "Tripura"
+                              - option "Uttarakhand"
+                              - option "Uttar Pradesh"
+                              - option "West Bengal"
+                          - generic [ref=f20e222]:
+                            - generic [ref=f20e223]: Nearest Metropolitan Area/City
+                            - combobox "Nearest Metropolitan Area/City" [ref=f20e224]:
+                              - option "Not Specified"
+                              - option "Ahmadnagar"
+                              - option "Akola"
+                              - option "Amravati"
+                              - option "Aurangabad"
+                              - option "Beed"
+                              - option "Bhandara"
+                              - option "Buldhana"
+                              - option "Chandrapur"
+                              - option "Dharashiv"
+                              - option "Dhule"
+                              - option "Gadchiroli"
+                              - option "Gondia"
+                              - option "Hingoli"
+                              - option "Jalgaon"
+                              - option "Jalna"
+                              - option "Kolhapur"
+                              - option "Latur"
+                              - option "Mumbai"
+                              - option "Mumbai Suburban"
+                              - option "Nagpur"
+                              - option "Nanded"
+                              - option "Nandurbar"
+                              - option "Nashik"
+                              - option "Osmanabad"
+                              - option "Palghar"
+                              - option "Parbhani"
+                              - option "Pune" [selected]
+                              - option "Raigad"
+                              - option "Ratnagiri"
+                              - option "Sangli"
+                              - option "Satara"
+                              - option "Sindhudurg"
+                              - option "Solapur"
+                              - option "Thane"
+                              - option "Wardha"
+                              - option "Washim"
+                              - option "Yavatmal"
+                        - generic [ref=f20e225]:
+                          - generic "The field Street Address (line 1) is mandatory." [ref=f20e226]:
+                            - text: Street Address (line 1)
+                            - generic [ref=f20e229]: .
+                            - generic [ref=f20e230]: Required
+                          - textbox "Street Address (line 1) . Required" [ref=f20e231]: 25/2/1, Shruti Banglo, New DP Road, Vishal Nagar, Pimple Nilakh
+                        - generic [ref=f20e232]:
+                          - generic [ref=f20e233]: Address (line 2)
+                          - textbox "Address (line 2)" [ref=f20e236]
+                        - generic [ref=f20e237]:
+                          - generic "The field City is mandatory." [ref=f20e238]:
+                            - text: City
+                            - generic [ref=f20e241]: .
+                            - generic [ref=f20e242]: Required
+                          - textbox "City . Required" [ref=f20e243]: Pune
+                        - generic [ref=f20e244]:
+                          - generic "The field Zip/Postal Code is mandatory." [ref=f20e245]:
+                            - text: Zip/Postal Code
+                            - generic [ref=f20e248]: .
+                            - generic [ref=f20e249]: Required
+                          - textbox "Zip/Postal Code . Required" [ref=f20e250]: "411027"
+                        - generic [ref=f20e251]:
+                          - paragraph [ref=f20e252]
+                          - paragraph [ref=f20e254]:
+                            - strong [ref=f20e258]: Permanent Address
+                          - paragraph [ref=f20e259]
+                      - generic [ref=f20e261]:
+                        - heading "General Profile Questions" [level=2] [ref=f20e262]:
+                          - paragraph [ref=f20e264]:
+                            - strong [ref=f20e266]: General Profile Questions
+                        - generic [ref=f20e268]:
+                          - generic "The field Are you presently or previously employed by a government entity, either as an employee, special government employee, contractor, consultant, member of the military or advisor? [COI3A] is mandatory." [ref=f20e269]:
+                            - text: Are you presently or previously employed by a government entity, either as an employee, special government employee, contractor, consultant, member of the military or advisor? [COI3A]
+                            - generic [ref=f20e272]: .
+                            - generic [ref=f20e273]: Required
+                          - combobox "Are you presently or previously employed by a government entity, either as an employee, special government employee, contractor, consultant, member of the military or advisor? [COI3A] . Required" [ref=f20e274]:
+                            - option "Not Specified"
+                            - option "Yes"
+                            - option "No" [selected]
+                        - generic [ref=f20e275]:
+                          - generic "The field Please describe the nature of the employment. If you are unsure if your government experience qualifies, please provide this information. If this does not apply, type NA. [COI3B] is mandatory." [ref=f20e276]:
+                            - text: Please describe the nature of the employment. If you are unsure if your government experience qualifies, please provide this information. If this does not apply, type NA. [COI3B]
+                            - generic [ref=f20e279]: .
+                            - generic [ref=f20e280]: Required
+                          - textbox "Please describe the nature of the employment. If you are unsure if your government experience qualifies, please provide this information. If this does not apply, type NA. [COI3B] . Required" [ref=f20e281]: NA
+                        - generic [ref=f20e282]:
+                          - generic "The field Are you or a close family member* presently or previously employed with Deloitte, Baker Tilly or KPMG? (Yes/No) [COI4A] is mandatory." [ref=f20e283]:
+                            - text: Are you or a close family member* presently or previously employed with Deloitte, Baker Tilly or KPMG? (Yes/No) [COI4A]
+                            - generic [ref=f20e284]: "*Close family member is classified as your spouse, domestic partner, parent, dependent, nondependent child or sibling"
+                            - generic [ref=f20e286]: .
+                            - generic [ref=f20e287]: Required
+                          - combobox "Are you or a close family member* presently or previously employed with Deloitte, Baker Tilly or KPMG? (Yes/No) [COI4A] *Close family member is classified as your spouse, domestic partner, parent, dependent, nondependent child or sibling . Required" [ref=f20e288]:
+                            - option "Not Specified"
+                            - option "Yes"
+                            - option "No" [selected]
+                          - generic [ref=f20e289]: "*Close family member is classified as your spouse, domestic partner, parent, dependent, nondependent child or sibling"
+                        - generic [ref=f20e290]:
+                          - generic "The field Please tell us if you have a financial interest in the firm doing the work and whether or not you participated on a UnitedHealth Group account. If this does not apply, type NA. [COI4B] is mandatory." [ref=f20e291]:
+                            - text: Please tell us if you have a financial interest in the firm doing the work and whether or not you participated on a UnitedHealth Group account. If this does not apply, type NA. [COI4B]
+                            - generic [ref=f20e294]: .
+                            - generic [ref=f20e295]: Required
+                          - textbox "Please tell us if you have a financial interest in the firm doing the work and whether or not you participated on a UnitedHealth Group account. If this does not apply, type NA. [COI4B] . Required" [ref=f20e296]: NA
+                        - generic [ref=f20e297]:
+                          - group "Please indicate the firm(s) which you or a close family member* are presently or previously employed? [COI4C] Choose all applicable fields . Required" [ref=f20e298]:
+                            - generic "The field Please indicate the firm(s) which you or a close family member* are presently or previously employed? [COI4C] is mandatory." [ref=f20e301]:
+                              - text: Please indicate the firm(s) which you or a close family member* are presently or previously employed? [COI4C]
+                              - generic [ref=f20e302]: Choose all applicable fields
+                              - generic [ref=f20e304]: .
+                              - generic [ref=f20e305]: Required
+                            - generic [ref=f20e306]:
+                              - checkbox "Deloitte" [ref=f20e307]
+                              - text: Deloitte
+                            - generic [ref=f20e308]:
+                              - checkbox "Baker Tilly" [ref=f20e309]
+                              - text: Baker Tilly
+                            - generic [ref=f20e310]:
+                              - checkbox "KPMG" [ref=f20e311]
+                              - text: KPMG
+                            - generic [ref=f20e312]:
+                              - checkbox "None of the above" [checked] [ref=f20e313]
+                              - text: None of the above
+                          - generic [ref=f20e314]: Choose all applicable fields
+                        - generic [ref=f20e315]:
+                          - generic "The field If currently working for Deloitte, Baker Tilly or KPMG, I acknowledge that accepting an offer of employment with UnitedHealth Group will require me to sever my current employment relationship prior to beginning employment with UnitedHealth Group. [COI4D] is mandatory." [ref=f20e316]:
+                            - text: If currently working for Deloitte, Baker Tilly or KPMG, I acknowledge that accepting an offer of employment with UnitedHealth Group will require me to sever my current employment relationship prior to beginning employment with UnitedHealth Group. [COI4D]
+                            - generic [ref=f20e319]: .
+                            - generic [ref=f20e320]: Required
+                          - combobox "If currently working for Deloitte, Baker Tilly or KPMG, I acknowledge that accepting an offer of employment with UnitedHealth Group will require me to sever my current employment relationship prior to beginning employment with UnitedHealth Group. [COI4D] . Required" [ref=f20e321]:
+                            - option "Not Specified"
+                            - option "Yes"
+                            - option "No"
+                            - option "Not Employed by Deloitte, Baker Tilly or KPMG" [selected]
+                        - generic [ref=f20e322]:
+                          - generic "The field Are you subject to a non-compete or non-solicitation or any restrictive covenant by virtue of any agreement entered between you and your current or former employer, which may affect your employment with UnitedHealth Group? [COI7A] is mandatory." [ref=f20e323]:
+                            - text: Are you subject to a non-compete or non-solicitation or any restrictive covenant by virtue of any agreement entered between you and your current or former employer, which may affect your employment with UnitedHealth Group? [COI7A]
+                            - generic [ref=f20e326]: .
+                            - generic [ref=f20e327]: Required
+                          - combobox "Are you subject to a non-compete or non-solicitation or any restrictive covenant by virtue of any agreement entered between you and your current or former employer, which may affect your employment with UnitedHealth Group? [COI7A] . Required" [ref=f20e328]:
+                            - option "Not Specified"
+                            - option "Yes"
+                            - option "No" [selected]
+                        - generic [ref=f20e329]:
+                          - generic "The field If YES, please provide details. If NO, please enter \"NO\" [COI7B] is mandatory." [ref=f20e330]:
+                            - text: If YES, please provide details. If NO, please enter "NO" [COI7B]
+                            - generic [ref=f20e333]: .
+                            - generic [ref=f20e334]: Required
+                          - textbox "If YES, please provide details. If NO, please enter \"NO\" [COI7B] . Required" [ref=f20e335]: "NO"
+                        - generic [ref=f20e336]:
+                          - generic "The field Have you previously been made an offer by UnitedHealth Group? [COI8A] is mandatory." [ref=f20e337]:
+                            - text: Have you previously been made an offer by UnitedHealth Group? [COI8A]
+                            - generic [ref=f20e340]: .
+                            - generic [ref=f20e341]: Required
+                          - combobox "Have you previously been made an offer by UnitedHealth Group? [COI8A] . Required" [ref=f20e342]:
+                            - option "Not Specified"
+                            - option "Yes"
+                            - option "No" [selected]
+                        - generic [ref=f20e343]:
+                          - generic "The field If YES, please specify the dates. If NO, please enter \"NO\". [COI8B] is mandatory." [ref=f20e344]:
+                            - text: If YES, please specify the dates. If NO, please enter "NO". [COI8B]
+                            - generic [ref=f20e347]: .
+                            - generic [ref=f20e348]: Required
+                          - textbox "If YES, please specify the dates. If NO, please enter \"NO\". [COI8B] . Required" [ref=f20e349]: "NO"
+                        - generic [ref=f20e350]:
+                          - generic "The field Have you previously been employed by UnitedHealth Group, or its affiliate or predecessor companies? [COI9A] is mandatory." [ref=f20e351]:
+                            - text: Have you previously been employed by UnitedHealth Group, or its affiliate or predecessor companies? [COI9A]
+                            - generic [ref=f20e354]: .
+                            - generic [ref=f20e355]: Required
+                          - combobox "Have you previously been employed by UnitedHealth Group, or its affiliate or predecessor companies? [COI9A] . Required" [ref=f20e356]:
+                            - option "Not Specified"
+                            - option "Yes"
+                            - option "No" [selected]
+                        - generic [ref=f20e357]:
+                          - generic "The field If YES, please provide the dates and positions below. If NO, please type \"NO\". [COI9B] is mandatory." [ref=f20e358]:
+                            - text: If YES, please provide the dates and positions below. If NO, please type "NO". [COI9B]
+                            - generic [ref=f20e361]: .
+                            - generic [ref=f20e362]: Required
+                          - textbox "If YES, please provide the dates and positions below. If NO, please type \"NO\". [COI9B] . Required" [ref=f20e363]: "NO"
+                        - generic [ref=f20e364]:
+                          - generic "The field Do you have a relationship with anyone in the department in which you are getting hired (immediate process/sub-department)? [COI10A] is mandatory." [ref=f20e365]:
+                            - text: Do you have a relationship with anyone in the department in which you are getting hired (immediate process/sub-department)? [COI10A]
+                            - generic [ref=f20e368]: .
+                            - generic [ref=f20e369]: Required
+                          - combobox "Do you have a relationship with anyone in the department in which you are getting hired (immediate process/sub-department)? [COI10A] . Required" [ref=f20e370]:
+                            - option "Not Specified"
+                            - option "Yes"
+                            - option "No" [selected]
+                        - generic [ref=f20e371]:
+                          - generic "The field Yes/No Name? Relationship? [COI10B] is mandatory." [ref=f20e372]:
+                            - text: Yes/No Name? Relationship? [COI10B]
+                            - generic [ref=f20e375]: .
+                            - generic [ref=f20e376]: Required
+                          - textbox "Yes/No Name? Relationship? [COI10B] . Required" [ref=f20e377]: "NO"
+                        - generic [ref=f20e378]:
+                          - generic "The field Are you legally authorized to work in the country where the job is located without any restrictions? Proof will be required. [LEGAL2] is mandatory." [ref=f20e379]:
+                            - text: Are you legally authorized to work in the country where the job is located without any restrictions? Proof will be required. [LEGAL2]
+                            - generic [ref=f20e382]: .
+                            - generic [ref=f20e383]: Required
+                          - combobox "Are you legally authorized to work in the country where the job is located without any restrictions? Proof will be required. [LEGAL2] . Required" [ref=f20e384]:
+                            - option "Not Specified"
+                            - option "Yes" [selected]
+                            - option "No"
+                        - generic [ref=f20e385]:
+                          - generic "The field Will you now, or in the future, require sponsorship to work in the country where the job is located? [LEGAL3] is mandatory." [ref=f20e386]:
+                            - text: Will you now, or in the future, require sponsorship to work in the country where the job is located? [LEGAL3]
+                            - generic [ref=f20e389]: .
+                            - generic [ref=f20e390]: Required
+                          - combobox "Will you now, or in the future, require sponsorship to work in the country where the job is located? [LEGAL3] . Required" [ref=f20e391]:
+                            - option "Not Specified"
+                            - option "Yes"
+                            - option "No" [selected]
+        - generic [ref=f20e395]:
+          - button "Save and Continue" [ref=f20e396] [cursor=pointer]
+          - button "Save as Draft" [ref=f20e397] [cursor=pointer]
+          - button "Quit" [ref=f20e398] [cursor=pointer]
+    - generic [ref=f20e400]:
+      - generic [ref=f20e403]:
+        - generic [ref=f20e404]:
+          - list [ref=f20e406]:
+            - listitem [ref=f20e407]:
+              - link "" [ref=f20e408] [cursor=pointer]:
+                - /url: http://facebook.com/uhgcareers
+            - listitem [ref=f20e410]:
+              - link "" [ref=f20e411] [cursor=pointer]:
+                - /url: https://www.instagram.com/uhgcareers/
+            - listitem [ref=f20e413]:
+              - link "" [ref=f20e414] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/1720
+            - listitem [ref=f20e416]:
+              - link [ref=f20e417] [cursor=pointer]:
+                - /url: http://twitter.com/uhgcareers
+                - img "Twitter" [ref=f20e418]
+            - listitem [ref=f20e419]:
+              - link "" [ref=f20e420] [cursor=pointer]:
+                - /url: http://www.youtube.com/user/uhgcareers
+            - listitem [ref=f20e422]:
+              - link "" [ref=f20e423] [cursor=pointer]:
+                - /url: http://www.glassdoor.com/Overview/Working-at-UnitedHealth-Group-EI_IE1991.11,29.htm
+            - listitem [ref=f20e425]:
+              - link "" [ref=f20e426] [cursor=pointer]:
+                - /url: https://careers.unitedhealthgroup.com/blog
+          - generic [ref=f20e428]:
+            - link "Social Responsibility" [ref=f20e431] [cursor=pointer]:
+              - /url: "#popup1"
+            - link "Fraudulent Activity" [ref=f20e434] [cursor=pointer]:
+              - /url: "#popup2"
+        - generic [ref=f20e435]:
+          - paragraph [ref=f20e436]:
+            - link "Privacy Policy" [ref=f20e437] [cursor=pointer]:
+              - /url: https://www.unitedhealthgroup.com/privacy.html
+            - link "Family & Medical Leave Act (PDF)" [ref=f20e438] [cursor=pointer]:
+              - /url: http://www.dol.gov/whd/regs/compliance/posters/fmlaen.pdf
+            - link "Equal Employment Law Poster (PDF)" [ref=f20e439] [cursor=pointer]:
+              - /url: http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf
+            - link "Pay Transparency Employee Polygraph Protection Act (PDF)" [ref=f20e440] [cursor=pointer]:
+              - /url: https://cdn-static.findly.com/wp-content/uploads/sites/1288/2020/10/PayTransparencySupplementNondiscrimRev2017.pdf
+            - link "E-Verify Participation Poster" [ref=f20e441] [cursor=pointer]:
+              - /url: https://cdn-static.findly.com/wp-content/uploads/sites/1288/2020/10/E-Verify_Participation_Poster.pdf
+            - link "Immigrant and Employee Right to Work Poster" [ref=f20e442] [cursor=pointer]:
+              - /url: https://careers.unitedhealthgroup.com/-/media/9EB3C61FAAD54205BCE70F65D03E6628.ashx
+          - paragraph [ref=f20e443]: © 2023 UnitedHealth Group, All rights reserved.
+          - paragraph [ref=f20e444]: UnitedHealth Group is committed to working with and providing reasonable accommodations to individuals with physical and mental disabilities. If you need special assistance or accommodation for any part of the application process, please call 1-866-566-8715 to be connected to Recruitment Services. Recruitment Services hours of operation are 7 a.m. to 7 p.m. CT, Monday through Friday.
+          - paragraph [ref=f20e445]: UnitedHealth Group is a registered service mark of UnitedHealth Group, Inc. The UnitedHealth Group name with the dimensional logo, as well as the dimensional logo alone, are both service marks for the UnitedHealth Group, Inc.
+          - paragraph [ref=f20e446]: "Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law."
+          - paragraph [ref=f20e447]: UnitedHealth Group is a drug-free workplace. Candidates are required to pass a drug test before beginning employment.
+      - link "Top" [ref=f20e448] [cursor=pointer]:
+        - /url: "#"

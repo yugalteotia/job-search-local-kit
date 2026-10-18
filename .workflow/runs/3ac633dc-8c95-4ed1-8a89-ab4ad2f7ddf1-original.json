@@ -1,0 +1,561 @@
+{
+  "run_id": "3ac633dc-8c95-4ed1-8a89-ab4ad2f7ddf1",
+  "started_at": "2026-10-13T19:01:28.659304+00:00",
+  "mode": "native_portals_live",
+  "upload_enabled": true,
+  "submission_enabled": true,
+  "scheduled": true,
+  "test": false,
+  "source_scope": [
+    "naukri"
+  ],
+  "fresh_only": true,
+  "queue_only": true,
+  "continuation_of": "48cec884-81ef-4ef3-b76c-b89fbd8f723b",
+  "status": "Success",
+  "sources": {},
+  "coverage": {},
+  "leads": 0,
+  "unique_original_requisitions_verified": 0,
+  "fit_decisions": {},
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/3ac633dc-8c95-4ed1-8a89-ab4ad2f7ddf1.json"
+  ],
+  "queue": {
+    "ResumeReady": 4
+  },
+  "stage_seconds": {
+    "discovery": 0.0,
+    "original_verification": 0.0,
+    "lead_resolution": 0.06,
+    "fit_review": 0.0,
+    "auto_fit_resume": 0.29
+  },
+  "stage_counts": {
+    "normalized_unique_ats": 0,
+    "selected_for_original_check": 0,
+    "fetched": 0,
+    "unique_portal_leads": 0,
+    "fresh": 0,
+    "unknown_date": 0,
+    "skipped_old": 0,
+    "repeat_skipped": 0,
+    "unique_original_requisitions": 0,
+    "eligible_for_review": 0,
+    "original_jds_reviewed": 0,
+    "original_or_portal_jds_reviewed": 0,
+    "portal_native_verified": 0,
+    "high": 0,
+    "queued_for_resume": 0,
+    "review_queue_added": 0,
+    "portal_originals_matched": 0,
+    "portal_leads_still_needing_original": 2149
+  },
+  "top_reviewed": [],
+  "recovery": {
+    "requeued_resume": 0,
+    "returned_to_prepared": 0,
+    "claimed_left_locked": 3
+  },
+  "freshness": {
+    "policy": {
+      "routine_review_hours": 24,
+      "sweep_overlap_minutes": 90,
+      "unknown_date_details_per_run": 30,
+      "transient_retry_hours": 6,
+      "pending_application_recheck_hours": 6
+    },
+    "counts": {
+      "fresh": 0,
+      "recent": 0,
+      "unknown_date": 0,
+      "skipped_old": 0,
+      "repeat_skipped": 0,
+      "history_skipped": 0,
+      "unknown_date_deferred": 0
+    },
+    "detail_candidates": 0,
+    "skips": []
+  },
+  "portal_native": {
+    "selected": 0,
+    "verified": 0,
+    "unverified": 0,
+    "verified_job_ids": [],
+    "results": [],
+    "selection_skips": []
+  },
+  "lead_resolution": {
+    "navigation_links_reclassified": 152,
+    "missing_ats_jd_refresh": {
+      "checked": 0,
+      "results": []
+    },
+    "direct_provider_coverage": {},
+    "direct_employer_coverage": {},
+    "portal_employer_coverage": {},
+    "target_title_failures_in_batch": 0,
+    "portal_jobs_inspected": 0,
+    "originals_matched": 0,
+    "substantive_originals_verified": 0,
+    "live_title_only": 0,
+    "direct_check_failures": 0,
+    "needs_original": 2149,
+    "title_relevant_unresolved": 1256,
+    "by_source": {
+      "naukri": {
+        "needs_original": 721,
+        "not_a_job": 3
+      },
+      "linkedin": {
+        "needs_original": 1368,
+        "not_a_job": 4
+      },
+      "foundit": {
+        "needs_original": 0,
+        "not_a_job": 17
+      },
+      "indeed": {
+        "needs_original": 0,
+        "not_a_job": 98
+      },
+      "cutshort": {
+        "needs_original": 60,
+        "not_a_job": 30
+      }
+    },
+    "results": []
+  },
+  "linked_portal_native": null,
+  "review_coverage": {
+    "by_source": {},
+    "by_company": {}
+  },
+  "master_resume": {
+    "ok": true,
+    "issues": []
+  },
+  "auto_fit": {
+    "considered": 25,
+    "queued": 0,
+    "not_eligible": 22,
+    "blocked": 3,
+    "skipped_unchanged": 0,
+    "results": [
+      {
+        "job_id": 345,
+        "employer": "Ace Micromatic Group",
+        "title": "Software Engineer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Java is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 353,
+        "employer": "Infosys",
+        "title": "Java React Developer (3-5yrs) @ Infosys",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 352,
+        "employer": "Infosys",
+        "title": "Java React Developer (2-3yrs) @ Infosys",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 351,
+        "employer": "Avyait",
+        "title": "Java Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Java is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 350,
+        "employer": "MNC's",
+        "title": "Java Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 347,
+        "employer": "HRM Counsel",
+        "title": "Software Engineer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 5 years"
+        ]
+      },
+      {
+        "job_id": 341,
+        "employer": "BoomerangFX",
+        "title": "Back End Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Java is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 343,
+        "employer": "Aditi Consulting",
+        "title": "Senior Java Back End Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Experience band is not stated in the JD"
+        ]
+      },
+      {
+        "job_id": 340,
+        "employer": "Sapiogen AI",
+        "title": "Full Stack Software Engineer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Java is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 338,
+        "employer": "Drip Capital",
+        "title": "Backend Developer (SDE II)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Java is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 337,
+        "employer": "Azentio Software",
+        "title": "Forward Deployed Software Engineer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 5 years"
+        ]
+      },
+      {
+        "job_id": 336,
+        "employer": "Azentio Software",
+        "title": "Forward Deployed Software Engineer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 335,
+        "employer": "Bisani Brothers",
+        "title": "Senior Software Developer - Mobile, Web & Backend (Fintech)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 327,
+        "employer": "Propelgo",
+        "title": "Back End Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Java is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 326,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer",
+        "outcome": "blocked_duplicate",
+        "reasons": [
+          "Possible duplicate requisition requires manual resolution"
+        ]
+      },
+      {
+        "job_id": 322,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer",
+        "outcome": "blocked_duplicate",
+        "reasons": [
+          "Possible duplicate requisition requires manual resolution"
+        ]
+      },
+      {
+        "job_id": 321,
+        "employer": "Infosys",
+        "title": "Java React Js Developer",
+        "outcome": "blocked_duplicate",
+        "reasons": [
+          "Possible duplicate requisition requires manual resolution"
+        ]
+      },
+      {
+        "job_id": 320,
+        "employer": "Infosys",
+        "title": "Java React Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 317,
+        "employer": "Codepanda Academy",
+        "title": "Java Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 316,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer (Angular/React)(2-3 Years)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 313,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer (React js)_ (2-3 Years)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 312,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer(Angular/React)(2-3 years)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 307,
+        "employer": "Tata Consultancy Services",
+        "title": "Java Backend Developer - N",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 5 years"
+        ]
+      },
+      {
+        "job_id": 305,
+        "employer": "Codemythos Solutions",
+        "title": "Backend Engineer - Java | Spring Boot | WebSocket | PostgreSQL",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 4 years"
+        ]
+      },
+      {
+        "job_id": 303,
+        "employer": "Epam Systems",
+        "title": "Lead Software Engineer - Java with Spring Boot",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Title indicates a different seniority band: lead"
+        ]
+      }
+    ]
+  },
+  "auto_resume": {
+    "prepared": 0,
+    "failed": 0,
+    "results": []
+  },
+  "queue_eligibility": {
+    "naukri_ready_candidates": 0,
+    "resume_jobs_ready_to_build": 0,
+    "locked_or_applied_queue_rows": 1
+  },
+  "staging": {
+    "path": ".workflow/staging.json",
+    "resume_review_ready": 0,
+    "needs_jd_evidence_review": 0
+  },
+  "blocker_alerts": [
+    {
+      "job_id": 220,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 241,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 250,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 315,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 355,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 342,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 220,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 241,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 250,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 315,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 355,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 342,
+      "status": "cooldown"
+    }
+  ],
+  "naukri_application_worker": {
+    "enabled": true,
+    "max_submissions_per_run": 10,
+    "max_new_attempts_per_run": 10,
+    "other_portals": "outside_focus_disabled",
+    "capability_reason": "Explicit manual exact-job proof run; unproven provider is never bootstrapped by timer",
+    "status": "Complete",
+    "candidate_count": 0,
+    "resumable_count": 1,
+    "results": [
+      {
+        "job_id": 342,
+        "requisition_id": "131026047727",
+        "attempt_id": null,
+        "saves": 0,
+        "status": "NeedsAnswer",
+        "stage": "applied_history_check",
+        "preflight_resume_repair_only": false,
+        "generic_resume_restored": true,
+        "generic_resume_restore_evidence": "jobs/naukri-131026047727/naukri-generic-startup-verification.json",
+        "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+        "generic_resume_verified_at": "2026-10-13T19:01:32.052839+00:00",
+        "generic_resume_repaired_at_start": false,
+        "error_type": "RuntimeError",
+        "error_origin": {
+          "file": "naukri_native_worker.py",
+          "function": "_run_one",
+          "line": 445
+        },
+        "error_message": "Delayed confirmation lacks matching durable questionnaire progress",
+        "blocker": "application_handoff_required",
+        "new_attempt_slot_consumed": false,
+        "new_claim_created": false,
+        "existing_attempt_continued": true
+      }
+    ],
+    "submissions": 0,
+    "blocked_jobs": 1,
+    "provider_stopped": false,
+    "new_attempts_used": 0,
+    "new_claims_created": 0,
+    "existing_attempts_continued": 1,
+    "preflight_repairs_without_claim": 0
+  },
+  "profile_restore_recovery": {
+    "status": "None"
+  },
+  "portals": {
+    "naukri": {
+      "capability": "ApplyReady",
+      "reason": "Proof marker valid; independent new-attempt limit 10",
+      "session": "unknown"
+    },
+    "linkedin": {
+      "capability": "ApplyReady",
+      "reason": "Exact Easy Apply proof valid; independent new-attempt limit 10",
+      "session": "unknown"
+    },
+    "foundit": {
+      "capability": "Blocked",
+      "reason": "Discovery is switched off in config",
+      "session": "unknown"
+    },
+    "indeed": {
+      "capability": "Blocked",
+      "reason": "Discovery is switched off in config",
+      "session": "unknown"
+    },
+    "cutshort": {
+      "capability": "Blocked",
+      "reason": "Discovery is switched off in config",
+      "session": "unknown"
+    },
+    "ats": {
+      "capability": "Blocked",
+      "reason": "No employer board is enabled",
+      "session": "unknown"
+    }
+  },
+  "linkedin_application_worker": {
+    "enabled": true,
+    "max_submissions_per_run": 10,
+    "max_new_attempts_per_run": 10,
+    "capability_reason": "Exact Easy Apply proof valid; independent new-attempt limit 10",
+    "status": "DiscoveryOnly",
+    "candidate_count": 0,
+    "submissions": 0
+  },
+  "tab_lifecycle": {
+    "created": null,
+    "reused": null,
+    "closed": null,
+    "remaining_automation_tabs": null,
+    "job_tabs_created": null,
+    "job_tabs_closed": null,
+    "welcome_tabs_created": null,
+    "welcome_tabs_closed": null,
+    "remaining_job_tabs": null,
+    "remaining_welcome_tabs": null,
+    "uncertain_ids": [
+      "No tab lifecycle report was emitted"
+    ],
+    "recorded_ids": [],
+    "log_paths": []
+  },
+  "finished_at": "2026-10-13T19:02:07.780423+00:00",
+  "elapsed_seconds": 39.12
+}

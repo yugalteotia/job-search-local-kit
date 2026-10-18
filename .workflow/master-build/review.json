@@ -1,0 +1,28 @@
+{
+  "built_at": "2026-10-13T04:42:25.018220+00:00",
+  "engine": "tectonic",
+  "pdf": "candidate.pdf",
+  "pdf_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+  "png": "candidate-preview.png",
+  "tex_sha256": "f76f624f168ed80282c4f0160711cb5466c890a73632ae8c4c8928896bec2389",
+  "checks": {
+    "one_page": true,
+    "a4": true,
+    "all_master_text_present": true,
+    "contact_links": true,
+    "fonts_embedded": true,
+    "ink_margins_ok": true,
+    "no_ligature_glyphs_in_text": true,
+    "not_stale_present_after_last_day": true
+  },
+  "ink_margins_in": {
+    "left": 0.43,
+    "top": 0.29,
+    "right": 0.43,
+    "bottom": 0.34
+  },
+  "missing_text": [],
+  "automated_ok": true,
+  "visually_reviewed": true,
+  "installed": true
+}

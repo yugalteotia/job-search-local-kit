@@ -1,0 +1,20 @@
+{
+  "job_id": 384,
+  "requisition_id": "100826014171",
+  "url": "https://www.naukri.com/job-listings-java-spring-boot-developer-infosys-pune-chennai-bengaluru-2-to-5-years-100826014171",
+  "question": "How many years of experience do you have in Angularjs?",
+  "at": "2026-10-16T11:04:38.907523+00:00",
+  "answers_logged": false,
+  "attempt_id": "00c06e36-e7e0-4be4-981a-a96cbc352e63",
+  "progress": "jobs/naukri-100826014171/naukri-native-progress.json",
+  "incomplete_evidence": "jobs/naukri-100826014171/naukri-native-incomplete-evidence.json",
+  "answered_count": 0,
+  "generic_resume_restored": true,
+  "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+  "generic_resume_verified_at": "2026-10-16T11:05:26.854988+00:00",
+  "status": "Applied",
+  "confirmation_path": "jobs/naukri-100826014171/naukri-history-reconciliation-confirmation.json",
+  "automatic_reconciliation": true,
+  "new_application_action": false,
+  "saved_answer_replayed": false
+}

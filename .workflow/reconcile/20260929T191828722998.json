@@ -1,0 +1,170 @@
+{
+  "generated_at": "2026-09-29T19:18:28.722171+00:00",
+  "read_only": true,
+  "total": 9,
+  "confidence_counts": {
+    "unmatched": 6,
+    "exact": 1,
+    "ignored": 1,
+    "company_only": 1
+  },
+  "urgent": [],
+  "items": [
+    {
+      "record": {
+        "message_id": null,
+        "sender": null,
+        "subject": "Track your VOIS Careers application",
+        "date": "2026-09-26"
+      },
+      "kind": "acknowledgment",
+      "urgent": false,
+      "employer_hint": "VOIS",
+      "candidates": [],
+      "confidence": "unmatched",
+      "labels": [
+        "history_gap: acknowledged application is not in the tracker; add to deduplication, never reapply"
+      ]
+    },
+    {
+      "record": {
+        "message_id": null,
+        "sender": null,
+        "subject": "Your application to Java Software Engineer at Mphasis",
+        "date": "2026-09-27"
+      },
+      "kind": "acknowledgment",
+      "urgent": false,
+      "employer_hint": "Mphasis",
+      "candidates": [],
+      "confidence": "unmatched",
+      "labels": [
+        "history_gap: acknowledged application is not in the tracker; add to deduplication, never reapply"
+      ]
+    },
+    {
+      "record": {
+        "message_id": null,
+        "sender": null,
+        "subject": "Your application was sent to GC Technologies Pvt Ltd",
+        "date": "2026-09-27"
+      },
+      "kind": "acknowledgment",
+      "urgent": false,
+      "employer_hint": "GC Technologies Pvt Ltd",
+      "candidates": [],
+      "confidence": "unmatched",
+      "labels": [
+        "history_gap: acknowledged application is not in the tracker; add to deduplication, never reapply"
+      ]
+    },
+    {
+      "record": {
+        "message_id": null,
+        "sender": null,
+        "subject": "Thanks for your application",
+        "date": "2026-09-25"
+      },
+      "kind": "acknowledgment",
+      "urgent": false,
+      "employer_hint": "Siemens",
+      "candidates": [],
+      "confidence": "unmatched",
+      "labels": [
+        "history_gap: acknowledged application is not in the tracker; add to deduplication, never reapply"
+      ]
+    },
+    {
+      "record": {
+        "message_id": null,
+        "sender": null,
+        "subject": "Your application to Senior Software Engineer at Praxas AI",
+        "date": "2026-09-27"
+      },
+      "kind": "acknowledgment",
+      "urgent": false,
+      "employer_hint": "Praxas AI",
+      "candidates": [],
+      "confidence": "unmatched",
+      "labels": [
+        "history_gap: acknowledged application is not in the tracker; add to deduplication, never reapply"
+      ]
+    },
+    {
+      "record": {
+        "message_id": null,
+        "sender": null,
+        "subject": "Software Engineer - Java Fullstack 2388999 at UnitedHealth Group",
+        "date": "2026-09-28"
+      },
+      "kind": "acknowledgment",
+      "urgent": false,
+      "employer_hint": "UnitedHealth Group (Optum)",
+      "candidates": [
+        {
+          "id": 9,
+          "employer": "UnitedHealth Group (Optum)",
+          "title": "Software Engineer - Java Fullstack",
+          "requisition_id": "2388999",
+          "state": "Rejected"
+        }
+      ],
+      "confidence": "exact",
+      "labels": []
+    },
+    {
+      "record": {
+        "message_id": null,
+        "sender": null,
+        "subject": "Your application to Java Backend Developer at TechDoQuest",
+        "date": "2026-09-27"
+      },
+      "kind": "acknowledgment",
+      "urgent": false,
+      "employer_hint": "TechDoQuest",
+      "candidates": [],
+      "confidence": "unmatched",
+      "labels": [
+        "history_gap: acknowledged application is not in the tracker; add to deduplication, never reapply"
+      ]
+    },
+    {
+      "record": {
+        "message_id": null,
+        "sender": null,
+        "subject": "Here's a Vodafone job match for you",
+        "date": "2026-09-26"
+      },
+      "kind": "alert",
+      "confidence": "ignored",
+      "note": "Alerts and recommendations are not applications",
+      "labels": []
+    },
+    {
+      "record": {
+        "message_id": null,
+        "sender": null,
+        "subject": "Your application to Java Developer at Tata Consultancy Services",
+        "date": "2026-09-27"
+      },
+      "kind": "acknowledgment",
+      "urgent": false,
+      "employer_hint": "Tata Consultancy Services",
+      "candidates": [
+        {
+          "id": 254,
+          "employer": "Tata Consultancy Services",
+          "title": "Tcs is hiring For Java Backend - Spring boot, Microservices",
+          "requisition_id": null,
+          "state": "Verified"
+        }
+      ],
+      "confidence": "company_only",
+      "labels": [
+        "conflict: mailbox shows an application but tracker state is Verified",
+        "ambiguous: several tracker rows share this employer; needs manual match"
+      ]
+    }
+  ],
+  "source": "captures/20260927T225926-gmail-history.json"
+}

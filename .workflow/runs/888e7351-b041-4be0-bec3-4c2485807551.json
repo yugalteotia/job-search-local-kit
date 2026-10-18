@@ -1,0 +1,287 @@
+{
+  "run_id": "888e7351-b041-4be0-bec3-4c2485807551",
+  "started_at": "2026-09-28T11:40:04.399387+00:00",
+  "mode": "read_only",
+  "upload_enabled": false,
+  "submission_enabled": false,
+  "scheduled": false,
+  "test": true,
+  "status": "Partial",
+  "sources": {
+    "naukri": {
+      "status": "Failed",
+      "error_kind": "RuntimeError",
+      "checked_at": "2026-09-28T11:40:04.511638+00:00",
+      "pages_checked": 0,
+      "leads": 0,
+      "feed_jobs": 0
+    },
+    "foundit": {
+      "status": "Failed",
+      "error_kind": "RuntimeError",
+      "checked_at": "2026-09-28T11:40:04.516099+00:00",
+      "pages_checked": 0,
+      "leads": 0,
+      "feed_jobs": 0
+    },
+    "linkedin": {
+      "status": "Failed",
+      "error_kind": "RuntimeError",
+      "checked_at": "2026-09-28T11:40:04.517499+00:00",
+      "pages_checked": 0,
+      "leads": 0,
+      "feed_jobs": 0
+    },
+    "indeed": {
+      "status": "Failed",
+      "error_kind": "RuntimeError",
+      "checked_at": "2026-09-28T11:40:04.600009+00:00",
+      "pages_checked": 0,
+      "leads": 0,
+      "feed_jobs": 0
+    },
+    "cutshort": {
+      "status": "Failed",
+      "error_kind": "RuntimeError",
+      "checked_at": "2026-09-28T11:40:04.606853+00:00",
+      "pages_checked": 0,
+      "leads": 0,
+      "feed_jobs": 0
+    },
+    "celonis_greenhouse": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T11:40:04.600069+00:00",
+      "pages_checked": 1,
+      "leads": 0,
+      "feed_jobs": 100,
+      "unique_originals_verified": 5
+    },
+    "brillio_lever": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-09-28T11:40:04.517557+00:00",
+      "pages_checked": 3,
+      "leads": 0,
+      "feed_jobs": 208,
+      "unique_originals_verified": 7
+    }
+  },
+  "coverage": {
+    "naukri": [],
+    "foundit": [],
+    "linkedin": [],
+    "indeed": [],
+    "cutshort": [],
+    "celonis_greenhouse": [
+      {
+        "page": 1,
+        "url": "https://boards-api.greenhouse.io/v1/boards/celonis/jobs?content=true",
+        "items": 100,
+        "total_returned": 253,
+        "checked_at": "2026-09-28T11:40:05.414453+00:00",
+        "status": "Partial"
+      }
+    ],
+    "brillio_lever": [
+      {
+        "page": 1,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=0&limit=100&mode=json",
+        "items": 100,
+        "checked_at": "2026-09-28T11:40:07.460402+00:00",
+        "status": "Success"
+      },
+      {
+        "page": 2,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=100&limit=100&mode=json",
+        "items": 100,
+        "checked_at": "2026-09-28T11:40:15.074152+00:00",
+        "status": "Success"
+      },
+      {
+        "page": 3,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=200&limit=100&mode=json",
+        "items": 11,
+        "checked_at": "2026-09-28T11:40:17.116454+00:00",
+        "status": "Success"
+      }
+    ]
+  },
+  "leads": 308,
+  "unique_original_requisitions_verified": 12,
+  "fit_decisions": {},
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [
+    {
+      "source": "naukri",
+      "reason": "RuntimeError"
+    },
+    {
+      "source": "foundit",
+      "reason": "RuntimeError"
+    },
+    {
+      "source": "linkedin",
+      "reason": "RuntimeError"
+    },
+    {
+      "source": "indeed",
+      "reason": "RuntimeError"
+    },
+    {
+      "source": "cutshort",
+      "reason": "RuntimeError"
+    }
+  ],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/888e7351-b041-4be0-bec3-4c2485807551.json"
+  ],
+  "queue": {},
+  "stage_seconds": {
+    "discovery": 12.71,
+    "original_verification": 3.15,
+    "lead_resolution": 0.38,
+    "fit_review": 0.08
+  },
+  "stage_counts": {
+    "normalized_unique_ats": 308,
+    "selected_for_original_check": 12,
+    "fetched": 308,
+    "unique_portal_leads": 0,
+    "unique_original_requisitions": 12,
+    "eligible_for_review": 5,
+    "original_jds_reviewed": 0,
+    "high": 0,
+    "queued_for_resume": 0,
+    "review_queue_added": 0,
+    "portal_originals_matched": 0,
+    "portal_leads_still_needing_original": 113
+  },
+  "top_reviewed": [],
+  "lead_resolution": {
+    "navigation_links_reclassified": 70,
+    "portal_jobs_inspected": 10,
+    "originals_matched": 0,
+    "needs_original": 113,
+    "by_source": {
+      "naukri": {
+        "needs_original": 0,
+        "not_a_job": 3
+      },
+      "linkedin": {
+        "needs_original": 105,
+        "not_a_job": 0
+      },
+      "foundit": {
+        "needs_original": 0,
+        "not_a_job": 17
+      },
+      "indeed": {
+        "needs_original": 8,
+        "not_a_job": 20
+      },
+      "cutshort": {
+        "needs_original": 0,
+        "not_a_job": 30
+      }
+    },
+    "results": [
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4472700210/",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4472703097/",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4470833694/",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4470834604/",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4472481982/",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4471320628/",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4470821964/",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4470830560/",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4470826800/",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4460950247/",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null
+      }
+    ]
+  },
+  "review_coverage": {
+    "by_source": {},
+    "by_company": {}
+  },
+  "tab_lifecycle": {
+    "created": null,
+    "reused": null,
+    "closed": null,
+    "remaining_automation_tabs": null,
+    "job_tabs_created": null,
+    "job_tabs_closed": null,
+    "welcome_tabs_created": null,
+    "welcome_tabs_closed": null,
+    "remaining_job_tabs": null,
+    "remaining_welcome_tabs": null,
+    "uncertain_ids": [
+      "No tab lifecycle report was emitted"
+    ],
+    "recorded_ids": [],
+    "log_paths": []
+  },
+  "finished_at": "2026-09-28T11:40:20.824490+00:00",
+  "elapsed_seconds": 16.43
+}

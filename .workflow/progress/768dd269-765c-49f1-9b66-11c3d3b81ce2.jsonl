@@ -1,0 +1,2 @@
+{"seq": 1, "at": "2026-10-14T12:30:50.760441+00:00", "kind": "start", "message": "Run started (cli, dry run)"}
+{"seq": 2, "at": "2026-10-14T12:30:55.211514+00:00", "kind": "finish", "message": "Run finished: Success", "status": "Success", "summary": {"errors": 0, "worker": null}}

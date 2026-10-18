@@ -1,0 +1,392 @@
+{
+  "status": "Complete",
+  "phase": "validation",
+  "providers": {
+    "naukri": {
+      "status": "Checked",
+      "pending": 6,
+      "history": {
+        "full": true,
+        "account_verified": true,
+        "rows_by_id": {
+          "280926032117": [
+            {
+              "job_id": "280926032117",
+              "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+              "title": "Java Full Stack Developer(React.js/Angular.js)",
+              "company": "Infosys",
+              "status": [
+                {
+                  "statusId": 1,
+                  "appId": null,
+                  "count": 1,
+                  "dateTime": "2026-10-13 11:33:35",
+                  "statusValue": "Applied",
+                  "modifiedDate": "2026-10-13 11:33:37"
+                },
+                {
+                  "statusId": 2,
+                  "appId": 107,
+                  "count": 1,
+                  "dateTime": "2026-10-13 11:33:37",
+                  "statusValue": "Application Sent",
+                  "modifiedDate": "2026-10-13 11:33:37"
+                }
+              ]
+            }
+          ],
+          "280926023134": [
+            {
+              "job_id": "280926023134",
+              "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+              "title": "Java Developer /Senior Java Developer",
+              "company": "Agiliad",
+              "status": [
+                {
+                  "statusId": 1,
+                  "appId": null,
+                  "count": 1,
+                  "statusValue": "Applied",
+                  "modifiedDate": "2026-09-29 16:53:06",
+                  "dateTime": "2026-09-29 16:53:05"
+                },
+                {
+                  "statusId": 2,
+                  "appId": 107,
+                  "count": 1,
+                  "statusValue": "Application Sent",
+                  "modifiedDate": "2026-09-29 16:53:06",
+                  "dateTime": "2026-09-29 16:53:06"
+                }
+              ]
+            }
+          ],
+          "131026049027": [
+            {
+              "job_id": "131026049027",
+              "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+              "title": "Software Developer",
+              "company": "NTT DATA BUSINESS SOLUTIONS",
+              "status": [
+                {
+                  "statusId": 1,
+                  "appId": null,
+                  "count": 1,
+                  "dateTime": "2026-10-14 00:04:12",
+                  "modifiedDate": "2026-10-14 00:04:13",
+                  "statusValue": "Applied"
+                },
+                {
+                  "statusId": 2,
+                  "appId": 107,
+                  "count": 1,
+                  "dateTime": "2026-10-14 00:04:13",
+                  "modifiedDate": "2026-10-14 00:04:13",
+                  "statusValue": "Application Sent"
+                }
+              ]
+            }
+          ],
+          "290926917619": [
+            {
+              "job_id": "290926917619",
+              "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+              "title": "Java Backend Engineer",
+              "company": "Luxoft India LLP",
+              "status": [
+                {
+                  "statusId": 1,
+                  "appId": null,
+                  "count": 1,
+                  "statusValue": "Applied",
+                  "modifiedDate": "2026-10-13 10:19:45",
+                  "dateTime": "2026-10-13 10:19:45"
+                },
+                {
+                  "statusId": 2,
+                  "appId": 107,
+                  "count": 1,
+                  "statusValue": "Application Sent",
+                  "modifiedDate": "2026-10-13 10:19:45",
+                  "dateTime": "2026-10-13 10:19:45"
+                }
+              ]
+            }
+          ],
+          "190826038395": [
+            {
+              "job_id": "190826038395",
+              "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+              "title": "Java Backend Developer | Spring Boot | Microservices",
+              "company": "Infosys",
+              "status": [
+                {
+                  "statusId": 1,
+                  "appId": null,
+                  "count": 1,
+                  "dateTime": "2026-10-13 15:46:45",
+                  "statusValue": "Applied",
+                  "modifiedDate": "2026-10-13 15:46:45"
+                },
+                {
+                  "statusId": 2,
+                  "appId": 107,
+                  "count": 1,
+                  "dateTime": "2026-10-13 15:46:45",
+                  "statusValue": "Application Sent",
+                  "modifiedDate": "2026-10-13 15:46:45"
+                }
+              ]
+            }
+          ],
+          "160926009207": [
+            {
+              "job_id": "160926009207",
+              "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+              "title": "Backend Java Developer",
+              "company": "Naukri E Hire Campaign",
+              "status": [
+                {
+                  "statusId": 1,
+                  "appId": null,
+                  "count": 1,
+                  "modifiedDate": "2026-09-30 09:09:55",
+                  "statusValue": "Applied",
+                  "dateTime": "2026-09-30 09:09:55"
+                },
+                {
+                  "statusId": 2,
+                  "appId": 107,
+                  "count": 1,
+                  "modifiedDate": "2026-09-30 09:09:55",
+                  "statusValue": "Application Sent",
+                  "dateTime": "2026-09-30 09:09:55"
+                }
+              ]
+            }
+          ]
+        },
+        "loaded_rows": 280,
+        "expected_total": 280,
+        "load_sweeps": [
+          {
+            "rows": 10,
+            "total": 280,
+            "exact": 0,
+            "company_role": 0,
+            "more": true
+          },
+          {
+            "rows": 20,
+            "total": 280,
+            "exact": 0,
+            "company_role": 0,
+            "more": true
+          },
+          {
+            "rows": 40,
+            "total": 280,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 60,
+            "total": 280,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 80,
+            "total": 280,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 100,
+            "total": 280,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 120,
+            "total": 280,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 140,
+            "total": 280,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 160,
+            "total": 280,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 180,
+            "total": 280,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 200,
+            "total": 280,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 220,
+            "total": 280,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 240,
+            "total": 280,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 260,
+            "total": 280,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 280,
+            "total": 280,
+            "exact": 0,
+            "company_role": 1,
+            "more": false
+          }
+        ],
+        "generic_filename_before": "Yugal_Teotia_CV.pdf",
+        "generic_filename_after": "Yugal_Teotia_CV.pdf",
+        "expected_generic_filename": "Yugal_Teotia_CV.pdf",
+        "blocker": null
+      }
+    },
+    "linkedin": {
+      "status": "NoPending",
+      "pending": 0
+    }
+  },
+  "confirmed": [
+    {
+      "job_id": 220,
+      "requisition_id": "190826038395",
+      "attempt_id": "b59f715d-900f-4ce8-94eb-32385b97bf92",
+      "status": "Applied",
+      "confirmation_path": "jobs/naukri-190826038395/naukri-history-reconciliation-confirmation.json",
+      "new_claim_created": false,
+      "new_application_action": false,
+      "url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-microservices-infosys-pune-chennai-bengaluru-2-to-5-years-190826038395"
+    },
+    {
+      "job_id": 241,
+      "requisition_id": "280926023134",
+      "attempt_id": "1e71b9fe-7638-4205-98d9-09fc908f5ba6",
+      "status": "Applied",
+      "confirmation_path": "jobs/agiliad-java-backend-developer-280926023134/naukri-history-reconciliation-confirmation.json",
+      "new_claim_created": false,
+      "new_application_action": false,
+      "url": "https://www.naukri.com/job-listings-java-developer-senior-java-developer-agiliad-pune-2-to-6-years-280926023134"
+    },
+    {
+      "job_id": 250,
+      "requisition_id": "160926009207",
+      "attempt_id": "9a7b0155-5410-4784-a255-2da08c2cdc45",
+      "status": "Applied",
+      "confirmation_path": "jobs/naukri-160926009207/naukri-history-reconciliation-confirmation.json",
+      "new_claim_created": false,
+      "new_application_action": false,
+      "url": "https://www.naukri.com/job-listings-backend-java-developer-naukri-e-hire-campaign-bengaluru-2-to-4-years-160926009207"
+    },
+    {
+      "job_id": 266,
+      "requisition_id": "290926917619",
+      "attempt_id": null,
+      "status": "Applied",
+      "confirmation_path": "jobs/naukri-290926917619/naukri-history-reconciliation-confirmation.json",
+      "new_claim_created": false,
+      "new_application_action": false,
+      "url": "https://www.naukri.com/job-listings-java-backend-engineer-luxoft-india-llp-pune-3-to-5-years-290926917619"
+    },
+    {
+      "job_id": 314,
+      "requisition_id": "280926032117",
+      "attempt_id": "d69e7dc1-111f-46ed-9293-a4cdf6e0172f",
+      "status": "Applied",
+      "confirmation_path": "jobs/naukri-280926032117/naukri-history-reconciliation-confirmation.json",
+      "new_claim_created": false,
+      "new_application_action": false,
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-react-js-angular-js-infosys-kolkata-hyderabad-pune-2-to-3-years-280926032117"
+    },
+    {
+      "job_id": 355,
+      "requisition_id": "131026049027",
+      "attempt_id": null,
+      "status": "Applied",
+      "confirmation_path": "jobs/naukri-131026049027/naukri-history-reconciliation-confirmation.json",
+      "new_claim_created": false,
+      "new_application_action": false,
+      "url": "https://www.naukri.com/job-listings-software-developer-ntt-data-business-solutions-bengaluru-3-to-5-years-131026049027"
+    }
+  ],
+  "new_claims": 0,
+  "tracker": {
+    "database_rows": 367,
+    "tracker_rows": 367,
+    "quick_rows": 34,
+    "detailed_rows": 367,
+    "quick": "views/quick.html",
+    "detailed": "views/detailed.html",
+    "status": {
+      "status_json": "views/status.json",
+      "applied": 22,
+      "needs_answer": 0,
+      "uncertain": 0
+    }
+  },
+  "notifications": [
+    {
+      "job_id": 220,
+      "sent": true
+    },
+    {
+      "job_id": 241,
+      "sent": true
+    },
+    {
+      "job_id": 250,
+      "sent": true
+    },
+    {
+      "job_id": 266,
+      "sent": true
+    },
+    {
+      "job_id": 314,
+      "sent": true
+    },
+    {
+      "job_id": 355,
+      "sent": true
+    }
+  ]
+}

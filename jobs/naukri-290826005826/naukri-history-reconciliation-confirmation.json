@@ -1,0 +1,78 @@
+{
+  "attempt_id": "6c7cfbe8-a371-4665-9083-9df98dc67558",
+  "requisition_id": "290826005826",
+  "captured_at": "2026-10-17T07:00:45.477780+00:00",
+  "url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-microservices-infosys-hyderabad-pune-bengaluru-2-to-7-years-290826005826",
+  "confirmation_text": "Fully loaded exact-ID Applied Jobs history confirms Application Sent",
+  "history_full": true,
+  "exact_history_id_match": true,
+  "history_loaded_rows": 307,
+  "history_expected_total": 307,
+  "account_identity_verified": true,
+  "account_session_verified": true,
+  "history_filter_verified": true,
+  "history_identity": {
+    "basis": "server_history_exact_job_id",
+    "server_rows": [
+      {
+        "job_id": "290826005826",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "Java Backend Developer | Spring Boot | Microservices",
+        "company": "Infosys",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "dateTime": "2026-10-16 17:38:18",
+            "statusValue": "Applied",
+            "modifiedDate": "2026-10-16 17:38:18"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "dateTime": "2026-10-16 17:38:18",
+            "statusValue": "Application Sent",
+            "modifiedDate": "2026-10-16 17:38:18"
+          }
+        ]
+      },
+      {
+        "job_id": "290826005826",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "Java Backend Developer | Spring Boot | Microservices",
+        "company": "Infosys",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "modifiedDate": "2026-10-16 17:38:18",
+            "statusValue": "Applied",
+            "dateTime": "2026-10-16 17:38:18"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "modifiedDate": "2026-10-16 17:38:18",
+            "statusValue": "Application Sent",
+            "dateTime": "2026-10-16 17:38:18"
+          }
+        ]
+      }
+    ]
+  },
+  "new_application_action": false,
+  "saved_answer_replayed": false,
+  "read_only_reconciliation": true,
+  "automatic_reconciliation": true,
+  "phase": "before",
+  "application_sent": true,
+  "exact_job_id_match": true,
+  "workflow_worker_proven": false,
+  "confirmation_origin": "read_only_history_reconciliation",
+  "unverified_pending_question": null,
+  "screening_answer_delivery_not_verified_by_history": true
+}

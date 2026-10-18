@@ -1,0 +1,40 @@
+{
+  "files": [
+    {
+      "path": "jobs/optum-2388999-java-fullstack/confirmation.json",
+      "bytes": 542,
+      "sha256": "e0e71b0927b085d4cf34497d6d81ca87aa82434e04d35b3c83786f4a23493ff8",
+      "until": "2026-10-27T21:18:44.611621+00:00",
+      "purpose": "submission/status confirmation evidence"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/submission-confirmation-snapshot.txt",
+      "bytes": 8604,
+      "sha256": "2706709388a2d519760478446963708d7da60911ef15934201e92e9b7982a3f8",
+      "until": "2026-10-27T21:18:44.611621+00:00",
+      "purpose": "submission/status confirmation evidence"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/submission-confirmation.md",
+      "bytes": 1464,
+      "sha256": "51cd1639deb15da54e566e7822215337c172003a3d37874a7628720966b958ab",
+      "until": "2026-10-27T21:18:44.611621+00:00",
+      "purpose": "submission/status confirmation evidence"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/submission-status-snapshot.txt",
+      "bytes": 11853,
+      "sha256": "a75c882514c96890ed091436285b44a776c1a94270209d87376e2017c56c0032",
+      "until": "2026-10-27T21:18:44.611621+00:00",
+      "purpose": "submission/status confirmation evidence"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/submission-status.png",
+      "bytes": 36823,
+      "sha256": "dc8ee1f25df95c064423e303578c569b5531678c1bda5da6f0c4b407adb13057",
+      "until": "2026-10-27T21:18:44.611621+00:00",
+      "purpose": "submission/status confirmation evidence"
+    }
+  ],
+  "days": 30
+}

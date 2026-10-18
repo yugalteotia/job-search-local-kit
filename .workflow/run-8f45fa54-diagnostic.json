@@ -1,0 +1,237 @@
+{
+  "audited_run": "8f45fa54-6346-4707-bb42-f36aa251103a",
+  "at": "2026-10-13T09:53:48.429798+00:00",
+  "run_counts": {
+    "visible_cards": 41,
+    "extracted_exact_id_links": 40,
+    "distinct_exact_ids": "Unknown: rejected card records were not saved",
+    "retained_leads": 0,
+    "repeat_skips": 0,
+    "freshness_exclusions": 0,
+    "new_jd_reviews": 0,
+    "unchanged_saved_fit_reviews_skipped": 16,
+    "unresolved_leads": 2142,
+    "unresolved_naukri_leads": 714,
+    "raw_resume_ready_queue_rows": 2,
+    "eligible_application_candidates": 0
+  },
+  "bottleneck": "All extracted links were removed by discovery title/experience prefilters before freshness or JD review. Historical per-card reasons/IDs were not retained, so they cannot be reconstructed from this run.",
+  "fixes": [
+    "Persist all extracted cards, exact IDs and title/experience exclusion reasons without changing filters",
+    "Expire unchanged reviewed-card cache after routine 24-hour deadline (pending attempts retain separate policy and locks)",
+    "Refresh same untouched Verified portal job without self-duplicate rejection; keep all other dedupe checks",
+    "Key saved fit decisions by JD plus candidate/master/profile/policy/code/duplicate evidence context",
+    "Remove Applied jobs from runnable queue; report effective queue eligibility separately"
+  ],
+  "stale_applied_queue_rows_removed": 1,
+  "bounded_saved_jd_review": {
+    "considered": 16,
+    "queued": 0,
+    "not_eligible": 15,
+    "blocked": 1,
+    "skipped_unchanged": 0,
+    "results": [
+      {
+        "job_id": 329,
+        "employer": "Infosys",
+        "title": "JAVA+Angular Developer - INF (2-15) YRS",
+        "outcome": "not_eligible",
+        "fit": "Medium",
+        "reasons": [
+          "Experience minimum missing or beyond confirmed profile band",
+          "No confirmed evidence for other_frontend",
+          "No confirmed evidence for cloud_generic",
+          "No confirmed evidence for other_frontend",
+          "Essential evidence coverage below 100%"
+        ]
+      },
+      {
+        "job_id": 327,
+        "employer": "Propelgo",
+        "title": "Back End Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Java is not explicit in the JD body",
+          "Spring Boot is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 326,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer",
+        "outcome": "blocked_duplicate",
+        "reasons": [
+          "Possible duplicate requisition requires manual resolution"
+        ]
+      },
+      {
+        "job_id": 322,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer",
+        "outcome": "not_eligible",
+        "fit": "Medium",
+        "reasons": [
+          "Experience minimum missing or beyond confirmed profile band",
+          "No confirmed evidence for other_frontend",
+          "No confirmed evidence for other_frontend",
+          "No confirmed evidence for other_databases",
+          "No confirmed evidence for jenkins",
+          "Essential evidence coverage below 100%"
+        ]
+      },
+      {
+        "job_id": 321,
+        "employer": "Infosys",
+        "title": "Java React Js Developer",
+        "outcome": "not_eligible",
+        "fit": "Medium",
+        "reasons": [
+          "Experience minimum missing or beyond confirmed profile band",
+          "No confirmed evidence for other_frontend",
+          "No confirmed evidence for jenkins",
+          "Essential evidence coverage below 100%"
+        ]
+      },
+      {
+        "job_id": 320,
+        "employer": "Infosys",
+        "title": "Java React Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Spring Boot is not explicit in the JD body",
+          "backend work is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 318,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer (Angular)(2-3Y)",
+        "outcome": "not_eligible",
+        "fit": "Medium",
+        "reasons": [
+          "No confirmed evidence for other_frontend",
+          "No confirmed evidence for cloud_generic",
+          "No confirmed evidence for other_frontend",
+          "No confirmed evidence for other_frontend",
+          "No confirmed evidence for other_frontend",
+          "Essential evidence coverage below 100%"
+        ]
+      },
+      {
+        "job_id": 317,
+        "employer": "Codepanda Academy",
+        "title": "Java Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Spring Boot is not explicit in the JD body",
+          "backend work is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 316,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer (Angular/React)(2-3 Years)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Spring Boot is not explicit in the JD body",
+          "backend work is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 315,
+        "employer": "Infosys",
+        "title": "JAVA Developer-INF (2 - 9) YRS",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 313,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer (React js)_ (2-3 Years)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Spring Boot is not explicit in the JD body",
+          "backend work is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 312,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer(Angular/React)(2-3 years)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 309,
+        "employer": "Navi Limited",
+        "title": "SDE II (Backend)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Spring Boot is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 307,
+        "employer": "Tata Consultancy Services",
+        "title": "Java Backend Developer - N",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 5 years"
+        ]
+      },
+      {
+        "job_id": 305,
+        "employer": "Codemythos Solutions",
+        "title": "Backend Engineer - Java | Spring Boot | WebSocket | PostgreSQL",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 4 years"
+        ]
+      },
+      {
+        "job_id": 303,
+        "employer": "Epam Systems",
+        "title": "Lead Software Engineer - Java with Spring Boot",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Title indicates a different seniority band: lead"
+        ]
+      }
+    ]
+  },
+  "bounded_saved_job_ids": [
+    329,
+    327,
+    326,
+    322,
+    321,
+    320,
+    318,
+    317,
+    316,
+    315,
+    313,
+    312,
+    309,
+    307,
+    305,
+    303
+  ],
+  "current_queue": {
+    "ResumeReady": 1
+  },
+  "current_eligible_application_candidates": 0,
+  "locks_and_pending_outcomes_unchanged": true,
+  "browser_started": false,
+  "application_attempts_started": 0,
+  "focused_tests_passed": {
+    "freshness": 6,
+    "portal_native": 3,
+    "auto_pipeline": 24,
+    "card_filter_logging": 1
+  }
+}

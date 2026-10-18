@@ -1,0 +1,31 @@
+{
+  "at": "2026-10-13T18:39:05.816602+00:00",
+  "signed_in": true,
+  "expected_filename": "Yugal_Teotia_CV.pdf",
+  "expected_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+  "samples": [
+    {
+      "elapsed_ms": 0,
+      "filename": "Yugal_Teotia_CV.pdf"
+    },
+    {
+      "elapsed_ms": 500,
+      "filename": "Yugal_Teotia_CV.pdf"
+    },
+    {
+      "elapsed_ms": 1000,
+      "filename": "Yugal_Teotia_CV.pdf"
+    },
+    {
+      "elapsed_ms": 1500,
+      "filename": "Yugal_Teotia_CV.pdf"
+    },
+    {
+      "elapsed_ms": 2000,
+      "filename": "Yugal_Teotia_CV.pdf"
+    }
+  ],
+  "application_action": false,
+  "upload_performed": false,
+  "original_startup_filename_retained": false
+}

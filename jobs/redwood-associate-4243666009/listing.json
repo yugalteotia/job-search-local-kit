@@ -1,0 +1,71 @@
+{
+  "company": "Redwood Software",
+  "role": "Associate Software Engineer",
+  "job_id": "4243666009",
+  "slug": "redwood-associate-4243666009",
+  "url": "https://job-boards.greenhouse.io/redwoodsoftware/jobs/4243666009",
+  "source": "Original employer Greenhouse ATS via Playwright",
+  "checked_at": "2026-09-27T18:54:00Z",
+  "posted_date": null,
+  "location": "Hyderabad, India",
+  "original_verified": true,
+  "live": true,
+  "india": true,
+  "development_role": true,
+  "jd": "Back to jobs\nAssociate Software Engineer\nHyderabad, Telangana, India\nApply\n\nOUR MISSION\n\nAt Redwood, we empower our customers with lights-out automation for their mission-critical business processes.\n\nABOUT US\n\nRedwood Software is the leading orchestration platform for the autonomous enterprise, driving business transformation at the lowest total cost of ownership. Redwood empowers organizations to intelligently automate and orchestrate mission-critical business and IT processes across complex ERP, hybrid cloud, data and emerging agentic AI systems. Through its SaaS-first automation fabric—with AI embedded across the automation lifecycle—Redwood accelerates the path to autonomous operations. Backed by 30 years of experience and trusted by more than 50% of the Fortune 50, Redwood helps organizations unlock human potential to focus on innovation, growth and what’s next. \n\nCORE VALUES\n\nOne Team. One Redwood\n\nMake Your Own Weather\n\nObsess over Customer Success\n\nWork the Problem\n\nBe Curious\n\nOwn the Outcome\n\nRespect Each Other\n\nYOUR IMPACT\n\nWe are looking for a Software Engineer, Platform & Integrations. Working closely with senior and lead engineers, you will design, develop, and maintain high-quality features that power enterprise data exchange for more than 1,000 customers worldwide.\n\nThis is an incredible opportunity to deepen your expertise in cloud-native architectures, enterprise security, and modern DevOps practices in a fast-growing product environment.\n\nFeature Development & Design: Write clean, maintainable, and well-tested code using Java and Spring Boot to deliver scalable backend services and microservices.\n\nPlatform Reliability: Contribute to enhancing the monitoring, logging, and observability of our core platform to ensure high availability and performance.\n\nSecurity & Compliance: Implement secure coding practices to safeguard data exchange and maintain compliance across our cloud infrastructure.\n\nCollaborative Execution: Work within an agile team, collaborating closely with QA, Product, and fellow engineers to deliver high-quality software sprints on time.\n\nInnovation & Curiosity: Stay curious about emerging technologies—including cloud native optimizations and AI/ML concepts—and help explore ways to apply them to our product.\n\nYOUR EXPERIENCE\n\nEducation: Bachelor’s degree in Computer Science, Engineering, or a related field.\n\nProduct Experience: 2+ years of professional software engineering experience, ideally within a product-driven company.\n\nCore Tech Stack: Strong foundation in Java, Spring Boot, and REST API development, with a solid understanding of object-oriented programming (OOP) and design patterns.\n\nDatabase Systems: Proficiency in SQL and relational database management, such as PostgreSQL or MySQL\n\nCloud & DevOps Familiarity: Practical exposure to cloud platforms (AWS preferred) and standard CI/CD deployment pipelines. Experience with Docker or Kubernetes/EKS is a strong plus.\n\nEngineering Best Practices: Proven track record of writing automated tests (unit, integration) and participating in constructive code reviews.\n\nProtocols & Integrations: Familiarity with standard networking or file transfer protocols (e.g., SFTP, HTTP, AS2) is highly desirable.\n\nSoft Skills: Strong problem-solving abilities, excellent communication skills, and a desire to learn from senior engineering peers.\n\nAgile Mindset: Experience working within Agile/Scrum development methodologies.\n\nIf you like growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!\n\n \n\nTHE LEGAL BIT\nRedwood is an equal opportunity employer. Redwood prohibits unlawful discrimination based on race, colour, religion, sex, gender identity, marital or veteran status, age, national origin, ancestry, citizenship, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member), sexual orientation, pregnancy or any other consideration made unlawful by regional or local laws. We also prohibit discrimination based on a perception that anyone has any of those characteristics or is associated with a person who has or is perceived as having any of those characteristics. All such discrimination is unlawful and will have a zero tolerance policy applied to it.\n \n\nRedwood will comply with all local data protection laws, including GDPR when it comes to the handling and processing of personal data. Should you wish for us to remove your personal data from our recruitment database, please email us directly at Privacy@Redwood.com\n\nCreate a Job Alert\n\nInterested in building your career at Redwood Software? Get future opportunities sent straight to your email.\n\nCreate alert\n",
+  "rationale": "Java/Spring/API match; required practical cloud exposure and SQL proficiency not established in production.",
+  "requirements": [
+    {
+      "name": "Java/Spring/REST",
+      "required": true,
+      "basis": "work",
+      "master_bullet": [
+        0,
+        0
+      ],
+      "evidence": "Designed and implemented REST and gRPC APIs for cross-product communication, with pagination, filtering, audit information, and backward-compatible Protocol Buffer contracts validated through contract-style tests."
+    },
+    {
+      "name": "2+ years product software",
+      "required": true,
+      "basis": "profile",
+      "evidence": "Master IDeaS Oct 2024–Present plus Data Nova Feb–May 2023"
+    },
+    {
+      "name": "CS degree",
+      "required": true,
+      "basis": "education",
+      "evidence": "Master B.Tech CSE"
+    },
+    {
+      "name": "SQL / relational database proficiency",
+      "required": true,
+      "basis": "project",
+      "evidence": "Master Store REST API MySQL/JPA; not professional database experience"
+    },
+    {
+      "name": "Practical cloud exposure",
+      "required": true,
+      "basis": "gap",
+      "evidence": "Master has no cloud implementation"
+    },
+    {
+      "name": "Testing / code review",
+      "required": true,
+      "basis": "work",
+      "master_bullet": [
+        0,
+        5
+      ],
+      "evidence": "Applied GitHub Copilot and iterative agent workflows across feature development, RCA, scenario design, debugging, and code review to shorten delivery cycles while independently owning architecture and validation."
+    },
+    {
+      "name": "Agile / team collaboration",
+      "required": true,
+      "basis": "profile",
+      "evidence": "SEARCH_PROFILE Agile context; resume feature delivery; no invented leadership"
+    }
+  ],
+  "fit": "Medium",
+  "score": 71
+}

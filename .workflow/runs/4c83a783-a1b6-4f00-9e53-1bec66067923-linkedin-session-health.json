@@ -1,0 +1,46 @@
+{
+  "signed_in": true,
+  "authentication_required": false,
+  "verification_required": false,
+  "session_state": "authenticated",
+  "error_kind": null,
+  "navigation_error": null,
+  "health_samples": [
+    {
+      "path": "/feed/",
+      "feed_links": 0,
+      "password_fields": 0,
+      "ready_state": "complete",
+      "authenticated_control_kinds": [
+        "messaging_link"
+      ],
+      "authenticated_controls": 1,
+      "login_fields": 0,
+      "captcha_visible": false,
+      "verification_heading": false,
+      "restriction_heading": false,
+      "loading_indicator": true,
+      "state": "authenticated"
+    },
+    {
+      "path": "/feed/",
+      "feed_links": 8,
+      "password_fields": 0,
+      "ready_state": "complete",
+      "authenticated_control_kinds": [
+        "messaging_link"
+      ],
+      "authenticated_controls": 1,
+      "login_fields": 0,
+      "captcha_visible": false,
+      "verification_heading": false,
+      "restriction_heading": false,
+      "loading_indicator": false,
+      "state": "authenticated"
+    }
+  ],
+  "launcher": "linkedin_browser.chrome",
+  "profile": "/home/yugal/.local/share/job-search-private/linkedin-direct-playwright/user-data",
+  "read_only": true,
+  "service_workers": "block"
+}

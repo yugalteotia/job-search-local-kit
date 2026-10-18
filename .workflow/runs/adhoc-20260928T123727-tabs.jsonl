@@ -1,0 +1,3 @@
+{"time": "2026-09-28T12:37:27.389354+00:00", "event": "tab_closed", "tab_id": 1, "owner": "d3647592-8dca-4f8b-8b4b-f3f8c675fcb8"}
+{"time": "2026-09-28T12:37:27.449510+00:00", "event": "welcome_tab_closed", "tab_id": 0, "owner": "d3647592-8dca-4f8b-8b4b-f3f8c675fcb8", "automatic": true}
+{"time": "2026-09-28T12:37:27.452553+00:00", "event": "tab_lifecycle_summary", "created": 2, "reused": 0, "closed": 2, "job_tabs_created": 1, "job_tabs_closed": 1, "welcome_tabs_created": 1, "welcome_tabs_closed": 1, "remaining_job_tabs": 0, "remaining_welcome_tabs": 0, "remaining_automation_tabs": 0, "remaining_tab_ids": [], "owner": "d3647592-8dca-4f8b-8b4b-f3f8c675fcb8", "automatic_cleanup": true}

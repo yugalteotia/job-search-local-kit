@@ -1,0 +1,22 @@
+{
+  "draft_id": "9f531639-2093-49b2-a162-1cdcd88711e9",
+  "answered": [],
+  "steps": 0,
+  "contact_verified": [],
+  "pending_field": {
+    "index": 2,
+    "control_id": "single-line-text-form-component-formElement-urn-li-jobs-applyformcommon-easyApplyFormElement-4478450952-9-phoneNumber-nationalNumber",
+    "question": "Phone",
+    "type": "text",
+    "pattern": null,
+    "inputmode": "text",
+    "step": null,
+    "required": true,
+    "options": []
+  },
+  "pending_reason": "unknown_required_answer",
+  "pending_question": "Phone",
+  "submit_clicked": false,
+  "updated_at": "2026-10-14T15:01:54.457994+00:00",
+  "draft_save_requested": true
+}

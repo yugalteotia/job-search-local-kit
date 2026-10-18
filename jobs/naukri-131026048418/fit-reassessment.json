@@ -1,0 +1,51 @@
+{
+  "recorded_at": "2026-10-13T16:21:16.138954+00:00",
+  "requisition_id": "131026048418",
+  "job_id": 346,
+  "decision": "Approved strong Medium",
+  "queue_state": "QueuedResume",
+  "job_state": "Shortlisted",
+  "live_checked_at": "2026-10-13T16:19:41.452520+00:00",
+  "listing_requirement": "Angular (preferred) or React",
+  "explicit_production_react_or_angular_requirement": false,
+  "professional_transferable_evidence": "Built Ember.js/TypeScript configuration and reporting workflows with reusable multiselect components, input validation, and conditional rendering",
+  "react_basis": "project-level only",
+  "angular_basis": "unconfirmed",
+  "remaining_gaps": [
+    "No confirmed production React or Angular experience",
+    "Spring Data JPA/Hibernate and MySQL evidence is project-level",
+    "SQL Server/Oracle/PostgreSQL, named Jenkins/Azure DevOps tools and broad Azure/GCP experience are unconfirmed; confirmed GitHub Actions and limited AWS evidence remain qualified"
+  ],
+  "fit_checks": {
+    "eligible": false,
+    "essential_project_supported": 1,
+    "essential_supported": 15,
+    "essential_total": 16,
+    "essential_training_supported": 0,
+    "essential_transferable_supported": 1,
+    "essential_work_supported": 14,
+    "fit": "Medium",
+    "framework_status": "spring_stated",
+    "jd_sha256": "0c3fcdd755db31c486a1b5a5eb3d984b7be821af8965ed0dacc8c0e936098b3f",
+    "reasons": [
+      "Frontend framework gap has confirmed transferable professional UI evidence",
+      "Essential evidence coverage below 100%"
+    ],
+    "strong_medium_eligible": true,
+    "transferable_gaps": [
+      {
+        "gap": "React is project-level; Angular is unconfirmed. Professional Ember.js/TypeScript UI work is transferable.",
+        "name": "react"
+      }
+    ]
+  },
+  "dedupe_status": "clear; no existing attempt or terminal-history match",
+  "submitted_during_reassessment": false,
+  "tests": {
+    "fit_reassessment": 5,
+    "existing_auto_pipeline": 24,
+    "native_controls": 7,
+    "all_passed": true
+  },
+  "evidence": ".workflow/infosys-131026048418-reassessment.json"
+}

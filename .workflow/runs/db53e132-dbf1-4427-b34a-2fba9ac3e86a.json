@@ -1,0 +1,680 @@
+{
+  "run_id": "db53e132-dbf1-4427-b34a-2fba9ac3e86a",
+  "started_at": "2026-09-28T04:02:09.892088+00:00",
+  "mode": "read_only",
+  "scheduled": false,
+  "test": true,
+  "status": "Partial",
+  "sources": {
+    "naukri": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T04:02:15.170073+00:00",
+      "pages_checked": 1,
+      "leads": 0,
+      "feed_jobs": 0
+    },
+    "foundit": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T04:02:22.872802+00:00",
+      "pages_checked": 1,
+      "leads": 17,
+      "feed_jobs": 0
+    },
+    "indeed": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T04:02:23.573722+00:00",
+      "pages_checked": 1,
+      "leads": 12,
+      "feed_jobs": 0
+    },
+    "linkedin": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T04:02:23.877011+00:00",
+      "pages_checked": 1,
+      "leads": 7,
+      "feed_jobs": 0
+    },
+    "celonis_greenhouse": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T04:02:23.877150+00:00",
+      "pages_checked": 1,
+      "leads": 0,
+      "feed_jobs": 100,
+      "unique_originals_verified": 100
+    },
+    "brillio_lever": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T04:02:23.573822+00:00",
+      "pages_checked": 2,
+      "leads": 0,
+      "feed_jobs": 50,
+      "unique_originals_verified": 50
+    },
+    "cutshort": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T04:02:28.750699+00:00",
+      "pages_checked": 1,
+      "leads": 30,
+      "feed_jobs": 0
+    }
+  },
+  "coverage": {
+    "naukri": [
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Mumbai",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Spring%20Boot%20software%20engineer&l=Mumbai&pageNo=1",
+        "checked_at": "2026-09-28T04:02:15.135087+00:00",
+        "status": "Success",
+        "lead_count": 0,
+        "observed_url": "https://www.naukri.com/spring-boot-software-engineer-jobs-in-mumbai",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "foundit": [
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Mumbai",
+        "page": 1,
+        "url": "https://www.foundit.in/srp/results?query=Spring%20Boot%20software%20engineer&locations=Mumbai&page=1",
+        "checked_at": "2026-09-28T04:02:22.857247+00:00",
+        "status": "Success",
+        "lead_count": 17,
+        "observed_url": "https://www.foundit.in/srp/results",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "indeed": [
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Mumbai",
+        "page": 1,
+        "url": "https://in.indeed.com/jobs?q=Spring%20Boot%20software%20engineer&l=Mumbai&sort=date&start=0",
+        "checked_at": "2026-09-28T04:02:23.558301+00:00",
+        "status": "Success",
+        "lead_count": 12,
+        "observed_url": "https://in.indeed.com/jobs",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "linkedin": [
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Mumbai",
+        "page": 1,
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Spring%20Boot%20software%20engineer&location=Mumbai&sortBy=DD&start=0",
+        "checked_at": "2026-09-28T04:02:23.845162+00:00",
+        "status": "Success",
+        "lead_count": 7,
+        "observed_url": "https://www.linkedin.com/jobs/search/",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "celonis_greenhouse": [
+      {
+        "page": 1,
+        "url": "https://boards-api.greenhouse.io/v1/boards/celonis/jobs?content=true",
+        "items": 100,
+        "total_returned": 253,
+        "checked_at": "2026-09-28T04:02:26.282444+00:00",
+        "status": "Partial"
+      }
+    ],
+    "brillio_lever": [
+      {
+        "page": 1,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=0&limit=25&mode=json",
+        "items": 25,
+        "checked_at": "2026-09-28T04:02:25.956523+00:00",
+        "status": "Success"
+      },
+      {
+        "page": 2,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=25&limit=25&mode=json",
+        "items": 25,
+        "checked_at": "2026-09-28T04:02:28.530184+00:00",
+        "status": "Success"
+      }
+    ],
+    "cutshort": [
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Mumbai",
+        "page": 1,
+        "url": "https://cutshort.io/jobs/java-jobs?query=Spring%20Boot%20software%20engineer&location=Mumbai&page=1",
+        "checked_at": "2026-09-28T04:02:28.735212+00:00",
+        "status": "Success",
+        "lead_count": 30,
+        "observed_url": "https://cutshort.io/jobs/java-jobs",
+        "sort": "Configured newest route where available"
+      }
+    ]
+  },
+  "leads": 216,
+  "unique_original_requisitions_verified": 150,
+  "fit_decisions": {
+    "68": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "69": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "70": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "71": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "72": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "73": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "74": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "75": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "76": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "77": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "78": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "79": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "80": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "81": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "82": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "83": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "84": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "85": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "86": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "87": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "88": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "89": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "90": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "91": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "92": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "93": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "94": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "95": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "96": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "97": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "98": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "99": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "100": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "101": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "102": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "103": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "104": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "105": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "106": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "107": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "108": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "109": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "110": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "111": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "112": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "113": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "114": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "115": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "116": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "117": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "118": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "119": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "120": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "121": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "122": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "123": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "124": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "125": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "126": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "127": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "128": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "129": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "130": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "131": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "132": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "133": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "134": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "135": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "136": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "137": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "138": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "139": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "140": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "141": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "142": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "143": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "144": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "145": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "146": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "147": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "148": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "149": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "150": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "151": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "152": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "153": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "154": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "155": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "156": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "157": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "158": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "159": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "160": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "161": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "162": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "163": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "164": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "165": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "166": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "167": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    }
+  },
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/db53e132-dbf1-4427-b34a-2fba9ac3e86a.json"
+  ],
+  "queue": {},
+  "stage_seconds": {
+    "discovery": 18.85,
+    "original_verification": 30.36
+  },
+  "finished_at": "2026-09-28T04:02:59.663882+00:00",
+  "elapsed_seconds": 49.77
+}

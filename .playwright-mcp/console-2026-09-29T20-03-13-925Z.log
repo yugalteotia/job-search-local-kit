@@ -1,0 +1,17 @@
+[      52ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[      52ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[      52ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[      52ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     836ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495:0
+[    1053ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o97850.ingest.sentry.io/api/6722445/envelope/?sentry_key=0fa1e82141414716956803bf500a99a4&sentry_version=7&sentry_client=sentry.javascript.nextjs%2F7.80.0:0
+[    1297ms] [LOG] [Track] Unauth page loaded {cs_fe_uuid: 448d30fe-2818-476f-98af-96d3916c84e1, is_on_mobile_device: false, current_url: https://cutshort.io/jobs/java-jobs?query=Java%20Spring%20Boot%20backend&location=Chennai&page=1, track_event_time: Wed Sep 30 2026 01:33:15 GMT+0530 (India Standard Time), user_agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36…KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36} @ https://cdnv2.cutshort.io/_next/static/chunks/pages/_app-413de1b08a4aee8a.js:31
+[    1434ms] [LOG] Service Worker registration successful with scope:  https://cutshort.io/ @ https://cdnv2.cutshort.io/_next/static/chunks/pages/_app-413de1b08a4aee8a.js:31
+[    2383ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    2383ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    2383ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    2384ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    2629ms] [LOG] [Track] Candidate viewed job {jobid: 6ab78647bff5b7d1660d2fdb, companyid: 676cda781975060026864b32, job_headline: Java Full Stack Developer, cs_fe_uuid: 448d30fe-2818-476f-98af-96d3916c84e1, distinct_id: 6ab5415717ef122866b4531a} @ https://cdnv2.cutshort.io/_next/static/chunks/pages/_app-413de1b08a4aee8a.js:31
+[    2935ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/zb1tm/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0
+[    2936ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/zb1tm/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0
+[    3014ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/zb1tm/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0
+[    3080ms] [WARNING] No available adapters. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/zb1tm/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0

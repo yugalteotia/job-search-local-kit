@@ -1,0 +1,18 @@
+{
+  "job_id": 339,
+  "requisition_id": "4470285110",
+  "provider": "linkedin_easy_apply",
+  "form_url": "https://www.linkedin.com/jobs/view/4470285110/",
+  "resume_sha256": "ddc50bee756b166172fa8802fcfe1d9e8d49c938adc52cdcd7d4f83b9521598d",
+  "final_action": "submit_application",
+  "checks": {
+    "live": true,
+    "unapplied": true,
+    "fit": true,
+    "resume_visual": true,
+    "resume_selected": true,
+    "answers_confirmed": true,
+    "unique_apply": true
+  },
+  "fact_refs": []
+}

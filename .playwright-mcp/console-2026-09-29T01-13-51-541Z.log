@@ -1,0 +1,8 @@
+[   21172ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[   21172ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[   21172ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[   21172ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[   21990ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://docs.google.com/forms/u/0/d/e/1FAIpQLSfdRVRzYbnjHtF6IXKFQH9ycSSGJXaInzqZXT9Rq2y6QVsxsg/naLogImpressions?token=7Jzw6qABAAA.cvDdAuyi7ttWxSOMNwymhQ.bdXXjj39I9Eemarfn108Tw&ouid=109614228119426368067:0
+[   22011ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://play.google.com/log?format=json&hasfast=true&authuser=0:0
+[   24848ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://docs.google.com/forms/u/0/d/e/1FAIpQLSfdRVRzYbnjHtF6IXKFQH9ycSSGJXaInzqZXT9Rq2y6QVsxsg/naLogImpressions?token=7Jzw6qABAAA.cvDdAuyi7ttWxSOMNwymhQ.bdXXjj39I9Eemarfn108Tw&ouid=109614228119426368067:0
+[   24852ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://play.google.com/log?format=json&hasfast=true&authuser=0:0

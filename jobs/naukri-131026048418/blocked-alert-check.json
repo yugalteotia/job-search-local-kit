@@ -1,0 +1,30 @@
+{
+  "alerts": [
+    {
+      "job_id": 220,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 241,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 250,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 315,
+      "status": "pending",
+      "link": "https://www.naukri.com/job-listings-java-developer-inf-2-9-yrs-infosys-hyderabad-chennai-bengaluru-2-to-7-years-070926029541",
+      "desktop_sent": true
+    },
+    {
+      "job_id": 346,
+      "status": "pending",
+      "link": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-pune-chennai-bengaluru-2-to-5-years-131026048418",
+      "desktop_sent": true
+    }
+  ],
+  "job_id": 346,
+  "at": "2026-10-13T16:51:19.744740+00:00"
+}

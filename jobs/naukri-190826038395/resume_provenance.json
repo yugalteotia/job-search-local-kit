@@ -1,0 +1,9 @@
+{
+  "master": "master-resume/Yugal_Teotia_CV.tex",
+  "master_sha256": "498eb1ca1e8f5db09278708dc57541a4188c4c7245245e705c93359f8156060f",
+  "job_id": 220,
+  "requisition_id": "190826038395",
+  "jd_sha256": "7b115e4fcecb7439468a540783d9316f3417de94de542abcfc097baf97b944e9",
+  "project_training_corrections": "Confirmed by user 2026-09-29; never IDeaS production for SQL/MySQL/JPA/Hibernate",
+  "pdf_renderer": "tools/render_resume.py"
+}

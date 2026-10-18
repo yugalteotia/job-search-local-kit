@@ -1,0 +1,91 @@
+- generic [ref=f15e1]:
+  - iframe [aria-hidden] [ref=f15e2]
+  - iframe
+  - generic [ref=f15e10]:
+    - generic [ref=f15e12]:
+      - generic [ref=f15e13]:
+        - link "Skip to content" [ref=f15e14] [cursor=pointer]:
+          - /url: ""
+        - link "Using Gmail with screen readers" [ref=f15e15] [cursor=pointer]:
+          - /url: ""
+      - heading [level=1] [ref=f15e17]:
+        - banner [ref=f15e18]:
+          - generic [ref=f15e19]:
+            - generic [ref=f15e20]:
+              - button "Main menu" [expanded] [ref=f15e21] [cursor=pointer]
+              - link "Gmail" [ref=f15e26] [cursor=pointer]:
+                - /url: "#inbox"
+            - generic [ref=f15e28]:
+              - search "Search mail" [ref=f15e30]:
+                - heading "Search mail" [level=2] [ref=f15e31]
+                - combobox "Search mail" [ref=f15e33]: "{2388999 19568565 2366771 \"Teamware\" \"Technorex\" \"Hevo\"} -in:sent"
+                - button "Advanced search options" [ref=f15e34] [cursor=pointer]
+                - button "Clear search" [ref=f15e37] [cursor=pointer]
+                - button "Search mail" [disabled] [ref=f15e41] [cursor=pointer]
+              - generic [ref=f15e45]:
+                - 'button "Status: Active" [ref=f15e46]'
+                - button [ref=f15e52] [cursor=pointer]
+                - button "Settings" [ref=f15e55] [cursor=pointer]
+            - generic [ref=f15e60]:
+              - button "Google apps" [ref=f15e64] [cursor=pointer]
+              - 'button "Google Account: Yugal Teotia (teotia.yugal@gmail.com)" [ref=f15e70] [cursor=pointer]'
+      - alert [ref=f15e75]
+    - generic [ref=f15e78]:
+      - navigation [ref=f15e79]:
+        - generic [ref=f15e80]:
+          - link "Mail, 0 unread messages" [ref=f15e81] [cursor=pointer]
+          - heading "Mail" [level=2] [ref=f15e82] [cursor=pointer]
+        - generic [ref=f15e83]:
+          - link "Chat" [ref=f15e84] [cursor=pointer]
+          - heading "Chat" [level=2] [ref=f15e85] [cursor=pointer]
+        - generic [ref=f15e86]:
+          - link "Meet" [ref=f15e87] [cursor=pointer]
+          - heading "Meet" [level=2] [ref=f15e88] [cursor=pointer]
+      - generic [ref=f15e90]:
+        - button "Compose" [ref=f15e93] [cursor=pointer]
+        - generic [ref=f15e98]:
+          - generic [ref=f15e100]:
+            - heading "Labels" [level=2] [ref=f15e101]
+            - generic [ref=f15e102]:
+              - generic [ref=f15e103]:
+                - generic [ref=f15e105]:
+                  - link "Inbox" [ref=f15e112] [cursor=pointer]:
+                    - /url: https://mail.google.com/mail/u/0/#inbox
+                  - link "Starred" [ref=f15e119] [cursor=pointer]:
+                    - /url: https://mail.google.com/mail/u/0/#starred
+                  - link "Snoozed" [ref=f15e126] [cursor=pointer]:
+                    - /url: https://mail.google.com/mail/u/0/#snoozed
+                  - link "Sent" [ref=f15e133] [cursor=pointer]:
+                    - /url: https://mail.google.com/mail/u/0/#sent
+                  - link "Drafts" [ref=f15e140] [cursor=pointer]:
+                    - /url: https://mail.google.com/mail/u/0/#drafts
+                - link "Purchases has menu" [ref=f15e149] [cursor=pointer]:
+                  - /url: https://mail.google.com/mail/u/0/#category/purchases
+                  - text: Purchases
+              - button "More labels" [ref=f15e151] [cursor=pointer]:
+                - generic [ref=f15e152]: More
+          - generic [ref=f15e155]:
+            - heading "Labels" [ref=f15e156]
+            - button "Create new label" [ref=f15e157] [cursor=pointer]
+          - generic:
+            - generic "Labels":
+              - heading "Labels" [level=2] [ref=f15e158]
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - iframe
+      - generic [ref=f15e169]:
+        - generic [ref=f15e171]:
+          - button [ref=f15e172] [cursor=pointer]:
+            - generic "Email search results" [ref=f15e173]: Mail
+          - button [ref=f15e175] [cursor=pointer]:
+            - generic "Results in direct messages and spaces" [ref=f15e176]: Conversations
+          - button [ref=f15e178] [cursor=pointer]:
+            - generic "Spaces matched by name" [ref=f15e179]: Spaces
+        - generic [ref=f15e182]:
+          - generic [ref=f15e183]: Loading Indicator
+          - main [ref=f15e213]:
+            - button "Showing most relevant" [ref=f15e222] [cursor=pointer]
+            - heading "Conversations" [level=2] [ref=f15e232]
+      - complementary "Side panel" [ref=f15e237]

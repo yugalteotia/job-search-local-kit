@@ -1,0 +1,510 @@
+{
+  "started_at": "2026-09-28T16:11:00.230860+00:00",
+  "mode": "read_only",
+  "forms_opened": 0,
+  "uploads": 0,
+  "submissions": 0,
+  "sources": {
+    "naukri": {
+      "status": "Partial",
+      "error_kind": null,
+      "pages": [
+        {
+          "query": "java spring boot",
+          "location": "India",
+          "page": 1,
+          "url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1",
+          "checked_at": "2026-09-28T16:11:09.551775+00:00",
+          "status": "Success",
+          "visible_cards": 22,
+          "body_characters": 9799,
+          "render_checks": 2,
+          "lead_count": 20,
+          "card_ids": [
+            "040326011998",
+            "240826031410",
+            "200826027543",
+            "110926023319",
+            "090926034257",
+            "290726016682",
+            "280726031420",
+            "130826022153",
+            "030826024159",
+            "260426004474",
+            "230926020957",
+            "150626005301",
+            "180826042980",
+            "100826014171",
+            "300726029684",
+            "180826009297",
+            "190826036811",
+            "020926033455",
+            "090926010796",
+            "250926001218"
+          ],
+          "unresolved_cards": [],
+          "observed_url": "https://www.naukri.com/java-spring-boot-jobs-in-india",
+          "sort": "Configured newest route where available"
+        }
+      ],
+      "visible_cards": 22,
+      "extracted_job_ids": 20,
+      "extracted_exact_urls": 20,
+      "job_ids": [
+        "020926033455",
+        "030826024159",
+        "040326011998",
+        "090926010796",
+        "090926034257",
+        "100826014171",
+        "110926023319",
+        "130826022153",
+        "150626005301",
+        "180826009297",
+        "180826042980",
+        "190826036811",
+        "200826027543",
+        "230926020957",
+        "240826031410",
+        "250926001218",
+        "260426004474",
+        "280726031420",
+        "290726016682",
+        "300726029684"
+      ],
+      "leads": [
+        {
+          "title": "Java Spring Boot, microservices Developer",
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-microservices-developer-infosys-hyderabad-pune-bengaluru-2-to-3-years-040326011998",
+          "portal_job_id": "040326011998",
+          "employer": "Infosys",
+          "card_location": "Hybrid - Pune, Bengaluru, Hyderabad",
+          "card_excerpt": "Java Spring Boot, microservices Developer\nInfosys\n3.5\n52605 Reviews\n2-3 Yrs\nHybrid - Pune, Bengaluru, Hyderabad\nYou will create requirement specifications from the business needs, define the to-be-pr...\nJavaSpring BootMicroservicesHibernateRestSpringBootstrapJava Spring Boot\nPrefers women\n4 days ago\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        },
+        {
+          "title": "Java Spring Boot, microservices Developer-s",
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-microservices-developer-s-infosys-hyderabad-pune-bengaluru-5-to-9-years-240826031410",
+          "portal_job_id": "240826031410",
+          "employer": "Infosys",
+          "card_location": "Hybrid - Pune, Bengaluru, Hyderabad",
+          "card_excerpt": "Java Spring Boot, microservices Developer-s\nInfosys\n3.5\n52605 Reviews\n5-9 Yrs\nHybrid - Pune, Bengaluru, Hyderabad\nYou will create requirement specifications from the business needs, define the to-be-pr...\nJavaSpring BootMicroservicesHibernatePostgresqlKafkaSpringRest\nPrefers women\n1 week ago\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        },
+        {
+          "title": "Java Spring Boot Microservices Developer-2-3yrs",
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-microservices-developer-2-3yrs-infosys-hyderabad-pune-bengaluru-2-to-3-years-200826027543",
+          "portal_job_id": "200826027543",
+          "employer": "Infosys",
+          "card_location": "Hybrid - Pune, Bengaluru, Hyderabad",
+          "card_excerpt": "Java Spring Boot Microservices Developer-2-3yrs\nInfosys\n3.5\n52605 Reviews\n2-3 Yrs\nHybrid - Pune, Bengaluru, Hyderabad\nThe ideal candidate should have strong expertise in Java, Spring Boot, Microservices Ar...\nJavaSpring BootMicroservicesRestKafkaAWSSQLBoot\nPrefers women\n3+ weeks ago\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        },
+        {
+          "title": "Java Spring boot Microservice (2-15 years)",
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-microservice-2-15-years-infosys-pune-chennai-bengaluru-3-to-8-years-110926023319",
+          "portal_job_id": "110926023319",
+          "employer": "Infosys",
+          "card_location": "Hybrid - Pune, Bengaluru, Chennai",
+          "card_excerpt": "Java Spring boot Microservice (2-15 years)\nInfosys\n3.5\n52605 Reviews\n3-8 Yrs\nHybrid - Pune, Bengaluru, Chennai\nThere is a huge requirement for Java Developer and these skills are mandatory (Java, Sp...\nJavaSpring BootMicroservicesSpring MicroservicesSpringBootJava Spring Boot\nToday\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        },
+        {
+          "title": "Java Spring boot Microse (2-9 years)",
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-microse-2-9-years-infosys-hyderabad-chennai-bengaluru-2-to-7-years-090926034257",
+          "portal_job_id": "090926034257",
+          "employer": "Infosys",
+          "card_location": "Hybrid - Bengaluru, Hyderabad, Chennai",
+          "card_excerpt": "Java Spring boot Microse (2-9 years)\nInfosys\n3.5\n52605 Reviews\n2-7 Yrs\nHybrid - Bengaluru, Hyderabad, Chennai\nThere is a huge requirement for Java Developer . Additional Responsibilities: Technica...\nJavaSpring BootMicroservicesBootJava Spring BootSpring\nPrefers women\nFew hours ago\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        },
+        {
+          "title": "Java Spring boot Microservice (3-15 years)",
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-microservice-3-15-years-infosys-pune-chennai-bengaluru-3-to-8-years-290726016682",
+          "portal_job_id": "290726016682",
+          "employer": "Infosys",
+          "card_location": "Hybrid - Pune, Bengaluru, Chennai",
+          "card_excerpt": "Java Spring boot Microservice (3-15 years)\nInfosys\n3.5\n52605 Reviews\n3-8 Yrs\nHybrid - Pune, Bengaluru, Chennai\nThere is a huge requirement for Java Developer and these skills are mandatory (Java, Sp...\nJavaSpring BootMicroservicesSpring MicroservicesSpringBootJava Spring Boot\nPrefers women\nToday\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        },
+        {
+          "title": "Java Spring boot Microservice (3-5 years)",
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-microservice-3-5-years-infosys-hyderabad-chennai-bengaluru-3-to-5-years-280726031420",
+          "portal_job_id": "280726031420",
+          "employer": "Infosys",
+          "card_location": "Hybrid - Bengaluru, Hyderabad, Chennai",
+          "card_excerpt": "Java Spring boot Microservice (3-5 years)\nInfosys\n3.5\n52605 Reviews\n3-5 Yrs\nHybrid - Bengaluru, Hyderabad, Chennai\nPreferred Skills: Technology->Java->Springboot\nJavaSpring BootMicroservicesSpring MicroservicesSpringBootJava Spring Boot\nPrefers women\nToday\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        },
+        {
+          "title": "Java Spring Boot Developer",
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-developer-infosys-hyderabad-chennai-bengaluru-2-to-5-years-130826022153",
+          "portal_job_id": "130826022153",
+          "employer": "Infosys",
+          "card_location": "Hybrid - Bengaluru, Hyderabad, Chennai",
+          "card_excerpt": "Java Spring Boot Developer\nInfosys\n3.5\n52605 Reviews\n2-5 Yrs\nHybrid - Bengaluru, Hyderabad, Chennai\nJob SummaryWe are looking for a skilled and motivated Java Spring Boot Developer with 2...\nJavaRestSpring BootMicroservicesAngularSQLBootstrapJava Spring Boot\nPrefers women\nToday\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        },
+        {
+          "title": "Java Spring boot Microservice (3-15 years)",
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-microservice-3-15-years-infosys-hyderabad-chennai-bengaluru-3-to-8-years-030826024159",
+          "portal_job_id": "030826024159",
+          "employer": "Infosys",
+          "card_location": "Hybrid - Bengaluru, Hyderabad, Chennai",
+          "card_excerpt": "Java Spring boot Microservice (3-15 years)\nInfosys\n3.5\n52605 Reviews\n3-8 Yrs\nHybrid - Bengaluru, Hyderabad, Chennai\nThere is a huge requirement for Java Developer and these skills are mandatory (Java, Sp...\nJavaSpring BootMicroservicesSpring MicroservicesJava Spring BootSpringBoot\nPrefers women\nToday\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        },
+        {
+          "title": "Java Spring boot Developer with AWS",
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-developer-with-aws-infosys-hyderabad-chennai-bengaluru-3-to-5-years-260426004474",
+          "portal_job_id": "260426004474",
+          "employer": "Infosys",
+          "card_location": "Hybrid - Bengaluru, Hyderabad, Chennai",
+          "card_excerpt": "Java Spring boot Developer with AWS\nInfosys\n3.5\n52605 Reviews\n3-5 Yrs\nHybrid - Bengaluru, Hyderabad, Chennai\nJava Spring Boot Developer with AWS (3-8 Years)Experience: 3 to 5 Years Location: Banga...\nFullstack DevelopmentSpring BootAWSJavaSpringFull StackBootBootstrap\nToday\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        },
+        {
+          "title": "Java Spring Boot Developer",
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-developer-tata-consultancy-services-hyderabad-pune-bengaluru-8-to-12-years-230926020957",
+          "portal_job_id": "230926020957",
+          "employer": "Tata Consultancy Services",
+          "card_location": "Pune, Bengaluru, Hyderabad",
+          "card_excerpt": "Java Spring Boot Developer\nTata Consultancy Services\n3.2\n122526 Reviews\n8-12 Yrs\nPune, Bengaluru, Hyderabad\nRequired Skills Knowledge of Docker and Kubernetes is preferred Experience: 8-12 Years ...\nJavaKafkaSpring BootOracleAWSBootJava Spring BootDevelopment\n5 days ago\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        },
+        {
+          "title": "Architect- Java Spring boot, Angular",
+          "url": "https://www.naukri.com/job-listings-architect-java-spring-boot-angular-ericsson-noida-gurugram-bengaluru-10-to-18-years-150626005301",
+          "portal_job_id": "150626005301",
+          "employer": "Ericsson",
+          "card_location": "Hybrid - Noida, Bengaluru, Gurugram",
+          "card_excerpt": "Architect- Java Spring boot, Angular\nEricsson\n3.9\n8960 Reviews\n10-18 Yrs\nHybrid - Noida, Bengaluru, Gurugram\nWith deep expertise in Java / Spring Boot and JavaScript/ Angular is mustStrong profici...\nAngularJava Spring BootDevelopmentArchitectingSolutioningMicroservicesNodeJSDesign\n5 days ago\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        },
+        {
+          "title": "Java Spring Boot Developer",
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-developer-infosys-pune-chennai-bengaluru-1-to-2-years-180826042980",
+          "portal_job_id": "180826042980",
+          "employer": "Infosys",
+          "card_location": "Hybrid - Pune, Bengaluru, Chennai",
+          "card_excerpt": "Java Spring Boot Developer\nInfosys\n3.5\n52605 Reviews\n1-2 Yrs\nHybrid - Pune, Bengaluru, Chennai\n Job SummaryWe are looking for a skilled and motivated Java Spring Boot Developer with ...\nJavaHibernateMicrosoft AzureSpring BootAWSMicroservicesSpringBoot\n1 week ago\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        },
+        {
+          "title": "Java Spring Boot Developer",
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-developer-infosys-pune-chennai-bengaluru-2-to-5-years-100826014171",
+          "portal_job_id": "100826014171",
+          "employer": "Infosys",
+          "card_location": "Pune, Bengaluru, Chennai",
+          "card_excerpt": "Java Spring Boot Developer\nInfosys\n3.5\n52605 Reviews\n2-5 Yrs\nPune, Bengaluru, Chennai\n Job SummaryWe are seeking a skilled Java Spring Boot Developer to design, develop, and...\nAngularjsSpring BootJavaReact.jsAWSMicroservicesBootstrapJava Spring Boot\n1 week ago\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        },
+        {
+          "title": "Java Spring Boot Developer-INF",
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-developer-inf-infosys-hyderabad-chennai-bengaluru-3-to-8-years-300726029684",
+          "portal_job_id": "300726029684",
+          "employer": "Infosys",
+          "card_location": "Bengaluru, Hyderabad, Chennai",
+          "card_excerpt": "Java Spring Boot Developer-INF\nInfosys\n3.5\n52605 Reviews\n3-8 Yrs\nBengaluru, Hyderabad, Chennai\nPreferred Skills: Technology->Java->Springboot . .\nJavaSpring BootMicroservicesBootJava Spring BootSpring\nPrefers women\n1 week ago\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        },
+        {
+          "title": "Java Spring boot Microservice (5-9 years)",
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-microservice-5-9-years-infosys-hyderabad-pune-bengaluru-5-to-9-years-180826009297",
+          "portal_job_id": "180826009297",
+          "employer": "Infosys",
+          "card_location": "Hybrid - Pune, Bengaluru, Hyderabad",
+          "card_excerpt": "Java Spring boot Microservice (5-9 years)\nInfosys\n3.5\n52605 Reviews\n5-9 Yrs\nHybrid - Pune, Bengaluru, Hyderabad\nThere is a huge requirement for Java Developer and these skills are mandatory (Java, Sp...\nJavaSpring BootMicroservicesSpring MicroservicesSpringBootJava Spring Boot\nPrefers women\nToday\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        },
+        {
+          "title": "Java spring boot microservices developer",
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-microservices-developer-infosys-hyderabad-chennai-bengaluru-2-to-3-years-190826036811",
+          "portal_job_id": "190826036811",
+          "employer": "Infosys",
+          "card_location": "Bengaluru, Hyderabad, Chennai",
+          "card_excerpt": "Java spring boot microservices developer\nInfosys\n3.5\n52605 Reviews\n2-3 Yrs\nBengaluru, Hyderabad, Chennai\nPreferred candidate profile . .\nJavaSpring BootMicroservicesBootDevelopmentSpring MicroservicesSpringJava Spring Boot\nPrefers women\n3+ weeks ago\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        },
+        {
+          "title": "Java Spring Boot Developer",
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-developer-infosys-hyderabad-pune-chennai-10-to-20-years-020926033455",
+          "portal_job_id": "020926033455",
+          "employer": "Infosys",
+          "card_location": "Hybrid - Pune, Hyderabad, Chennai",
+          "card_excerpt": "Java Spring Boot Developer\nInfosys\n3.5\n52605 Reviews\n10-20 Yrs\nHybrid - Pune, Hyderabad, Chennai\nJob SummaryWe are looking for a highly experienced Java Spring Boot Developer with 10-2...\nJavaHibernateSpring BootMicroservicesBootJava Spring BootDevelopmentSpring\nToday\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        },
+        {
+          "title": "Java Spring Boot Developer 6-11 yrs",
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-developer-6-11-yrs-infosys-hyderabad-chennai-bengaluru-6-to-11-years-090926010796",
+          "portal_job_id": "090926010796",
+          "employer": "Infosys",
+          "card_location": "Hybrid - Bengaluru, Hyderabad, Chennai",
+          "card_excerpt": "Java Spring Boot Developer 6-11 yrs\nInfosys\n3.5\n52605 Reviews\n6-11 Yrs\nHybrid - Bengaluru, Hyderabad, Chennai\n Job DescriptionWe are looking for a highly skilled Java Spring Boot Developer with rel...\nJavaHibernateSpring BootMicroservicesBootJava Spring BootDevelopmentSpring\nToday\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        },
+        {
+          "title": "Java Spring Boot Microservices with ReactJS +GCP || 26th Sep -virtual",
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-microservices-with-reactjs-gcp-26th-sep-virtual-tata-consultancy-services-hyderabad-chennai-bengaluru-6-to-10-years-250926001218",
+          "portal_job_id": "250926001218",
+          "employer": "Tata Consultancy Services",
+          "card_location": "Bengaluru, Hyderabad, Chennai",
+          "card_excerpt": "Java Spring Boot Microservices with ReactJS +GCP || 26th Sep -virtual\nTata Consultancy Services\n3.2\n122526 Reviews\n6-10 Yrs\nBengaluru, Hyderabad, Chennai\nPosition: Java Full Stack Developer (Spring Boot Microservices + ReactJS + GCP) Experie...\nJavaReactJSSpring BootReact.jsGCPGoogle Cloud PlatformJavaScriptHTML5\n3 days ago\nSave",
+          "source": "naukri",
+          "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=java%20spring%20boot&l=India&pageNo=1"
+        }
+      ],
+      "detail_pages_checked": 3,
+      "substantive_jd_pages": 3,
+      "details": [
+        {
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-microservices-developer-infosys-hyderabad-pune-bengaluru-2-to-3-years-040326011998",
+          "observed_url": "https://www.naukri.com/job-listings-java-spring-boot-microservices-developer-infosys-hyderabad-pune-bengaluru-2-to-3-years-040326011998",
+          "status": "ExactDetail",
+          "render_checks": 2,
+          "body_characters": 7241,
+          "jd_selector": "[class*=\"job-desc\"]",
+          "title_match": true,
+          "jd_characters": 2215,
+          "substantive_jd": true,
+          "jd_excerpt": "Job highlights\n5-9 years experience in Java, Spring Boot, microservices; BE/B.Tech/MCA/M.Tech/MSc/MS degree\nSupport consulting team in project phases, build POCs, create requirement specs, configure solutions, diagnose issues, and contribute to quality initiatives\nJob match score\nEarly Applicant\nKeyskills\nLocation\nWork Experience\nJob description\n\nJob description\n\n\nHiring for Java developer with experience range 5-9 years & above\n\n\nMandatory Skills: Java, spring boot, microservices etc.,\n\n\nEducation: BE/B.Tech/MCA/M.Tech/MSc./MS\n\n\nResponsibiliti"
+        },
+        {
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-microservices-developer-s-infosys-hyderabad-pune-bengaluru-5-to-9-years-240826031410",
+          "observed_url": "https://www.naukri.com/job-listings-java-spring-boot-microservices-developer-s-infosys-hyderabad-pune-bengaluru-5-to-9-years-240826031410",
+          "status": "ExactDetail",
+          "render_checks": 2,
+          "body_characters": 7766,
+          "jd_selector": "[class*=\"job-desc\"]",
+          "title_match": true,
+          "jd_characters": 2344,
+          "substantive_jd": true,
+          "jd_excerpt": "Job highlights\n5-9 years experience in Java development with expertise in Spring Boot and microservices, BE/B.Tech/MCA/M.Tech/MSc./MS degree\nSupport consulting team in project phases including problem definition, solution design, deployment, create requirement specs, build POCs, diagnose issues, and contribute to high-quality solutions\nJob match score\nEarly Applicant\nKeyskills\nLocation\nWork Experience\nJob description\n\nJob description\n\n\nHiring for Java developer with experience range 5-9 years & above\n\n\nMandatory Skills: Java, spring boot, micro"
+        },
+        {
+          "url": "https://www.naukri.com/job-listings-java-spring-boot-microservices-developer-2-3yrs-infosys-hyderabad-pune-bengaluru-2-to-3-years-200826027543",
+          "observed_url": "https://www.naukri.com/job-listings-java-spring-boot-microservices-developer-2-3yrs-infosys-hyderabad-pune-bengaluru-2-to-3-years-200826027543",
+          "status": "ExactDetail",
+          "render_checks": 2,
+          "body_characters": 9443,
+          "jd_selector": "[class*=\"job-desc\"]",
+          "title_match": true,
+          "jd_characters": 4015,
+          "substantive_jd": true,
+          "jd_excerpt": "Job highlights\n2-3 years experience in Java Spring Boot, Microservices Architecture, REST APIs, and SQL/NoSQL databases\nDesign, develop, and maintain Java Spring Boot microservices; build RESTful APIs; collaborate with teams; troubleshoot and optimize applications\nJob match score\nEarly Applicant\nKeyskills\nLocation\nWork Experience\nJob description\n\nJob Title: Java Spring Boot Microservices Developer\n\nExperience: 2-3 Years\nLocation: PAN India\nNotice Period: Immediate Joiners to 30 Days\nEmployment Type: Full-Time\n\nJob Summary\n\nWe are looking for a "
+        }
+      ],
+      "tab_lifecycle": {
+        "created": 1,
+        "reused": 0,
+        "closed": 1,
+        "remaining_automation_tabs": 0,
+        "remaining_tab_ids": []
+      }
+    },
+    "foundit": {
+      "status": "Partial",
+      "error_kind": null,
+      "pages": [
+        {
+          "query": "java spring boot",
+          "location": "India",
+          "page": 1,
+          "url": "https://www.foundit.in/srp/results?query=java%20spring%20boot&locations=India&page=1",
+          "checked_at": "2026-09-28T16:11:46.226473+00:00",
+          "status": "Success",
+          "visible_cards": 15,
+          "body_characters": 3441,
+          "render_checks": 1,
+          "lead_count": 5,
+          "card_ids": [
+            "68178832",
+            "64990001",
+            "66415770",
+            "65323326",
+            "65424189",
+            "64712952",
+            "65458920",
+            "65277623",
+            "63006044",
+            "62700984",
+            "69135121",
+            "63255035",
+            "48714978",
+            "50944733",
+            "63133068"
+          ],
+          "unresolved_cards": [
+            {
+              "portal_job_id": "68178832",
+              "reason": "no_job_specific_url_in_selected_detail"
+            },
+            {
+              "portal_job_id": "65323326",
+              "reason": "no_job_specific_url_in_selected_detail"
+            },
+            {
+              "portal_job_id": "64712952",
+              "reason": "no_job_specific_url_in_selected_detail"
+            },
+            {
+              "portal_job_id": "65458920",
+              "reason": "no_job_specific_url_in_selected_detail"
+            },
+            {
+              "portal_job_id": "65277623",
+              "reason": "no_job_specific_url_in_selected_detail"
+            }
+          ],
+          "observed_url": "https://www.foundit.in/srp/results?query=java%20spring%20boot&locations=India&page=1",
+          "sort": "Configured newest route where available"
+        }
+      ],
+      "visible_cards": 15,
+      "extracted_job_ids": 15,
+      "extracted_exact_urls": 5,
+      "job_ids": [
+        "48714978",
+        "50944733",
+        "62700984",
+        "63006044",
+        "63133068",
+        "63255035",
+        "64712952",
+        "64990001",
+        "65277623",
+        "65323326",
+        "65424189",
+        "65458920",
+        "66415770",
+        "68178832",
+        "69135121"
+      ],
+      "leads": [
+        {
+          "portal_job_id": "64990001",
+          "title": "Sr Software Engineer - Java, Spring Boot, Microservices, Azure",
+          "employer": "Blue Yonder",
+          "card_location": "Hyderabad, India",
+          "card_excerpt": "Sr Software Engineer - Java, Spring Boot, Microservices, Azure\n\nBlue Yonder\n\n5 - 8 Years\nHyderabad, India\n\nPosted 27 days ago",
+          "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Hyderabad/Sr-Software-Engineer---Java--Spring-Boot--Microservices--Azure_262141",
+          "source": "foundit",
+          "search_page_url": "https://www.foundit.in/srp/results?query=java%20spring%20boot&locations=India&page=1",
+          "provenance": "selected_card_visible_employer_link"
+        },
+        {
+          "portal_job_id": "66415770",
+          "title": "Senior Software Engineer (Java,Spring boot)",
+          "employer": "The Wells Fargo Foundation",
+          "card_location": "Hyderabad, India",
+          "card_excerpt": "Senior Software Engineer (Java,Spring boot)\n\nThe Wells Fargo Foundation\n\nFresher\nHyderabad, India\nEarly Applicant\n\nPosted 18 days ago",
+          "url": "https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-565298",
+          "source": "foundit",
+          "search_page_url": "https://www.foundit.in/srp/results?query=java%20spring%20boot&locations=India&page=1",
+          "provenance": "selected_card_visible_employer_link"
+        },
+        {
+          "portal_job_id": "65424189",
+          "title": "Lead Software Engineer - AWS automation with Java/Spring Boot, Kubernetes & Spark",
+          "employer": "Societe Generale Global Solution Centre",
+          "card_location": "Bengaluru, India",
+          "card_excerpt": "Lead Software Engineer - AWS automation with Java/Spring Boot, Kubernetes & Spark\n\nSociete Generale Global Solution Centre\n\n8 - 10 Years\nBengaluru, India\nEarly Applicant\n\nPosted 24 days ago",
+          "url": "https://www.linkedin.com/jobs/view/4461778247/",
+          "source": "foundit",
+          "search_page_url": "https://www.foundit.in/srp/results?query=java%20spring%20boot&locations=India&page=1",
+          "provenance": "selected_card_visible_employer_link"
+        },
+        {
+          "portal_job_id": "63006044",
+          "title": "Lead Software Engineer - Java, Spring Boot, Microservices, REST APIs, OAuth, Kafka, Azure",
+          "employer": "Blue Yonder",
+          "card_location": "Hyderabad, India",
+          "card_excerpt": "Lead Software Engineer - Java, Spring Boot, Microservices, REST APIs, OAuth, Kafka, Azure\n\nBlue Yonder\n\n7 - 10 Years\nHyderabad, India\n\nPosted a month ago",
+          "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Hyderabad/Lead-Software-Engineer---Java--Spring-Boot--Microservices--REST-APIs--OAuth--Kafka--Azure_262115",
+          "source": "foundit",
+          "search_page_url": "https://www.foundit.in/srp/results?query=java%20spring%20boot&locations=India&page=1",
+          "provenance": "selected_card_visible_employer_link"
+        },
+        {
+          "portal_job_id": "62700984",
+          "title": "Lead Software Engineer - Java, Spring Boot, Microservices, REST APIs, OAuth, Kafka, Azure",
+          "employer": "Blue Yonder",
+          "card_location": "Bengaluru, India",
+          "card_excerpt": "Lead Software Engineer - Java, Spring Boot, Microservices, REST APIs, OAuth, Kafka, Azure\n\nBlue Yonder\n\n7 - 10 Years\nBengaluru, India\n\nPosted a month ago",
+          "url": "https://www.linkedin.com/jobs/view/4454003471/",
+          "source": "foundit",
+          "search_page_url": "https://www.foundit.in/srp/results?query=java%20spring%20boot&locations=India&page=1",
+          "provenance": "selected_card_visible_employer_link"
+        }
+      ],
+      "detail_pages_checked": 3,
+      "substantive_jd_pages": 1,
+      "details": [
+        {
+          "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Hyderabad/Sr-Software-Engineer---Java--Spring-Boot--Microservices--Azure_262141",
+          "observed_url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Hyderabad/Sr-Software-Engineer---Java--Spring-Boot--Microservices--Azure_262141",
+          "status": "ExactDetail",
+          "render_checks": 2,
+          "body_characters": 156,
+          "jd_selector": null,
+          "title_match": false,
+          "jd_characters": 0,
+          "substantive_jd": false,
+          "jd_excerpt": ""
+        },
+        {
+          "url": "https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-565298",
+          "observed_url": "https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-565298",
+          "status": "ExactDetail",
+          "render_checks": 2,
+          "body_characters": 251,
+          "jd_selector": null,
+          "title_match": false,
+          "jd_characters": 0,
+          "substantive_jd": false,
+          "jd_excerpt": ""
+        },
+        {
+          "url": "https://www.linkedin.com/jobs/view/4461778247/",
+          "observed_url": "https://www.linkedin.com/jobs/view/4461778247/",
+          "status": "ExactDetail",
+          "render_checks": 1,
+          "body_characters": 19344,
+          "jd_selector": "visible_job_description_section",
+          "title_match": true,
+          "jd_characters": 13587,
+          "substantive_jd": true,
+          "jd_excerpt": "About the job\n\nReference 26000I7M\n\nResponsibilities\n\nRequisition Title: AWS Automation Expert with Java/Sprint Boot, Kubernetes & Spark\n\nBackground:\n\nAs part of the development and maintenance of our Big Data infrastructure on public cloud, we are looking for an experienced administrator to manage, optimize and ensure the availability of a platform focused on Spark and Synapse, with on-premise environments soon to migrate to public cloud solutions such as Snowflake and Databricks.\n\nLevel: Middle to Expert\n\nTechnical skills - Must Have:\n\n\nDevelo"
+        }
+      ],
+      "tab_lifecycle": {
+        "created": 1,
+        "reused": 0,
+        "closed": 1,
+        "remaining_automation_tabs": 0,
+        "remaining_tab_ids": []
+      }
+    }
+  },
+  "finished_at": "2026-09-28T16:12:37.973321+00:00"
+}

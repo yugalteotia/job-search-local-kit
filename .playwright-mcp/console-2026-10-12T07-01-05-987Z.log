@@ -1,0 +1,19 @@
+[    4131ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    4131ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    4131ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    4131ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    4131ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    4851ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920:0
+[    5027ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o97850.ingest.sentry.io/api/6722445/envelope/?sentry_key=0fa1e82141414716956803bf500a99a4&sentry_version=7&sentry_client=sentry.javascript.nextjs%2F7.80.0:0
+[    5133ms] [LOG] [Track] Unauth page loaded {cs_fe_uuid: 8550ebfd-97bc-43a2-a6f1-19e3308fe442, is_on_mobile_device: false, current_url: https://cutshort.io/jobs/java-jobs?query=Java%20Spring%20Boot%20backend&location=Delhi%20NCR&page=2, track_event_time: Mon Oct 12 2026 12:31:11 GMT+0530 (India Standard Time), user_agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36…KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36} @ https://cdnv2.cutshort.io/_next/static/chunks/pages/_app-c249f696ba246fea.js:31
+[    5194ms] [LOG] Service Worker registration successful with scope:  https://cutshort.io/ @ https://cdnv2.cutshort.io/_next/static/chunks/pages/_app-c249f696ba246fea.js:31
+[    5496ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    5496ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    5496ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    5496ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    5496ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    5682ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/spsnc/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0
+[    5683ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/spsnc/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0
+[    5737ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/spsnc/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0
+[    5785ms] [WARNING] No available adapters. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/spsnc/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0
+[    6304ms] [LOG] [Track] Candidate viewed job {jobid: 6acc78e9d896674fc99d6863, companyid: 64794138bfc31f12e8885d16, job_headline: Senior SDET, cs_fe_uuid: 8550ebfd-97bc-43a2-a6f1-19e3308fe442, distinct_id: 6ab5415717ef122866b4531a} @ https://cdnv2.cutshort.io/_next/static/chunks/pages/_app-c249f696ba246fea.js:31

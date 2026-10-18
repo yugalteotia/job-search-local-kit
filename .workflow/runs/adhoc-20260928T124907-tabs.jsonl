@@ -1,0 +1,3 @@
+{"time": "2026-09-28T12:49:07.733359+00:00", "event": "welcome_tab_created", "tab_id": 0, "owner": "1bb17d64-5bb5-49cc-8615-aae0262242cb", "verified_by": "relay_port_owned_by_this_mcp_process"}
+{"time": "2026-09-28T12:49:07.741126+00:00", "event": "welcome_tab_created", "tab_id": 0, "owner": "b462650c-bd96-43c6-a89c-baea123b8172", "verified_by": "relay_port_owned_by_this_mcp_process"}
+{"time": "2026-09-28T12:49:07.743437+00:00", "event": "welcome_tab_created", "tab_id": 0, "owner": "3218f600-4f8a-41c6-9a81-40a3d018f4cb", "verified_by": "relay_port_owned_by_this_mcp_process"}

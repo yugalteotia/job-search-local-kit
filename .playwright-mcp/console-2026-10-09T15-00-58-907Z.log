@@ -1,0 +1,18 @@
+[     308ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     308ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     308ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     308ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     308ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    1445ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920:0
+[    1447ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o97850.ingest.sentry.io/api/6722445/envelope/?sentry_key=0fa1e82141414716956803bf500a99a4&sentry_version=7&sentry_client=sentry.javascript.nextjs%2F7.80.0:0
+[    1557ms] [LOG] [Track] Unauth page loaded {cs_fe_uuid: 43873505-a08e-4f9e-bd77-537c18641bd3, is_on_mobile_device: false, current_url: https://cutshort.io/jobs/java-jobs?query=Java%20backend%20API&location=Mumbai&page=2, track_event_time: Fri Oct 09 2026 20:31:00 GMT+0530 (India Standard Time), user_agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36…KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36} @ https://cdnv2.cutshort.io/_next/static/chunks/pages/_app-c249f696ba246fea.js:31
+[    1584ms] [LOG] Service Worker registration successful with scope:  https://cutshort.io/ @ https://cdnv2.cutshort.io/_next/static/chunks/pages/_app-c249f696ba246fea.js:31
+[    1906ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    1907ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    1907ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    1907ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    1907ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    2228ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/v1jfs/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0
+[    2228ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/v1jfs/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0
+[    2266ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/v1jfs/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0
+[    2298ms] [WARNING] No available adapters. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/v1jfs/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0

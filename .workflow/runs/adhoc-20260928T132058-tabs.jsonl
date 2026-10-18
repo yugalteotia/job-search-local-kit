@@ -1,0 +1,2 @@
+{"time": "2026-09-28T13:20:58.890662+00:00", "event": "tab_created", "tab_id": 1, "owner": "017c01b4-5799-4931-903c-db4a319a2fe5"}
+{"time": "2026-09-28T13:20:58.969827+00:00", "event": "welcome_tab_created", "tab_id": 0, "owner": "919fc6cb-ea83-4c6e-9f41-28ea4b0b3d19", "verified_by": "relay_port_owned_by_this_mcp_process"}

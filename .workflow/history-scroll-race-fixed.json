@@ -1,0 +1,9 @@
+{
+  "at": "2026-10-13T05:11:28.723033+00:00",
+  "job_id": 314,
+  "diagnosed_rows": 221,
+  "expected_total": 221,
+  "hidden_sentinel_after_autoload": true,
+  "fix": "Recheck loaded row count before clicking disappearing sentinel",
+  "focused_test": "test_history_autoloaded_final_page_does_not_click_hidden_sentinel"
+}

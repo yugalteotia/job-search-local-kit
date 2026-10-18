@@ -1,0 +1,449 @@
+version: 1
+identity:
+  name: Yugal Teotia
+  phone: '+919560369538'
+  email: teotia.yugal@gmail.com
+  linkedin: https://www.linkedin.com/in/yugalteotia/
+  github: https://github.com/yugalteotia
+  location: Pune, India
+fit:
+  exclude_title_terms:
+  - fresher
+  - intern
+  - trainee
+  - lead
+  - principal
+  - staff
+  - architect
+  - manager
+  - head
+  - director
+  min_band_upper_years: 1.5
+  fundamentals_policy: non_blocking
+  fundamentals:
+  - \bobject.oriented\b
+  - \boops?\b
+  - \bdesign patterns?\b
+  - \bmulti.?thread\w*
+  - \bconcurrency\b
+  - \bdata structures?\b
+  - \balgorithms?\b
+  - \bagile\b
+  - \bscrum\b
+  - \bsdlc\b
+  - \bj2ee\b|\bjava ee\b
+  - \bjsp\b|\bservlets?\b
+  - \bjira\b
+  - \bsystem design\b
+  - \bdebugging\b|\btroubleshoot\w*
+  max_jd_age_hours: 72
+  any_of_categories:
+  - db
+  - cloud
+  - ci
+  - mq
+  - store
+  - orm
+  core_skills:
+  - java
+  - spring_boot
+  - spring_security
+  - microservices
+skills:
+  java:
+    category: lang
+    patterns:
+    - (?<![A-Za-z])java(?![A-Za-z])
+    basis: work
+    master_work_excerpt: Upgraded a microservice application across 20 Java modules
+      from Spring Boot 2.6 to Spring Boot 3.5
+  spring_boot:
+    category: spring
+    patterns:
+    - spring\s*boot
+    - \bspring\s+(?:mvc|framework|core)\b
+    - \bspring\b(?!\s*(?:cloud|batch|data|security|integration))
+    basis: work
+    master_work_excerpt: Upgraded a microservice application across 20 Java modules
+      from Spring Boot 2.6 to Spring Boot 3.5
+  spring_security:
+    category: spring
+    patterns:
+    - spring\s+security
+    basis: work
+    master_work_excerpt: redesigning security configuration for Spring Security 6
+  microservices:
+    category: api
+    patterns:
+    - micro.?services?
+    basis: work
+    master_work_excerpt: Upgraded a microservice application across 20 Java modules
+  rest_api:
+    category: api
+    patterns:
+    - \brestful\b
+    - \brest\s*(?:apis?|services?|web services?|endpoints?)\b
+    - \brest\b(?=\s*[,/&]|\s+and\b)
+    - \bapis?\b
+    basis: work
+    master_work_excerpt: Designed and implemented REST and gRPC APIs for cross-product
+      communication
+  grpc:
+    category: api
+    patterns:
+    - \bgrpc\b
+    - protocol buffers?|protobuf
+    basis: work
+    master_work_excerpt: Designed and implemented REST and gRPC APIs for cross-product
+      communication
+  mongodb:
+    category: db
+    patterns:
+    - mongo\s*db
+    - \bno.?sql\b
+    basis: work
+    master_work_excerpt: Optimized MongoDB data access using targeted indexes, bulk
+      reads, and batched audit retrieval
+  github_actions:
+    category: ci
+    patterns:
+    - github actions
+    - \bci\s*/\s*cd\b
+    - \bcicd\b
+    - continuous (?:integration|delivery|deployment)
+    basis: work
+    master_work_excerpt: Used existing GitHub Actions build, test, and deployment
+      workflows
+  ember_typescript:
+    category: frontend
+    patterns:
+    - \bember(?:\.js)?\b
+    - \btypescript\b
+    basis: work
+    master_work_excerpt: Built Ember.js/TypeScript configuration and reporting workflows
+  code_review:
+    category: practice
+    patterns:
+    - code reviews?
+    basis: work
+    master_work_excerpt: scenario design, debugging, and code review
+  tooling:
+    category: tooling
+    patterns:
+    - \bjunit\b
+    - \bmockito\b
+    - \bunit test\w*
+    - \bgit\b
+    - \bmaven\b
+    - \bgradle\b
+    - \bdocker\b
+    - \blinux\b
+    basis: profile_work
+    profile_work_excerpt: JUnit, Mockito, Git, Gradle, Maven, GitHub Actions, Docker,
+      Linux
+    master_skill_excerpt: Git, Gradle, Maven, GitHub Actions, Docker, Linux, JUnit,
+      Mockito
+  mysql_sql:
+    category: db
+    patterns:
+    - (?<![A-Za-z/])sql(?![A-Za-z])
+    - \bmysql\b
+    - \brdbms\b
+    - relational databases?
+    - database (?:creation|management)
+    basis: project
+    profile_project_excerpt: SQL, MySQL, JPA and Hibernate were studied in PG-DAC
+      and used in the in-progress Store REST API project
+    master_project_excerpt: Spring Boot, Spring Data JPA, MySQL, Flyway, OpenAPI
+    master_skill_excerpt: MongoDB, MySQL, Spring Data JPA, Hibernate, Flyway, Mongock/Mongobee
+  jpa_hibernate:
+    category: orm
+    patterns:
+    - \bjpa\b
+    - \bhibernate\b
+    - spring data
+    basis: project
+    profile_project_excerpt: MySQL + Spring Data JPA + Hibernate + Flyway
+    master_skill_excerpt: MySQL, Spring Data JPA, Hibernate, Flyway, Mongock/Mongobee
+  flyway_openapi:
+    category: tooling
+    patterns:
+    - \bflyway\b
+    - \bopenapi\b
+    - \bswagger\b
+    basis: project
+    master_project_excerpt: Spring Boot, Spring Data JPA, MySQL, Flyway, OpenAPI
+  kotlin:
+    category: lang
+    patterns:
+    - \bkotlin\b
+    basis: project
+    profile_project_excerpt: Kotlin, Jetpack Compose, Media3/ExoPlayer
+    master_skill_excerpt: Java, JavaScript, TypeScript, Kotlin
+  react:
+    category: frontend
+    patterns:
+    - \breact(?:\.js)?\b(?!\s+native)
+    basis: project
+    profile_project_excerpt: React.js (basic)
+    master_skill_excerpt: Ember.js, React.js, Jetpack Compose, HTML/CSS
+  messaging:
+    category: mq
+    basis: gap
+    patterns:
+    - \bkafka\b
+    - rabbit\s*mq
+    - active\s*mq
+    - \bjms\b
+    - event streaming
+    - \bpub\s*/?\s*sub\b
+  kubernetes:
+    category: container
+    basis: gap
+    patterns:
+    - \bkubernetes\b
+    - \bk8s\b
+    - \bopenshift\b
+    - \bhelm\b
+  aws:
+    category: cloud
+    basis: gap
+    patterns:
+    - \baws\b
+    - amazon web services
+    - \bec2\b
+    - \blambda\b
+  azure:
+    category: cloud
+    basis: gap
+    patterns:
+    - \bazure\b
+  gcp:
+    category: cloud
+    basis: gap
+    patterns:
+    - \bgcp\b
+    - google cloud
+  cloud_generic:
+    category: cloud
+    basis: gap
+    patterns:
+    - \bcloud\b
+  iac_devops:
+    category: devops
+    basis: gap
+    patterns:
+    - \bterraform\b
+    - \bansible\b
+    - \bdevops\b
+  jenkins:
+    category: ci
+    basis: gap
+    patterns:
+    - \bjenkins\b
+    - azure devops
+    - \bgitlab ci\b
+    - \bbamboo\b
+  caching_search:
+    category: store
+    basis: gap
+    patterns:
+    - \bredis\b
+    - elastic\s*search
+    - \bopensearch\b
+    - \bmemcached\b
+    - \bsolr\b
+  big_data:
+    category: data
+    basis: gap
+    patterns:
+    - \bspark\b
+    - \bhadoop\b
+    - \bbig data\b
+    - \bsnowflake\b
+    - \bdatabricks\b
+  other_languages:
+    category: lang
+    basis: gap
+    patterns:
+    - \bpython\b
+    - \bgolang\b|\bgo lang\b
+    - \bnode\.?js\b
+    - \.net\b
+    - \bc#
+    - \bphp\b
+    - \bruby\b
+    - \bscala\b
+  ai_agentic:
+    category: ai
+    basis: gap
+    patterns:
+    - \bllms?\b|large language models?
+    - \brag\b|retrieval augmented
+    - agentic|tool.using agents?|AI applications?|model APIs
+  mobile_delivery:
+    category: mobile
+    basis: gap
+    patterns:
+    - \bflutter\b|react\s+native|native\s+android
+    - google play|low.end phone|mobile crash reporting
+  nextjs:
+    category: frontend
+    basis: gap
+    patterns:
+    - \bnext\.?js\b
+  other_frameworks:
+    category: framework
+    basis: gap
+    patterns:
+    - \bquarkus\b|\bmicronaut\b|\bdropwizard\b|\bvertx\b|vert\.x
+    - \bdjango\b|\bflask\b|\bfastapi\b|\bexpress(?:\.js)?\b
+    - spring\s+webflux
+  other_frontend:
+    category: frontend
+    basis: gap
+    patterns:
+    - \bangular(?:js)?\b
+    - \bvue(?:\.js)?\b
+  spring_extras:
+    category: spring
+    basis: gap
+    patterns:
+    - spring\s+cloud
+    - spring\s+batch
+    - spring\s+integration
+  soap:
+    category: api
+    basis: gap
+    patterns:
+    - \bsoap\b
+    - \bwsdl\b
+  other_databases:
+    category: db
+    basis: gap
+    patterns:
+    - \boracle\b
+    - postgre\w*
+    - sql\s*server
+    - \bdb2\b
+    - \bcassandra\b
+    - \bdynamodb\b
+    - \bpl\s*/\s*sql\b
+    - \bgraphql\b
+answers:
+  rules:
+  - id: work_from_office
+    question: comfortable with.*(?:work from office|onsite|on site|hybrid|remote|wfo)|willing
+      to work (?:from office|onsite|on site|hybrid|remotely)
+    fact: 'Open to: any work mode'
+    value: 'Yes'
+  - id: current_residence_or_relocation
+    question: (?:living|residing|based|located).*\bor\b.*(?:ready|willing|open).*relocat
+    fact: 'Open to:.*any city in India; willing to relocate'
+    value: 'Yes'
+    confirmed_india_locations:
+    - bengaluru
+    - bangalore
+    - pune
+    - mumbai
+    - hyderabad
+    - chennai
+    - kolkata
+    - delhi
+    - delhi ncr
+    - gurugram
+    - gurgaon
+    - noida
+    - india
+  - id: relocation
+    question: willing to relocate|open to relocation
+    fact: willing to relocate
+    value: 'Yes'
+  - id: current_location
+    question: current location|current city|where are you currently based|where are
+      you located
+    fact: 'Current location: Pune, India'
+    value: Pune, India
+  - id: notice_period
+    question: notice period
+    fact: 'Application notice-period answer: \*\*Immediate joiner\*\*'
+    value: Immediate joiner
+  - id: earliest_joining_date
+    question: earliest joining date|when can you join
+    fact: 'Earliest joining date: \*\*1 October 2026\*\*'
+    value: 1 October 2026
+  - id: backend_experience
+    question: (?:backend|java).*experience|experience.*(?:backend|java)
+    fact: 'Relevant professional Java/backend experience: \*\*approximately 2 years'
+    value: Approximately 2 years
+  - id: total_experience
+    question: overall.*experience|total.*experience
+    fact: 2\+ years overall
+    value: 2+ years overall, approximately
+  - id: work_authorization
+    question: authorized to work|authorization to work
+    fact: unrestricted authorization to work in India
+    value: 'Yes'
+  - id: sponsorship
+    question: sponsorship
+    fact: no sponsorship required for an India-based role
+    value: 'No'
+  - id: gender
+    question: gender
+    fact: 'Gender: Male'
+    value: Male
+  - id: virtual_interview_availability
+    question: ^are you available for (?:a |an )?interview virtual$
+    fact: 'Virtual interview screening availability: \*\*Yes\*\*'
+    value: 'Yes'
+  - id: last_annual_ctc
+    question: (?:current|last|previous) (?:annual )?ctc|current compensation
+    fact: Current\ CTC:\ ₹10\ LPA\ annual\ total\ CTC\ =\ ₹9\ LPA\ fixed\ \+\ ₹1\
+      LPA\ performance\-based\ variable,\ confirmed\ by\ Yugal\.\ Never\ describe\
+      ₹10\ LPA\ as\ fixed\ pay\.\ Match\ the\ observed\ form's\ exact\ salary\ label\.
+    value: 10 LPA annual total CTC
+  - id: genai_agent_experience
+    question: ^how many years of experience do you have in genai or artificial intelligence$
+    fact: GenAI agent workflow development \(user confirmed 2026-10-14\)
+    value: '0.66'
+    duration_start_month: 2026-01
+    duration_end_date: '2026-09-30'
+    scope: AI agents for RCA and code optimization at IDeaS; no model or integration-feature
+      tenure claimed
+resume:
+  employment_end_label: Sep 2026
+  summary: Backend-focused Software Engineer with nearly two years of professional
+    Java experience building Spring Boot services, microservices, and REST/gRPC APIs.
+    Experienced with MongoDB, automated tests, GitHub Actions workflows, and limited
+    production deployment exposure to AWS ECS/Fargate. SQL, MySQL, JPA and Hibernate
+    experience is from PG-DAC training and a personal project.
+  ideas_bullet_order:
+  - 3
+  - 0
+  - 1
+  - 2
+  - 4
+  - 5
+  - 6
+  - 7
+  ideas_bullet_order_frontend:
+  - 3
+  - 0
+  - 5
+  - 1
+  - 2
+  - 4
+  - 6
+  - 7
+  keep_data_nova_bullets:
+  - 0
+  - 1
+  - 2
+  org_short:
+    Centre for Development of Advanced Computing, Pune: C-DAC, Pune
+  skill_rows_split:
+    Data:
+    - label: Data (production)
+      items: MongoDB, Mongock/Mongobee
+    - label: Data (project/training)
+      items: MySQL, Spring Data JPA, Hibernate, Flyway

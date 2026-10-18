@@ -1,0 +1,22 @@
+{
+  "job_id": 220,
+  "requisition_id": "190826038395",
+  "listing_url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-microservices-infosys-pune-chennai-bengaluru-2-to-5-years-190826038395",
+  "listing": {
+    "path": "/job-listings-java-backend-developer-spring-boot-microservices-infosys-pune-chennai-bengaluru-2-to-5-years-190826038395",
+    "exactIdInPath": true,
+    "applyVisible": true,
+    "appliedButtonVisible": false,
+    "appliedStatusVisible": false,
+    "pendingVisible": false,
+    "chatDrawerVisible": false,
+    "checked_at": "2026-09-29T08:12:20.604828+00:00"
+  },
+  "profile": {
+    "resume": "Yugal_Teotia_CV.pdf",
+    "uploadControlPresent": true,
+    "checked_at": "2026-09-29T08:12:22.142743+00:00"
+  },
+  "blocked_application_write_requests": [],
+  "finished_at": "2026-09-29T08:12:22.428703+00:00"
+}

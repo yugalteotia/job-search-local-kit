@@ -1,0 +1,156 @@
+{
+  "requisition_id": "4470285110",
+  "confirmed_by_user": true,
+  "confirmed_at": "2026-10-13T14:29:15.606770+00:00",
+  "fields": [
+    {
+      "key": "378d8991a8e61b833848f140687ede86fc649219320a0da1ee184dc16b6187f9",
+      "question": "First name",
+      "type": "text",
+      "answer": "Yugal"
+    },
+    {
+      "key": "cc1d3b8af240aab771ac296e269885a8ec9ac76849be3b0e97f9545baf559c03",
+      "question": "Last name",
+      "type": "text",
+      "answer": "Teotia"
+    },
+    {
+      "key": "44b6fe6fef457e373b0fd499ff04452fcd76c2710553f8b4a2d19a6ea0ce48d1",
+      "question": "Phone country code",
+      "type": "select-one",
+      "answer": "India (+91)"
+    },
+    {
+      "key": "5a05dcd061e00f1e1d6573c83a28f658d962418c2018606746247daa8b2219c7",
+      "question": "Mobile phone number",
+      "type": "text",
+      "answer": "9560369538"
+    },
+    {
+      "key": "963ab047ac814c5aae4ba8a8bef344ca598c66dea2aa003e415c09df3244c298",
+      "question": "Email address",
+      "type": "select-one",
+      "answer": "teotia.yugal@gmail.com"
+    },
+    {
+      "key": "fa610e07217a92da018f1dcd558b95ed6f73e368b9aee4aa2ba5d4275619b7b0",
+      "question": "Have you completed secondary education or its equivalent?",
+      "type": "radio",
+      "answer": "Yes"
+    },
+    {
+      "key": "918548ce5fced368998965869fba7adcfa463b40bf24a00c8ab214f94eeb0b95",
+      "question": "Are you legally authorized to work in the country in which this role is located? Required",
+      "type": "radio",
+      "answer": "Yes"
+    },
+    {
+      "key": "2249a968ca4e5bb21cd0939ff0f2dc18734d25a0427a28b875cf18d62ce56739",
+      "question": "Will you now or in the future require sponsorship to work in the country where this role is based? Required",
+      "type": "radio",
+      "answer": "No"
+    },
+    {
+      "key": "60af5e151ca5b913ac21419c248b8b3285e66b9c187fc0051cd470b99038c126",
+      "question": "Please confirm the Country in which you currently reside?",
+      "type": "select-one",
+      "answer": "Not listed"
+    },
+    {
+      "key": "0ab64231281d6f785947967a3bb1baec1efec3ef275cd4a2f8c30e10c06812b4",
+      "question": "If the country you currently live in is NOT listed in the question above, please confirm in which country you live?",
+      "type": "text",
+      "answer": "India"
+    },
+    {
+      "key": "e0b30fd0101a366d2bee4fbecc40ba2796c83e61b665edd54a7b41688d04d768",
+      "question": "What state are you currently located in?",
+      "type": "select-one",
+      "answer": "Maharashtra"
+    },
+    {
+      "key": "9803c5a8193fc0fddd87071effa9629c108427df36f686b5d4afdd2bda507c22",
+      "question": "What are your salary expectations for this role?",
+      "type": "text",
+      "answer": "1500000"
+    },
+    {
+      "key": "f688178351ae260fad5c231e3fc2f6a4eecd783aae9fe5e04ffdfcfbc908b85b",
+      "question": "Were you referred for this position? Required",
+      "type": "radio",
+      "answer": "No"
+    },
+    {
+      "key": "e4f5737bdffbc4de93cf7da5b846f63e5b758559f2c340a0904db4ddc7e2cefe",
+      "question": "Please provide a link to your LinkedIn profile.",
+      "type": "text",
+      "answer": "https://www.linkedin.com/in/yugalteotia/"
+    },
+    {
+      "key": "d6db05668b403b252072856e3b53738fad0bf8e816dc2ebf66aaf774cc2580eb",
+      "question": "As part of the employment process, all candidates are subject to employment and education verification, as well as a comprehensive background check, in accordance with applicable laws and company policies. I understand that I will be provided with additional information and asked to provide authorization before any such checks are conducted. Required",
+      "type": "radio",
+      "answer": "Yes"
+    },
+    {
+      "key": "8fe7001a7c7f5c63f7b5d6c3eae071fb11e7f57680d55d16f2978cc2116d7441",
+      "question": "I understand that all information provided in my application must be accurate and truthful, and that any misrepresentation may result in disqualification from the hiring process or termination of employment if discovered after hire. Required",
+      "type": "radio",
+      "answer": "Yes"
+    },
+    {
+      "key": "79030eacbc938eee066a1315796da295cc90144a6a5c8ed81c2d59d3f676f039",
+      "question": "I acknowledge that DigiCert and its service providers may collect and process my image and related identity verification information to verify my identity, prevent fraud, maintain security, and administer the hiring process. I understand that this information will be used only for these purposes and retained in accordance with DigiCert's applicable policies and legal obligations. If I choose not to provide the information required to complete identity verification, DigiCert may be unable to continue processing my application. Do you acknowledge and agree? Required",
+      "type": "radio",
+      "answer": "Yes"
+    },
+    {
+      "key": "06cb76dc41093c92d6a3084633c749d45dbee48e795478d4510f8f92c4d72613",
+      "question": "Can you please share the total number of years of experience you have in the industry?",
+      "type": "text",
+      "answer": "2.5"
+    },
+    {
+      "key": "f3dde166e6d59774f6120fdc64944d399d99133b9e1703685b2aa3280de623f4",
+      "question": "Is your current location in Bangalore?",
+      "type": "text",
+      "answer": "no"
+    },
+    {
+      "key": "c462e5468b657fc80871447a076383edbb251eccf12d3cabaf82bfd91930694c",
+      "question": "Can you please provide the details of your current CTC, including the fixed, variable, and RSU/ESOP components?",
+      "type": "textarea",
+      "answer": "Fixed: INR 9 LPA\nVariable: INR 1LPA"
+    },
+    {
+      "key": "555f130c58d155b0b0b1237484fb5ff82d74ea929bdea2193c0f580e25d03161",
+      "question": "what are the major tech stacks you have majorly worked upon?",
+      "type": "text",
+      "answer": "Spring-Boot, Java, MongoDb, MySql, React.js, Angular.js"
+    },
+    {
+      "key": "a02124142f570833c4c59baf5785b10a1763c41dd79136670126ae6fd19caebe",
+      "question": "What is the duration of your notice period?",
+      "type": "text",
+      "answer": "Immediate Joiner"
+    },
+    {
+      "key": "e861f1deb0c6838412457f328655efd082d5092455c8678252915c6e19004f41",
+      "question": "What are the reasons for your job change?",
+      "type": "textarea",
+      "answer": "My role there had reached its limit, and I was looking for better opportunities for career growth and professional development."
+    },
+    {
+      "key": "c6fba9a0323a3bc87ac85dbda18aee0e27705bef5ef4bbafb51c10488bb78906",
+      "question": "Voluntary Self-Identification of Gender * Required",
+      "type": "radio",
+      "answer": "Male"
+    }
+  ],
+  "experience_answers_valid": false,
+  "experience_correction_source": "Confirmed employment dates; user acknowledged rounding up.",
+  "experience_answer_one_off_user_override": true,
+  "experience_override_reusable": false,
+  "override_recorded_at": "2026-10-13T15:51:47.435560+00:00"
+}

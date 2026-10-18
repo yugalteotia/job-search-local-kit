@@ -1,0 +1,38 @@
+{
+  "job_id": 365,
+  "requisition_id": "141026016132",
+  "original_attempt_id": "92649bb3-2263-45b9-9489-019b4ea96ab9",
+  "answer_authorized": "Yes",
+  "basis": "Confirmed willingness to relocate within India; no current-residence claim",
+  "original_saves": 0,
+  "protected_locks_before": [
+    {
+      "id": 220,
+      "state": "SubmissionUnconfirmed",
+      "attempt_id": "b59f715d-900f-4ce8-94eb-32385b97bf92",
+      "attempt_state": "uncertain"
+    },
+    {
+      "id": 241,
+      "state": "SubmissionUnconfirmed",
+      "attempt_id": "1e71b9fe-7638-4205-98d9-09fc908f5ba6",
+      "attempt_state": "uncertain"
+    },
+    {
+      "id": 250,
+      "state": "SubmissionUnconfirmed",
+      "attempt_id": "9a7b0155-5410-4784-a255-2da08c2cdc45",
+      "attempt_state": "uncertain"
+    }
+  ],
+  "focused_no_submit_checks_passed": 4,
+  "run_evidence": ".workflow/runs/2ad32ff8-6c08-4fd4-954e-3b87a2ee5f4f.json",
+  "status": "Applied",
+  "new_claims": 0,
+  "original_claim_preserved": true,
+  "protected_locks_unchanged": true,
+  "generic_resume_verified": true,
+  "answer_sent": false,
+  "questionnaire_completion_verified": false,
+  "confirmation_path": "jobs/naukri-141026016132/naukri-native-confirmation.json"
+}

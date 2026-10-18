@@ -1,0 +1,101 @@
+{
+  "checked_at": "2026-09-29T11:10:08.224162+00:00",
+  "job_id": 244,
+  "portal_job_id": "070926003879",
+  "source": "naukri_portal_native",
+  "verification": "Portal-native JD verified; current isolated-profile read-only check confirms exact live listing and enabled Apply. Tech Mahindra is named as hiring employer; Naukri E-Hire Campaign is poster. Posting date Unknown.",
+  "fit": "Medium",
+  "eligible_for_application": false,
+  "confirmed_match_evidence": [
+    {
+      "requirement": "1.5+ years professional Java experience",
+      "evidence": "JD says 1.5+ years. Confirmed IDeaS tenure is Oct 2024–Sep 2026 (1 year 11 months); not rounded up."
+    },
+    {
+      "requirement": "Java, Spring Boot, microservices and REST APIs",
+      "evidence": "JD lists Core Java, Spring Boot, microservices and RESTful APIs. Confirmed production IDeaS Java 17, Spring Boot/Spring MVC, microservices and REST API work."
+    },
+    {
+      "requirement": "Databases",
+      "evidence": "JD accepts MySQL, Oracle, PostgreSQL or MongoDB. Confirmed IDeaS production MongoDB; SQL/MySQL are PG-DAC and Store REST API project/training only."
+    },
+    {
+      "requirement": "CI/CD and cloud deployment",
+      "evidence": "JD asks to use Docker, Kubernetes, and AWS/GCP/Azure for CI and automated deployment. Confirmed IDeaS GitHub Actions build/test/deployment workflow use and service deployment through available UI to AWS ECS/Fargate."
+    }
+  ],
+  "hard_blockers": [],
+  "other_gaps": [
+    "Kubernetes not confirmed although named in deployment duties.",
+    "Spring Cloud, SOAP, Jenkins, and Oracle are not confirmed; JD lists them among its broad technical requirements. GitHub Actions and REST are demonstrated; production MongoDB satisfies one stated database alternative.",
+    "No evidence of mentoring junior developers."
+  ],
+  "decision": "Strong Medium: core professional Java/Spring Boot/backend duties and 1.5+ year threshold match; limited production AWS deployment supports the CI/CD duty, while Kubernetes and several named technologies remain explicit gaps. Stage only for the single controlled pilot, not autonomous submission.",
+  "url": "https://www.naukri.com/job-listings-java-backend-developer-naukri-e-hire-campaign-mumbai-1-to-4-years-070926003879",
+  "prior_application_check": {
+    "source": "Naukri Applied Jobs",
+    "loaded_rows": 74,
+    "source_total": 74,
+    "full_history_loaded": true,
+    "exact_portal_job_id_matches": 0,
+    "recorded_at": "2026-09-29T11:12:51.885834+00:00",
+    "status": "Exact job ID absent from full 74-row Naukri Applied Jobs history (captured 2026-09-29T11:12:51Z); no SQLite submission attempt exists."
+  },
+  "profile_resume_after_review": "Yugal_Teotia_CV.pdf",
+  "actual_hiring_employer": "Tech Mahindra",
+  "posting_date_evidence": {
+    "visible_text": [
+      "Posted: 3 weeks ago",
+      "Posted 22 days ago",
+      "Posted 4 days ago"
+    ],
+    "absolute_date": null,
+    "status": "Unknown; page shows relative ages and no absolute date; multiple labels prevent a single exact age from being assigned confidently."
+  },
+  "pilot_stage": "Eligible for one controlled manual-scope pilot after same-day live state recheck; scheduled submissions remain disabled",
+  "cloud_requirement_review": {
+    "jd_excerpt": "Deployment & CI/CD: Utilize Docker, Kubernetes, and cloud platforms (AWS, GCP, or Azure) for continuous integration and automated deployments.",
+    "essential_tools_excerpt": "Tools & Platforms: Git, Maven/Gradle, Jenkins, Docker, AWS/Azure/GCP.",
+    "confirmed_evidence": "At IDeaS, used GitHub Actions build/test/deployment workflows and deployed services through the available UI to AWS ECS/Fargate.",
+    "boundary": "Limited production cloud deployment exposure; no AWS infrastructure design or administration. This supports deployment/CI usage, not deep cloud engineering expertise.",
+    "decision": "Cloud deployment duty is partially supported; Kubernetes is not confirmed. Treat as a material gap, not a hard eligibility failure on the wording available."
+  },
+  "fresh_browser_recheck": {
+    "attempted": true,
+    "result": "Success: signed in; exact listing path matched; Apply visible; form not opened; no submission action.",
+    "checked_at": "2026-09-29T11:56:27.085828+00:00"
+  },
+  "reassessed_at": "2026-09-29T11:56:27.085828+00:00",
+  "live_recheck": {
+    "checked_at": "2026-09-29T11:56:27.085828+00:00",
+    "job_id": 244,
+    "portal_job_id": "070926003879",
+    "source": "naukri_portal_native",
+    "canonical_url": "https://www.naukri.com/job-listings-java-backend-developer-naukri-e-hire-campaign-mumbai-1-to-4-years-070926003879",
+    "account_signed_in": true,
+    "exact_listing_path": true,
+    "page_title": "Java Backend Developer - Mumbai - Naukri E Hire Campaign - 1 to 4 years of experience",
+    "hiring_employer_text": "Tech Mahindra is hiring candidates for Java Backend Developer role for Mumbai location.",
+    "portal_poster_text": "Posted by Naukri E Hire Campaign",
+    "apply_action_visible_and_enabled": true,
+    "posting_text_seen": [
+      "Posted: 3 weeks ago",
+      "Posted 22 days ago",
+      "Posted 4 days ago"
+    ],
+    "absolute_posting_date": null,
+    "posting_date_status": "Unknown; page shows relative ages and no absolute date; multiple labels prevent a single exact age from being assigned confidently.",
+    "applied_indicator_on_detail_page": false,
+    "full_applied_jobs_history": {
+      "rows_loaded": 74,
+      "source_total": 74,
+      "full_history_loaded": true,
+      "exact_portal_id_matches": 0,
+      "captured_at": "2026-09-29T11:12:51.885834+00:00"
+    },
+    "sqlite_submission_attempts": 0,
+    "form_opened": false,
+    "upload_performed": false,
+    "submission_attempted": false
+  }
+}

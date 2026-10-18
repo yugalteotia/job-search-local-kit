@@ -1,0 +1,83 @@
+{
+  "run_id": "768dd269-765c-49f1-9b66-11c3d3b81ce2",
+  "started_at": "2026-10-14T12:30:50.747249+00:00",
+  "mode": "read_only",
+  "upload_enabled": false,
+  "submission_enabled": false,
+  "scheduled": true,
+  "test": true,
+  "source_scope": [
+    "linkedin"
+  ],
+  "fresh_only": true,
+  "queue_only": false,
+  "continuation_of": null,
+  "status": "Success",
+  "sources": {
+    "linkedin": {
+      "source": "linkedin",
+      "status": "Success",
+      "session_health": {
+        "signed_in": true,
+        "authentication_required": false,
+        "verification_required": false,
+        "session_state": "authenticated",
+        "error_kind": null,
+        "navigation_error": null,
+        "health_samples": [
+          {
+            "path": "/feed/",
+            "feed_links": 0,
+            "password_fields": 0,
+            "ready_state": "complete",
+            "authenticated_controls": 1,
+            "login_fields": 0,
+            "captcha_visible": false,
+            "verification_heading": false,
+            "restriction_heading": false,
+            "loading_indicator": true,
+            "state": "authenticated"
+          },
+          {
+            "path": "/feed/",
+            "feed_links": 0,
+            "password_fields": 0,
+            "ready_state": "complete",
+            "authenticated_controls": 1,
+            "login_fields": 0,
+            "captcha_visible": false,
+            "verification_heading": false,
+            "restriction_heading": false,
+            "loading_indicator": false,
+            "state": "authenticated"
+          }
+        ],
+        "launcher": "linkedin_browser.chrome",
+        "profile": "/home/yugal/.local/share/job-search-private/linkedin-direct-playwright/user-data",
+        "read_only": true,
+        "service_workers": "block"
+      },
+      "pages": [],
+      "leads": [],
+      "checked_at": "2026-10-14T12:30:55.067011+00:00"
+    }
+  },
+  "coverage": {},
+  "leads": 0,
+  "unique_original_requisitions_verified": 0,
+  "fit_decisions": {},
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/768dd269-765c-49f1-9b66-11c3d3b81ce2.json"
+  ],
+  "queue": {},
+  "stage_seconds": {},
+  "stage_counts": {},
+  "top_reviewed": [],
+  "session_check_only": true,
+  "finished_at": "2026-10-14T12:30:55.206411+00:00"
+}

@@ -1,0 +1,97 @@
+{
+  "shard": "portals_c",
+  "searches": [
+    {
+      "source": "Cutshort",
+      "query": "Java Spring Boot backend jobs in Bengaluru 1-3 years",
+      "page_url": "https://cutshort.io/search-jobs?free_text=Java%20Spring%20Boot%20backend%20jobs%20in%20Bengaluru%201-3%20years",
+      "page_number": 1,
+      "sort": "site default; no date sort observed",
+      "checked_at": "2026-09-28T03:02:15Z",
+      "status": "checked; one result page actually viewed; no second page opened"
+    },
+    {
+      "source": "Cutshort",
+      "query": "Java Spring Boot API developer Pune 1-3 years",
+      "page_url": "https://cutshort.io/search-jobs?free_text=Java%20Spring%20Boot%20API%20developer%20Pune%201-3%20years",
+      "page_number": 1,
+      "sort": "site default; no date sort observed",
+      "checked_at": "2026-09-28T03:03:12Z",
+      "status": "checked; one result page actually viewed; no second page opened"
+    },
+    {
+      "source": "Hevo Data original Lever board",
+      "query": "backend engineering openings in Bangalore and Pune",
+      "page_url": "https://jobs.lever.co/hevodata",
+      "page_number": 1,
+      "sort": "board default; no date sort observed",
+      "checked_at": "2026-09-28T03:03:40Z",
+      "status": "checked; SDE I and SDE II match existing tracker IDs; Associate SDE inspected"
+    },
+    {
+      "source": "Gmail job-alert metadata",
+      "query": "job alert",
+      "page_url": "https://mail.google.com/mail/u/0/#search/job+alert",
+      "page_number": 1,
+      "sort": "Gmail displayed order; no sort control used",
+      "checked_at": "2026-09-28T03:04:30Z",
+      "status": "checked first 10 metadata rows only; no messages opened"
+    },
+    {
+      "source": "Capco original Greenhouse board",
+      "query": "Java Backend Developer and Java Developer openings in Pune",
+      "page_url": "https://job-boards.greenhouse.io/capco?offices%5B%5D=69404",
+      "page_number": 1,
+      "sort": "board default; New badges visible, no date sort observed",
+      "checked_at": "2026-09-28T03:05:25Z",
+      "status": "checked; two New Java requisitions inspected"
+    },
+    {
+      "source": "Cutshort candidate dashboard",
+      "query": "saved portal alerts",
+      "page_url": "https://cutshort.io/profile/candidate-dashboard",
+      "page_number": 1,
+      "sort": "not applicable",
+      "checked_at": "2026-09-28T03:06:25Z",
+      "status": "checked; no saved-jobs or alerts section found on dashboard; recommended-jobs link observed but not opened"
+    }
+  ],
+  "original_requisitions": [
+    {
+      "company": "Hevo Data",
+      "requisition_id": "993a3ed3-3014-432f-b0f4-28d300d58d9a",
+      "original_url": "https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a",
+      "live_verified": true,
+      "fit": "Low: Associate SDE candidate persona explicitly targets freshers and basic REST/API work under mentorship, below the documented roughly two years of production backend engineering"
+    },
+    {
+      "company": "Capco",
+      "requisition_id": "8230093",
+      "original_url": "https://job-boards.greenhouse.io/capco/jobs/8230093",
+      "live_verified": true,
+      "fit": "Low: essential 5+ years of Java backend experience exceeds documented professional experience"
+    },
+    {
+      "company": "Capco",
+      "requisition_id": "8226057",
+      "original_url": "https://job-boards.greenhouse.io/capco/jobs/8226057",
+      "live_verified": true,
+      "fit": "Low: senior Java role requires production Redis, messaging, AWS and relational SQL depth not demonstrated"
+    },
+    {
+      "company": "NatWest Group",
+      "requisition_id": "R-00285609",
+      "original_url": "https://jobs.natwestgroup.com/jobs/18275600-software-engineer",
+      "live_verified": false,
+      "fit": "unknown"
+    }
+  ],
+  "alerts_checked": 10,
+  "blocked_sources": [
+    {
+      "source": "NatWest Group original careers",
+      "url": "https://jobs.natwestgroup.com/jobs/18275600-software-engineer",
+      "reason": "HTTP 403 Cloudflare; no retry or bypass"
+    }
+  ]
+}

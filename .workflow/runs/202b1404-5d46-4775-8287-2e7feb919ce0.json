@@ -1,0 +1,3751 @@
+{
+  "run_id": "202b1404-5d46-4775-8287-2e7feb919ce0",
+  "started_at": "2026-09-29T11:00:01.009067+00:00",
+  "mode": "read_only",
+  "upload_enabled": false,
+  "submission_enabled": false,
+  "scheduled": true,
+  "test": false,
+  "source_scope": null,
+  "fresh_only": false,
+  "status": "Partial",
+  "sources": {
+    "naukri": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-09-29T11:00:44.203638+00:00",
+      "pages_checked": 6,
+      "leads": 119,
+      "feed_jobs": 0
+    },
+    "indeed": {
+      "status": "Blocked",
+      "error_kind": "site_verification",
+      "checked_at": "2026-09-29T11:00:51.451551+00:00",
+      "pages_checked": 1,
+      "leads": 0,
+      "feed_jobs": 0
+    },
+    "linkedin": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-09-29T11:01:03.854398+00:00",
+      "pages_checked": 6,
+      "leads": 49,
+      "feed_jobs": 0
+    },
+    "brillio_lever": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-09-29T11:01:03.854592+00:00",
+      "pages_checked": 3,
+      "leads": 0,
+      "feed_jobs": 222
+    },
+    "celonis_greenhouse": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-29T11:01:12.072413+00:00",
+      "pages_checked": 1,
+      "leads": 0,
+      "feed_jobs": 100
+    },
+    "ghx_greenhouse": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-09-29T11:01:13.600697+00:00",
+      "pages_checked": 1,
+      "leads": 0,
+      "feed_jobs": 47
+    },
+    "legion_greenhouse": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-09-29T11:01:14.321665+00:00",
+      "pages_checked": 1,
+      "leads": 0,
+      "feed_jobs": 16
+    },
+    "tegna_greenhouse": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-09-29T11:01:14.925001+00:00",
+      "pages_checked": 1,
+      "leads": 0,
+      "feed_jobs": 6
+    },
+    "cutshort": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-09-29T11:01:24.927582+00:00",
+      "pages_checked": 4,
+      "leads": 200,
+      "feed_jobs": 0
+    },
+    "gradera_ashby": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-09-29T11:01:24.927771+00:00",
+      "pages_checked": 1,
+      "leads": 0,
+      "feed_jobs": 6
+    },
+    "dnb_lever": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-09-29T11:01:15.476156+00:00",
+      "pages_checked": 2,
+      "leads": 0,
+      "feed_jobs": 120
+    },
+    "foundit": {
+      "status": "NoVisibleCards",
+      "error_kind": null,
+      "checked_at": "2026-09-29T11:01:42.880716+00:00",
+      "pages_checked": 6,
+      "leads": 0,
+      "feed_jobs": 0
+    }
+  },
+  "coverage": {
+    "naukri": [
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Delhi NCR",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=Delhi%20NCR&pageNo=1",
+        "checked_at": "2026-09-29T11:00:10.177590+00:00",
+        "status": "Success",
+        "error_kind": null,
+        "visible_cards": 20,
+        "body_characters": 9861,
+        "render_checks": 2,
+        "lead_count": 20,
+        "card_ids": [
+          "250926911107",
+          "250926911105",
+          "160926032761",
+          "250926911114",
+          "250926911112",
+          "250926911111",
+          "250926911110",
+          "230926935177",
+          "200926009243",
+          "180926501133",
+          "250926916949",
+          "250926916948",
+          "250926916446",
+          "250926916444",
+          "250926911143",
+          "250926911142",
+          "250926916953",
+          "250926916952",
+          "250926916951",
+          "250926916950"
+        ],
+        "unresolved_cards": [],
+        "observed_url": "https://www.naukri.com/java-spring-boot-backend-jobs-in-delhi-ncr",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Delhi NCR",
+        "page": 2,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=Delhi%20NCR&pageNo=2",
+        "checked_at": "2026-09-29T11:00:16.849742+00:00",
+        "status": "Success",
+        "error_kind": null,
+        "visible_cards": 20,
+        "body_characters": 9279,
+        "render_checks": 2,
+        "lead_count": 20,
+        "card_ids": [
+          "250926916453",
+          "250926916450",
+          "250926916449",
+          "250926916447",
+          "250926911149",
+          "250926911148",
+          "250926911147",
+          "250926911146",
+          "250826502442",
+          "200726504293",
+          "110926024099",
+          "100826503820",
+          "041125502182",
+          "040926022571",
+          "040926021758",
+          "040926021683",
+          "040926020715",
+          "040926020704",
+          "040926018481",
+          "040926016740"
+        ],
+        "unresolved_cards": [],
+        "observed_url": "https://www.naukri.com/java-spring-boot-backend-jobs-in-delhi-ncr-2",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java backend API",
+        "location": "Mumbai",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20backend%20API&l=Mumbai&pageNo=1",
+        "checked_at": "2026-09-29T11:00:24.169676+00:00",
+        "status": "Success",
+        "error_kind": null,
+        "visible_cards": 22,
+        "body_characters": 10901,
+        "render_checks": 2,
+        "lead_count": 20,
+        "card_ids": [
+          "250926916520",
+          "250926913498",
+          "250926911565",
+          "250926911137",
+          "250926907648",
+          "240926040912",
+          "090926012681",
+          "030926032553",
+          "280926502847",
+          "270126504962",
+          "250926916521",
+          "250926916518",
+          "250926916497",
+          "250926913499",
+          "250926913496",
+          "250926913472",
+          "250926911566",
+          "250926911563",
+          "250926911513",
+          "250926911138"
+        ],
+        "unresolved_cards": [],
+        "observed_url": "https://www.naukri.com/java-backend-api-jobs-in-mumbai",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java backend API",
+        "location": "Mumbai",
+        "page": 2,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20backend%20API&l=Mumbai&pageNo=2",
+        "checked_at": "2026-09-29T11:00:30.886604+00:00",
+        "status": "Success",
+        "error_kind": null,
+        "visible_cards": 20,
+        "body_characters": 9128,
+        "render_checks": 2,
+        "lead_count": 20,
+        "card_ids": [
+          "250926911136",
+          "250926911116",
+          "250926908672",
+          "250926907651",
+          "250926907646",
+          "250926907618",
+          "240926023278",
+          "221125502007",
+          "210726502163",
+          "200226504803",
+          "180926503031",
+          "150726501995",
+          "121224501268",
+          "110625503085",
+          "070926506306",
+          "070926003879",
+          "070926003541",
+          "020726501127",
+          "020726501124",
+          "020726501123"
+        ],
+        "unresolved_cards": [],
+        "observed_url": "https://www.naukri.com/java-backend-api-jobs-in-mumbai-2",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Chennai",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Spring%20Boot%20software%20engineer&l=Chennai&pageNo=1",
+        "checked_at": "2026-09-29T11:00:37.852296+00:00",
+        "status": "Success",
+        "error_kind": null,
+        "visible_cards": 20,
+        "body_characters": 9720,
+        "render_checks": 2,
+        "lead_count": 19,
+        "card_ids": [
+          "301025505967",
+          "290526502257",
+          "210526509162",
+          "150926013889",
+          "160626503959",
+          "070926915074",
+          "060726500823",
+          "010926037486",
+          "310826919887",
+          "310826919885",
+          "310826014784",
+          "310726502093",
+          "310726027154",
+          "300726501201",
+          "300726501185",
+          "300426501400",
+          "290926500603",
+          "290526505404",
+          "280926928852"
+        ],
+        "unresolved_cards": [],
+        "observed_url": "https://www.naukri.com/spring-boot-software-engineer-jobs-in-chennai",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Chennai",
+        "page": 2,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Spring%20Boot%20software%20engineer&l=Chennai&pageNo=2",
+        "checked_at": "2026-09-29T11:00:43.957446+00:00",
+        "status": "Success",
+        "error_kind": null,
+        "visible_cards": 20,
+        "body_characters": 8589,
+        "render_checks": 2,
+        "lead_count": 20,
+        "card_ids": [
+          "280926928775",
+          "280926928773",
+          "280926928771",
+          "280926928651",
+          "280926928649",
+          "280926928646",
+          "280926928626",
+          "280926928605",
+          "280926928377",
+          "280926928316",
+          "280926927703",
+          "280926927696",
+          "280926927631",
+          "280926927597",
+          "280926903708",
+          "280926504208",
+          "280926030469",
+          "280726502473",
+          "280426500329",
+          "280126507007"
+        ],
+        "unresolved_cards": [],
+        "observed_url": "https://www.naukri.com/spring-boot-software-engineer-jobs-in-chennai-2",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "indeed": [
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Delhi NCR",
+        "page": 1,
+        "url": "https://in.indeed.com/jobs?q=Java%20Spring%20Boot%20backend&l=Delhi%20NCR&sort=date&start=0",
+        "checked_at": "2026-09-29T11:00:51.214397+00:00",
+        "status": "Blocked",
+        "lead_count": 0,
+        "error_kind": "site_verification"
+      }
+    ],
+    "linkedin": [
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Delhi NCR",
+        "page": 1,
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Spring%20Boot%20backend&location=Delhi%20NCR&sortBy=DD&start=0",
+        "checked_at": "2026-09-29T11:00:14.187696+00:00",
+        "status": "Success",
+        "error_kind": null,
+        "visible_cards": null,
+        "body_characters": null,
+        "render_checks": 1,
+        "lead_count": 10,
+        "card_ids": [],
+        "unresolved_cards": [],
+        "observed_url": "https://www.linkedin.com/jobs/search/",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Delhi NCR",
+        "page": 2,
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Spring%20Boot%20backend&location=Delhi%20NCR&sortBy=DD&start=25",
+        "checked_at": "2026-09-29T11:00:19.992747+00:00",
+        "status": "Success",
+        "error_kind": null,
+        "visible_cards": null,
+        "body_characters": null,
+        "render_checks": 1,
+        "lead_count": 2,
+        "card_ids": [],
+        "unresolved_cards": [],
+        "observed_url": "https://www.linkedin.com/jobs/search/",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java backend API",
+        "location": "Mumbai",
+        "page": 1,
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20backend%20API&location=Mumbai&sortBy=DD&start=0",
+        "checked_at": "2026-09-29T11:00:29.026383+00:00",
+        "status": "Success",
+        "error_kind": null,
+        "visible_cards": null,
+        "body_characters": null,
+        "render_checks": 1,
+        "lead_count": 10,
+        "card_ids": [],
+        "unresolved_cards": [],
+        "observed_url": "https://www.linkedin.com/jobs/search/",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java backend API",
+        "location": "Mumbai",
+        "page": 2,
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20backend%20API&location=Mumbai&sortBy=DD&start=25",
+        "checked_at": "2026-09-29T11:00:38.120153+00:00",
+        "status": "Success",
+        "error_kind": null,
+        "visible_cards": null,
+        "body_characters": null,
+        "render_checks": 1,
+        "lead_count": 10,
+        "card_ids": [],
+        "unresolved_cards": [],
+        "observed_url": "https://www.linkedin.com/jobs/search/",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Chennai",
+        "page": 1,
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Spring%20Boot%20software%20engineer&location=Chennai&sortBy=DD&start=0",
+        "checked_at": "2026-09-29T11:00:49.527048+00:00",
+        "status": "Success",
+        "error_kind": null,
+        "visible_cards": null,
+        "body_characters": null,
+        "render_checks": 1,
+        "lead_count": 8,
+        "card_ids": [],
+        "unresolved_cards": [],
+        "observed_url": "https://www.linkedin.com/jobs/search/",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Chennai",
+        "page": 2,
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Spring%20Boot%20software%20engineer&location=Chennai&sortBy=DD&start=25",
+        "checked_at": "2026-09-29T11:01:03.317677+00:00",
+        "status": "Success",
+        "error_kind": null,
+        "visible_cards": null,
+        "body_characters": null,
+        "render_checks": 1,
+        "lead_count": 9,
+        "card_ids": [],
+        "unresolved_cards": [],
+        "observed_url": "https://www.linkedin.com/jobs/search/",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "brillio_lever": [
+      {
+        "page": 1,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=0&limit=100&mode=json",
+        "items": 100,
+        "checked_at": "2026-09-29T11:01:06.583401+00:00",
+        "status": "Success"
+      },
+      {
+        "page": 2,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=100&limit=100&mode=json",
+        "items": 100,
+        "checked_at": "2026-09-29T11:01:09.987286+00:00",
+        "status": "Success"
+      },
+      {
+        "page": 3,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=200&limit=100&mode=json",
+        "items": 25,
+        "checked_at": "2026-09-29T11:01:12.066948+00:00",
+        "status": "Success"
+      }
+    ],
+    "celonis_greenhouse": [
+      {
+        "page": 1,
+        "url": "https://boards-api.greenhouse.io/v1/boards/celonis/jobs?content=true",
+        "items": 100,
+        "total_returned": 250,
+        "checked_at": "2026-09-29T11:01:13.452295+00:00",
+        "status": "Partial"
+      }
+    ],
+    "ghx_greenhouse": [
+      {
+        "page": 1,
+        "url": "https://boards-api.greenhouse.io/v1/boards/globalhealthcareexchangeinc/jobs?content=true",
+        "items": 47,
+        "total_returned": 47,
+        "checked_at": "2026-09-29T11:01:14.252693+00:00",
+        "status": "Success"
+      }
+    ],
+    "legion_greenhouse": [
+      {
+        "page": 1,
+        "url": "https://boards-api.greenhouse.io/v1/boards/legion/jobs?content=true",
+        "items": 16,
+        "total_returned": 16,
+        "checked_at": "2026-09-29T11:01:14.858754+00:00",
+        "status": "Success"
+      }
+    ],
+    "tegna_greenhouse": [
+      {
+        "page": 1,
+        "url": "https://boards-api.greenhouse.io/v1/boards/tegnaindia/jobs?content=true",
+        "items": 6,
+        "total_returned": 6,
+        "checked_at": "2026-09-29T11:01:15.443641+00:00",
+        "status": "Success"
+      }
+    ],
+    "cutshort": [
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Delhi NCR",
+        "page": 1,
+        "url": "https://cutshort.io/jobs/java-jobs?query=Java%20Spring%20Boot%20backend&location=Delhi%20NCR&page=1",
+        "checked_at": "2026-09-29T11:01:01.609887+00:00",
+        "status": "Success",
+        "error_kind": null,
+        "visible_cards": 50,
+        "body_characters": 128757,
+        "render_checks": 1,
+        "lead_count": 50,
+        "card_ids": [
+          "mKSZr8Th",
+          "p7PgIKOo",
+          "cqW2LlXy",
+          "SyaE757o",
+          "gUtYihT5",
+          "IYi2Kifk",
+          "lZM4cE6C",
+          "bf4bkjcc",
+          "gWPmxKOs",
+          "7m1rJXGx",
+          "6mW9eunO",
+          "DCTEYcaO",
+          "qsMkLepD",
+          "kSDhppOy",
+          "9nea8usA",
+          "t7Mqj1im",
+          "dRRLcou8",
+          "062HKIhi",
+          "mhdpfLWw",
+          "jepzebk2",
+          "hMKQX3i4",
+          "5lmJjbwZ",
+          "rhRxZwLZ",
+          "yTzo2Ike",
+          "ozMBITZS",
+          "Z2O6kqHG",
+          "dDgUuRO7",
+          "t5QAip6c",
+          "QoJQqsql",
+          "3BiIGX0w",
+          "LLLcizJw",
+          "YOU6wo2H",
+          "8kBBnzuF",
+          "KEub2BaI",
+          "FagzJzPj",
+          "LFfNgxkP",
+          "YX4ywmNW",
+          "cCRAeJSQ",
+          "Nc1z8GjF",
+          "6GPlfsyh",
+          "EPT3LfX5",
+          "lmc3dPde",
+          "fiF7batS",
+          "ZfFxw0aT",
+          "96uepweW",
+          "P9um62UU",
+          "q5a3NNrL",
+          "GQawk6gn",
+          "oaOOb9J3",
+          "s96Hwqz6"
+        ],
+        "unresolved_cards": [],
+        "observed_url": "https://cutshort.io/jobs/java-jobs?query=Java%20Spring%20Boot%20backend&location=Delhi%20NCR&page=1",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Delhi NCR",
+        "page": 2,
+        "url": "https://cutshort.io/jobs/java-jobs?query=Java%20Spring%20Boot%20backend&location=Delhi%20NCR&page=2",
+        "checked_at": "2026-09-29T11:01:10.740392+00:00",
+        "status": "Success",
+        "error_kind": null,
+        "visible_cards": 50,
+        "body_characters": 128757,
+        "render_checks": 1,
+        "lead_count": 50,
+        "card_ids": [
+          "mKSZr8Th",
+          "p7PgIKOo",
+          "cqW2LlXy",
+          "SyaE757o",
+          "gUtYihT5",
+          "IYi2Kifk",
+          "lZM4cE6C",
+          "bf4bkjcc",
+          "gWPmxKOs",
+          "7m1rJXGx",
+          "6mW9eunO",
+          "DCTEYcaO",
+          "qsMkLepD",
+          "kSDhppOy",
+          "9nea8usA",
+          "t7Mqj1im",
+          "dRRLcou8",
+          "062HKIhi",
+          "mhdpfLWw",
+          "jepzebk2",
+          "hMKQX3i4",
+          "5lmJjbwZ",
+          "rhRxZwLZ",
+          "yTzo2Ike",
+          "ozMBITZS",
+          "Z2O6kqHG",
+          "dDgUuRO7",
+          "t5QAip6c",
+          "QoJQqsql",
+          "3BiIGX0w",
+          "LLLcizJw",
+          "YOU6wo2H",
+          "8kBBnzuF",
+          "KEub2BaI",
+          "FagzJzPj",
+          "LFfNgxkP",
+          "YX4ywmNW",
+          "cCRAeJSQ",
+          "Nc1z8GjF",
+          "6GPlfsyh",
+          "EPT3LfX5",
+          "lmc3dPde",
+          "fiF7batS",
+          "ZfFxw0aT",
+          "96uepweW",
+          "P9um62UU",
+          "q5a3NNrL",
+          "GQawk6gn",
+          "oaOOb9J3",
+          "s96Hwqz6"
+        ],
+        "unresolved_cards": [],
+        "observed_url": "https://cutshort.io/jobs/java-jobs?query=Java%20Spring%20Boot%20backend&location=Delhi%20NCR&page=2",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java backend API",
+        "location": "Mumbai",
+        "page": 1,
+        "url": "https://cutshort.io/jobs/java-jobs?query=Java%20backend%20API&location=Mumbai&page=1",
+        "checked_at": "2026-09-29T11:01:19.870897+00:00",
+        "status": "Success",
+        "error_kind": null,
+        "visible_cards": 50,
+        "body_characters": 128757,
+        "render_checks": 1,
+        "lead_count": 50,
+        "card_ids": [
+          "mKSZr8Th",
+          "p7PgIKOo",
+          "cqW2LlXy",
+          "SyaE757o",
+          "gUtYihT5",
+          "IYi2Kifk",
+          "lZM4cE6C",
+          "bf4bkjcc",
+          "gWPmxKOs",
+          "7m1rJXGx",
+          "6mW9eunO",
+          "DCTEYcaO",
+          "qsMkLepD",
+          "kSDhppOy",
+          "9nea8usA",
+          "t7Mqj1im",
+          "dRRLcou8",
+          "062HKIhi",
+          "mhdpfLWw",
+          "jepzebk2",
+          "hMKQX3i4",
+          "5lmJjbwZ",
+          "rhRxZwLZ",
+          "yTzo2Ike",
+          "ozMBITZS",
+          "Z2O6kqHG",
+          "dDgUuRO7",
+          "t5QAip6c",
+          "QoJQqsql",
+          "3BiIGX0w",
+          "LLLcizJw",
+          "YOU6wo2H",
+          "8kBBnzuF",
+          "KEub2BaI",
+          "FagzJzPj",
+          "LFfNgxkP",
+          "YX4ywmNW",
+          "cCRAeJSQ",
+          "Nc1z8GjF",
+          "6GPlfsyh",
+          "EPT3LfX5",
+          "lmc3dPde",
+          "fiF7batS",
+          "ZfFxw0aT",
+          "96uepweW",
+          "P9um62UU",
+          "q5a3NNrL",
+          "GQawk6gn",
+          "oaOOb9J3",
+          "s96Hwqz6"
+        ],
+        "unresolved_cards": [],
+        "observed_url": "https://cutshort.io/jobs/java-jobs?query=Java%20backend%20API&location=Mumbai&page=1",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java backend API",
+        "location": "Mumbai",
+        "page": 2,
+        "url": "https://cutshort.io/jobs/java-jobs?query=Java%20backend%20API&location=Mumbai&page=2",
+        "checked_at": "2026-09-29T11:01:24.654640+00:00",
+        "status": "Success",
+        "error_kind": null,
+        "visible_cards": 50,
+        "body_characters": 128757,
+        "render_checks": 1,
+        "lead_count": 50,
+        "card_ids": [
+          "mKSZr8Th",
+          "p7PgIKOo",
+          "cqW2LlXy",
+          "SyaE757o",
+          "gUtYihT5",
+          "IYi2Kifk",
+          "lZM4cE6C",
+          "bf4bkjcc",
+          "gWPmxKOs",
+          "7m1rJXGx",
+          "6mW9eunO",
+          "DCTEYcaO",
+          "qsMkLepD",
+          "kSDhppOy",
+          "9nea8usA",
+          "t7Mqj1im",
+          "dRRLcou8",
+          "062HKIhi",
+          "mhdpfLWw",
+          "jepzebk2",
+          "hMKQX3i4",
+          "5lmJjbwZ",
+          "rhRxZwLZ",
+          "yTzo2Ike",
+          "ozMBITZS",
+          "Z2O6kqHG",
+          "dDgUuRO7",
+          "t5QAip6c",
+          "QoJQqsql",
+          "3BiIGX0w",
+          "LLLcizJw",
+          "YOU6wo2H",
+          "8kBBnzuF",
+          "KEub2BaI",
+          "FagzJzPj",
+          "LFfNgxkP",
+          "YX4ywmNW",
+          "cCRAeJSQ",
+          "Nc1z8GjF",
+          "6GPlfsyh",
+          "EPT3LfX5",
+          "lmc3dPde",
+          "fiF7batS",
+          "ZfFxw0aT",
+          "96uepweW",
+          "P9um62UU",
+          "q5a3NNrL",
+          "GQawk6gn",
+          "oaOOb9J3",
+          "s96Hwqz6"
+        ],
+        "unresolved_cards": [],
+        "observed_url": "https://cutshort.io/jobs/java-jobs?query=Java%20backend%20API&location=Mumbai&page=2",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "gradera_ashby": [
+      {
+        "page": 1,
+        "url": "https://api.ashbyhq.com/posting-api/job-board/gradera",
+        "items": 6,
+        "total_returned": 6,
+        "checked_at": "2026-09-29T11:01:25.310117+00:00",
+        "status": "Success"
+      }
+    ],
+    "dnb_lever": [
+      {
+        "page": 1,
+        "url": "https://api.lever.co/v0/postings/dnb?skip=0&limit=100&mode=json",
+        "items": 100,
+        "checked_at": "2026-09-29T11:01:24.599211+00:00",
+        "status": "Success"
+      },
+      {
+        "page": 2,
+        "url": "https://api.lever.co/v0/postings/dnb?skip=100&limit=100&mode=json",
+        "items": 20,
+        "checked_at": "2026-09-29T11:01:27.458539+00:00",
+        "status": "Success"
+      }
+    ],
+    "foundit": [
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Delhi NCR",
+        "page": 1,
+        "url": "https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Delhi%20NCR&page=1",
+        "checked_at": "2026-09-29T11:00:24.101815+00:00",
+        "status": "NoVisibleCards",
+        "error_kind": null,
+        "visible_cards": 0,
+        "body_characters": 1539,
+        "render_checks": 3,
+        "lead_count": 0,
+        "card_ids": [],
+        "unresolved_cards": [],
+        "observed_url": "https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Delhi%20NCR&page=1",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Delhi NCR",
+        "page": 2,
+        "url": "https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Delhi%20NCR&page=2",
+        "checked_at": "2026-09-29T11:00:42.966072+00:00",
+        "status": "NoVisibleCards",
+        "error_kind": null,
+        "visible_cards": 0,
+        "body_characters": 1539,
+        "render_checks": 3,
+        "lead_count": 0,
+        "card_ids": [],
+        "unresolved_cards": [],
+        "observed_url": "https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Delhi%20NCR&page=2",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java backend API",
+        "location": "Mumbai",
+        "page": 1,
+        "url": "https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=1",
+        "checked_at": "2026-09-29T11:01:02.848671+00:00",
+        "status": "NoVisibleCards",
+        "error_kind": null,
+        "visible_cards": 0,
+        "body_characters": 1531,
+        "render_checks": 3,
+        "lead_count": 0,
+        "card_ids": [],
+        "unresolved_cards": [],
+        "observed_url": "https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=1",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java backend API",
+        "location": "Mumbai",
+        "page": 2,
+        "url": "https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2",
+        "checked_at": "2026-09-29T11:01:17.826177+00:00",
+        "status": "NoVisibleCards",
+        "error_kind": null,
+        "visible_cards": 0,
+        "body_characters": 1531,
+        "render_checks": 3,
+        "lead_count": 0,
+        "card_ids": [],
+        "unresolved_cards": [],
+        "observed_url": "https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Chennai",
+        "page": 1,
+        "url": "https://www.foundit.in/srp/results?query=Spring%20Boot%20software%20engineer&locations=Chennai&page=1",
+        "checked_at": "2026-09-29T11:01:30.156734+00:00",
+        "status": "NoVisibleCards",
+        "error_kind": null,
+        "visible_cards": 0,
+        "body_characters": 1544,
+        "render_checks": 3,
+        "lead_count": 0,
+        "card_ids": [],
+        "unresolved_cards": [],
+        "observed_url": "https://www.foundit.in/srp/results?query=Spring%20Boot%20software%20engineer&locations=Chennai&page=1",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Chennai",
+        "page": 2,
+        "url": "https://www.foundit.in/srp/results?query=Spring%20Boot%20software%20engineer&locations=Chennai&page=2",
+        "checked_at": "2026-09-29T11:01:42.701774+00:00",
+        "status": "NoVisibleCards",
+        "error_kind": null,
+        "visible_cards": 0,
+        "body_characters": 1544,
+        "render_checks": 3,
+        "lead_count": 0,
+        "card_ids": [],
+        "unresolved_cards": [],
+        "observed_url": "https://www.foundit.in/srp/results?query=Spring%20Boot%20software%20engineer&locations=Chennai&page=2",
+        "sort": "Configured newest route where available"
+      }
+    ]
+  },
+  "leads": 885,
+  "unique_original_requisitions_verified": 0,
+  "fit_decisions": {
+    "242": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Required experience starts at 8 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "Noida",
+        "experience": "Location: Noida Experience: 4 - 8 years Job highlights 4-8 years experience in Java backend development with expertise in Spring Boot and Kafka Desig",
+        "technology": "highlights 4-8 years experience in Java backend development with expertise in Spring Boot and Kafka Design, develop, and maintain backend services, implement distributed systems,",
+        "role": null
+      },
+      "jd_sha256": "d79229772e4fe39976546eb16b3ae0aa426d2b57383a1a48626eafd60596653c"
+    },
+    "243": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Required experience starts at 8 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "Noida, Hyderabad",
+        "experience": "tion: Noida, Hyderabad Experience: 8 - 11 years Job highlights 8-12 years experience with Java, Spring Boot, reactive programming using Spring WebFlux, event",
+        "technology": "hlights 8-12 years experience with Java, Spring Boot, reactive programming using Spring WebFlux, event-driven microservices, and Azure cloud d",
+        "role": "ience Job description Role: Senior Backend Engineer Java / Spring Boot Experience: 8-12 Years Location: PAN India Shift: UST Shift 1:00 PM to 10:00 PM"
+      },
+      "jd_sha256": "44fdd0d630598c6e44b5227bd3182b25b3304b2e293cae03e80eec19fa14ea99"
+    },
+    "168": {
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Required experience starts at 4 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "Chennai, Tamil Nadu, India",
+        "experience": "gineer - React Java with more than 4 years of experience \\n Know what it’s like to work and grow at Brillio: Click here",
+        "technology": "r year. Fullstack Engineer - React Java \\n Primary Skills CI/CD Pipeline, CSS3, Docker, Hibernate, HTML5, Java, MySQL, Oracle RDBMS, React JS, Spring Boot, Spring Core, JavaScript Special",
+        "role": null
+      },
+      "jd_sha256": "3fced13c12f4ed52d81279834f48587d860397ff24b48b4397bdc3408009e882"
+    },
+    "186": {
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Required experience band is not explicit in the qualification excerpt",
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ],
+      "evidence": {
+        "location": "Hyderabad, Andhra Pradesh, India",
+        "experience": null,
+        "technology": "larJS, JavaScript, CSS3, React JS, Java, Hibernate, Oracle RDBMS, Docker, Spring Core, Spring Boot, HTML5, MySQL Job requirements Overview W",
+        "role": null
+      },
+      "jd_sha256": "b730284a8d8d2ff6e20ca0f6df1708e185de306db3b5fea007cb25bce75bdc50"
+    },
+    "188": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "Bangalore, Karnataka, India",
+        "experience": "ements AS400 Developer Experience: 3–5 years Department: Digital Engineering Employment Type: Full-time Role Overview We are looking for an experienced AS",
+        "technology": null,
+        "role": null
+      },
+      "jd_sha256": "89f5fa9386794b636b8b99895c9f865ec94ab1689ecdc177556260daefe2dc90"
+    },
+    "191": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ],
+      "evidence": {
+        "location": "Bangalore, Karnataka, India",
+        "experience": null,
+        "technology": null,
+        "role": "r Science, Information Technology, Software Engineering, or a closely related discipline Microsoft Certified: Azure AI Engineer Associate Certification"
+      },
+      "jd_sha256": "87554e1488a5e6608530a11a8c3f88d3eb3cab876cfa4de4be9a20ef009779ca"
+    },
+    "190": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ],
+      "evidence": {
+        "location": "Bangalore, Karnataka, India",
+        "experience": null,
+        "technology": null,
+        "role": "r Science, Information Technology, Software Engineering, or a closely related discipline 2. Microsoft Certified: Azure Developer Associate or equivalent"
+      },
+      "jd_sha256": "fe11945d31950d73ceb65a5d3c087bcb2786ffceefa85bda2f5ef7afe4adb231"
+    }
+  },
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [
+    {
+      "source": "indeed",
+      "reason": "site_verification"
+    },
+    {
+      "source": "foundit",
+      "reason": "NoVisibleCards"
+    }
+  ],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/202b1404-5d46-4775-8287-2e7feb919ce0.json"
+  ],
+  "queue": {},
+  "stage_seconds": {
+    "discovery": 101.86,
+    "original_verification": 0.0,
+    "lead_resolution": 77.43,
+    "fit_review": 0.81
+  },
+  "stage_counts": {
+    "normalized_unique_ats": 517,
+    "selected_for_original_check": 0,
+    "fetched": 885,
+    "unique_portal_leads": 201,
+    "fresh": 0,
+    "unknown_date": 371,
+    "skipped_old": 5,
+    "repeat_skipped": 360,
+    "unique_original_requisitions": 0,
+    "eligible_for_review": 2,
+    "original_jds_reviewed": 5,
+    "original_or_portal_jds_reviewed": 7,
+    "portal_native_verified": 2,
+    "high": 0,
+    "queued_for_resume": 0,
+    "review_queue_added": 8,
+    "portal_originals_matched": 0,
+    "portal_leads_still_needing_original": 447
+  },
+  "top_reviewed": [
+    {
+      "job_id": 242,
+      "company": "Shashwath Solution",
+      "role": "Java Backend Developer - Spring Boot",
+      "location": "Noida",
+      "direct_url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-shashwath-solution-noida-4-to-8-years-230926935177",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "d79229772e4fe39976546eb16b3ae0aa426d2b57383a1a48626eafd60596653c",
+      "original_page_checked_at": "2026-09-29T11:02:13.844045+00:00",
+      "reviewed_at": "2026-09-29T11:03:02.459199+00:00",
+      "experience_minimum": 8.0,
+      "evidence": {
+        "location": "Noida",
+        "experience": "Location: Noida Experience: 4 - 8 years Job highlights 4-8 years experience in Java backend development with expertise in Spring Boot and Kafka Desig",
+        "technology": "highlights 4-8 years experience in Java backend development with expertise in Spring Boot and Kafka Design, develop, and maintain backend services, implement distributed systems,",
+        "role": null
+      },
+      "reasons": [
+        "Required experience starts at 8 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 243,
+      "company": "IT MNC",
+      "role": "Senior Backend Engineer Java / Spring Boot(H)",
+      "location": "Noida, Hyderabad",
+      "direct_url": "https://www.naukri.com/job-listings-senior-backend-engineer-java-spring-boot-h-advance-career-solutions-noida-kolkata-hyderabad-8-to-11-years-200926009243",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "44fdd0d630598c6e44b5227bd3182b25b3304b2e293cae03e80eec19fa14ea99",
+      "original_page_checked_at": "2026-09-29T11:02:13.858893+00:00",
+      "reviewed_at": "2026-09-29T11:03:02.465535+00:00",
+      "experience_minimum": 8.0,
+      "evidence": {
+        "location": "Noida, Hyderabad",
+        "experience": "tion: Noida, Hyderabad Experience: 8 - 11 years Job highlights 8-12 years experience with Java, Spring Boot, reactive programming using Spring WebFlux, event",
+        "technology": "hlights 8-12 years experience with Java, Spring Boot, reactive programming using Spring WebFlux, event-driven microservices, and Azure cloud d",
+        "role": "ience Job description Role: Senior Backend Engineer Java / Spring Boot Experience: 8-12 Years Location: PAN India Shift: UST Shift 1:00 PM to 10:00 PM"
+      },
+      "reasons": [
+        "Required experience starts at 8 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 168,
+      "company": "Brillio",
+      "role": "Fullstack Engineer - React  Java - R01527438",
+      "location": "Chennai, Tamil Nadu, India",
+      "direct_url": "https://jobs.lever.co/brillio-2/7fb2ac4a-a088-4c5d-b67d-77834786b729",
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "3fced13c12f4ed52d81279834f48587d860397ff24b48b4397bdc3408009e882",
+      "original_page_checked_at": "2026-09-29T11:02:13.974983+00:00",
+      "reviewed_at": "2026-09-29T11:03:02.470150+00:00",
+      "experience_minimum": 4.0,
+      "evidence": {
+        "location": "Chennai, Tamil Nadu, India",
+        "experience": "gineer - React Java with more than 4 years of experience \\n Know what it’s like to work and grow at Brillio: Click here",
+        "technology": "r year. Fullstack Engineer - React Java \\n Primary Skills CI/CD Pipeline, CSS3, Docker, Hibernate, HTML5, Java, MySQL, Oracle RDBMS, React JS, Spring Boot, Spring Core, JavaScript Special",
+        "role": null
+      },
+      "reasons": [
+        "Required experience starts at 4 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 186,
+      "company": "Brillio",
+      "role": "Senior Software Development Engineer - R01556437",
+      "location": "Hyderabad, Andhra Pradesh, India",
+      "direct_url": "https://jobs.lever.co/brillio-2/664eda55-501d-4b61-a0d5-863d56b75f34",
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "b730284a8d8d2ff6e20ca0f6df1708e185de306db3b5fea007cb25bce75bdc50",
+      "original_page_checked_at": "2026-09-29T11:02:14.459277+00:00",
+      "reviewed_at": "2026-09-29T11:03:02.474837+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "Hyderabad, Andhra Pradesh, India",
+        "experience": null,
+        "technology": "larJS, JavaScript, CSS3, React JS, Java, Hibernate, Oracle RDBMS, Docker, Spring Core, Spring Boot, HTML5, MySQL Job requirements Overview W",
+        "role": null
+      },
+      "reasons": [
+        "Required experience band is not explicit in the qualification excerpt",
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ]
+    },
+    {
+      "job_id": 188,
+      "company": "Brillio",
+      "role": "Senior Software Development Engineer - R01566591",
+      "location": "Bangalore, Karnataka, India",
+      "direct_url": "https://jobs.lever.co/brillio-2/a17e95d9-72c1-41ac-bca9-07db0b1be413",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "89f5fa9386794b636b8b99895c9f865ec94ab1689ecdc177556260daefe2dc90",
+      "original_page_checked_at": "2026-09-29T11:02:15.571679+00:00",
+      "reviewed_at": "2026-09-29T11:03:02.480189+00:00",
+      "experience_minimum": 3.0,
+      "evidence": {
+        "location": "Bangalore, Karnataka, India",
+        "experience": "ements AS400 Developer Experience: 3–5 years Department: Digital Engineering Employment Type: Full-time Role Overview We are looking for an experienced AS",
+        "technology": null,
+        "role": null
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 191,
+      "company": "Brillio",
+      "role": "Senior Software Development Engineer - R01569776",
+      "location": "Bangalore, Karnataka, India",
+      "direct_url": "https://jobs.lever.co/brillio-2/1bb179e1-05dc-4b61-841b-bd7a75820ee3",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "87554e1488a5e6608530a11a8c3f88d3eb3cab876cfa4de4be9a20ef009779ca",
+      "original_page_checked_at": "2026-09-29T11:02:18.175363+00:00",
+      "reviewed_at": "2026-09-29T11:03:02.485064+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "Bangalore, Karnataka, India",
+        "experience": null,
+        "technology": null,
+        "role": "r Science, Information Technology, Software Engineering, or a closely related discipline Microsoft Certified: Azure AI Engineer Associate Certification"
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ]
+    },
+    {
+      "job_id": 190,
+      "company": "Brillio",
+      "role": "Senior Software Development Engineer - R01569774",
+      "location": "Bangalore, Karnataka, India",
+      "direct_url": "https://jobs.lever.co/brillio-2/00d2c483-8e88-47a1-893f-31c513bc0991",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "fe11945d31950d73ceb65a5d3c087bcb2786ffceefa85bda2f5ef7afe4adb231",
+      "original_page_checked_at": "2026-09-29T11:02:17.720206+00:00",
+      "reviewed_at": "2026-09-29T11:03:02.489075+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "Bangalore, Karnataka, India",
+        "experience": null,
+        "technology": null,
+        "role": "r Science, Information Technology, Software Engineering, or a closely related discipline 2. Microsoft Certified: Azure Developer Associate or equivalent"
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ]
+    }
+  ],
+  "ats_freshness": {
+    "repeat_skipped": 170,
+    "skipped_old": 5,
+    "unknown_date": 341,
+    "fresh": 0,
+    "recent": 1
+  },
+  "freshness": {
+    "policy": {
+      "routine_review_hours": 24,
+      "sweep_overlap_minutes": 90,
+      "unknown_date_details_per_run": 30,
+      "transient_retry_hours": 6,
+      "pending_application_recheck_hours": 6
+    },
+    "counts": {
+      "fresh": 0,
+      "recent": 0,
+      "unknown_date": 30,
+      "skipped_old": 0,
+      "repeat_skipped": 190,
+      "history_skipped": 0,
+      "unknown_date_deferred": 148
+    },
+    "detail_candidates": 30,
+    "skips": [
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Developer-Backend-Engineering-Gurugram-StrideOne-bf4bkjcc",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/AI-Native-Backend-Engineer-Core-Java-3-Months-contract-Chennai-Bengaluru-Bangalore-Ahmedabad-Staffnixcom-yTzo2Ike",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/JAVA-Backend-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-FagzJzPj",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Backend-Developer-Bengaluru-Bangalore-Wissen-Technology-GQawk6gn",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Developer-Backend-Engineering-Gurugram-StrideOne-bf4bkjcc",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4466516292/",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/AI-Native-Backend-Engineer-Core-Java-3-Months-contract-Chennai-Bengaluru-Bangalore-Ahmedabad-Staffnixcom-yTzo2Ike",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/JAVA-Backend-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-FagzJzPj",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Backend-Developer-Bengaluru-Bangalore-Wissen-Technology-GQawk6gn",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Developer-Backend-Engineering-Gurugram-StrideOne-bf4bkjcc",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/AI-Native-Backend-Engineer-Core-Java-3-Months-contract-Chennai-Bengaluru-Bangalore-Ahmedabad-Staffnixcom-yTzo2Ike",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/JAVA-Backend-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-FagzJzPj",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Backend-Developer-Bengaluru-Bangalore-Wissen-Technology-GQawk6gn",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Developer-Backend-Engineering-Gurugram-StrideOne-bf4bkjcc",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/AI-Native-Backend-Engineer-Core-Java-3-Months-contract-Chennai-Bengaluru-Bangalore-Ahmedabad-Staffnixcom-yTzo2Ike",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4473221995/",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/JAVA-Backend-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-FagzJzPj",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Backend-Developer-Bengaluru-Bangalore-Wissen-Technology-GQawk6gn",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Full-Stack-Developer-Mumbai-Pune-VY-SYSTEMS-PRIVATE-LIMITED-mKSZr8Th",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4471283544/",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-enterprise-applications-consult-asia-navi-mumbai-6-to-11-years-250926911137",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Angular-Developer-Fullstack-Kochi-Cochin-Thiruvananthapuram-Thomasmount-Consulting-SyaE757o",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4473205322/",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-enterprise-applications-consult-asia-mumbai-suburban-6-to-11-years-250926911138",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Java-Software-Engineer-Bengaluru-Bangalore-Gravity-Engineering-Services-Pvt-Ltd-lZM4cE6C",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4471263025/",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-enterprise-applications-consult-asia-mumbai-6-to-11-years-250926911136",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Developer-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-6mW9eunO",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4471710598/",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-enterprise-applications-consult-asia-mumbai-all-areas-6-to-11-years-250926911116",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-qsMkLepD",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4471704685/",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-development-engineer-java-spring-boot-microservices-kyndryl-chennai-6-to-11-years-290526502257",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Full-Stack-Developer-Pune-NonStop-io-Technologies-Pvt-Ltd-hMKQX3i4",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4452578424/",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-development-engineer-java-spring-boot-microservices-kyndryl-chennai-6-to-11-years-210526509162",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Full-Stack-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-rhRxZwLZ",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4471292025/",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-backend-engineer-java-spring-boot-aws-luxoft-india-llp-chennai-4-to-8-years-070926915074",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/FullStack-Developer-Java-React-Pune-Unique-Occupational-YOU6wo2H",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4473205470/",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-data-engineer-gcp-bigquery-spring-boot-sdna-global-hyderabad-chennai-bengaluru-6-to-11-years-010926037486",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Full-stack-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-lmc3dPde",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4473205421/",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-team-lead-java-spring-boot-microservices-noduco-noida-7-to-12-years-100826503820",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Java-Developer-Hyderabad-Treosoft-IT-q5a3NNrL",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4471283544/",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-spring-boot-react-angular-consult-asia-delhi-ncr-5-to-10-years-250926916446",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Full-Stack-Developer-Mumbai-Pune-VY-SYSTEMS-PRIVATE-LIMITED-mKSZr8Th",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4471272462/",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-spring-boot-react-angular-consult-asia-new-delhi-5-to-10-years-250926916444",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Angular-Developer-Fullstack-Kochi-Cochin-Thiruvananthapuram-Thomasmount-Consulting-SyaE757o",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4447478913/",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-spring-boot-consult-asia-delhi-ncr-6-to-11-years-250926911143",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Java-Software-Engineer-Bengaluru-Bangalore-Gravity-Engineering-Services-Pvt-Ltd-lZM4cE6C",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4471292025/",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-spring-boot-consult-asia-new-delhi-6-to-11-years-250926911142",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Developer-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-6mW9eunO",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "http://www.linkedin.com/premium/products/",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-spring-boot-react-angular-consult-asia-ghaziabad-5-to-10-years-250926916453",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-qsMkLepD",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "http://www.linkedin.com/premium/products/",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-spring-boot-react-angular-consult-asia-gurugram-5-to-10-years-250926916450",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Full-Stack-Developer-Pune-NonStop-io-Technologies-Pvt-Ltd-hMKQX3i4",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "http://www.linkedin.com/premium/products/",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-spring-boot-react-angular-consult-asia-greater-noida-5-to-10-years-250926916449",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Full-Stack-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-rhRxZwLZ",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/help/linkedin",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-spring-boot-react-angular-consult-asia-noida-5-to-10-years-250926916447",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/FullStack-Developer-Java-React-Pune-Unique-Occupational-YOU6wo2H",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4420491632/",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-spring-boot-consult-asia-ghaziabad-6-to-11-years-250926911149",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Full-stack-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-lmc3dPde",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4473219521/",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-spring-boot-consult-asia-gurugram-6-to-11-years-250926911148",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Java-Developer-Hyderabad-Treosoft-IT-q5a3NNrL",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "http://www.linkedin.com/premium/products/",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-spring-boot-consult-asia-greater-noida-6-to-11-years-250926911147",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Full-Stack-Developer-Mumbai-Pune-VY-SYSTEMS-PRIVATE-LIMITED-mKSZr8Th",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "http://www.linkedin.com/premium/products/",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-spring-boot-consult-asia-noida-6-to-11-years-250926911146",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Angular-Developer-Fullstack-Kochi-Cochin-Thiruvananthapuram-Thomasmount-Consulting-SyaE757o",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4471298899/",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-full-stack-software-engineer-java-spring-boot-react-pest-shields-india-pvt-ltd-noida-3-to-6-years-250826502442",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Java-Software-Engineer-Bengaluru-Bangalore-Gravity-Engineering-Services-Pvt-Ltd-lZM4cE6C",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4471282244/",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-developer-spring-boot-hibernate-cloudzent-technology-services-gurugram-2-to-7-years-200726504293",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Developer-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-6mW9eunO",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4471298899/",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-java-spring-boot-vue-js-immediate-joiner-kairos-technologies-noida-7-to-10-years-110926024099",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-qsMkLepD",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "http://www.linkedin.com/premium/products/",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-lead-software-engineer-java-with-spring-boot-epam-systems-pune-gurugram-8-to-12-years-040926022571",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Full-Stack-Developer-Pune-NonStop-io-Technologies-Pvt-Ltd-hMKQX3i4",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "http://www.linkedin.com/premium/products/",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-lead-software-engineer-java-with-spring-boot-epam-systems-pune-gurugram-8-to-12-years-040926021758",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Full-Stack-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-rhRxZwLZ",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "http://www.linkedin.com/premium/products/",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-lead-software-engineer-java-with-spring-boot-epam-systems-pune-gurugram-8-to-12-years-040926021683",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/FullStack-Developer-Java-React-Pune-Unique-Occupational-YOU6wo2H",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4471276321/",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-lead-software-engineer-java-with-spring-boot-epam-systems-pune-gurugram-8-to-12-years-040926020715",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Full-stack-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-lmc3dPde",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "http://www.linkedin.com/premium/products/",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-lead-software-engineer-java-with-spring-boot-epam-systems-pune-gurugram-8-to-12-years-040926020704",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Java-Developer-Hyderabad-Treosoft-IT-q5a3NNrL",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4471297932/",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-lead-software-engineer-java-with-spring-boot-epam-systems-pune-gurugram-8-to-12-years-040926018481",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Full-Stack-Developer-Mumbai-Pune-VY-SYSTEMS-PRIVATE-LIMITED-mKSZr8Th",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4473216841/",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-lead-software-engineer-java-with-spring-boot-epam-systems-pune-gurugram-8-to-12-years-040926016740",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Angular-Developer-Fullstack-Kochi-Cochin-Thiruvananthapuram-Thomasmount-Consulting-SyaE757o",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4473216841/",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-spring-boot-software-engineer-tigmaminds-chennai-2-to-6-years-301025505967",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Java-Software-Engineer-Bengaluru-Bangalore-Gravity-Engineering-Services-Pvt-Ltd-lZM4cE6C",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4473216841/",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-full-stack-engineer-react-java-spring-boot-access-india-triyam-information-technology-chennai-5-to-8-years-150926013889",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Developer-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-6mW9eunO",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-java-engineer-spring-boot-photon-infotech-p-ltd-chennai-4-to-9-years-160626503959",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-qsMkLepD",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-lead-java-engineer-spring-boot-photon-infotech-p-ltd-chennai-8-to-13-years-060726500823",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Full-Stack-Developer-Pune-NonStop-io-Technologies-Pvt-Ltd-hMKQX3i4",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-j2ee-backend-developer-lead-consult-asia-navi-mumbai-5-to-10-years-250926916520",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Full-Stack-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-rhRxZwLZ",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-backend-engineer-java-microservices-cloud-consult-asia-navi-mumbai-5-to-10-years-250926911565",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/FullStack-Developer-Java-React-Pune-Unique-Occupational-YOU6wo2H",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-consult-asia-navi-mumbai-5-to-10-years-250926907648",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Full-stack-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-lmc3dPde",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-quarkus-clover-infotech-thane-navi-mumbai-mumbai-all-areas-4-to-7-years-090926012681",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Java-Developer-Hyderabad-Treosoft-IT-q5a3NNrL",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-technical-lead-java-backend-developer-clover-infotech-thane-navi-mumbai-mumbai-all-areas-6-to-10-years-030926032553",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Backend-Software-Development-Engineer-Bengaluru-Bangalore-Pune-Hyderabad-Kolkata-Chennai-Gurugram-Mumbai-Gravity-Engineering-Services-Pvt-Ltd-t5QAip6c",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-backend-java-engineer-leadership-mint-oak-mumbai-13-to-18-years-280926502847",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Backend-Software-Development-Engineer-Bengaluru-Bangalore-Pune-Hyderabad-Kolkata-Chennai-Gurugram-Mumbai-Gravity-Engineering-Services-Pvt-Ltd-t5QAip6c",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-ztek-consulting-pvt-ltd-mumbai-nagpur-thane-nashik-pune-chhatrapati-sambhajinagar-5-to-8-years-270126504962",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Backend-Software-Development-Engineer-Bengaluru-Bangalore-Pune-Hyderabad-Kolkata-Chennai-Gurugram-Mumbai-Gravity-Engineering-Services-Pvt-Ltd-t5QAip6c",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-j2ee-backend-developer-lead-consult-asia-mumbai-suburban-5-to-10-years-250926916521",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Backend-Software-Development-Engineer-Bengaluru-Bangalore-Pune-Hyderabad-Kolkata-Chennai-Gurugram-Mumbai-Gravity-Engineering-Services-Pvt-Ltd-t5QAip6c",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-j2ee-backend-developer-lead-consult-asia-mumbai-5-to-10-years-250926916518",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Architect-Technical-Architect-Chennai-Cloud-Sara-Technologies-gWPmxKOs",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-j2ee-backend-developer-lead-consult-asia-mumbai-all-areas-5-to-10-years-250926916497",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/java-FSD-with-react-Bengaluru-Bangalore-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-9nea8usA",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-backend-engineer-java-microservices-cloud-consult-asia-mumbai-suburban-5-to-10-years-250926911566",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/QA-Automation-Java-Pune-Unique-Occupational-KEub2BaI",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-backend-engineer-java-microservices-cloud-consult-asia-mumbai-5-to-10-years-250926911563",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Lead-Bengaluru-Bangalore-Wissen-Technology-6GPlfsyh",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-backend-engineer-java-microservices-cloud-consult-asia-mumbai-all-areas-5-to-10-years-250926911513",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Architect-Technical-Architect-Chennai-Cloud-Sara-Technologies-gWPmxKOs",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-developer-core-backend-full-stack-consult-asia-navi-mumbai-7-to-12-years-250926908672",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/java-FSD-with-react-Bengaluru-Bangalore-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-9nea8usA",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-consult-asia-mumbai-suburban-5-to-10-years-250926907651",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/QA-Automation-Java-Pune-Unique-Occupational-KEub2BaI",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-consult-asia-mumbai-5-to-10-years-250926907646",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Lead-Bengaluru-Bangalore-Wissen-Technology-6GPlfsyh",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-consult-asia-mumbai-all-areas-5-to-10-years-250926907618",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Architect-Technical-Architect-Chennai-Cloud-Sara-Technologies-gWPmxKOs",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-java-backend-developer-sm-it-services-navi-mumbai-8-to-13-years-240926023278",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/java-FSD-with-react-Bengaluru-Bangalore-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-9nea8usA",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-automation-java-selenium-api-automation-playwright-sdet-han-digital-solution-mumbai-nagpur-thane-nashik-pune-chhatrapati-sambhajinagar-7-to-12-years-221125502007",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/QA-Automation-Java-Pune-Unique-Occupational-KEub2BaI",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-software-engineer-newfold-digital-mumbai-4-to-9-years-210726502163",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Lead-Bengaluru-Bangalore-Wissen-Technology-6GPlfsyh",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-logicplanet-it-services-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-4-to-10-years-200226504803",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Architect-Technical-Architect-Chennai-Cloud-Sara-Technologies-gWPmxKOs",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-sde-ii-java-backend-issuance-nium-mumbai-3-to-4-years-180926503031",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/java-FSD-with-react-Bengaluru-Bangalore-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-9nea8usA",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-backend-java-developer-qrata-mumbai-5-to-7-years-150726501995",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/QA-Automation-Java-Pune-Unique-Occupational-KEub2BaI",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-backend-developer-java-programming-com-mumbai-2-to-4-years-121224501268",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Java-Lead-Bengaluru-Bangalore-Wissen-Technology-6GPlfsyh",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-sr-full-stack-developer-java-api-angular-photon-infotech-p-ltd-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-8-to-13-years-110625503085",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Java-Full-Stack-Developer-6-years-Raah-Techservices-oaOOb9J3",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-au-financiers-india-limited-mumbai-5-to-10-years-070926506306",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Java-Full-Stack-Developer-6-years-Raah-Techservices-oaOOb9J3",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-naukri-e-hire-campaign-mumbai-1-to-4-years-070926003879",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Java-Full-Stack-Developer-6-years-Raah-Techservices-oaOOb9J3",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-naukri-e-hire-campaign-mumbai-2-to-3-years-070926003541",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Java-Full-Stack-Developer-6-years-Raah-Techservices-oaOOb9J3",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-sa-id-mum-000026-smart-analytica-mumbai-1-to-3-years-020726501127",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Full-Stack-Developer-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-p7PgIKOo",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-senior-backend-engineer-sa-id-mum-000027-smart-analytica-mumbai-3-to-6-years-020726501124",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Full-Stack-Developer-Bengaluru-Bangalore-Gemba-Concepts-cqW2LlXy",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-backend-java-developer-sa-id-mum-000023-smart-analytica-mumbai-6-to-9-years-020726501123",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Full-Stack-Software-Engineer-FAiHr-gUtYihT5",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-spring-boot-professional-syansoft-gurugram-3-to-6-years-041125502182",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Software-Developer-ACNJ-Technologies-LLP-IYi2Kifk",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-team-lead-java-backend-clover-infotech-thane-navi-mumbai-mumbai-all-areas-6-to-10-years-240926040912",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Actimize-Developer-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-kSDhppOy",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-software-engineer-java-walkingtree-resources-pvt-ltd-chennai-5-to-10-years-290926500603",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Actimize-Developer-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-t7Mqj1im",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-sr-software-engineer-java-talentship-india-pvt-ltd-chennai-5-to-8-years-280426500329",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Full-Stack-Engineer-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-dRRLcou8",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-api-tester-web-services-tester-backend-qa-engineer-consult-asia-navi-mumbai-3-to-8-years-250926913498",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Cybersecurity-Engineer-Rampwork-062HKIhi",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-api-tester-web-services-tester-backend-qa-engineer-consult-asia-mumbai-suburban-3-to-8-years-250926913499",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/QA-Automation-Engineer-Chennai-Pune-VY-SYSTEMS-PRIVATE-LIMITED-mhdpfLWw",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-api-tester-web-services-tester-backend-qa-engineer-consult-asia-mumbai-3-to-8-years-250926913496",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/AI-ML-Engineer-Bengaluru-Bangalore-Wissen-Technology-5lmJjbwZ",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-api-tester-web-services-tester-backend-qa-engineer-consult-asia-mumbai-all-areas-3-to-8-years-250926913472",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Automation-Testing-Engineer-Gurugram-Bengaluru-Bangalore-Bean-HR-Consulting-ozMBITZS",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-chennai-2-to-5-years-310826919887",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Software-Engineer-Pune-Bengaluru-Bangalore-Metron-Security-Private-Limited-Z2O6kqHG",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-chennai-5-to-10-years-310826919885",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Software-Development-Engineer-2-Bengaluru-Bangalore-Pune-Hyderabad-Kolkata-Chennai-Mumbai-Gurugram-Gravity-Engineering-Services-Pvt-Ltd-dDgUuRO7",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-lead-software-engineer-hackajob-hyderabad-chennai-bengaluru-6-to-11-years-310826014784",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/SDET-With-UI-Testing-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-QoJQqsql",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-software-engineer-walmart-labs-chennai-6-to-8-years-310726502093",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Android-Developer-Gurugram-Quicket-Solutions-Inc-3BiIGX0w",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-software-development-engineer-bankbazaar-chennai-4-to-5-years-310726027154",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/QA-Automation-Engineer-Bengaluru-Bangalore-Learnyst-Insight-Private-Limited-LLLcizJw",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-software-engineer-walmart-labs-chennai-6-to-8-years-300726501201",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/SDET-with-UI-testing-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-8kBBnzuF",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-junior-software-engineer-full-stack-hakuna-matata-chennai-0-to-2-years-300426501400",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Big-Data-Engineer-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-YX4ywmNW",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-software-engineer-iii-core-engineer-iii-tekwissen-india-chennai-6-to-11-years-290526505404",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/AI-Implementation-Engineer-Mumbai-Wissen-Technology-cCRAeJSQ",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-chennai-3-to-8-years-280926928852",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Software-Engineer-Opteamix-EPT3LfX5",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-chennai-12-to-17-years-280926928775",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Software-Development-Engineer-III-SDE3-Bengaluru-Bangalore-Mumbai-Gurugram-Solarsquare-energy-pvt-ltd-96uepweW",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-chennai-5-to-10-years-280926928773",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Lead-Engineer-Pune-Talentojcom-P9um62UU",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-chennai-12-to-17-years-280926928771",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Full-Stack-Developer-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-p7PgIKOo",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-chennai-3-to-8-years-280926928651",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Full-Stack-Developer-Bengaluru-Bangalore-Gemba-Concepts-cqW2LlXy",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-chennai-7-to-12-years-280926928649",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Full-Stack-Software-Engineer-FAiHr-gUtYihT5",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-chennai-5-to-10-years-280926928646",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Software-Developer-ACNJ-Technologies-LLP-IYi2Kifk",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-chennai-12-to-17-years-280926928626",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Actimize-Developer-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-kSDhppOy",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-chennai-5-to-10-years-280926928605",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Actimize-Developer-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-t7Mqj1im",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-chennai-7-to-12-years-280926928377",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Full-Stack-Engineer-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-dRRLcou8",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-chennai-5-to-10-years-280926928316",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Cybersecurity-Engineer-Rampwork-062HKIhi",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-chennai-3-to-8-years-280926927703",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/QA-Automation-Engineer-Chennai-Pune-VY-SYSTEMS-PRIVATE-LIMITED-mhdpfLWw",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-chennai-5-to-10-years-280926927696",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/AI-ML-Engineer-Bengaluru-Bangalore-Wissen-Technology-5lmJjbwZ",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-chennai-5-to-10-years-280926927631",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Automation-Testing-Engineer-Gurugram-Bengaluru-Bangalore-Bean-HR-Consulting-ozMBITZS",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-chennai-15-to-20-years-280926927597",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Software-Engineer-Pune-Bengaluru-Bangalore-Metron-Security-Private-Limited-Z2O6kqHG",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-software-engineer-ford-motor-private-limited-chennai-2-to-7-years-280926903708",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Software-Development-Engineer-2-Bengaluru-Bangalore-Pune-Hyderabad-Kolkata-Chennai-Mumbai-Gurugram-Gravity-Engineering-Services-Pvt-Ltd-dDgUuRO7",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-software-engineer-flatirons-solutions-chennai-7-to-12-years-280926504208",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/SDET-With-UI-Testing-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-QoJQqsql",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-software-engineer-forward-ai-sysvine-technologies-chennai-2-to-4-years-280926030469",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Android-Developer-Gurugram-Quicket-Solutions-Inc-3BiIGX0w",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-software-engineer-iii-core-engineer-iii-tekwissen-india-chennai-8-to-13-years-280726502473",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/QA-Automation-Engineer-Bengaluru-Bangalore-Learnyst-Insight-Private-Limited-LLLcizJw",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-software-engineer-i-reed-elsevier-india-a-part-of-relx-india-pvt-ltd-chennai-5-to-10-years-280126507007",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/SDET-with-UI-testing-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-8kBBnzuF",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-staff-software-engineer-walmart-labs-chennai-10-to-15-years-300726501185",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Big-Data-Engineer-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-YX4ywmNW",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/AI-Implementation-Engineer-Mumbai-Wissen-Technology-cCRAeJSQ",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Software-Engineer-Opteamix-EPT3LfX5",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Software-Development-Engineer-III-SDE3-Bengaluru-Bangalore-Mumbai-Gurugram-Solarsquare-energy-pvt-ltd-96uepweW",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Lead-Engineer-Pune-Talentojcom-P9um62UU",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Full-Stack-Developer-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-p7PgIKOo",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Full-Stack-Developer-Bengaluru-Bangalore-Gemba-Concepts-cqW2LlXy",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Full-Stack-Software-Engineer-FAiHr-gUtYihT5",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Software-Developer-ACNJ-Technologies-LLP-IYi2Kifk",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Actimize-Developer-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-kSDhppOy",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Actimize-Developer-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-t7Mqj1im",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Full-Stack-Engineer-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-dRRLcou8",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Cybersecurity-Engineer-Rampwork-062HKIhi",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/QA-Automation-Engineer-Chennai-Pune-VY-SYSTEMS-PRIVATE-LIMITED-mhdpfLWw",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/AI-ML-Engineer-Bengaluru-Bangalore-Wissen-Technology-5lmJjbwZ",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Automation-Testing-Engineer-Gurugram-Bengaluru-Bangalore-Bean-HR-Consulting-ozMBITZS",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Software-Engineer-Pune-Bengaluru-Bangalore-Metron-Security-Private-Limited-Z2O6kqHG",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Software-Development-Engineer-2-Bengaluru-Bangalore-Pune-Hyderabad-Kolkata-Chennai-Mumbai-Gurugram-Gravity-Engineering-Services-Pvt-Ltd-dDgUuRO7",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/SDET-With-UI-Testing-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-QoJQqsql",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Android-Developer-Gurugram-Quicket-Solutions-Inc-3BiIGX0w",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/QA-Automation-Engineer-Bengaluru-Bangalore-Learnyst-Insight-Private-Limited-LLLcizJw",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/SDET-with-UI-testing-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-8kBBnzuF",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Big-Data-Engineer-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-YX4ywmNW",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/AI-Implementation-Engineer-Mumbai-Wissen-Technology-cCRAeJSQ",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Software-Engineer-Opteamix-EPT3LfX5",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Software-Development-Engineer-III-SDE3-Bengaluru-Bangalore-Mumbai-Gurugram-Solarsquare-energy-pvt-ltd-96uepweW",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Lead-Engineer-Pune-Talentojcom-P9um62UU",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Full-Stack-Developer-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-p7PgIKOo",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Full-Stack-Developer-Bengaluru-Bangalore-Gemba-Concepts-cqW2LlXy",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Full-Stack-Software-Engineer-FAiHr-gUtYihT5",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Software-Developer-ACNJ-Technologies-LLP-IYi2Kifk",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Actimize-Developer-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-kSDhppOy",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Actimize-Developer-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-t7Mqj1im",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Full-Stack-Engineer-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-dRRLcou8",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Cybersecurity-Engineer-Rampwork-062HKIhi",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/QA-Automation-Engineer-Chennai-Pune-VY-SYSTEMS-PRIVATE-LIMITED-mhdpfLWw",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/AI-ML-Engineer-Bengaluru-Bangalore-Wissen-Technology-5lmJjbwZ",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Automation-Testing-Engineer-Gurugram-Bengaluru-Bangalore-Bean-HR-Consulting-ozMBITZS",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Software-Engineer-Pune-Bengaluru-Bangalore-Metron-Security-Private-Limited-Z2O6kqHG",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Software-Development-Engineer-2-Bengaluru-Bangalore-Pune-Hyderabad-Kolkata-Chennai-Mumbai-Gurugram-Gravity-Engineering-Services-Pvt-Ltd-dDgUuRO7",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/SDET-With-UI-Testing-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-QoJQqsql",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Android-Developer-Gurugram-Quicket-Solutions-Inc-3BiIGX0w",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/QA-Automation-Engineer-Bengaluru-Bangalore-Learnyst-Insight-Private-Limited-LLLcizJw",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/SDET-with-UI-testing-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-8kBBnzuF",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Big-Data-Engineer-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-YX4ywmNW",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/AI-Implementation-Engineer-Mumbai-Wissen-Technology-cCRAeJSQ",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-Software-Engineer-Opteamix-EPT3LfX5",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Software-Development-Engineer-III-SDE3-Bengaluru-Bangalore-Mumbai-Gurugram-Solarsquare-energy-pvt-ltd-96uepweW",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Lead-Engineer-Pune-Talentojcom-P9um62UU",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Principal-Lead-Developer-Backend-Developer-Hyderabad-Technoidentity-jepzebk2",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Principal-Lead-Developer-Backend-Developer-Hyderabad-Technoidentity-jepzebk2",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Principal-Lead-Developer-Backend-Developer-Hyderabad-Technoidentity-jepzebk2",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Principal-Lead-Developer-Backend-Developer-Hyderabad-Technoidentity-jepzebk2",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/QA-Automation-Bengaluru-Bangalore-Antino-Labs-Private-Limited-7m1rJXGx",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Automation-Tester-Gurugram-Bean-HR-Consulting-LFfNgxkP",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Xstore-Development-consultant-Team-Geek-Solutions-Nc1z8GjF",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Automation-Tester-Bengaluru-Bangalore-Hyderabad-Pune-Chennai-Career-Guidance-Technologies-fiF7batS",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-QA-Bengaluru-Bangalore-AbleCredit-s96Hwqz6",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/QA-Automation-Bengaluru-Bangalore-Antino-Labs-Private-Limited-7m1rJXGx",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Automation-Tester-Gurugram-Bean-HR-Consulting-LFfNgxkP",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Xstore-Development-consultant-Team-Geek-Solutions-Nc1z8GjF",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Automation-Tester-Bengaluru-Bangalore-Hyderabad-Pune-Chennai-Career-Guidance-Technologies-fiF7batS",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-QA-Bengaluru-Bangalore-AbleCredit-s96Hwqz6",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/QA-Automation-Bengaluru-Bangalore-Antino-Labs-Private-Limited-7m1rJXGx",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Automation-Tester-Gurugram-Bean-HR-Consulting-LFfNgxkP",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Xstore-Development-consultant-Team-Geek-Solutions-Nc1z8GjF",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Automation-Tester-Bengaluru-Bangalore-Hyderabad-Pune-Chennai-Career-Guidance-Technologies-fiF7batS",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-QA-Bengaluru-Bangalore-AbleCredit-s96Hwqz6",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/QA-Automation-Bengaluru-Bangalore-Antino-Labs-Private-Limited-7m1rJXGx",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Automation-Tester-Gurugram-Bean-HR-Consulting-LFfNgxkP",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Xstore-Development-consultant-Team-Geek-Solutions-Nc1z8GjF",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Automation-Tester-Bengaluru-Bangalore-Hyderabad-Pune-Chennai-Career-Guidance-Technologies-fiF7batS",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Senior-QA-Bengaluru-Bangalore-AbleCredit-s96Hwqz6",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Principal-Engineer-Pune-Bengaluru-Bangalore-Metron-Security-Private-Limited-ZfFxw0aT",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Principal-Engineer-Pune-Bengaluru-Bangalore-Metron-Security-Private-Limited-ZfFxw0aT",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Principal-Engineer-Pune-Bengaluru-Bangalore-Metron-Security-Private-Limited-ZfFxw0aT",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Principal-Engineer-Pune-Bengaluru-Bangalore-Metron-Security-Private-Limited-ZfFxw0aT",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Technical-Delivery-Manager-Bengaluru-Bangalore-Gemba-Concepts-DCTEYcaO",
+        "reason": "unknown_date_detail_cap"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Technical-Delivery-Manager-Bengaluru-Bangalore-Gemba-Concepts-DCTEYcaO",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Technical-Delivery-Manager-Bengaluru-Bangalore-Gemba-Concepts-DCTEYcaO",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "cutshort",
+        "url": "https://cutshort.io/job/Technical-Delivery-Manager-Bengaluru-Bangalore-Gemba-Concepts-DCTEYcaO",
+        "reason": "duplicate_in_same_sweep"
+      }
+    ]
+  },
+  "portal_native": {
+    "selected": 9,
+    "verified": 2,
+    "unverified": 7,
+    "verified_job_ids": [
+      242,
+      243
+    ],
+    "results": [
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-shashwath-solution-noida-4-to-8-years-230926935177",
+        "portal_job_id": "230926935177",
+        "title": "Java Backend Developer - Spring Boot",
+        "employer": "Shashwath Solution",
+        "location": "Noida",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 2794,
+        "experience_evidence": "4 - 8 years",
+        "apply_visible": true,
+        "database_job_id": 242,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": []
+        },
+        "render_checks": 2,
+        "card_sha256": "a9889b4cd2ccfd39b8365716e02707aceb33b66c989cc065e7d1df8bc2c896cd",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-backend-engineer-java-spring-boot-node-simran-software-solutions-private-limited-faridabad-2-to-5-years-180926501133",
+        "portal_job_id": "180926501133",
+        "title": "Backend Engineer (Java / Spring Boot / Node)",
+        "employer": "Simran Software",
+        "location": "Faridabad",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "job_specific_india_location_not_visible",
+          "enabled_apply_action_not_visible"
+        ],
+        "jd_characters": 1221,
+        "experience_evidence": "2 - 5 years",
+        "apply_visible": false,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 2,
+        "card_sha256": "225831eca23f13106a21dd1ccbf0ea8616617ac61fd8864c1cd5632ce82ad90a",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-enterprise-applications-consult-asia-ghaziabad-6-to-11-years-250926911114",
+        "portal_job_id": "250926911114",
+        "title": "Java Backend Developer : Spring Boot (Enterprise Applications)",
+        "employer": "ConsultAsia",
+        "location": "Ghaziabad",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "job_specific_india_location_not_visible",
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 1347,
+        "experience_evidence": "6 - 11 years",
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 2,
+        "card_sha256": "297ba1513a251133249c9c010cd4cb17a6bbfae29ba0bc401353029aef46f733",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-backend-engineer-java-spring-boot-h-advance-career-solutions-noida-kolkata-hyderabad-8-to-11-years-200926009243",
+        "portal_job_id": "200926009243",
+        "title": "Senior Backend Engineer Java / Spring Boot(H)",
+        "employer": "IT MNC",
+        "location": "Noida, Hyderabad",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 2099,
+        "experience_evidence": "8 - 11 years",
+        "apply_visible": true,
+        "database_job_id": 243,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": []
+        },
+        "render_checks": 2,
+        "card_sha256": "251ac5e52b5288784e4aa1081014f204d169fcdb8791c8aaeca80a4e7ca2000b",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-java-developer-spring-boot-microservices-consult-asia-new-delhi-9-to-11-years-250926916948",
+        "portal_job_id": "250926916948",
+        "title": "Senior Java Developer ( Spring Boot & Microservices)",
+        "employer": "Consult Asia",
+        "location": "Delhi",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 1362,
+        "experience_evidence": "9 - 11 years",
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 2,
+        "card_sha256": "c635c7e32b2779a44889e3cbc90590ee1059e578954f6b01be6ddab2e54392df",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-java-developer-spring-boot-microservices-consult-asia-ghaziabad-9-to-11-years-250926916953",
+        "portal_job_id": "250926916953",
+        "title": "Senior Java Developer ( Spring Boot & Microservices)",
+        "employer": "Consult Asia",
+        "location": "Ghaziabad",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "job_specific_india_location_not_visible",
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 1332,
+        "experience_evidence": "9 - 11 years",
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 2,
+        "card_sha256": "d9ab04740866a652dbcecd68e1447b0aafdc1f39bdaebba12019b7225e8633d5",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-java-developer-spring-boot-microservices-consult-asia-gurugram-9-to-11-years-250926916952",
+        "portal_job_id": "250926916952",
+        "title": "Senior Java Developer ( Spring Boot & Microservices)",
+        "employer": "Consult Asia",
+        "location": "Gurugram",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 1346,
+        "experience_evidence": "9 - 11 years",
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 2,
+        "card_sha256": "1558e33092a3a1b910df6cbd85e728efaee083d79c979dd3dc63bcc61e630e6e",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-2-backend-developer-java-spring-boot-raygain-technologies-new-delhi-5-to-10-years-160926032761",
+        "portal_job_id": "160926032761",
+        "title": "2. Backend Developer (Java + Spring Boot) .",
+        "employer": "Raygain Technologies",
+        "location": "Delhi",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 1197,
+        "experience_evidence": "5 - 10 years",
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 2,
+        "card_sha256": "b15601bbba7c68210b14e9c97844fb55c953ca6a7f2f4207f8b1854100237a5b",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-java-developer-spring-boot-microservices-consult-asia-greater-noida-9-to-11-years-250926916951",
+        "portal_job_id": "250926916951",
+        "title": "Senior Java Developer ( Spring Boot & Microservices)",
+        "employer": "Consult Asia",
+        "location": "Noida",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 1332,
+        "experience_evidence": "9 - 11 years",
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 2,
+        "card_sha256": "53d1e967486189720aaf9f2975f55eb5fdb390d2c5b504c59597c6c0ce6b310b",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      }
+    ]
+  },
+  "lead_resolution": {
+    "navigation_links_reclassified": 83,
+    "missing_ats_jd_refresh": {
+      "candidates_found": 8,
+      "checked": 7,
+      "verified_substantive": 6,
+      "failed_or_unresolved": 1,
+      "results": [
+        {
+          "job_id": 168,
+          "company": "Brillio",
+          "role": "Fullstack Engineer - React  Java - R01527438",
+          "direct_url": "https://jobs.lever.co/brillio-2/7fb2ac4a-a088-4c5d-b67d-77834786b729",
+          "requisition_id": "7fb2ac4a-a088-4c5d-b67d-77834786b729",
+          "provider": "lever",
+          "verified": true,
+          "status": "VerifiedSubstantiveJD",
+          "checked_at": "2026-09-29T11:02:13.974983+00:00",
+          "url": "https://jobs.lever.co/brillio-2/7fb2ac4a-a088-4c5d-b67d-77834786b729",
+          "title": "Fullstack Engineer - React  Java - R01527438",
+          "employer": "Brillio",
+          "location": "Chennai, Tamil Nadu, India",
+          "posted_at": "2023-07-24",
+          "jd_text": "About Brillio: \n \n \n Brillio is one of the fastest growing digital technology service providers and a partner of choice for many Fortune 1000 companies seeking to turn disruption into a competitive advantage through innovative digital adoption. Brillio, renowned for its world-class professionals, referred to as \"Brillians\", distinguishes itself through their capacity to seamlessly integrate cutting-edge digital and design thinking skills with an unwavering dedication to client satisfaction. \n Brillio takes pride in its status as an employer of choice, consistently attracting the most exceptional and talented individuals due to its unwavering emphasis on contemporary, groundbreaking technologies, and exclusive digital projects. Brillio's relentless commitment to providing an exceptional experience to its Brillians and nurturing their full potential consistently garners them the Great Place to Work® certification year after year. \n \n \n Fullstack Engineer - React Java \\n \n \n \n Primary Skills \n CI/CD Pipeline, CSS3, Docker, Hibernate, HTML5, Java, MySQL, Oracle RDBMS, React JS, Spring Boot, Spring Core, JavaScript \n \n Specialization \n Java Fullstack with Microservices: Software Development Lead \n \n Job requirements \n Fullstack Engineer - React Java with more than 4 years of experience \n \n \n \\n \n   \n Know what it’s like to work and grow at Brillio: Click here",
+          "evidence": {
+            "http_status": 200,
+            "same_host": "jobs.lever.co",
+            "title": "Fullstack Engineer - React  Java - R01527438",
+            "description_chars": 1376,
+            "sections_detected": [
+              "requirements"
+            ]
+          },
+          "updated_from_original": true,
+          "record_created": false
+        },
+        {
+          "job_id": 186,
+          "company": "Brillio",
+          "role": "Senior Software Development Engineer - R01556437",
+          "direct_url": "https://jobs.lever.co/brillio-2/664eda55-501d-4b61-a0d5-863d56b75f34",
+          "requisition_id": "664eda55-501d-4b61-a0d5-863d56b75f34",
+          "provider": "lever",
+          "verified": true,
+          "status": "VerifiedSubstantiveJD",
+          "checked_at": "2026-09-29T11:02:14.459277+00:00",
+          "url": "https://jobs.lever.co/brillio-2/664eda55-501d-4b61-a0d5-863d56b75f34",
+          "title": "Senior Software Development Engineer - R01556437",
+          "employer": "Brillio",
+          "location": "Hyderabad, Andhra Pradesh, India",
+          "posted_at": "2025-10-06",
+          "jd_text": "Senior Software Development Engineer \\n \n \n \n Primary Skills \n AngularJS, JavaScript, CSS3, React JS, Java, Hibernate, Oracle RDBMS, Docker, Spring Core, Spring Boot, HTML5, MySQL \n \n Job requirements \n Overview We are seeking a skilled QA Automation Engineer to design, develop, and maintain automated test suites across frontend, backend, and integration layers. The ideal candidate will have hands-on experience with modern test automation frameworks and tools, ensuring high-quality, scalable, and reliable digital solutions. Key Skills & Expertise Must Have Skills Automation Frameworks – Strong experience with Selenium, Cypress, or Playwright. Frontend Automation – Hands-on testing React.js applications (React TestingLibrary, Jest). Backend/API Automation – Proficient in API testing with Postman, PyTest, or REST-assured (REST/GraphQL validation). Programming/Scripting – Proficiency in Python or JavaScript for building test scripts. Database Testing – SQL skills for backend validation and data integrity checks. CI/CD Integration – Embedding automated tests in pipelines (GitHub Actions, GitLab CI, Jenkins). Version Control – Proficient with Git workflows (branching, merging, PRs). Agile Collaboration – Experience working in Agile/Scrum, with Jira or similar tools. Nice to Have Skills • Containerization/Cloud Awareness – Familiarity with Docker, Kubernetes, AWS/GCP/Azure. • AI/ML Testing – Exposure to validating AI-driven components (e.g., test script generation). \n \n \n \\n",
+          "evidence": {
+            "http_status": 200,
+            "same_host": "jobs.lever.co",
+            "title": "Senior Software Development Engineer - R01556437",
+            "description_chars": 1493,
+            "sections_detected": [
+              "requirements"
+            ]
+          },
+          "updated_from_original": true,
+          "record_created": false
+        },
+        {
+          "job_id": 187,
+          "company": "Brillio",
+          "role": "Senior Software Development Engineer - R01563671",
+          "direct_url": "https://jobs.lever.co/brillio-2/0ec285a3-4f72-4f6e-a042-111306300cec",
+          "requisition_id": "0ec285a3-4f72-4f6e-a042-111306300cec",
+          "provider": "lever",
+          "verified": true,
+          "status": "VerifiedSubstantiveJD",
+          "checked_at": "2026-09-29T11:02:14.922417+00:00",
+          "url": "https://jobs.lever.co/brillio-2/0ec285a3-4f72-4f6e-a042-111306300cec",
+          "title": "Senior Software Development Engineer - R01563671",
+          "employer": "Brillio",
+          "location": "Hyderabad, Andhra Pradesh, India",
+          "posted_at": "2026-04-09",
+          "jd_text": "Senior Software Development Engineer \\n \n \n \n Primary Skills \n \n BDD - Behavior Driven Development, Android Studio, Appium, Zephyr, Cucumber \n \n \n Job requirements \n \n Lead/Sr. Developer 4-6 Years of experience - Mobile test automation (Mandatory) Notice Period - Immediate joiners. Experience in automating mobile apps using automation tool such as Appium / Espresso Experience in automating Web, iOS & Android applications Experience in design and implementing mobile automation framework. Working experience on API testing using RestAssured / Postman / any other frameworks. Experience with Cucumber or similar BDD based tools. Conversant with Atlassian suite of tools Experience integrating the test framework with CI/CD tools (GitHub, Jenkins) in cloud and data-centre based infrastructure Experience working in Agile development methodology and fast paced delivery model Good knowledge in database testing & query writing. Ex: MySQL / SQL Server Good understanding of Design Patterns apart from POM like Factory and Singleton. \n \n \n \n \\n",
+          "evidence": {
+            "http_status": 200,
+            "same_host": "jobs.lever.co",
+            "title": "Senior Software Development Engineer - R01563671",
+            "description_chars": 1043,
+            "sections_detected": [
+              "requirements"
+            ]
+          },
+          "updated_from_original": true,
+          "record_created": false
+        },
+        {
+          "job_id": 188,
+          "company": "Brillio",
+          "role": "Senior Software Development Engineer - R01566591",
+          "direct_url": "https://jobs.lever.co/brillio-2/a17e95d9-72c1-41ac-bca9-07db0b1be413",
+          "requisition_id": "a17e95d9-72c1-41ac-bca9-07db0b1be413",
+          "provider": "lever",
+          "verified": true,
+          "status": "VerifiedSubstantiveJD",
+          "checked_at": "2026-09-29T11:02:15.571679+00:00",
+          "url": "https://jobs.lever.co/brillio-2/a17e95d9-72c1-41ac-bca9-07db0b1be413",
+          "title": "Senior Software Development Engineer - R01566591",
+          "employer": "Brillio",
+          "location": "Bangalore, Karnataka, India",
+          "posted_at": "2026-06-15",
+          "jd_text": "Senior Software Development Engineer \\n \n \n \n Primary Skills \n \n DB2 \n \n \n Job requirements \n \n AS400 Developer Experience: 3–5 years Department: Digital Engineering Employment Type: Full-time Role Overview We are looking for an experienced AS400 (IBM i) Developer to design, develop, and maintain business-critical applications on the IBM iSeries platform. The ideal candidate has strong RPG programming skills, a solid understanding of DB2 for i, and experience supporting and modernizing legacy enterprise systems. Key Responsibilities Design, develop, test, and maintain applications on the IBM i (AS400/iSeries) platform using RPG (RPG IV / RPGLE / Free-format RPG), CL, and SQL. Analyze business requirements and translate them into technical specifications and robust solutions. Develop and optimize DB2 for i database objects — physical/logical files, tables, views, and stored procedures. Debug, troubleshoot, and resolve production issues, ensuring minimal downtime for business-critical systems. Perform code reviews, unit testing, and support system integration and user acceptance testing (UAT). Maintain and enhance existing legacy applications while supporting modernization initiatives (e.g., migration to free-format RPG, web enablement, API integration). Collaborate with cross-functional teams including business analysts, QA, and infrastructure teams. Create and maintain technical documentation for developed solutions. Adhere to coding standards, change management processes, and SDLC best practices. Required Skills & Qualifications Bachelor's degree in Computer Science, Information Technology, or a related field. 3–5 years of hands-on experience in AS400/IBM i application development. Strong proficiency in RPG IV, RPGLE, and Free-format RPG. Solid experience with CL (Control Language) programming. Strong knowledge of DB2 for i and embedded SQL / SQLRPGLE. Experience with development tools such as RDi (Rational Developer for i), PDM, SEU, and DDS. Good understanding of file structures (physical and logical files), data areas, and data queues. Experience in debugging, performance tuning, and production support. Familiarity with version control and change management tools. Strong analytical, problem-solving, and communication skills. Preferred / Good-to-Have Skills Warehouse Management Systems, Food Sales/Service Apps Experience with modernization tools (e.g., web services / REST APIs on IBM i, Profound UI, or similar). Knowledge of integration technologies (MQ, EDI, or middleware). Exposure to Agile/Scrum methodologies. IBM i certifications. Soft Skills Ability to work independently and within a team in a fast-paced environment. Strong attention to detail and commitment to quality. Effective collaboration and stakeholder communication. \n \n \n \n \\n",
+          "evidence": {
+            "http_status": 200,
+            "same_host": "jobs.lever.co",
+            "title": "Senior Software Development Engineer - R01566591",
+            "description_chars": 2792,
+            "sections_detected": [
+              "requirements",
+              "Responsibilities",
+              "requirements",
+              "Qualifications"
+            ]
+          },
+          "updated_from_original": true,
+          "record_created": false
+        },
+        {
+          "job_id": 189,
+          "company": "Brillio",
+          "role": "Senior Software Development Engineer - R01568499",
+          "direct_url": "https://jobs.lever.co/brillio-2/58d975db-1d26-4ecb-92de-66bbc3666320",
+          "requisition_id": "58d975db-1d26-4ecb-92de-66bbc3666320",
+          "provider": "lever",
+          "verified": false,
+          "status": "LiveTitleOnly",
+          "checked_at": "2026-09-29T11:02:17.298072+00:00",
+          "url": "https://jobs.lever.co/brillio-2/58d975db-1d26-4ecb-92de-66bbc3666320",
+          "title": "Senior Software Development Engineer - R01568499",
+          "error_kind": "live_page_has_no_substantive_duties_and_qualifications",
+          "visible_chars": 207,
+          "updated_from_original": false,
+          "failure_reason": "live_page_has_no_substantive_duties_and_qualifications"
+        },
+        {
+          "job_id": 190,
+          "company": "Brillio",
+          "role": "Senior Software Development Engineer - R01569774",
+          "direct_url": "https://jobs.lever.co/brillio-2/00d2c483-8e88-47a1-893f-31c513bc0991",
+          "requisition_id": "00d2c483-8e88-47a1-893f-31c513bc0991",
+          "provider": "lever",
+          "verified": true,
+          "status": "VerifiedSubstantiveJD",
+          "checked_at": "2026-09-29T11:02:17.720206+00:00",
+          "url": "https://jobs.lever.co/brillio-2/00d2c483-8e88-47a1-893f-31c513bc0991",
+          "title": "Senior Software Development Engineer - R01569774",
+          "employer": "Brillio",
+          "location": "Bangalore, Karnataka, India",
+          "posted_at": "2026-08-13",
+          "jd_text": "Senior Software Development Engineer \\n \n \n \n Primary Skills \n \n Azure Service Bus, Azure API Management, Azure Storage Queues, Azure Logic Apps, Azure AKS, Azure Content Delivery Network, Azure App Service, Azure Functions \n \n \n Job requirements \n Experience Range: \n \n   \n \n With at least 2 to 4 years of hands-on experience in Azure development and cloud-native engineering \n \n   \n \n Key Responsibilities: \n \n 1. Design, develop, and maintain responsive web applications and scalable backend services supporting healthcare member journeys \n \n 2. Build and optimize APIs and microservices on Azure cloud platforms, ensuring high performance and security \n \n 3. Integrate conversational AI interfaces, retrieval-augmented generation solutions, and AI-powered user experiences \n \n 4. Implement secure authentication, authorization, and data protection controls across APIs and application services \n \n 5. Integrate enterprise healthcare APIs and data sources to enable provider search, benefits guidance, and cost estimation workflows \n \n 6. Deploy and manage containerized workloads using Azure Kubernetes Service (AKS) or OpenShift, supporting CI/CD pipelines and DevOps automation  \n \n 7. Enhance observability, monitoring, logging, and performance optimization for cloud-native applications \n \n 8. Write clean, testable, and production-ready code, participate in code reviews, and implement automated testing and quality engineering practices \n \n   \n \n Required Skills: \n \n 1. Next.js \n \n 2. Node.js \n \n 3. Azure Service Bus \n \n 4. Azure API Management \n \n 5. Azure Storage Queues \n \n 6. Azure Logic Apps 7. Azure Kubernetes Service (AKS) \n \n 8. Azure Content Delivery Network (CDN) \n \n 9. Azure App Service \n \n 10. Azure Functions \n \n   \n \n Preferred Skills: \n \n 1. Experience with conversational AI frameworks \n \n 2. Expertise in prompt engineering \n \n 3. Knowledge of HIPAA compliance and secure coding practices in healthcare  \n \n 4. Hands-on experience with Retrieval-Augmented Generation (RAG) and AI Gateway integration \n \n 5. Familiarity with enterprise healthcare API standards \n \n 6. Experience with semantic search technologies  \n \n 7. Avaya Contact Center integration \n \n 8. Advanced proficiency in CI/CD pipeline automation and monitoring tools \n \n   \n \n  Desired Qualifications: \n \n 1. Bachelor's degree in Computer Science, Information Technology, Software Engineering, or a closely related discipline \n \n 2. Microsoft Certified: Azure Developer Associate or equivalent Azure certification \n \n 3. Certification in AI engineering or cloud-native development (such as Microsoft Certified: Azure AI Engineer Associate) is highly desirable \n \n \n \\n",
+          "evidence": {
+            "http_status": 200,
+            "same_host": "jobs.lever.co",
+            "title": "Senior Software Development Engineer - R01569774",
+            "description_chars": 2663,
+            "sections_detected": [
+              "requirements",
+              "Responsibilities",
+              "Qualifications"
+            ]
+          },
+          "updated_from_original": true,
+          "record_created": false
+        },
+        {
+          "job_id": 191,
+          "company": "Brillio",
+          "role": "Senior Software Development Engineer - R01569776",
+          "direct_url": "https://jobs.lever.co/brillio-2/1bb179e1-05dc-4b61-841b-bd7a75820ee3",
+          "requisition_id": "1bb179e1-05dc-4b61-841b-bd7a75820ee3",
+          "provider": "lever",
+          "verified": true,
+          "status": "VerifiedSubstantiveJD",
+          "checked_at": "2026-09-29T11:02:18.175363+00:00",
+          "url": "https://jobs.lever.co/brillio-2/1bb179e1-05dc-4b61-841b-bd7a75820ee3",
+          "title": "Senior Software Development Engineer - R01569776",
+          "employer": "Brillio",
+          "location": "Bangalore, Karnataka, India",
+          "posted_at": "2026-08-13",
+          "jd_text": "Senior Software Development Engineer \\n \n \n \n Primary Skills \n \n Azure Service Bus, Azure API Management, Azure Storage Queues, Azure Logic Apps, Azure AKS, Azure Content Delivery Network, Azure App Service, Azure Functions \n \n \n Job requirements \n Experience Range: \n \n \n With at least 2 to 4 years of hands-on experience in AI-powered healthcare solution development and Azure cloud engineering \n \n \n Key Responsibilities:  \n \n \n Design and develop AI-powered healthcare solutions leveraging large language models and Generative AI services to enhance member experiences  \n \n Build and enhance conversational healthcare assistants, implementing intelligent workflows for personalized member service journeys  \n \n Develop Retrieval-Augmented Generation (RAG) solutions, including semantic search, healthcare knowledge retrieval, and integration with vector databases and enterprise knowledge sources  \n \n Engineer and orchestrate AI agents for complex healthcare workflows, implementing multi-step reasoning, tool-calling patterns, and workflow automation  \n \n Enable healthcare member experience features such as provider search, facility search, symptom guidance, benefits and coverage guidance, cost estimation, claims status, and contact center escalation  \n \n Collaborate with AI architects and platform teams to implement AI Gateway integrations, LLM routing and orchestration, prompt management, transcript logging, observability, guardrails, and evaluation frameworks  \n \n Develop and optimize APIs, backend services, and chatbot interfaces, integrating AI models into web-based applications while ensuring performance, latency, and cost efficiency  \n \n Ensure AI solutions adhere to healthcare privacy requirements, implementing guardrails, monitoring, safety mechanisms, and supporting HIPAA and Responsible AI compliance  \n \n \n Required Skills: \n \n \n Node.js  \n \n TypeScript  \n \n Next.js  \n \n Microsoft Azure  \n \n Azure AI Services  \n \n Retrieval-Augmented Generation (RAG)  \n \n Vector database integration  \n \n Semantic search  \n \n API development  \n \n LLM orchestration  \n \n \n Preferred Skills:  \n \n \n Knowledge graph engineering  \n \n Healthcare ontology modeling  \n \n Azure Service Bus  \n \n Azure API Management  \n \n Azure Storage Queues  \n \n Azure Logic Apps  \n \n Azure Kubernetes Service (AKS) \n \n Azure Content Delivery Network  \n \n Azure App Service  \n \n Azure Functions  \n \n Advanced prompt engineering  \n \n AI evaluation frameworks  \n \n Observability tools  \n \n Workflow automation with agentic architectures  \n \n \n Desired Qualifications: \n \n \n Bachelor's degree in Computer Science, Information Technology, Software Engineering, or a closely related discipline \n \n Microsoft Certified: Azure AI Engineer Associate  \n \n Certification in Responsible AI or HIPAA healthcare data privacy \n \n \n \n \\n",
+          "evidence": {
+            "http_status": 200,
+            "same_host": "jobs.lever.co",
+            "title": "Senior Software Development Engineer - R01569776",
+            "description_chars": 2817,
+            "sections_detected": [
+              "requirements",
+              "Responsibilities",
+              "requirements",
+              "Qualifications"
+            ]
+          },
+          "updated_from_original": true,
+          "record_created": false
+        }
+      ]
+    },
+    "direct_provider_coverage": {},
+    "direct_employer_coverage": {},
+    "portal_employer_coverage": {
+      "portal company unavailable": 4,
+      "Cutshort": 3,
+      "CBTS": 3
+    },
+    "target_title_failures_in_batch": 8,
+    "portal_jobs_inspected": 10,
+    "originals_matched": 0,
+    "substantive_originals_verified": 0,
+    "live_title_only": 0,
+    "direct_check_failures": 10,
+    "needs_original": 447,
+    "title_relevant_unresolved": 282,
+    "by_source": {
+      "naukri": {
+        "needs_original": 270,
+        "not_a_job": 3
+      },
+      "linkedin": {
+        "needs_original": 149,
+        "not_a_job": 3
+      },
+      "foundit": {
+        "needs_original": 0,
+        "not_a_job": 17
+      },
+      "indeed": {
+        "needs_original": 0,
+        "not_a_job": 30
+      },
+      "cutshort": {
+        "needs_original": 28,
+        "not_a_job": 30
+      }
+    },
+    "results": [
+      {
+        "source": "naukri",
+        "portal_url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-enterprise-applications-consult-asia-delhi-ncr-6-to-11-years-250926911107",
+        "portal_title": "Java Backend Developer : Spring Boot (Enterprise Applications)",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": null,
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      },
+      {
+        "source": "cutshort",
+        "portal_url": "https://cutshort.io/job/Senior-Java-Full-Stack-Developer-6-years-Raah-Techservices-oaOOb9J3",
+        "portal_title": "Senior Java Full Stack Developer 6+ years",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "Cutshort",
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      },
+      {
+        "source": "naukri",
+        "portal_url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-enterprise-applications-consult-asia-new-delhi-6-to-11-years-250926911105",
+        "portal_title": "Java Backend Developer : Spring Boot (Enterprise Applications)",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": null,
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4469697436/",
+        "portal_title": "Java Backend Modernization Engineer(onsite, only W2)\nJava Backend Modernization Engineer(onsite, only W2) with verificat",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "CBTS",
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      },
+      {
+        "source": "naukri",
+        "portal_url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-enterprise-applications-consult-asia-gurugram-6-to-11-years-250926911112",
+        "portal_title": "Java Backend Developer : Spring Boot (Enterprise Applications)",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": null,
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4466516292/",
+        "portal_title": "Java Backend Engineer (W2 Contract only/ No 3rd Parties)\nJava Backend Engineer (W2 Contract only/ No 3rd Parties) with v",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "CBTS",
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      },
+      {
+        "source": "cutshort",
+        "portal_url": "https://cutshort.io/job/Senior-Full-Stack-Developer-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-p7PgIKOo",
+        "portal_title": "Senior Full Stack Developer",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "Cutshort",
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      },
+      {
+        "source": "cutshort",
+        "portal_url": "https://cutshort.io/job/Full-Stack-Developer-Bengaluru-Bangalore-Gemba-Concepts-cqW2LlXy",
+        "portal_title": "Full Stack Developer",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "Cutshort",
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      },
+      {
+        "source": "naukri",
+        "portal_url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-enterprise-applications-consult-asia-greater-noida-6-to-11-years-250926911111",
+        "portal_title": "Java Backend Developer : Spring Boot (Enterprise Applications)",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": null,
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4470735836/",
+        "portal_title": "Senior (Lead) backend Java/J2EE/AWS developer\nSenior (Lead) backend Java/J2EE/AWS developer with verification",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "CBTS",
+        "direct_checks": [],
+        "failure_reason": "no direct requisition link on inspected portal page"
+      }
+    ]
+  },
+  "linked_portal_native": null,
+  "review_coverage": {
+    "by_source": {
+      "naukri_portal_native": 2,
+      "brillio_lever": 5
+    },
+    "by_company": {
+      "Shashwath Solution": 1,
+      "IT MNC": 1,
+      "Brillio": 5
+    }
+  },
+  "staging": {
+    "path": ".workflow/staging.json",
+    "resume_review_ready": 0,
+    "needs_jd_evidence_review": 1
+  },
+  "blocker_alerts": [],
+  "tab_lifecycle": {
+    "created": 48,
+    "closed": 48,
+    "remaining_automation_tabs": 0,
+    "job_tabs_created": 24,
+    "job_tabs_closed": 24,
+    "welcome_tabs_created": 24,
+    "welcome_tabs_closed": 24,
+    "remaining_job_tabs": 0,
+    "remaining_welcome_tabs": 0,
+    "reused": 18,
+    "uncertain_ids": [],
+    "recorded_ids": [
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      }
+    ],
+    "log_paths": [
+      ".workflow/runs/202b1404-5d46-4775-8287-2e7feb919ce0-tabs.jsonl",
+      ".workflow/runs/202b1404-5d46-4775-8287-2e7feb919ce0-tabs-helper.jsonl"
+    ]
+  },
+  "finished_at": "2026-09-29T11:03:02.500342+00:00",
+  "elapsed_seconds": 181.49
+}

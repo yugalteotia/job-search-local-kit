@@ -1,0 +1,456 @@
+{
+  "run_id": "681701c8-421d-4ac5-bb5b-92e0926f379e",
+  "started_at": "2026-10-13T15:51:47.927589+00:00",
+  "mode": "read_only",
+  "upload_enabled": false,
+  "submission_enabled": false,
+  "scheduled": true,
+  "test": true,
+  "source_scope": [
+    "linkedin"
+  ],
+  "fresh_only": true,
+  "status": "Success",
+  "sources": {
+    "linkedin": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-10-13T15:52:18.492657+00:00",
+      "pages_checked": 2,
+      "leads": 5,
+      "feed_jobs": 0
+    }
+  },
+  "coverage": {
+    "linkedin": [
+      {
+        "query": "Java Spring Boot backend",
+        "location": "India",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Spring%20Boot%20backend&location=India&sortBy=DD&f_AL=true&f_TPR=r604800&f_E=2%2C3&start=0",
+        "observed_url": "https://www.linkedin.com/jobs/search/?currentJobId=4476461334&f_AL=true&f_E=2%2C3&f_TPR=r604800&keywords=Java%20Spring%20Boot%20backend&location=India&sortBy=DD",
+        "visible_cards": 32,
+        "lead_count": 25,
+        "retained_leads": 2,
+        "card_filter_exclusions": {
+          "no_relevant_title_or_generic_engineering_card_skills": 23
+        },
+        "filters": {
+          "easy_apply": true,
+          "location": "India",
+          "experience_levels": [
+            "Entry level",
+            "Associate"
+          ],
+          "posting_window": "last 7 days",
+          "sort": "newest"
+        },
+        "checked_at": "2026-10-13T15:52:05.269126+00:00",
+        "status": "Success"
+      },
+      {
+        "query": "Java Backend Developer",
+        "location": "India",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Backend%20Developer&location=India&sortBy=DD&f_AL=true&f_TPR=r604800&f_E=2%2C3&start=0",
+        "observed_url": "https://www.linkedin.com/jobs/search/?currentJobId=4476461334&f_AL=true&f_E=2%2C3&f_TPR=r604800&keywords=Java%20Backend%20Developer&location=India&sortBy=DD",
+        "visible_cards": 32,
+        "lead_count": 25,
+        "retained_leads": 3,
+        "card_filter_exclusions": {
+          "no_relevant_title_or_generic_engineering_card_skills": 22
+        },
+        "filters": {
+          "easy_apply": true,
+          "location": "India",
+          "experience_levels": [
+            "Entry level",
+            "Associate"
+          ],
+          "posting_window": "last 7 days",
+          "sort": "newest"
+        },
+        "checked_at": "2026-10-13T15:52:18.067730+00:00",
+        "status": "Success"
+      }
+    ]
+  },
+  "leads": 5,
+  "unique_original_requisitions_verified": 0,
+  "fit_decisions": {
+    "341": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Java is not established as an essential qualification",
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "India · 2 hours ago · 53 applicants\n\nPromoted by hirer · No response insights available yet",
+        "experience": "3+ years of hands-on back-end development experience Strong proficiency in .NET (C#) Solid experience with Microsoft A",
+        "technology": null,
+        "role": null
+      },
+      "jd_sha256": "22803af773028c25817097f17647db35990b836c9d7dacd6cde5530c965b59ac"
+    }
+  },
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/681701c8-421d-4ac5-bb5b-92e0926f379e.json"
+  ],
+  "queue": {
+    "ResumeReady": 2
+  },
+  "stage_seconds": {
+    "discovery": 30.5,
+    "original_verification": 0.0,
+    "lead_resolution": 38.53,
+    "fit_review": 0.02,
+    "auto_fit_resume": 0.12
+  },
+  "stage_counts": {
+    "normalized_unique_ats": 0,
+    "selected_for_original_check": 0,
+    "fetched": 5,
+    "unique_portal_leads": 3,
+    "fresh": 0,
+    "unknown_date": 3,
+    "skipped_old": 0,
+    "repeat_skipped": 2,
+    "unique_original_requisitions": 0,
+    "eligible_for_review": 1,
+    "original_jds_reviewed": 0,
+    "original_or_portal_jds_reviewed": 1,
+    "portal_native_verified": 1,
+    "high": 0,
+    "queued_for_resume": 0,
+    "review_queue_added": 1,
+    "portal_originals_matched": 0,
+    "portal_leads_still_needing_original": 2146
+  },
+  "top_reviewed": [
+    {
+      "job_id": 341,
+      "company": "BoomerangFX",
+      "role": "Back End Developer",
+      "location": "India · 2 hours ago · 53 applicants\n\nPromoted by hirer · No response insights available yet",
+      "direct_url": "https://www.linkedin.com/jobs/view/4476433893/",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 7,
+      "jd_sha256": "22803af773028c25817097f17647db35990b836c9d7dacd6cde5530c965b59ac",
+      "original_page_checked_at": "2026-10-13T15:52:56.969738+00:00",
+      "reviewed_at": "2026-10-13T15:52:57.068026+00:00",
+      "experience_minimum": 3.0,
+      "evidence": {
+        "location": "India · 2 hours ago · 53 applicants\n\nPromoted by hirer · No response insights available yet",
+        "experience": "3+ years of hands-on back-end development experience Strong proficiency in .NET (C#) Solid experience with Microsoft A",
+        "technology": null,
+        "role": null
+      },
+      "reasons": [
+        "Java is not established as an essential qualification",
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ]
+    }
+  ],
+  "recovery": {
+    "requeued_resume": 0,
+    "returned_to_prepared": 0,
+    "claimed_left_locked": 3
+  },
+  "freshness": {
+    "policy": {
+      "routine_review_hours": 24,
+      "sweep_overlap_minutes": 90,
+      "unknown_date_details_per_run": 30,
+      "transient_retry_hours": 6,
+      "pending_application_recheck_hours": 6
+    },
+    "counts": {
+      "fresh": 0,
+      "recent": 0,
+      "unknown_date": 3,
+      "skipped_old": 0,
+      "repeat_skipped": 2,
+      "history_skipped": 0,
+      "unknown_date_deferred": 0
+    },
+    "detail_candidates": 3,
+    "skips": [
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4478129047/",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4476433893/",
+        "reason": "duplicate_in_same_sweep"
+      }
+    ]
+  },
+  "portal_native": {
+    "selected": 3,
+    "verified": 1,
+    "unverified": 2,
+    "verified_job_ids": [
+      341
+    ],
+    "results": [
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4476433893/",
+        "portal_job_id": "4476433893",
+        "title": "Back End Developer",
+        "employer": "BoomerangFX",
+        "location": "India · 2 hours ago · 53 applicants\n\nPromoted by hirer · No response insights available yet",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 3853,
+        "experience_evidence": null,
+        "apply_visible": true,
+        "database_job_id": 341,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 0
+        },
+        "render_checks": 1,
+        "card_sha256": "03b58791af2b3f842fb9444702eca6ddbfa0539e7ae01c16cd1741637e984055",
+        "freshness": "Unknown",
+        "posted_at": "2026-10-13",
+        "posted_text": "2 hours ago\nWithin the past 24 hours"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4478117539/",
+        "portal_job_id": "4478117539",
+        "title": "Senior Software Engineer/Software Engineer",
+        "employer": "Dinoxo",
+        "location": "Bengaluru, Karnataka, India · 41 minutes ago · 37 applicants\n\nPromoted by hirer · No response insights available yet",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 713,
+        "experience_evidence": null,
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 1,
+        "card_sha256": "b6c44563471c5328f3790d07ca1f770868ad750486c39ef93596857bf79ec2da",
+        "freshness": "Unknown",
+        "posted_at": "2026-10-13",
+        "posted_text": "41 minutes ago\nWithin the past 24 hours"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4478129047/",
+        "portal_job_id": "4478129047",
+        "title": "JAVA Fullstack Developer",
+        "employer": "Zensar Technologies",
+        "location": "Pune City, Maharashtra, India · 18 minutes ago · 7 applicants\n\nPromoted by hirer · No response insights available yet",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "substantive_duties_and_qualifications_not_visible",
+          "enabled_apply_action_not_visible"
+        ],
+        "jd_characters": 1157,
+        "experience_evidence": null,
+        "apply_visible": false,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 1,
+        "card_sha256": "aafd502e5df6e8ce3dd27dc883c72ed3cc5047bf78ea60e76c1bfef626758320",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      }
+    ],
+    "selection_skips": []
+  },
+  "lead_resolution": {
+    "navigation_links_reclassified": 152,
+    "missing_ats_jd_refresh": {
+      "checked": 0,
+      "results": []
+    },
+    "direct_provider_coverage": {},
+    "direct_employer_coverage": {},
+    "portal_employer_coverage": {},
+    "target_title_failures_in_batch": 0,
+    "portal_jobs_inspected": 0,
+    "originals_matched": 0,
+    "substantive_originals_verified": 0,
+    "live_title_only": 0,
+    "direct_check_failures": 0,
+    "needs_original": 2146,
+    "title_relevant_unresolved": 1253,
+    "by_source": {
+      "naukri": {
+        "needs_original": 718,
+        "not_a_job": 3
+      },
+      "linkedin": {
+        "needs_original": 1368,
+        "not_a_job": 4
+      },
+      "foundit": {
+        "needs_original": 0,
+        "not_a_job": 17
+      },
+      "indeed": {
+        "needs_original": 0,
+        "not_a_job": 98
+      },
+      "cutshort": {
+        "needs_original": 60,
+        "not_a_job": 30
+      }
+    },
+    "results": []
+  },
+  "linked_portal_native": null,
+  "review_coverage": {
+    "by_source": {
+      "linkedin_portal_native": 1
+    },
+    "by_company": {
+      "BoomerangFX": 1
+    }
+  },
+  "master_resume": {
+    "ok": true,
+    "issues": []
+  },
+  "auto_fit": {
+    "considered": 1,
+    "queued": 0,
+    "not_eligible": 1,
+    "blocked": 0,
+    "skipped_unchanged": 23,
+    "results": [
+      {
+        "job_id": 341,
+        "employer": "BoomerangFX",
+        "title": "Back End Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Java is not explicit in the JD body"
+        ]
+      }
+    ]
+  },
+  "auto_resume": {
+    "prepared": 0,
+    "failed": 0,
+    "results": []
+  },
+  "queue_eligibility": {
+    "naukri_ready_candidates": 0,
+    "resume_jobs_ready_to_build": 0,
+    "locked_or_applied_queue_rows": 1
+  },
+  "staging": {
+    "path": ".workflow/staging.json",
+    "resume_review_ready": 0,
+    "needs_jd_evidence_review": 0
+  },
+  "blocker_alerts": [
+    {
+      "job_id": 220,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 241,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 250,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 220,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 241,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 250,
+      "status": "cooldown"
+    }
+  ],
+  "naukri_application_worker": {
+    "enabled": true,
+    "max_submissions_per_run": 1,
+    "other_portals": "discovery_only",
+    "capability_reason": "Proof marker valid; one claim per run",
+    "status": "DiscoveryOnly",
+    "candidate_count": 0,
+    "submissions": 0
+  },
+  "portals": {
+    "naukri": {
+      "capability": "ApplyReady",
+      "reason": "Proof marker valid; one claim per run",
+      "session": "unknown"
+    },
+    "linkedin": {
+      "capability": "DiscoveryOnly",
+      "reason": "LinkedIn live lane is off",
+      "session": "unknown"
+    },
+    "foundit": {
+      "capability": "Blocked",
+      "reason": "Discovery is switched off in config",
+      "session": "unknown"
+    },
+    "indeed": {
+      "capability": "Blocked",
+      "reason": "Discovery is switched off in config",
+      "session": "unknown"
+    },
+    "cutshort": {
+      "capability": "Blocked",
+      "reason": "Discovery is switched off in config",
+      "session": "unknown"
+    },
+    "ats": {
+      "capability": "Blocked",
+      "reason": "No employer board is enabled",
+      "session": "unknown"
+    }
+  },
+  "linkedin_application_worker": {
+    "enabled": false,
+    "max_submissions_per_run": 1,
+    "capability_reason": "LinkedIn live lane is off",
+    "status": "DiscoveryOnly",
+    "candidate_count": 0,
+    "submissions": 0
+  },
+  "tab_lifecycle": {
+    "created": null,
+    "reused": null,
+    "closed": null,
+    "remaining_automation_tabs": null,
+    "job_tabs_created": null,
+    "job_tabs_closed": null,
+    "welcome_tabs_created": null,
+    "welcome_tabs_closed": null,
+    "remaining_job_tabs": null,
+    "remaining_welcome_tabs": null,
+    "uncertain_ids": [
+      "No tab lifecycle report was emitted"
+    ],
+    "recorded_ids": [],
+    "log_paths": []
+  },
+  "finished_at": "2026-10-13T15:52:57.289402+00:00",
+  "elapsed_seconds": 69.36
+}

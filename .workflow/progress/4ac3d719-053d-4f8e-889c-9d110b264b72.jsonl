@@ -1,0 +1,10 @@
+{"seq": 1, "at": "2026-10-14T11:00:00.932496+00:00", "kind": "start", "message": "Run started (timer)"}
+{"seq": 2, "at": "2026-10-14T11:00:21.093496+00:00", "kind": "info", "message": "Sources checked: naukri=Success, linkedin=Blocked"}
+{"seq": 3, "at": "2026-10-14T11:00:21.142552+00:00", "kind": "info", "message": "Original employer pages verified: 0 of 0 selected"}
+{"seq": 4, "at": "2026-10-14T11:00:33.199574+00:00", "kind": "info", "message": "Roles reviewed against JD evidence: 1"}
+{"seq": 5, "at": "2026-10-14T11:00:34.869063+00:00", "kind": "info", "message": "Fit review: 1 queued; resumes prepared: 1"}
+{"seq": 6, "at": "2026-10-14T11:00:37.837167+00:00", "kind": "info", "message": "naukri worker: live, max 10"}
+{"seq": 7, "at": "2026-10-14T11:02:20.379069+00:00", "kind": "info", "message": "naukri worker finished: Complete"}
+{"seq": 8, "at": "2026-10-14T11:02:20.379774+00:00", "kind": "info", "message": "linkedin worker: live, max 10"}
+{"seq": 9, "at": "2026-10-14T11:02:20.381426+00:00", "kind": "info", "message": "linkedin worker finished: Idle"}
+{"seq": 10, "at": "2026-10-14T11:02:21.444373+00:00", "kind": "finish", "message": "Run finished: Partial", "status": "Partial", "summary": {"errors": 0, "worker": "Complete"}}

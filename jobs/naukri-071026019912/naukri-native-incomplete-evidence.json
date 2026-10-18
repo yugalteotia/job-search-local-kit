@@ -1,0 +1,17 @@
+{
+  "attempt_id": "5589b678-b5f0-4629-8b2c-28becdb61d79",
+  "requisition_id": "071026019912",
+  "checked_at": "2026-10-16T07:07:18.246526+00:00",
+  "pending_question": "Are you available to take an interview on Saturday (Virtual Round)?",
+  "completion_count": 0,
+  "workflow_committed": false,
+  "denied_events": 0,
+  "save_in_flight": false,
+  "listing_exact_path": true,
+  "listing_applied": false,
+  "history_full": true,
+  "history_exact": 0,
+  "history_company_role": 0,
+  "answers_logged": false,
+  "safe": true
+}

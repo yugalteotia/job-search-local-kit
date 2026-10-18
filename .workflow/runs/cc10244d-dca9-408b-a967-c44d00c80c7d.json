@@ -1,0 +1,1738 @@
+{
+  "run_id": "cc10244d-dca9-408b-a967-c44d00c80c7d",
+  "started_at": "2026-10-13T18:30:05.016154+00:00",
+  "mode": "native_portals_live",
+  "upload_enabled": true,
+  "submission_enabled": true,
+  "scheduled": true,
+  "test": false,
+  "source_scope": [
+    "naukri",
+    "linkedin"
+  ],
+  "fresh_only": true,
+  "status": "Success",
+  "sources": {
+    "naukri": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-10-13T18:30:39.888041+00:00",
+      "pages_checked": 2,
+      "leads": 20,
+      "feed_jobs": 0
+    },
+    "linkedin": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-10-13T18:30:53.524571+00:00",
+      "pages_checked": 2,
+      "leads": 2,
+      "feed_jobs": 0
+    }
+  },
+  "coverage": {
+    "naukri": [
+      {
+        "query": "Java Backend Developer",
+        "location": "India",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+        "observed_url": "https://www.naukri.com/java-backend-developer-jobs-in-india?jobAge=7&experience=2",
+        "checked_at": "2026-10-13T18:30:27.116451+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_label": "2",
+          "freshness_label": "Last 7 days",
+          "sort_label": "Date"
+        },
+        "rendered_search": {
+          "keywords": "java backend developer, ",
+          "location": "india, ",
+          "experience": "2 years",
+          "heading": "Java Backend Developer Jobs In India"
+        },
+        "last_search_api_parameters": {
+          "keyword": [
+            "java backend developer"
+          ],
+          "location": [
+            "india"
+          ],
+          "experience": [
+            "2",
+            "2"
+          ],
+          "jobAge": [
+            "7",
+            "7"
+          ],
+          "sort": [
+            "f"
+          ]
+        },
+        "error_kind": null,
+        "extracted_exact_ids": [
+          "131026049280",
+          "190926016679",
+          "190926020098",
+          "190926020308",
+          "190926020562",
+          "120826043718",
+          "131026048044",
+          "131026047680",
+          "131026046995",
+          "131026046519",
+          "131026044388",
+          "131026042592",
+          "131026041633",
+          "131026041043",
+          "131026040815",
+          "131026038820",
+          "131026038014",
+          "131026037702",
+          "131026037701",
+          "131026037104"
+        ],
+        "retained_leads": 7,
+        "card_filter_exclusions": {
+          "no_relevant_title_or_generic_engineering_card_skills": 13
+        }
+      },
+      {
+        "query": "Java Spring Boot",
+        "location": "India",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+        "observed_url": "https://www.naukri.com/java-spring-boot-jobs-in-india?jobAge=7&experience=3",
+        "checked_at": "2026-10-13T18:30:39.094359+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_label": "3",
+          "freshness_label": "Last 7 days",
+          "sort_label": "Date"
+        },
+        "rendered_search": {
+          "keywords": "java spring boot, ",
+          "location": "india, ",
+          "experience": "3 years",
+          "heading": "Java Spring Boot Jobs In India"
+        },
+        "last_search_api_parameters": {
+          "keyword": [
+            "java spring boot"
+          ],
+          "location": [
+            "india"
+          ],
+          "experience": [
+            "3",
+            "3"
+          ],
+          "jobAge": [
+            "7",
+            "7"
+          ],
+          "sort": [
+            "f"
+          ]
+        },
+        "error_kind": null,
+        "extracted_exact_ids": [
+          "131026049350",
+          "131026049280",
+          "131026049043",
+          "131026049027",
+          "190926016679",
+          "190926016731",
+          "131026048778",
+          "190926020098",
+          "190926020126",
+          "190926020308",
+          "190926020328",
+          "190926020562",
+          "190926020582",
+          "131026048585",
+          "131026048515",
+          "210926021253",
+          "120826043718",
+          "131026048044",
+          "131026048006",
+          "131026047727"
+        ],
+        "retained_leads": 13,
+        "card_filter_exclusions": {
+          "no_relevant_title_or_generic_engineering_card_skills": 7
+        }
+      }
+    ],
+    "linkedin": [
+      {
+        "query": "Java Backend Developer",
+        "location": "India",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Backend%20Developer&location=India&sortBy=DD&f_AL=true&f_TPR=r604800&f_E=2%2C3&start=0",
+        "observed_url": "https://www.linkedin.com/jobs/search/?currentJobId=4478139455&f_AL=true&f_E=2%2C3&f_TPR=r604800&keywords=Java%20Backend%20Developer&location=India&sortBy=DD",
+        "visible_cards": 32,
+        "lead_count": 25,
+        "retained_leads": 1,
+        "card_filter_exclusions": {
+          "no_relevant_title_or_generic_engineering_card_skills": 24
+        },
+        "filters": {
+          "easy_apply": true,
+          "location": "India",
+          "experience_levels": [
+            "Entry level",
+            "Associate"
+          ],
+          "posting_window": "last 7 days",
+          "sort": "newest"
+        },
+        "checked_at": "2026-10-13T18:30:37.460113+00:00",
+        "status": "Success"
+      },
+      {
+        "query": "Java Spring Boot",
+        "location": "India",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Spring%20Boot&location=India&sortBy=DD&f_AL=true&f_TPR=r604800&f_E=2%2C3&start=0",
+        "observed_url": "https://www.linkedin.com/jobs/search/?currentJobId=4478139455&f_AL=true&f_E=2%2C3&f_TPR=r604800&keywords=Java%20Spring%20Boot&location=India&sortBy=DD",
+        "visible_cards": 32,
+        "lead_count": 25,
+        "retained_leads": 1,
+        "card_filter_exclusions": {
+          "no_relevant_title_or_generic_engineering_card_skills": 24
+        },
+        "filters": {
+          "easy_apply": true,
+          "location": "India",
+          "experience_levels": [
+            "Entry level",
+            "Associate"
+          ],
+          "posting_window": "last 7 days",
+          "sort": "newest"
+        },
+        "checked_at": "2026-10-13T18:30:53.206858+00:00",
+        "status": "Success"
+      }
+    ]
+  },
+  "leads": 22,
+  "unique_original_requisitions_verified": 0,
+  "fit_decisions": {
+    "344": {
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "Bengaluru",
+        "experience": "Location: Bengaluru Experience: 3 - 6 years Job highlights Java,OOP,Spring Boot / Spring Batch,Java servlets,REST APIs,SQL,relational databases The prima",
+        "technology": "rience: 3 - 6 years Job highlights Java,OOP,Spring Boot / Spring Batch,Java servlets,REST APIs,SQL,relational databases The primary profile is Ja",
+        "role": "sure is preferred. Strong Java and software engineering fundamentals remain the primary requirement. Role: Full Stack Developer Industry Type: IT Servic"
+      },
+      "jd_sha256": "079be9459ee0593719356437d3b06658b230155d3eace4ea05e2768bb2dad8c2"
+    },
+    "353": {
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Substantial backend work is not established in qualifications",
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "Pune, Bengaluru, Hyderabad",
+        "experience": ", Bengaluru, Hyderabad Experience: 3-5yrs Job highlights 3-5 years experience with Java and React; BE/B.Tech/MCA/M.Tech/MSc./MS degree Support consulti",
+        "technology": ".js Fullstack DevelopmentFull StackSpring BootJava Fullstack Report this job",
+        "role": null
+      },
+      "jd_sha256": "19423c54a4f664969fa3a05c11a7aeb31dab6d93ec91cbea931fdff933dc0a18"
+    },
+    "352": {
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Substantial backend work is not established in qualifications",
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ],
+      "evidence": {
+        "location": "Pune, Bengaluru, Hyderabad",
+        "experience": ", Bengaluru, Hyderabad Experience: 2-3yrs Job highlights 2-3 years experience with Java and React; BE/B.Tech/MCA/M.Tech/MSc./MS degree Support consulti",
+        "technology": ".js Fullstack DevelopmentFull StackSpring BootJava Fullstack Report this job",
+        "role": null
+      },
+      "jd_sha256": "f8a71c4f0bcde6d339c850b932d879adcd43e78822ec21f3b19e166d91a2ba68"
+    },
+    "350": {
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Substantial backend work is not established in qualifications",
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ],
+      "evidence": {
+        "location": "Bengaluru, Hyderabad",
+        "experience": ": Bengaluru, Hyderabad Experience: 0 - 3 years Job highlights Experience in Java development with knowledge of Java Spring Boot and AWS Design, develop, tes",
+        "technology": "years Job highlights Experience in Java development with knowledge of Java Spring Boot and AWS Design, develop, test, and maintain Java applications; participate in requirement",
+        "role": null
+      },
+      "jd_sha256": "eef66c4e073fec915929f2b5c45c19cdfd0b6eea0d02b8c2f61d1c176271d792"
+    },
+    "351": {
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ],
+      "evidence": {
+        "location": "Hyderabad",
+        "experience": "Location: Hyderabad Experience: 2 - 5 years Job highlights Experience with React.js, JavaScript/TypeScript, REST APIs, and databases like MySQL/PostgreSQ",
+        "technology": "preferred keyskills JavaJavascriptSpring BootHTMLSQL HibernateCSSReact.jsAWSMicroservices Report this job",
+        "role": null
+      },
+      "jd_sha256": "b7bc5935c311aa725aedeb51e10e8edd9456140c95d36de8cf95912066f5845e"
+    },
+    "355": {
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "Bengaluru",
+        "experience": "Location: Bengaluru Experience: 3 - 5 years Job match score Early Applicant Keyskills Location Work Experience Job description Responsibilities: Design,",
+        "technology": ", and errors. Working knowledge of Java, Spring Boot, RESTful services, dependency injection, exception handling, and backend integration as s",
+        "role": "ith REST APIs and collaborate with backend engineers on API contracts, error handling, and data flows. Improve frontend performance, reliability, brows"
+      },
+      "jd_sha256": "56a440ec63a4ae4bdcda9597d09bfb0802e29f9fce8582059c1e16d8dd564e39"
+    },
+    "345": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Java is not established as an essential qualification"
+      ],
+      "evidence": {
+        "location": "Bengaluru",
+        "experience": "Location: Bengaluru Experience: 0 - 2 years Job highlights BE in CS, ECE, EEE, IS, AI/ML, M.Tech, or MCA with 0-2 years experience Design, develop, and m",
+        "technology": null,
+        "role": "w.acemicromatic.net Job Summary: A Software Engineer is responsible for designing, coding, testing, and maintaining software systems. They work collabor"
+      },
+      "jd_sha256": "15b70db4e0ab9c9f5f0cce8900f8730ab211e1f01668c3eda8984ceefd26b440"
+    },
+    "347": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Java is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience starts at 5 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "India \u00b7 2 hours ago \u00b7 49 applicants\n\nPromoted by hirer \u00b7 No response insights available yet",
+        "experience": "uired. You will also need at least five to seven years of software engineering or software development experience, preferably in a related field to be successful in",
+        "technology": null,
+        "role": "e job We are looking for a skilled software engineer who, along with our excellent software development team, will be responsible for working on project"
+      },
+      "jd_sha256": "fee63a9bbf0fa68d588163e8a410e441d3fea33a120962ad091947e9dad58463"
+    }
+  },
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/cc10244d-dca9-408b-a967-c44d00c80c7d.json"
+  ],
+  "queue": {
+    "QueuedResume": 2,
+    "ResumeReady": 5
+  },
+  "stage_seconds": {
+    "discovery": 48.49,
+    "original_verification": 0.0,
+    "lead_resolution": 84.16,
+    "fit_review": 0.09,
+    "auto_fit_resume": 8.4
+  },
+  "stage_counts": {
+    "normalized_unique_ats": 0,
+    "selected_for_original_check": 0,
+    "fetched": 22,
+    "unique_portal_leads": 17,
+    "fresh": 0,
+    "unknown_date": 16,
+    "skipped_old": 0,
+    "repeat_skipped": 6,
+    "unique_original_requisitions": 0,
+    "eligible_for_review": 8,
+    "original_jds_reviewed": 0,
+    "original_or_portal_jds_reviewed": 8,
+    "portal_native_verified": 11,
+    "high": 0,
+    "queued_for_resume": 0,
+    "review_queue_added": 8,
+    "portal_originals_matched": 0,
+    "portal_leads_still_needing_original": 2149
+  },
+  "top_reviewed": [
+    {
+      "job_id": 344,
+      "company": "Nexiotech",
+      "role": "Java Full Stack Engineer",
+      "location": "Bengaluru",
+      "direct_url": "https://www.naukri.com/job-listings-java-full-stack-engineer-nexiotech-bengaluru-3-to-6-years-131026048006",
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "review_version": 8,
+      "jd_sha256": "079be9459ee0593719356437d3b06658b230155d3eace4ea05e2768bb2dad8c2",
+      "original_page_checked_at": "2026-10-13T18:32:17.793572+00:00",
+      "reviewed_at": "2026-10-13T18:32:17.971001+00:00",
+      "experience_minimum": 3.0,
+      "evidence": {
+        "location": "Bengaluru",
+        "experience": "Location: Bengaluru Experience: 3 - 6 years Job highlights Java,OOP,Spring Boot / Spring Batch,Java servlets,REST APIs,SQL,relational databases The prima",
+        "technology": "rience: 3 - 6 years Job highlights Java,OOP,Spring Boot / Spring Batch,Java servlets,REST APIs,SQL,relational databases The primary profile is Ja",
+        "role": "sure is preferred. Strong Java and software engineering fundamentals remain the primary requirement. Role: Full Stack Developer Industry Type: IT Servic"
+      },
+      "reasons": [
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 353,
+      "company": "Infosys",
+      "role": "Java React Developer (3-5yrs) @ Infosys",
+      "location": "Pune, Bengaluru, Hyderabad",
+      "direct_url": "https://www.naukri.com/job-listings-java-react-developer-3-5yrs-infosys-infosys-hyderabad-pune-bengaluru-3-to-5-years-190926016731",
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "review_version": 8,
+      "jd_sha256": "19423c54a4f664969fa3a05c11a7aeb31dab6d93ec91cbea931fdff933dc0a18",
+      "original_page_checked_at": "2026-10-13T18:32:17.781584+00:00",
+      "reviewed_at": "2026-10-13T18:32:17.977009+00:00",
+      "experience_minimum": 3.0,
+      "evidence": {
+        "location": "Pune, Bengaluru, Hyderabad",
+        "experience": ", Bengaluru, Hyderabad Experience: 3-5yrs Job highlights 3-5 years experience with Java and React; BE/B.Tech/MCA/M.Tech/MSc./MS degree Support consulti",
+        "technology": ".js Fullstack DevelopmentFull StackSpring BootJava Fullstack Report this job",
+        "role": null
+      },
+      "reasons": [
+        "Substantial backend work is not established in qualifications",
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 352,
+      "company": "Infosys",
+      "role": "Java React Developer (2-3yrs) @ Infosys",
+      "location": "Pune, Bengaluru, Hyderabad",
+      "direct_url": "https://www.naukri.com/job-listings-java-react-developer-2-3yrs-infosys-infosys-hyderabad-pune-bengaluru-2-to-3-years-190926016679",
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "review_version": 8,
+      "jd_sha256": "f8a71c4f0bcde6d339c850b932d879adcd43e78822ec21f3b19e166d91a2ba68",
+      "original_page_checked_at": "2026-10-13T18:32:17.767218+00:00",
+      "reviewed_at": "2026-10-13T18:32:17.983498+00:00",
+      "experience_minimum": 2.0,
+      "evidence": {
+        "location": "Pune, Bengaluru, Hyderabad",
+        "experience": ", Bengaluru, Hyderabad Experience: 2-3yrs Job highlights 2-3 years experience with Java and React; BE/B.Tech/MCA/M.Tech/MSc./MS degree Support consulti",
+        "technology": ".js Fullstack DevelopmentFull StackSpring BootJava Fullstack Report this job",
+        "role": null
+      },
+      "reasons": [
+        "Substantial backend work is not established in qualifications",
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ]
+    },
+    {
+      "job_id": 350,
+      "company": "MNC's",
+      "role": "Java Developer",
+      "location": "Bengaluru, Hyderabad",
+      "direct_url": "https://www.naukri.com/job-listings-java-developer-siri-tech-solutions-hyderabad-bengaluru-0-to-3-years-131026038014",
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "review_version": 8,
+      "jd_sha256": "eef66c4e073fec915929f2b5c45c19cdfd0b6eea0d02b8c2f61d1c176271d792",
+      "original_page_checked_at": "2026-10-13T18:32:17.732178+00:00",
+      "reviewed_at": "2026-10-13T18:32:17.988774+00:00",
+      "experience_minimum": 0.0,
+      "evidence": {
+        "location": "Bengaluru, Hyderabad",
+        "experience": ": Bengaluru, Hyderabad Experience: 0 - 3 years Job highlights Experience in Java development with knowledge of Java Spring Boot and AWS Design, develop, tes",
+        "technology": "years Job highlights Experience in Java development with knowledge of Java Spring Boot and AWS Design, develop, test, and maintain Java applications; participate in requirement",
+        "role": null
+      },
+      "reasons": [
+        "Substantial backend work is not established in qualifications",
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ]
+    },
+    {
+      "job_id": 351,
+      "company": "Avyait",
+      "role": "Java Developer",
+      "location": "Hyderabad",
+      "direct_url": "https://www.naukri.com/job-listings-java-developer-avyait-pvt-ltd-hyderabad-2-to-5-years-131026041043",
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "review_version": 8,
+      "jd_sha256": "b7bc5935c311aa725aedeb51e10e8edd9456140c95d36de8cf95912066f5845e",
+      "original_page_checked_at": "2026-10-13T18:32:17.749976+00:00",
+      "reviewed_at": "2026-10-13T18:32:17.994532+00:00",
+      "experience_minimum": 2.0,
+      "evidence": {
+        "location": "Hyderabad",
+        "experience": "Location: Hyderabad Experience: 2 - 5 years Job highlights Experience with React.js, JavaScript/TypeScript, REST APIs, and databases like MySQL/PostgreSQ",
+        "technology": "preferred keyskills JavaJavascriptSpring BootHTMLSQL HibernateCSSReact.jsAWSMicroservices Report this job",
+        "role": null
+      },
+      "reasons": [
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ]
+    },
+    {
+      "job_id": 355,
+      "company": "NTT DATA BUSINESS SOLUTIONS",
+      "role": "Software Developer",
+      "location": "Bengaluru",
+      "direct_url": "https://www.naukri.com/job-listings-software-developer-ntt-data-business-solutions-bengaluru-3-to-5-years-131026049027",
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "review_version": 8,
+      "jd_sha256": "56a440ec63a4ae4bdcda9597d09bfb0802e29f9fce8582059c1e16d8dd564e39",
+      "original_page_checked_at": "2026-10-13T18:32:17.823274+00:00",
+      "reviewed_at": "2026-10-13T18:32:18.000751+00:00",
+      "experience_minimum": 3.0,
+      "evidence": {
+        "location": "Bengaluru",
+        "experience": "Location: Bengaluru Experience: 3 - 5 years Job match score Early Applicant Keyskills Location Work Experience Job description Responsibilities: Design,",
+        "technology": ", and errors. Working knowledge of Java, Spring Boot, RESTful services, dependency injection, exception handling, and backend integration as s",
+        "role": "ith REST APIs and collaborate with backend engineers on API contracts, error handling, and data flows. Improve frontend performance, reliability, brows"
+      },
+      "reasons": [
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 345,
+      "company": "Ace Micromatic Group",
+      "role": "Software Engineer",
+      "location": "Bengaluru",
+      "direct_url": "https://www.naukri.com/job-listings-software-engineer-ace-micromatic-group-bengaluru-0-to-2-years-131026046519",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 8,
+      "jd_sha256": "15b70db4e0ab9c9f5f0cce8900f8730ab211e1f01668c3eda8984ceefd26b440",
+      "original_page_checked_at": "2026-10-13T18:32:17.814030+00:00",
+      "reviewed_at": "2026-10-13T18:32:18.010267+00:00",
+      "experience_minimum": 0.0,
+      "evidence": {
+        "location": "Bengaluru",
+        "experience": "Location: Bengaluru Experience: 0 - 2 years Job highlights BE in CS, ECE, EEE, IS, AI/ML, M.Tech, or MCA with 0-2 years experience Design, develop, and m",
+        "technology": null,
+        "role": "w.acemicromatic.net Job Summary: A Software Engineer is responsible for designing, coding, testing, and maintaining software systems. They work collabor"
+      },
+      "reasons": [
+        "Java is not established as an essential qualification"
+      ]
+    },
+    {
+      "job_id": 347,
+      "company": "HRM Counsel",
+      "role": "Software Engineer",
+      "location": "India \u00b7 2 hours ago \u00b7 49 applicants\n\nPromoted by hirer \u00b7 No response insights available yet",
+      "direct_url": "https://www.linkedin.com/jobs/view/4479036999/",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 8,
+      "jd_sha256": "fee63a9bbf0fa68d588163e8a410e441d3fea33a120962ad091947e9dad58463",
+      "original_page_checked_at": "2026-10-13T18:32:17.681814+00:00",
+      "reviewed_at": "2026-10-13T18:32:18.015527+00:00",
+      "experience_minimum": 5.0,
+      "evidence": {
+        "location": "India \u00b7 2 hours ago \u00b7 49 applicants\n\nPromoted by hirer \u00b7 No response insights available yet",
+        "experience": "uired. You will also need at least five to seven years of software engineering or software development experience, preferably in a related field to be successful in",
+        "technology": null,
+        "role": "e job We are looking for a skilled software engineer who, along with our excellent software development team, will be responsible for working on project"
+      },
+      "reasons": [
+        "Java is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience starts at 5 years, above the 2.5-year High-fit gate"
+      ]
+    }
+  ],
+  "recovery": {
+    "requeued_resume": 0,
+    "returned_to_prepared": 0,
+    "claimed_left_locked": 3
+  },
+  "freshness": {
+    "policy": {
+      "routine_review_hours": 24,
+      "sweep_overlap_minutes": 90,
+      "unknown_date_details_per_run": 30,
+      "transient_retry_hours": 6,
+      "pending_application_recheck_hours": 6
+    },
+    "counts": {
+      "fresh": 0,
+      "recent": 0,
+      "unknown_date": 16,
+      "skipped_old": 0,
+      "repeat_skipped": 6,
+      "history_skipped": 0,
+      "unknown_date_deferred": 0
+    },
+    "detail_candidates": 16,
+    "skips": [
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4479036999/",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-springboot-microservices-2-3yrs-infosys-infosys-hyderabad-chennai-bengaluru-2-to-3-years-190926020562",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-react-developer-2-3yrs-infosys-infosys-hyderabad-pune-bengaluru-2-to-3-years-190926016679",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-angular-2-3yrs-infosys-infosys-hyderabad-pune-bengaluru-2-to-3-years-190926020098",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-react-2-3yrs-infosys-infosys-hyderabad-chennai-bengaluru-2-to-3-years-190926020308",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-naukri-assist-hyderabad-3-to-10-years-131026047727",
+        "reason": "unchanged_already_reviewed"
+      }
+    ]
+  },
+  "portal_native": {
+    "selected": 13,
+    "verified": 11,
+    "unverified": 2,
+    "verified_job_ids": [
+      348,
+      347,
+      349,
+      350,
+      351,
+      352,
+      353,
+      344,
+      354,
+      345,
+      355
+    ],
+    "results": [
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-springboot-microservices-3-5yrs-infosys-infosys-hyderabad-chennai-bengaluru-3-to-5-years-190926020582",
+        "portal_job_id": "190926020582",
+        "title": "Java Springboot Microservices (3-5yrs) @ Infosys",
+        "employer": "Infosys",
+        "location": "Bengaluru, Hyderabad, Chennai",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 2260,
+        "experience_evidence": "3-5yrs",
+        "apply_visible": true,
+        "database_job_id": 348,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 4
+        },
+        "render_checks": 1,
+        "card_sha256": "18b7d29b7d58b6eb335325f7f458beabc386b1fdb28ea1a5c468b26701119108",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "Just now"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4479036999/",
+        "portal_job_id": "4479036999",
+        "title": "Software Engineer",
+        "employer": "HRM Counsel",
+        "location": "India \u00b7 2 hours ago \u00b7 49 applicants\n\nPromoted by hirer \u00b7 No response insights available yet",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 2359,
+        "experience_evidence": null,
+        "apply_visible": true,
+        "database_job_id": 347,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 0
+        },
+        "render_checks": 1,
+        "card_sha256": "0d6c708c97ed7e5cbeb067e9ec44e007dab0255c68fdfbbb89e6a2c3847816c1",
+        "freshness": "Unknown",
+        "posted_at": "2026-10-13",
+        "posted_text": "2 hours ago\nWithin the past 24 hours"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-springboot-microservices-2-3yrs-infosys-infosys-hyderabad-chennai-bengaluru-2-to-3-years-190926020562",
+        "portal_job_id": "190926020562",
+        "title": "Java Springboot Microservices (2-3yrs) @ Infosys",
+        "employer": "Infosys",
+        "location": "Bengaluru, Hyderabad, Chennai",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 2265,
+        "experience_evidence": "2-3yrs",
+        "apply_visible": true,
+        "database_job_id": 349,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 4
+        },
+        "render_checks": 1,
+        "card_sha256": "5ce6e397df89da83043b556f3239a7fdbae15129634540b2ed30cc75557cb0eb",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "Just now"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-developer-siri-tech-solutions-hyderabad-bengaluru-0-to-3-years-131026038014",
+        "portal_job_id": "131026038014",
+        "title": "Java Developer",
+        "employer": "MNC's",
+        "location": "Bengaluru, Hyderabad",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 843,
+        "experience_evidence": "0 - 3 years",
+        "apply_visible": true,
+        "database_job_id": 350,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 0
+        },
+        "render_checks": 1,
+        "card_sha256": "4022fa6ebd98c4f00fc4703769c4992b4f96436a46498dea0696bbe147427945",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "1 day ago"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-developer-avyait-pvt-ltd-hyderabad-2-to-5-years-131026041043",
+        "portal_job_id": "131026041043",
+        "title": "Java Developer",
+        "employer": "Avyait",
+        "location": "Hyderabad",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 2256,
+        "experience_evidence": "2 - 5 years",
+        "apply_visible": true,
+        "database_job_id": 351,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 0
+        },
+        "render_checks": 1,
+        "card_sha256": "4c7720db18f41c2f14046facc7f4e0d161f87371b0aedbbed3a6fcc8e757dad2",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "1 day ago"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-back-end-developer-green-leaf-consultants-kolkata-mumbai-3-to-7-years-131026049043",
+        "portal_job_id": "131026049043",
+        "title": "Java Back End Developer",
+        "employer": "Green Leaf Consultants Kolkata",
+        "location": "Mumbai",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 503,
+        "experience_evidence": "3 - 7 years",
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 1,
+        "card_sha256": "0373830951e45e49248feb599beed1e3b10eb747fd1cab531e37ca00dc99e277",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "Just now"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-react-developer-2-3yrs-infosys-infosys-hyderabad-pune-bengaluru-2-to-3-years-190926016679",
+        "portal_job_id": "190926016679",
+        "title": "Java React Developer (2-3yrs) @ Infosys",
+        "employer": "Infosys",
+        "location": "Pune, Bengaluru, Hyderabad",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 2284,
+        "experience_evidence": "2-3yrs",
+        "apply_visible": true,
+        "database_job_id": 352,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 4
+        },
+        "render_checks": 1,
+        "card_sha256": "f481599f602c12cc1a3b779d23c7b3e3c01fa2834e077826281c7247db9e3a71",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "Just now"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-react-developer-3-5yrs-infosys-infosys-hyderabad-pune-bengaluru-3-to-5-years-190926016731",
+        "portal_job_id": "190926016731",
+        "title": "Java React Developer (3-5yrs) @ Infosys",
+        "employer": "Infosys",
+        "location": "Pune, Bengaluru, Hyderabad",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 2291,
+        "experience_evidence": "3-5yrs",
+        "apply_visible": true,
+        "database_job_id": 353,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 4
+        },
+        "render_checks": 1,
+        "card_sha256": "8aec4511acd6e1f1c3a1aac11d401c188e0b99ab1fc5c1de96d7278acb5747ed",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "Just now"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-engineer-nexiotech-bengaluru-3-to-6-years-131026048006",
+        "portal_job_id": "131026048006",
+        "title": "Java Full Stack Engineer",
+        "employer": "Nexiotech",
+        "location": "Bengaluru",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 3761,
+        "experience_evidence": "3 - 6 years",
+        "apply_visible": true,
+        "database_job_id": 344,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 0
+        },
+        "render_checks": 1,
+        "card_sha256": "515256d604467a9451caecb24f62a0cbdc855378e94bf104374a6c348be24eec",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-react-2-3yrs-infosys-infosys-hyderabad-chennai-bengaluru-2-to-3-years-190926020308",
+        "portal_job_id": "190926020308",
+        "title": "JAVA + REACT (2-3yrs) @ Infosys",
+        "employer": "Infosys",
+        "location": "Bengaluru, Hyderabad, Chennai",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 2041,
+        "experience_evidence": "2-3yrs",
+        "apply_visible": true,
+        "database_job_id": 354,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 4
+        },
+        "render_checks": 1,
+        "card_sha256": "2ab1485469d2c2354010228b75306c36d19e11764c9f34d04484ae53a6317e12",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "Just now"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-software-engineer-ace-micromatic-group-bengaluru-0-to-2-years-131026046519",
+        "portal_job_id": "131026046519",
+        "title": "Software Engineer",
+        "employer": "Ace Micromatic Group",
+        "location": "Bengaluru",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 5157,
+        "experience_evidence": "0 - 2 years",
+        "apply_visible": true,
+        "database_job_id": 345,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 0
+        },
+        "render_checks": 1,
+        "card_sha256": "5d6a9dc7cb6d3792ad4430c919bdc978edaae2231abdfe7e7de5dbbdba65163d",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-software-developer-ntt-data-business-solutions-bengaluru-3-to-5-years-131026049027",
+        "portal_job_id": "131026049027",
+        "title": "Software Developer",
+        "employer": "NTT DATA BUSINESS SOLUTIONS",
+        "location": "Bengaluru",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 3653,
+        "experience_evidence": "3 - 5 years",
+        "apply_visible": true,
+        "database_job_id": 355,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 0
+        },
+        "render_checks": 1,
+        "card_sha256": "bdb79c313f1e7d918b6e4848154afaaa7f2b5d9bc90032f7598bad6e02abccca",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "Just now"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-python-software-developer-smart-placement-services-mumbai-navi-mumbai-pune-3-to-5-years-131026048585",
+        "portal_job_id": "131026048585",
+        "title": "Python Software Developer",
+        "employer": "CONFIDENTIAL",
+        "location": "Pune, Mumbai",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 630,
+        "experience_evidence": "3 - 5 years",
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 1,
+        "card_sha256": "d6f06a5b0fdc58f423f57abb0ed8924cf63e3cf31292752275a269f92dcd01a2",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      }
+    ],
+    "selection_skips": [
+      {
+        "source": "naukri",
+        "portal_job_id": "190926020098",
+        "url": "https://www.naukri.com/job-listings-java-angular-2-3yrs-infosys-infosys-hyderabad-pune-bengaluru-2-to-3-years-190926020098",
+        "title": "Java + Angular (2-3yrs) @ Infosys",
+        "reason": "per_employer_jd_cap"
+      },
+      {
+        "source": "naukri",
+        "portal_job_id": "190926020328",
+        "url": "https://www.naukri.com/job-listings-java-react-3-5yrs-infosys-infosys-hyderabad-chennai-bengaluru-3-to-5-years-190926020328",
+        "title": "JAVA + REACT (3-5yrs) @ Infosys",
+        "reason": "per_employer_jd_cap"
+      },
+      {
+        "source": "naukri",
+        "portal_job_id": "190926020126",
+        "url": "https://www.naukri.com/job-listings-java-angular-3-5yrs-infosys-infosys-hyderabad-pune-bengaluru-3-to-5-years-190926020126",
+        "title": "Java + Angular (3-5yrs) @ Infosys",
+        "reason": "per_employer_jd_cap"
+      }
+    ]
+  },
+  "lead_resolution": {
+    "navigation_links_reclassified": 152,
+    "missing_ats_jd_refresh": {
+      "checked": 0,
+      "results": []
+    },
+    "direct_provider_coverage": {},
+    "direct_employer_coverage": {},
+    "portal_employer_coverage": {},
+    "target_title_failures_in_batch": 0,
+    "portal_jobs_inspected": 0,
+    "originals_matched": 0,
+    "substantive_originals_verified": 0,
+    "live_title_only": 0,
+    "direct_check_failures": 0,
+    "needs_original": 2149,
+    "title_relevant_unresolved": 1256,
+    "by_source": {
+      "naukri": {
+        "needs_original": 721,
+        "not_a_job": 3
+      },
+      "linkedin": {
+        "needs_original": 1368,
+        "not_a_job": 4
+      },
+      "foundit": {
+        "needs_original": 0,
+        "not_a_job": 17
+      },
+      "indeed": {
+        "needs_original": 0,
+        "not_a_job": 98
+      },
+      "cutshort": {
+        "needs_original": 60,
+        "not_a_job": 30
+      }
+    },
+    "results": []
+  },
+  "linked_portal_native": null,
+  "review_coverage": {
+    "by_source": {
+      "naukri_portal_native": 7,
+      "linkedin_portal_native": 1
+    },
+    "by_company": {
+      "Nexiotech": 1,
+      "Infosys": 2,
+      "MNC's": 1,
+      "Avyait": 1,
+      "NTT DATA BUSINESS SOLUTIONS": 1,
+      "Ace Micromatic Group": 1,
+      "HRM Counsel": 1
+    }
+  },
+  "master_resume": {
+    "ok": true,
+    "issues": []
+  },
+  "auto_fit": {
+    "considered": 30,
+    "queued": 5,
+    "not_eligible": 22,
+    "blocked": 3,
+    "skipped_unchanged": 0,
+    "results": [
+      {
+        "job_id": 355,
+        "employer": "NTT DATA BUSINESS SOLUTIONS",
+        "title": "Software Developer",
+        "outcome": "queued",
+        "fit": "Medium",
+        "strong_medium": true,
+        "notes": {
+          "other_gaps": [
+            "other_frontend",
+            "cloud_generic"
+          ],
+          "unverified_fundamentals": [
+            "debugging",
+            "troubleshoot",
+            "agile"
+          ]
+        },
+        "interview_preparation_gaps": [
+          {
+            "name": "other_frontend",
+            "reason": "No confirmed evidence for other_frontend",
+            "jd_excerpt": "Strong hands-on experience with Angular and TypeScript in enterprise-scale web applications.",
+            "confirmed_basis": "gap"
+          },
+          {
+            "name": "other_frontend",
+            "reason": "No confirmed evidence for other_frontend",
+            "jd_excerpt": "Good understanding of Angular architecture, components, services, routing, forms, dependency injection, and state management patterns.",
+            "confirmed_basis": "gap"
+          },
+          {
+            "name": "other_frontend",
+            "reason": "No confirmed evidence for other_frontend",
+            "jd_excerpt": "Experience with modern Angular versions, Bootstrap or comparable component libraries, and reusable design systems.",
+            "confirmed_basis": "gap"
+          },
+          {
+            "name": "other_languages",
+            "reason": "No confirmed evidence for other_languages",
+            "jd_excerpt": "Knowledge of Node.js/NPM tooling, static code analysis, dependency management, and frontend observability.",
+            "confirmed_basis": "gap"
+          },
+          {
+            "name": "cloud_generic",
+            "reason": "Named secondary technology has no confirmed matching evidence"
+          }
+        ]
+      },
+      {
+        "job_id": 345,
+        "employer": "Ace Micromatic Group",
+        "title": "Software Engineer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Java is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 344,
+        "employer": "Nexiotech",
+        "title": "Java Full Stack Engineer",
+        "outcome": "queued",
+        "fit": "Medium",
+        "strong_medium": true,
+        "notes": {
+          "other_gaps": [
+            "iac_devops",
+            "ai_agentic",
+            "kubernetes",
+            "cloud_generic",
+            "aws",
+            "azure"
+          ],
+          "unverified_fundamentals": [
+            "troubleshoots",
+            "oop",
+            "servlets",
+            "troubleshooting",
+            "data structures",
+            "algorithms",
+            "system design"
+          ]
+        },
+        "interview_preparation_gaps": [
+          {
+            "name": "ai_agentic",
+            "reason": "No confirmed evidence for ai_agentic",
+            "jd_excerpt": "- Learns and adopts Agentic AI and modernization technologies quickly",
+            "confirmed_basis": "gap"
+          },
+          {
+            "name": "ai_agentic",
+            "reason": "No confirmed evidence for ai_agentic",
+            "jd_excerpt": "- Able to investigate product issues, collect and analyze logs, debug Java applications, use JVM profilers when needed, and drive issues toward clear root cause and resolution. Agentic AI:",
+            "confirmed_basis": "gap"
+          },
+          {
+            "name": "ai_agentic",
+            "reason": "No confirmed evidence for ai_agentic",
+            "jd_excerpt": "Interest in AI agents, LLM APIs, tool calling or MCP is an advantage.",
+            "confirmed_basis": "gap"
+          },
+          {
+            "name": "iac_devops",
+            "reason": "Named secondary technology has no confirmed matching evidence"
+          },
+          {
+            "name": "kubernetes",
+            "reason": "Named secondary technology has no confirmed matching evidence"
+          },
+          {
+            "name": "cloud_generic",
+            "reason": "Named secondary technology has no confirmed matching evidence"
+          },
+          {
+            "name": "aws",
+            "reason": "Named secondary technology has no confirmed matching evidence"
+          },
+          {
+            "name": "azure",
+            "reason": "Named secondary technology has no confirmed matching evidence"
+          }
+        ]
+      },
+      {
+        "job_id": 353,
+        "employer": "Infosys",
+        "title": "Java React Developer (3-5yrs) @ Infosys",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 352,
+        "employer": "Infosys",
+        "title": "Java React Developer (2-3yrs) @ Infosys",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 351,
+        "employer": "Avyait",
+        "title": "Java Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Java is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 350,
+        "employer": "MNC's",
+        "title": "Java Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 347,
+        "employer": "HRM Counsel",
+        "title": "Software Engineer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 5 years"
+        ]
+      },
+      {
+        "job_id": 342,
+        "employer": "Naukri Assist",
+        "title": "Java Full Stack Developer",
+        "outcome": "queued",
+        "fit": "Medium",
+        "strong_medium": true,
+        "notes": {
+          "other_gaps": [],
+          "unverified_fundamentals": [
+            "troubleshoot"
+          ]
+        },
+        "interview_preparation_gaps": [
+          {
+            "name": "other_frontend",
+            "reason": "No confirmed evidence for other_frontend",
+            "jd_excerpt": "3-10 years of experience in Java FullStack development with expertise in Angular.",
+            "confirmed_basis": "gap"
+          },
+          {
+            "name": "ai_agentic",
+            "reason": "No confirmed evidence for ai_agentic",
+            "jd_excerpt": "Strong understanding of Artificial Intelligence (AI) concepts including Generative AI models like Large Language Model.",
+            "confirmed_basis": "gap"
+          }
+        ]
+      },
+      {
+        "job_id": 341,
+        "employer": "BoomerangFX",
+        "title": "Back End Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Java is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 343,
+        "employer": "Aditi Consulting",
+        "title": "Senior Java Back End Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Experience band is not stated in the JD"
+        ]
+      },
+      {
+        "job_id": 340,
+        "employer": "Sapiogen AI",
+        "title": "Full Stack Software Engineer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Java is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 338,
+        "employer": "Drip Capital",
+        "title": "Backend Developer (SDE II)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Java is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 337,
+        "employer": "Azentio Software",
+        "title": "Forward Deployed Software Engineer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 5 years"
+        ]
+      },
+      {
+        "job_id": 336,
+        "employer": "Azentio Software",
+        "title": "Forward Deployed Software Engineer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 335,
+        "employer": "Bisani Brothers",
+        "title": "Senior Software Developer - Mobile, Web & Backend (Fintech)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 329,
+        "employer": "Infosys",
+        "title": "JAVA+Angular Developer - INF (2-15) YRS",
+        "outcome": "queued",
+        "fit": "Medium",
+        "strong_medium": true,
+        "notes": {
+          "other_gaps": [
+            "other_frontend"
+          ],
+          "unverified_fundamentals": [
+            "troubleshoot"
+          ]
+        },
+        "interview_preparation_gaps": [
+          {
+            "name": "other_frontend",
+            "reason": "No confirmed evidence for other_frontend",
+            "jd_excerpt": "Job Title: Java Full Stack Developer (Angular JS)",
+            "confirmed_basis": "gap"
+          },
+          {
+            "name": "cloud_generic",
+            "reason": "No confirmed evidence for cloud_generic",
+            "jd_excerpt": "development and Angular for frontend, along with experience in modern development practices, APIs, and cloud-based environments.",
+            "confirmed_basis": "gap"
+          },
+          {
+            "name": "other_frontend",
+            "reason": "No confirmed evidence for other_frontend",
+            "jd_excerpt": "web applications. The ideal candidate will have strong expertise in Java-based backend development and Angular for frontend, along with experience in modern development practices, APIs, and cloud-based environments.",
+            "confirmed_basis": "gap"
+          }
+        ]
+      },
+      {
+        "job_id": 327,
+        "employer": "Propelgo",
+        "title": "Back End Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Java is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 326,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer",
+        "outcome": "blocked_duplicate",
+        "reasons": [
+          "Possible duplicate requisition requires manual resolution"
+        ]
+      },
+      {
+        "job_id": 322,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer",
+        "outcome": "blocked_duplicate",
+        "reasons": [
+          "Possible duplicate requisition requires manual resolution"
+        ]
+      },
+      {
+        "job_id": 321,
+        "employer": "Infosys",
+        "title": "Java React Js Developer",
+        "outcome": "blocked_duplicate",
+        "reasons": [
+          "Possible duplicate requisition requires manual resolution"
+        ]
+      },
+      {
+        "job_id": 320,
+        "employer": "Infosys",
+        "title": "Java React Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 318,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer (Angular)(2-3Y)",
+        "outcome": "queued",
+        "fit": "Medium",
+        "strong_medium": true,
+        "notes": {
+          "other_gaps": [
+            "other_frontend",
+            "iac_devops",
+            "kubernetes",
+            "aws",
+            "azure",
+            "gcp",
+            "cloud_generic"
+          ],
+          "unverified_fundamentals": [
+            "troubleshoot",
+            "j2ee"
+          ]
+        },
+        "interview_preparation_gaps": [
+          {
+            "name": "other_frontend",
+            "reason": "No confirmed evidence for other_frontend",
+            "jd_excerpt": "Job Title: Java Full Stack Developer (Angular JS)",
+            "confirmed_basis": "gap"
+          },
+          {
+            "name": "cloud_generic",
+            "reason": "No confirmed evidence for cloud_generic",
+            "jd_excerpt": "development and Angular for frontend, along with experience in modern development practices, APIs, and cloud-based environments.",
+            "confirmed_basis": "gap"
+          },
+          {
+            "name": "other_frontend",
+            "reason": "No confirmed evidence for other_frontend",
+            "jd_excerpt": "web applications. The ideal candidate will have strong expertise in Java-based backend development and Angular for frontend, along with experience in modern development practices, APIs, and cloud-based environments.",
+            "confirmed_basis": "gap"
+          },
+          {
+            "name": "other_frontend",
+            "reason": "No confirmed evidence for other_frontend",
+            "jd_excerpt": "Design, develop, and maintain scalable full-stack applications using Java and AngularJS.",
+            "confirmed_basis": "gap"
+          },
+          {
+            "name": "other_frontend",
+            "reason": "No confirmed evidence for other_frontend",
+            "jd_excerpt": "Hands-on experience with Angular JS, TypeScript, HTML5, CSS3",
+            "confirmed_basis": "gap"
+          },
+          {
+            "name": "iac_devops",
+            "reason": "Named secondary technology has no confirmed matching evidence"
+          },
+          {
+            "name": "kubernetes",
+            "reason": "Named secondary technology has no confirmed matching evidence"
+          },
+          {
+            "name": "aws",
+            "reason": "Named secondary technology has no confirmed matching evidence"
+          },
+          {
+            "name": "azure",
+            "reason": "Named secondary technology has no confirmed matching evidence"
+          },
+          {
+            "name": "gcp",
+            "reason": "Named secondary technology has no confirmed matching evidence"
+          }
+        ]
+      },
+      {
+        "job_id": 317,
+        "employer": "Codepanda Academy",
+        "title": "Java Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 316,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer (Angular/React)(2-3 Years)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 313,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer (React js)_ (2-3 Years)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body",
+          "Spring/Spring Boot backend development is not established"
+        ]
+      },
+      {
+        "job_id": 312,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer(Angular/React)(2-3 years)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 307,
+        "employer": "Tata Consultancy Services",
+        "title": "Java Backend Developer - N",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 5 years"
+        ]
+      },
+      {
+        "job_id": 305,
+        "employer": "Codemythos Solutions",
+        "title": "Backend Engineer - Java | Spring Boot | WebSocket | PostgreSQL",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 4 years"
+        ]
+      },
+      {
+        "job_id": 303,
+        "employer": "Epam Systems",
+        "title": "Lead Software Engineer - Java with Spring Boot",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Title indicates a different seniority band: lead"
+        ]
+      }
+    ]
+  },
+  "auto_resume": {
+    "prepared": 3,
+    "failed": 0,
+    "results": [
+      {
+        "job_id": 355,
+        "employer": "NTT DATA BUSINESS SOLUTIONS",
+        "status": "ResumeReady",
+        "pdf": "Yugal_Teotia_Software_Developer.pdf"
+      },
+      {
+        "job_id": 344,
+        "employer": "Nexiotech",
+        "status": "ResumeReady",
+        "pdf": "Yugal_Teotia_Java_Full_Stack_Engineer.pdf"
+      },
+      {
+        "job_id": 342,
+        "employer": "Naukri Assist",
+        "status": "ResumeReady",
+        "pdf": "Yugal_Teotia_Java_Full_Stack_Developer.pdf"
+      }
+    ]
+  },
+  "queue_eligibility": {
+    "naukri_ready_candidates": 3,
+    "resume_jobs_ready_to_build": 2,
+    "locked_or_applied_queue_rows": 1
+  },
+  "staging": {
+    "path": ".workflow/staging.json",
+    "resume_review_ready": 2,
+    "needs_jd_evidence_review": 0
+  },
+  "blocker_alerts": [
+    {
+      "job_id": 220,
+      "status": "pending",
+      "link": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-microservices-infosys-pune-chennai-bengaluru-2-to-5-years-190826038395",
+      "desktop_sent": true
+    },
+    {
+      "job_id": 241,
+      "status": "pending",
+      "link": "https://www.naukri.com/job-listings-java-developer-senior-java-developer-agiliad-pune-2-to-6-years-280926023134",
+      "desktop_sent": true
+    },
+    {
+      "job_id": 250,
+      "status": "pending",
+      "link": "https://www.naukri.com/job-listings-backend-java-developer-naukri-e-hire-campaign-bengaluru-2-to-4-years-160926009207",
+      "desktop_sent": true
+    },
+    {
+      "job_id": 315,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 220,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 241,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 250,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 315,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 355,
+      "status": "pending",
+      "link": "https://www.naukri.com/job-listings-software-developer-ntt-data-business-solutions-bengaluru-3-to-5-years-131026049027",
+      "desktop_sent": true
+    }
+  ],
+  "naukri_application_worker": {
+    "enabled": true,
+    "max_submissions_per_run": 10,
+    "max_new_attempts_per_run": 10,
+    "other_portals": "outside_focus_disabled",
+    "capability_reason": "Proof marker valid; independent new-attempt limit 10",
+    "status": "Complete",
+    "candidate_count": 3,
+    "resumable_count": 0,
+    "results": [
+      {
+        "job_id": 355,
+        "requisition_id": "131026049027",
+        "attempt_id": null,
+        "saves": 0,
+        "status": "Blocked",
+        "stage": "session_check",
+        "error_type": "RuntimeError",
+        "error_origin": {
+          "file": "naukri_native_worker.py",
+          "function": "_run_one",
+          "line": 392
+        },
+        "error_message": "Profile was not generic at worker start; restored it and stopped safely",
+        "new_attempt_slot_consumed": false,
+        "new_claim_created": false,
+        "existing_attempt_continued": false,
+        "preflight_resume_repair_only": true
+      }
+    ],
+    "submissions": 0,
+    "blocked_jobs": 1,
+    "provider_stopped": true,
+    "new_attempts_used": 0,
+    "new_claims_created": 0,
+    "existing_attempts_continued": 0,
+    "original_reported_new_attempts_used": 1,
+    "preflight_repairs_without_claim": 1
+  },
+  "profile_restore_recovery": {
+    "status": "None"
+  },
+  "portals": {
+    "naukri": {
+      "capability": "ApplyReady",
+      "reason": "Proof marker valid; independent new-attempt limit 10",
+      "session": "unknown"
+    },
+    "linkedin": {
+      "capability": "ApplyReady",
+      "reason": "Exact Easy Apply proof valid; independent new-attempt limit 10",
+      "session": "unknown"
+    },
+    "foundit": {
+      "capability": "Blocked",
+      "reason": "Discovery is switched off in config",
+      "session": "unknown"
+    },
+    "indeed": {
+      "capability": "Blocked",
+      "reason": "Discovery is switched off in config",
+      "session": "unknown"
+    },
+    "cutshort": {
+      "capability": "Blocked",
+      "reason": "Discovery is switched off in config",
+      "session": "unknown"
+    },
+    "ats": {
+      "capability": "Blocked",
+      "reason": "No employer board is enabled",
+      "session": "unknown"
+    }
+  },
+  "linkedin_application_worker": {
+    "enabled": true,
+    "max_submissions_per_run": 10,
+    "max_new_attempts_per_run": 10,
+    "capability_reason": "Exact Easy Apply proof valid; independent new-attempt limit 10",
+    "status": "Idle",
+    "candidate_count": 0,
+    "results": [],
+    "submissions": 0,
+    "blocked_jobs": 0,
+    "provider_stopped": false,
+    "new_attempts_used": 0,
+    "new_claims_created": 0,
+    "existing_attempts_continued": 0
+  },
+  "tab_lifecycle": {
+    "created": null,
+    "reused": null,
+    "closed": null,
+    "remaining_automation_tabs": null,
+    "job_tabs_created": null,
+    "job_tabs_closed": null,
+    "welcome_tabs_created": null,
+    "welcome_tabs_closed": null,
+    "remaining_job_tabs": null,
+    "remaining_welcome_tabs": null,
+    "uncertain_ids": [
+      "No tab lifecycle report was emitted"
+    ],
+    "recorded_ids": [],
+    "log_paths": []
+  },
+  "finished_at": "2026-10-13T18:32:41.616260+00:00",
+  "elapsed_seconds": 156.6,
+  "accounting_reconciliation": {
+    "reason": "Resume-only preflight repair created no application claim and consumes no application slot",
+    "original_evidence": ".workflow/runs/cc10244d-dca9-408b-a967-c44d00c80c7d-original.json",
+    "original_filename_not_retained": true,
+    "current_profile_check": "jobs/naukri-131026049027/profile-startup-diagnostic.json",
+    "at": "2026-10-13T18:43:34.420694+00:00"
+  }
+}

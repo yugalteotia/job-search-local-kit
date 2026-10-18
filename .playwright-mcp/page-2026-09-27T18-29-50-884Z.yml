@@ -1,0 +1,749 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic: 
+      - generic [ref=e8]:
+        - generic [ref=e9]:
+          - img "foundit" [ref=e11] [cursor=pointer]
+          - link "Services" [ref=e16] [cursor=pointer]:
+            - /url: /career-services
+        - generic [ref=e20]:
+          - generic [ref=e22]:
+            - textbox "Search by job, company or skills" [ref=e26]
+            - generic: Please enter a job title/role/skill to search
+          - generic [ref=e29]:
+            - textbox "Location" [ref=e33]
+            - generic: Please enter a job title/role/skill to search
+          - generic [ref=e36]:
+            - textbox "Experience" [ref=e40]
+            - generic: Please enter a job title/role/skill to search
+          - button [ref=e45] [cursor=pointer]
+        - generic [ref=e50]:
+          - link [ref=e51] [cursor=pointer]:
+            - /url: /seeker/notifications
+          - link [ref=e55] [cursor=pointer]:
+            - /url: /web/en/cart
+          - generic [ref=e59] [cursor=pointer]:
+            - generic [ref=e61]:
+              - heading [level=3]
+            - generic [ref=e62]: Hi,
+  - generic [ref=e66]:
+    - generic:  
+    - generic [ref=e68]:
+      - generic [ref=e69]: 
+      - generic [ref=e71] [cursor=pointer]: 
+    - generic:   
+    - generic [ref=e73]:
+      - generic [ref=e75] [cursor=pointer]:
+        - paragraph [ref=e76]: Job Search
+        - generic [ref=e77]: 
+      - list [ref=e80]:
+        - text: 
+        - listitem [ref=e81]:
+          - button "All Filters " [ref=e82] [cursor=pointer]:
+            - text: All Filters
+            - generic [ref=e83]: 
+        - listitem
+    - generic [ref=e84]:
+      - generic [ref=e86]:
+        - paragraph [ref=e91]: Showing 322 results for java spring boot
+        - generic [ref=e94] [cursor=pointer]:
+          - generic [ref=e95]:
+            - generic [ref=e97]:
+              - generic [ref=e98]: Senior Software Engineer (Java, Spring Boot and Microservices), Customer Systems
+              - paragraph [ref=e100]: Apple
+            - img "Apple" [ref=e104]
+          - generic [ref=e105]:
+            - generic [ref=e107]:
+              - generic [ref=e108]: 
+              - generic [ref=e110]: 5 - 7 Years
+            - generic [ref=e111]:
+              - generic [ref=e112]: 
+              - generic [ref=e114]: Hyderabad, India
+          - generic [ref=e115]:
+            - paragraph [ref=e118]: Posted 5 days ago
+            - generic [ref=e119]: 
+        - generic [ref=e122]:
+          - generic [ref=e123] [cursor=pointer]:
+            - generic [ref=e124]:
+              - generic [ref=e126]:
+                - generic [ref=e127]: Sr Software Engineer - Java, Spring Boot, Microservices, Azure
+                - paragraph [ref=e129]: Blue Yonder
+              - img "Blue Yonder" [ref=e133]
+            - generic [ref=e134]:
+              - generic [ref=e136]:
+                - generic [ref=e137]: 
+                - generic [ref=e139]: 5 - 8 Years
+              - generic [ref=e140]:
+                - generic [ref=e141]: 
+                - generic [ref=e143]: Hyderabad, India
+            - generic [ref=e144]:
+              - paragraph [ref=e147]: Posted 26 days ago
+              - generic [ref=e148]: 
+          - generic [ref=e156] [cursor=pointer]:
+            - img "Hi Yugal, apply to multiple jobs in one go - it's that simple! Start Applying Now" [ref=e157]
+            - paragraph [ref=e158]: Hi Yugal, apply to multiple jobs in one go - it's that simple! Start Applying Now
+        - generic [ref=e169] [cursor=pointer]:
+          - generic [ref=e170]:
+            - generic [ref=e172]:
+              - generic [ref=e173]: Senior Software Engineer (Java,Spring boot)
+              - paragraph [ref=e175]: The Wells Fargo Foundation
+            - img "The Wells Fargo Foundation" [ref=e179]
+          - generic [ref=e180]:
+            - generic [ref=e182]:
+              - generic [ref=e183]: 
+              - generic [ref=e185]: Fresher
+            - generic [ref=e186]:
+              - generic [ref=e187]: 
+              - generic [ref=e189]: Hyderabad, India
+            - generic [ref=e191]:
+              - generic [ref=e192]: 
+              - text: Early Applicant
+          - generic [ref=e193]:
+            - paragraph [ref=e196]: Posted 17 days ago
+            - generic [ref=e197]: 
+        - generic [ref=e201] [cursor=pointer]:
+          - generic [ref=e202]:
+            - generic [ref=e204]:
+              - generic [ref=e205]: Software Engineer (Java, spring boot,Angular, AI)
+              - paragraph [ref=e207]: NielsenIQ
+            - img "NielsenIQ" [ref=e211]
+          - generic [ref=e212]:
+            - generic [ref=e214]:
+              - generic [ref=e215]: 
+              - generic [ref=e217]: 3 - 6 Years
+            - generic [ref=e218]:
+              - generic [ref=e219]: 
+              - generic [ref=e221]: India
+          - generic [ref=e222]:
+            - paragraph [ref=e225]: Posted 24 days ago
+            - generic [ref=e226]: 
+        - generic [ref=e230] [cursor=pointer]:
+          - generic [ref=e231]:
+            - generic [ref=e233]:
+              - generic [ref=e234]: Lead Software Engineer - AWS automation with Java/Spring Boot, Kubernetes & Spark
+              - paragraph [ref=e236]: Societe Generale Global Solution Centre
+            - img "Societe Generale Global Solution Centre" [ref=e240]
+          - generic [ref=e241]:
+            - generic [ref=e243]:
+              - generic [ref=e244]: 
+              - generic [ref=e246]: 8 - 10 Years
+            - generic [ref=e247]:
+              - generic [ref=e248]: 
+              - generic [ref=e250]: Bengaluru, India
+            - generic [ref=e252]:
+              - generic [ref=e253]: 
+              - text: Early Applicant
+          - generic [ref=e254]:
+            - paragraph [ref=e257]: Posted 23 days ago
+            - generic [ref=e258]: 
+        - generic [ref=e262] [cursor=pointer]:
+          - generic [ref=e263]:
+            - generic [ref=e265]:
+              - generic [ref=e266]: Software Engineer – Backend (Java / Spring Boot)
+              - paragraph [ref=e268]: D4insight Tech
+            - img "D4insight Tech" [ref=e272]
+          - generic [ref=e273]:
+            - generic [ref=e275]:
+              - generic [ref=e276]: 
+              - generic [ref=e278]: 5 - 7 Years
+            - generic [ref=e279]:
+              - generic [ref=e280]: 
+              - generic [ref=e282]: India
+            - generic [ref=e284]:
+              - generic [ref=e285]: 
+              - text: Early Applicant
+          - generic [ref=e286]:
+            - paragraph [ref=e289]: Posted 28 days ago
+            - generic [ref=e290]: 
+        - generic [ref=e294] [cursor=pointer]:
+          - generic [ref=e295]:
+            - generic [ref=e297]:
+              - generic [ref=e298]: Lead Software Engineer-Java, Spring Boot
+              - paragraph [ref=e300]: JP Morgan Chase & Co.
+            - img "JP Morgan Chase & Co." [ref=e304]
+          - generic [ref=e305]:
+            - generic [ref=e307]:
+              - generic [ref=e308]: 
+              - generic [ref=e310]: 5 - 7 Years
+            - generic [ref=e311]:
+              - generic [ref=e312]: 
+              - generic [ref=e314]: Bengaluru
+            - generic [ref=e316]:
+              - generic [ref=e317]: 
+              - text: Early Applicant
+          - generic [ref=e318]:
+            - paragraph [ref=e321]: Posted 23 days ago
+            - generic [ref=e322]: 
+        - generic [ref=e326] [cursor=pointer]:
+          - generic [ref=e327]:
+            - generic [ref=e329]:
+              - generic [ref=e330]: Lead Software Engineer - Java, Spring boot, Microservices , Real time application
+              - paragraph [ref=e332]: JP Morgan Chase & Co.
+            - img "JP Morgan Chase & Co." [ref=e336]
+          - generic [ref=e337]:
+            - generic [ref=e339]:
+              - generic [ref=e340]: 
+              - generic [ref=e342]: 8 - 10 Years
+            - generic [ref=e343]:
+              - generic [ref=e344]: 
+              - generic [ref=e346]: Hyderabad
+            - generic [ref=e348]:
+              - generic [ref=e349]: 
+              - text: Early Applicant
+          - generic [ref=e350]:
+            - paragraph [ref=e353]: Posted 24 days ago
+            - generic [ref=e354]: 
+        - generic [ref=e358] [cursor=pointer]:
+          - generic [ref=e359]:
+            - generic [ref=e361]:
+              - generic [ref=e362]: Lead Software Engineer - Java, Spring Boot, Microservices, REST APIs, OAuth, Kafka, Azure
+              - paragraph [ref=e364]: Blue Yonder
+            - img "Blue Yonder" [ref=e368]
+          - generic [ref=e369]:
+            - generic [ref=e371]:
+              - generic [ref=e372]: 
+              - generic [ref=e374]: 7 - 10 Years
+            - generic [ref=e375]:
+              - generic [ref=e376]: 
+              - generic [ref=e378]: Hyderabad, India
+          - generic [ref=e379]:
+            - paragraph [ref=e382]: Posted a month ago
+            - generic [ref=e383]: 
+        - generic [ref=e385]:
+          - generic [ref=e387] [cursor=pointer]:
+            - generic [ref=e388]:
+              - generic [ref=e390]:
+                - generic [ref=e391]: Lead Software Engineer - Java, Spring Boot, Microservices, REST APIs, OAuth, Kafka, Azure
+                - paragraph [ref=e393]: Blue Yonder
+              - img "Blue Yonder" [ref=e397]
+            - generic [ref=e398]:
+              - generic [ref=e400]:
+                - generic [ref=e401]: 
+                - generic [ref=e403]: 7 - 10 Years
+              - generic [ref=e404]:
+                - generic [ref=e405]: 
+                - generic [ref=e407]: Bengaluru, India
+            - generic [ref=e408]:
+              - paragraph [ref=e411]: Posted a month ago
+              - generic [ref=e412]: 
+          - link "cs-banner-budge-1.png What it feels like to have 48% more interview calls? To get 5X more recruiter views on your profile Ask here" [ref=e416] [cursor=pointer]:
+            - /url: /career-services/talk-to-us?utm_source=nudge_homepage&utm_campaign=careerservices
+            - img "cs-banner-budge-1.png" [ref=e418]
+            - generic [ref=e419]:
+              - generic [ref=e420]: What it feels like to have 48% more interview calls?
+              - paragraph [ref=e422]: To get 5X more recruiter views on your profile
+            - generic [ref=e423]: Ask here
+        - generic [ref=e426] [cursor=pointer]:
+          - generic [ref=e427]:
+            - generic [ref=e429]:
+              - generic [ref=e430]: Lead Software Engineer – Java, Spring Boot, Kafka
+              - paragraph [ref=e432]: JP Morgan Chase & Co.
+            - img "JP Morgan Chase & Co." [ref=e436]
+          - generic [ref=e437]:
+            - generic [ref=e439]:
+              - generic [ref=e440]: 
+              - generic [ref=e442]: 5 - 7 Years
+            - generic [ref=e443]:
+              - generic [ref=e444]: 
+              - generic [ref=e446]: Mumbai
+            - generic [ref=e448]:
+              - generic [ref=e449]: 
+              - text: Early Applicant
+          - generic [ref=e450]:
+            - paragraph [ref=e453]: Posted a month ago
+            - generic [ref=e454]: 
+        - generic [ref=e458] [cursor=pointer]:
+          - generic [ref=e459]:
+            - generic [ref=e461]:
+              - generic [ref=e462]: JAVA/ Spring Boot Developer/ Senior Software Engineer
+              - paragraph [ref=e464]: cscs - cloud supply chain solutions
+            - img "cscs - cloud supply chain solutions" [ref=e468]
+          - generic [ref=e469]:
+            - generic [ref=e471]:
+              - generic [ref=e472]: 
+              - generic [ref=e474]: 5 - 8 Years
+            - generic [ref=e475]:
+              - generic [ref=e476]: 
+              - generic [ref=e478]: Coimbatore, India
+            - generic [ref=e480]:
+              - generic [ref=e481]: 
+              - text: Early Applicant
+          - generic [ref=e482]:
+            - paragraph [ref=e485]: Posted 2 months ago
+            - generic [ref=e486]: 
+        - generic [ref=e488]:
+          - generic [ref=e490] [cursor=pointer]:
+            - generic [ref=e491]:
+              - generic [ref=e493]:
+                - generic [ref=e494]: Java Developer Intern | Entry Level | Fresher | Java, Spring Boot, SQL, REST API | Remote
+                - paragraph [ref=e496]: crossing infotech
+              - img "crossing infotech" [ref=e500]
+            - generic [ref=e501]:
+              - generic [ref=e503]:
+                - generic [ref=e504]: 
+                - generic [ref=e506]: Fresher
+              - generic [ref=e507]:
+                - generic [ref=e508]: 
+                - generic [ref=e510]: India
+            - generic [ref=e511]:
+              - paragraph [ref=e514]: Posted 3 days ago
+              - generic [ref=e515]: 
+          - generic [ref=e517]:
+            - generic [ref=e518]: How is the search relevance?
+            - generic [ref=e519]:
+              - generic [ref=e520] [cursor=pointer]: 
+              - generic [ref=e521] [cursor=pointer]: 
+              - generic [ref=e522] [cursor=pointer]: 
+              - generic [ref=e523] [cursor=pointer]: 
+              - generic [ref=e524] [cursor=pointer]: 
+        - generic [ref=e527] [cursor=pointer]:
+          - generic [ref=e528]:
+            - generic [ref=e530]:
+              - generic [ref=e531]: Senior Software Engineer - Java , Spring boot, Microservices
+              - paragraph [ref=e533]: The Wells Fargo Foundation
+            - img "The Wells Fargo Foundation" [ref=e537]
+          - generic [ref=e538]:
+            - generic [ref=e540]:
+              - generic [ref=e541]: 
+              - generic [ref=e543]: Fresher
+            - generic [ref=e544]:
+              - generic [ref=e545]: 
+              - generic [ref=e547]: Bengaluru, India
+          - generic [ref=e548]:
+            - paragraph [ref=e551]: Posted 5 months ago
+            - generic [ref=e552]: 
+        - generic [ref=e556] [cursor=pointer]:
+          - generic [ref=e557]:
+            - generic [ref=e559]:
+              - generic [ref=e560]: Software Engineer (Java, spring boot, microservices, AI)
+              - paragraph [ref=e562]: NielsenIQ
+            - img "NielsenIQ" [ref=e566]
+          - generic [ref=e567]:
+            - generic [ref=e569]:
+              - generic [ref=e570]: 
+              - generic [ref=e572]: Fresher
+            - generic [ref=e573]:
+              - generic [ref=e574]: 
+              - generic [ref=e576]: India
+            - generic [ref=e578]:
+              - generic [ref=e579]: 
+              - text: Early Applicant
+          - generic [ref=e580]:
+            - paragraph [ref=e583]: Posted a month ago
+            - generic [ref=e584]: 
+        - generic [ref=e586]:
+          - generic: 
+          - generic [ref=e587] [cursor=pointer]: "1"
+          - generic [ref=e588] [cursor=pointer]: "2"
+          - generic [ref=e589] [cursor=pointer]: "3"
+          - generic [ref=e590] [cursor=pointer]: "4"
+          - generic [ref=e591] [cursor=pointer]: "5"
+          - generic [ref=e592] [cursor=pointer]: "6"
+          - generic [ref=e593] [cursor=pointer]: "7"
+          - generic [ref=e594] [cursor=pointer]: "8"
+          - generic [ref=e595] [cursor=pointer]: "9"
+          - generic [ref=e596] [cursor=pointer]: "10"
+          - generic [ref=e597] [cursor=pointer]: 
+      - generic [ref=e600]:
+        - img "Apple" [ref=e603]
+        - generic [ref=e604]:
+          - generic [ref=e605]:
+            - generic [ref=e606]:
+              - heading "Senior Software Engineer (Java, Spring Boot and Microservices), Customer Systems" [level=1] [ref=e607] [cursor=pointer]
+              - generic [ref=e608] [cursor=pointer]: 
+            - generic [ref=e609]: Apple
+            - list [ref=e612]:
+              - listitem [ref=e613]: Posted 5 days ago
+              - listitem [ref=e614]: Over 50 applicants
+          - generic [ref=e615]:
+            - generic [ref=e617]:
+              - generic [ref=e618]: 
+              - generic [ref=e619]: 5-7 Years
+            - generic [ref=e621]:
+              - generic [ref=e622]: 
+              - generic [ref=e623]: Hyderabad, India
+            - generic [ref=e625]:
+              - generic [ref=e626]: 
+              - paragraph [ref=e627] [cursor=pointer]: 6 out of 27 preferred skills are a match
+          - button " Quick Apply" [ref=e631] [cursor=pointer]:
+            - paragraph [ref=e632]:
+              - generic [ref=e633]: 
+              - text: Quick Apply
+          - text:  
+          - generic [ref=e636]:
+            - generic [ref=e637]: Job Description
+            - paragraph [ref=e638]:
+              - strong [ref=e639]: Summary
+              - text: Apple is a place where extraordinary people gather to do their best work. Together we craft products and experiences people once couldn't have imagined — and now can't imagine living without.Do you want to help build some of the largest and most consequential enterprise and customer technology systems in the world Join Apple's Information Systems and Technology (IS&T) organization. IS&T is the engine behind everything Apple does for customers and for the people who build for them. It's Apple's central nervous system. Supporting 2.5 billion active Apple devices, processing billions of secure transactions, and keeping the technology that defines modern life running flawlessly, IS&T makes the impossible feel effortless.Customer Systems is part of IS&T and drives the technology behind Apple's customer support experience — from contact center operations to the software powering the iconic Genius Bar. The team also builds and operates AppleCare's online support platform, which handles 6 billion visits per year, delivering seamless, high-quality support to Apple customers around the globeDo you love building solutions to handle global complexity and immense scale Imagine what you could do here.
+              - strong [ref=e640]: Description
+              - text: We are looking for mid-career senior-level Java Software Engineers, highly motivated and dedicated to build the next generation of software services that powers several critically important applications. In this role you will be partnering with multi-functional teams across Apple. You will work closely with our business leaders and other partners to implement new solutions. The candidate must be able to work independently, understand the needs and build the solutions for sophisticated architecture and comfortable working under pressure at times.The ideal candidate is self-motivated, pro-active and results-driven. Attention to detail, dedication to providing high-quality solutions modeling engineering excellence, and ability to work towards on-time delivery of projects are all crucial qualities needed to work at Apple as a Software Engineer.The ideal candidate will also possess excellent communication and collaboration skills to work with various internal and external partners.
+              - strong [ref=e641]: Responsibilities
+              - list [ref=e642]:
+                - listitem [ref=e643]: Design, develop, test, document, improve, and maintain highly reliable, scalable, and maintainable enterprise applications mostly in Java (and other languages as needed) that can match Apple volumes
+                - listitem [ref=e644]: Understand requirements, engage with team members, multi-functional teams and project managers to define solutions, and estimate the scope of work required
+                - listitem [ref=e645]: Collaborate with, mentor, and influence members within your team and across other teams at Apple
+                - listitem [ref=e646]: Deliver solutions that can keep up with a rapidly evolving product in a timely fashion
+                - listitem [ref=e647]: Review technical designs and perform code review
+              - strong [ref=e648]: Minimum Qualifications
+              - list [ref=e649]:
+                - listitem [ref=e650]: Bachelor's degree in computer science or a related technical field or equivalent professional work experience
+                - listitem [ref=e651]: 5+ years proven experience developing software in a professional capacity. Longer experience preferred.
+                - listitem [ref=e652]: 3+ years proven experience implementing, and shipping high-scale, high-performance, highly available, fault-tolerant, and secure cloud-based distributed systems, including proficiency in REST API implementation
+                - listitem [ref=e653]: 3+ years proven experience using relational (e.g. Postgres, MySQL, etc.) and NoSQL (e.g. Cassandra, MongoDB, etc.) databases, including proficiency in schema design and query optimization.
+                - listitem [ref=e654]: 3+ years proven experience with Java, Spring, SpringBoot including proficiency in concurrency, memory management, and performance optimization techniques.
+                - listitem [ref=e655]: Proficiency in OOP principles, data structures, algorithms, and software design patterns (e.g. GoF), with a proven focus on implementing testable, maintainable, and extensible backend code.
+              - strong [ref=e656]: Preferred Qualifications
+              - list [ref=e657]:
+                - listitem [ref=e658]: Track record of leading software projects within a team as a tech lead (TL), while mentoring software engineers.
+                - listitem [ref=e659]: Comfortable using CI/CD tools to build, test, deploy, and release containerized software applications on cloud-based Kubernetes (e.g. AWS EKS, GCP GKE, Azure AKS, etc.).
+                - listitem [ref=e660]: Experience in reactive programming (Spring Webflux/ Project Reactor) and unit testing frameworks (e.g. JUnit, Mockito, etc.).
+                - listitem [ref=e661]: Experience with tooling languages (e.g. Go, Python, Ruby, etc.) and distributed orchestration & computing systems (e.g. Airflow, Spark, Flink, etc.).
+                - listitem [ref=e662]: Understanding of advanced JVM internals (e.g. garbage collection, memory allocation, JIT, JNI, etc.).
+                - listitem [ref=e663]: Knowledge of networking concepts & protocols (e.g. HTTP/HTTPS, CDN, edge computing, load balancing, OSI model, etc.)
+              - text: "At Apple, we believe accessibility is a fundamental human right. You'll find that idea reflected in everything here — in our culture, our benefits and our digital tools. By welcoming as many perspectives as possible, we help you build a career where you feel like you belong.Learn about accessibility in Apple's workplaceRole Number: 200677847-1052"
+          - generic [ref=e664]:
+            - generic [ref=e665]: More Info
+            - generic [ref=e666]:
+              - paragraph [ref=e667]:
+                - generic [ref=e668]: "Industry:"
+                - generic [ref=e669]: Other
+              - paragraph [ref=e670]:
+                - generic [ref=e671]: "Function:"
+                - generic [ref=e672]: Information Systems And Technology
+              - paragraph [ref=e673]:
+                - generic [ref=e674]: "Job Type:"
+                - generic [ref=e675]: Permanent Job
+            - generic [ref=e676]:
+              - paragraph [ref=e677]: Looking for similar opportunities? Click here to explore more jobs like this!
+              - generic [ref=e678] [cursor=pointer]:
+                - generic [ref=e679]: Similar Jobs
+                - generic [ref=e680]: 
+          - generic [ref=e681]:
+            - generic [ref=e682]: Skills Required
+            - generic [ref=e683]:
+              - img "skill badge" [ref=e684]
+              - paragraph [ref=e685]: 6 out of 27 preferred skills are a match
+            - generic [ref=e686]:
+              - generic [ref=e687]: Airflow
+              - generic [ref=e688]: Project Reactor
+              - generic [ref=e689]: Go
+              - generic [ref=e690]: Flink
+              - generic [ref=e691]: GCP GKE
+              - generic [ref=e692]: OOP principles
+              - generic [ref=e693]: Spring Webflux
+              - generic [ref=e694]: reactive programming
+              - generic [ref=e695]: Azure AKS
+              - generic [ref=e696]: Algorithms
+              - generic [ref=e697]: Cassandra
+              - generic [ref=e698]: Rest Api
+              - generic [ref=e699]:
+                - text: JUnit
+                - generic [ref=e700]: 
+              - generic [ref=e701]:
+                - text: MySQL
+                - generic [ref=e702]: 
+              - generic [ref=e703]: Postgres
+              - generic [ref=e704]: data structures
+              - generic [ref=e705]: Ruby
+              - generic [ref=e706]: Python
+              - generic [ref=e707]: AWS EKS
+              - generic [ref=e708]:
+                - text: Java
+                - generic [ref=e709]: 
+              - generic [ref=e710]: software design patterns
+              - generic [ref=e711]: Spring
+              - generic [ref=e712]:
+                - text: Springboot
+                - generic [ref=e713]: 
+              - generic [ref=e714]:
+                - text: Mockito
+                - generic [ref=e715]: 
+              - generic [ref=e716]: Spark
+              - generic [ref=e717]:
+                - text: MongoDB
+                - generic [ref=e718]: 
+              - generic [ref=e719]: Kubernetes
+            - generic [ref=e720]:
+              - generic [ref=e721]:
+                - generic [ref=e722]: 
+                - paragraph [ref=e723]: Add skills you have to your profile to stand out to the employer
+              - generic [ref=e724] [cursor=pointer]: Add Skills
+          - generic [ref=e725]:
+            - generic [ref=e726]:
+              - paragraph [ref=e727]: "Date Posted: 5 days ago"
+              - paragraph [ref=e728]: "Job ID: 154459443"
+            - generic [ref=e729] [cursor=pointer]:
+              - generic [ref=e730]: 
+              - generic [ref=e731]: Report Job
+          - generic [ref=e732]:
+            - generic [ref=e733]: About Company
+            - generic [ref=e736]:
+              - img "Apple" [ref=e737]
+              - link "Apple" [ref=e739] [cursor=pointer]:
+                - /url: /search/apple-229115-jobs-career
+    - generic: 
+    - generic: 
+    - generic:
+      - heading [level=2]
+  - contentinfo [ref=e740]:
+    - generic [ref=e743]:
+      - generic [ref=e744]:
+        - generic [ref=e745]:
+          - generic [ref=e746] [cursor=pointer]:
+            - paragraph [ref=e747]: Job Categories
+            - generic [ref=e748]: ꡤ
+          - list [ref=e749]:
+            - listitem [ref=e750]:
+              - link "Jobs By Location" [ref=e751] [cursor=pointer]:
+                - /url: /search/jobs-by-location
+            - listitem [ref=e752]:
+              - link "Jobs By Skill" [ref=e753] [cursor=pointer]:
+                - /url: /search/jobs-by-skill
+            - listitem [ref=e754]:
+              - link "Jobs By Title" [ref=e755] [cursor=pointer]:
+                - /url: /search/jobs-by-title
+            - listitem [ref=e756]:
+              - link "Jobs By Function" [ref=e757] [cursor=pointer]:
+                - /url: /search/jobs-by-function
+            - listitem [ref=e758]:
+              - link "Jobs By Industry" [ref=e759] [cursor=pointer]:
+                - /url: /search/jobs-by-industry
+            - listitem [ref=e760]:
+              - link "Jobs By Education" [ref=e761] [cursor=pointer]:
+                - /url: /search/jobs-by-education
+            - listitem [ref=e762]:
+              - link "Jobs By Other" [ref=e763] [cursor=pointer]:
+                - /url: /search/jobs-by-other
+        - list [ref=e764]
+        - list [ref=e765]
+        - list [ref=e766]
+        - list [ref=e767]
+        - list [ref=e768]
+        - list [ref=e769]
+        - list [ref=e770]
+        - generic [ref=e771]:
+          - generic [ref=e772] [cursor=pointer]:
+            - paragraph [ref=e773]: Employers
+            - generic [ref=e774]: ꡤ
+          - list [ref=e775]:
+            - listitem [ref=e776]:
+              - link "Employer Login" [ref=e777] [cursor=pointer]:
+                - /url: https://recruiter.foundit.in/?login=yes
+            - listitem [ref=e778]:
+              - link "Job Posting" [ref=e779] [cursor=pointer]:
+                - /url: https://recruiter.foundit.in/job-posting-services.html
+            - listitem [ref=e780]:
+              - link "Access Resume Database" [ref=e781] [cursor=pointer]:
+                - /url: http://recruiter.foundit.in/v2/ecom/index.html
+            - listitem [ref=e782]:
+              - link "Join mRecruiters" [ref=e783] [cursor=pointer]:
+                - /url: http://recruiter.foundit.in/v2/recruiter-sign-up.html
+            - listitem [ref=e784]:
+              - link "Buy Online" [ref=e785] [cursor=pointer]:
+                - /url: http://recruiter.foundit.in/v2/ecom/index.html
+        - list [ref=e786]
+        - list [ref=e787]
+        - list [ref=e788]
+        - list [ref=e789]
+        - list [ref=e790]
+        - generic [ref=e791]:
+          - generic [ref=e792] [cursor=pointer]:
+            - paragraph [ref=e793]: Job Seekers
+            - generic [ref=e794]: ꡤ
+          - list [ref=e795]:
+            - listitem [ref=e796]:
+              - link "Job Seekers Login" [ref=e797] [cursor=pointer]:
+                - /url: /rio/login
+            - listitem [ref=e798]:
+              - link "Upload Resume" [ref=e799] [cursor=pointer]:
+                - /url: /seeker/registration
+            - listitem [ref=e800]:
+              - link "Search Tips" [ref=e801] [cursor=pointer]:
+                - /url: https://www.foundit.in/info/search-tips
+            - listitem [ref=e802]:
+              - link "Find Companies" [ref=e803] [cursor=pointer]:
+                - /url: https://www.foundit.in/search/jobs-by-company
+            - listitem [ref=e804]:
+              - link "Help" [ref=e805] [cursor=pointer]:
+                - /url: https://www.foundit.in/info/help
+        - list [ref=e806]
+        - list [ref=e807]
+        - list [ref=e808]
+        - list [ref=e809]
+        - list [ref=e810]
+        - generic [ref=e811]:
+          - link "Career Advice" [ref=e813] [cursor=pointer]:
+            - /url: /career-advice/
+          - list [ref=e814]
+        - generic [ref=e815]:
+          - generic [ref=e816] [cursor=pointer]:
+            - paragraph [ref=e817]: Company Info
+            - generic [ref=e818]: ꡤ
+          - list [ref=e819]:
+            - listitem [ref=e820]:
+              - link "About Us" [ref=e821] [cursor=pointer]:
+                - /url: https://www.foundit.in/info/about-us
+            - listitem [ref=e822]:
+              - link "Contact Us" [ref=e823] [cursor=pointer]:
+                - /url: https://www.foundit.in/info/contact-us
+            - listitem [ref=e824]:
+              - link "Send Feedback" [ref=e825] [cursor=pointer]:
+                - /url: https://www.foundit.in/info/feedback
+            - listitem [ref=e826]:
+              - link "HTML Sitemap" [ref=e827] [cursor=pointer]:
+                - /url: https://www.foundit.in/info/sitemap
+            - listitem [ref=e828]:
+              - link "XML Sitemap" [ref=e829] [cursor=pointer]:
+                - /url: https://www.foundit.in/xmlsitemap/sitemap-index.xml
+            - listitem [ref=e830]:
+              - link "Jobs App" [ref=e831] [cursor=pointer]:
+                - /url: https://www.foundit.in/web/en/mobile
+        - list [ref=e832]
+        - list [ref=e833]
+        - list [ref=e834]
+        - list [ref=e835]
+        - list [ref=e836]
+        - list [ref=e837]
+        - generic [ref=e838]:
+          - generic [ref=e839] [cursor=pointer]:
+            - paragraph [ref=e840]: IT Jobs
+            - generic [ref=e841]: ꡤ
+          - list [ref=e842]:
+            - listitem [ref=e843]:
+              - link "Software Testing" [ref=e844] [cursor=pointer]:
+                - /url: https://www.foundit.in/search/software-testing-jobs
+            - listitem [ref=e845]:
+              - link "SQL" [ref=e846] [cursor=pointer]:
+                - /url: https://www.foundit.in/search/sql-jobs
+            - listitem [ref=e847]:
+              - link "Oracle" [ref=e848] [cursor=pointer]:
+                - /url: https://www.foundit.in/search/oracle-jobs
+            - listitem [ref=e849]:
+              - link "Graphic Design" [ref=e850] [cursor=pointer]:
+                - /url: https://www.foundit.in/search/graphic-design-jobs
+            - listitem [ref=e851]:
+              - link "Digital Marketing" [ref=e852] [cursor=pointer]:
+                - /url: https://www.foundit.in/search/digital-marketing-jobs
+        - list [ref=e853]
+        - list [ref=e854]
+        - list [ref=e855]
+        - list [ref=e856]
+        - list [ref=e857]
+        - generic [ref=e858]:
+          - generic [ref=e859] [cursor=pointer]:
+            - paragraph [ref=e860]: Non IT Jobs
+            - generic [ref=e861]: ꡤ
+          - list [ref=e862]:
+            - listitem [ref=e863]:
+              - link "HR" [ref=e864] [cursor=pointer]:
+                - /url: https://www.foundit.in/search/hr-jobs
+            - listitem [ref=e865]:
+              - link "Sales" [ref=e866] [cursor=pointer]:
+                - /url: https://www.foundit.in/search/sales-jobs
+            - listitem [ref=e867]:
+              - link "Accounting" [ref=e868] [cursor=pointer]:
+                - /url: https://www.foundit.in/search/accounting-jobs
+            - listitem [ref=e869]:
+              - link "Call Center" [ref=e870] [cursor=pointer]:
+                - /url: https://www.foundit.in/search/call-center-jobs
+            - listitem [ref=e871]:
+              - link "Electrical Engineering" [ref=e872] [cursor=pointer]:
+                - /url: https://www.foundit.in/search/electrical-engineering-jobs
+            - listitem [ref=e873]:
+              - link "Event Management" [ref=e874] [cursor=pointer]:
+                - /url: https://www.foundit.in/search/event-management-jobs
+        - list [ref=e875]
+        - list [ref=e876]
+        - list [ref=e877]
+        - list [ref=e878]
+        - list [ref=e879]
+        - list [ref=e880]
+        - list [ref=e881]
+        - list [ref=e882]
+        - list [ref=e883]
+        - list [ref=e884]
+        - list [ref=e885]
+        - list [ref=e886]
+        - list [ref=e887]
+        - list [ref=e888]
+        - list [ref=e889]
+        - list [ref=e890]
+        - list [ref=e891]
+        - list [ref=e892]
+        - list [ref=e893]
+        - list [ref=e894]
+      - generic [ref=e895]:
+        - generic [ref=e896]:
+          - generic [ref=e897]: Selected Country
+          - combobox "country switch dropdown" [ref=e898]:
+            - option "India" [selected]
+            - option "Gulf"
+            - option "Hong kong"
+            - option "Singapore"
+            - option "Philippines"
+            - option "Thailand"
+            - option "Malaysia"
+            - option "Indonesia"
+            - option "Vietnam"
+        - generic [ref=e900]:
+          - generic [ref=e901]: ꠩
+          - paragraph [ref=e902]:
+            - link "info@foundit.in" [ref=e903] [cursor=pointer]:
+              - /url: mailto:info@foundit.in
+        - generic [ref=e905]:
+          - generic [ref=e906]: ꠨
+          - generic [ref=e907]:
+            - paragraph [ref=e908]:
+              - 'link "Toll No: +91 80 6985 7811" [ref=e909] [cursor=pointer]':
+                - /url: tel:+91 80 6985 7811
+            - paragraph [ref=e910]:
+              - 'link "Toll Free No: 1800-419-6666" [ref=e911] [cursor=pointer]':
+                - /url: tel:1800-419-6666
+        - generic [ref=e912]:
+          - generic [ref=e913]: ꡑ
+          - paragraph [ref=e914]: Download The App
+          - generic [ref=e915]:
+            - link [ref=e916] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.monsterindia.seeker.views&referrer=utm_source%3DWebsite%26utm_campaign%3DJobs-App
+              - img "Best Jobs Apps for Android" [ref=e917]
+            - link [ref=e918] [cursor=pointer]:
+              - /url: https://apps.apple.com/in/app/monster-jobs/id525775161
+              - img "Best Jobs Apps for iOS" [ref=e919]
+        - generic [ref=e920]:
+          - paragraph [ref=e921]: Stay Connected
+          - generic [ref=e922]:
+            - link "ꡥ" [ref=e923] [cursor=pointer]:
+              - /url: https://www.facebook.com/founditIN/
+            - link "ꡦ" [ref=e925] [cursor=pointer]:
+              - /url: https://twitter.com/foundit_India
+            - link "ꡧ" [ref=e927] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/foundit-jobs/
+            - link "ꡨ" [ref=e929] [cursor=pointer]:
+              - /url: https://www.instagram.com/foundit_india/
+            - link "꠴" [ref=e931] [cursor=pointer]:
+              - /url: https://www.youtube.com/@foundit_IN/featured
+        - generic [ref=e933]:
+          - paragraph [ref=e934]:
+            - link "Security & Fraud" [ref=e935] [cursor=pointer]:
+              - /url: https://www.foundit.in/info/security-center
+            - link "Privacy Notice" [ref=e936] [cursor=pointer]:
+              - /url: https://www.foundit.in/info/privacy
+            - link "Terms of Use" [ref=e937] [cursor=pointer]:
+              - /url: https://www.foundit.in/info/terms-of-use
+            - link "Beware of Fraudsters" [ref=e938] [cursor=pointer]:
+              - /url: https://www.foundit.in/info/beware-of-fraudsters
+            - link "Be Safe" [ref=e939] [cursor=pointer]:
+              - /url: https://www.foundit.in/info/besafe
+            - link "Complaints" [ref=e940] [cursor=pointer]:
+              - /url: https://www.foundit.in/info/complaints
+          - paragraph [ref=e941]: © 2026 foundit | All rights Reserved
+  - generic [ref=e944]:
+    - paragraph [ref=e945]:
+      - text: We use cookies to improve your experience. By continuing to browse the site, you agree to our
+      - link "Privacy Policy" [ref=e946] [cursor=pointer]:
+        - /url: https://www.foundit.in/info/privacy
+      - text: and
+      - link "Cookie Policy" [ref=e947] [cursor=pointer]:
+        - /url: https://www.foundit.in/info/privacy#cookie-heading
+    - button "Okay" [ref=e949] [cursor=pointer]

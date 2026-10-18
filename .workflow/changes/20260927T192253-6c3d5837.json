@@ -1,0 +1,15 @@
+{
+  "row": 4,
+  "reason": "reviewed tracker correction",
+  "changes": {
+    "Salary info": {
+      "before": "Undisclosed (likely below target)",
+      "after": "Undisclosed; no verified below-target compensation evidence"
+    },
+    "Next step": {
+      "before": "Pursue only if Yugal accepts the junior band — needs his call.",
+      "after": "Historical junior-band listing. Current Hevo Associate SDE is also a fresher persona; do not infer duplicate IDs or salary. Needs seniority decision before preparation."
+    }
+  },
+  "backup": ".workflow/backups/20260927T192253-6c3d5837.xlsx"
+}

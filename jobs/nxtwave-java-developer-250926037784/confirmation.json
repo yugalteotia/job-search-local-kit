@@ -1,0 +1,12 @@
+{
+  "attempt_id": "46f443a6-9069-4f03-83b5-0032ce696809",
+  "job_id": 203,
+  "requisition_id": "250926037784",
+  "captured_at": "2026-09-29T01:28:49.737804+00:00",
+  "url": "https://www.naukri.com/job-listings-java-developer-nxtwave-disruptive-technologies-hiring-for-a-client-bengaluru-3-to-5-years-250926037784",
+  "confirmation_text": "Google Form: Your response has been recorded. Naukri listing: Applied. Naukri application history: Application sent today.",
+  "google_form_evidence": "jobs/nxtwave-java-developer-250926037784/google-form-after-submit.json",
+  "naukri_evidence": "jobs/nxtwave-java-developer-250926037784/naukri-applied-proof.json",
+  "resume_filename": "Yugal_Teotia_Java_Developer.pdf",
+  "resume_sha256": "002954a1571672f3196054ee3d900fda378137bda39fcbf16a491bfe0eaeda1e"
+}

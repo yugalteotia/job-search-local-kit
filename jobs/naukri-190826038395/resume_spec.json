@@ -1,0 +1,76 @@
+{
+  "summary": "Backend-focused Software Engineer developing Java 17 and Spring Boot services at IDeaS. Built REST and gRPC APIs, upgraded a 20-module Spring Boot application, and improved MongoDB data access. Used Spring MVC in production. SQL, MySQL, JPA and Hibernate experience comes from PG-DAC and an in-progress Store REST API project.",
+  "skills": [
+    {
+      "label": "Production backend",
+      "items": "Java 17, Spring Boot, Spring MVC, Spring Security, REST APIs, gRPC, Protocol Buffers, microservices"
+    },
+    {
+      "label": "Production data and tools",
+      "items": "MongoDB, Mongock/Mongobee, Git, Gradle, Maven, GitHub Actions, Docker, Linux, JUnit, Mockito"
+    },
+    {
+      "label": "Production frontend",
+      "items": "Ember.js, TypeScript"
+    },
+    {
+      "label": "Project / PG-DAC training",
+      "items": "SQL, MySQL, Spring Data JPA, Hibernate, Flyway, OpenAPI; Kotlin, Jetpack Compose; React.js (basic)"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "org": "IDeaS - A SAS Company",
+      "location": "Pune, India",
+      "dates": "Oct 2024 - Present",
+      "bullets": [
+        "Designed and implemented Spring MVC REST APIs and separate gRPC APIs for cross-product communication, with pagination, filtering, audit information, and backward-compatible Protocol Buffer contracts validated through contract-style tests.",
+        "Optimized MongoDB data access using targeted indexes, bulk reads, and batched audit retrieval; developed migration logic to transform and upsert legacy records.",
+        "Upgraded a microservice application across 20 Java modules from Spring Boot 2.6 to Spring Boot 3.5, redesigning security configuration for Spring Security 6, migrating Jakarta APIs, and upgrading five generated API-client modules.",
+        "Built Ember.js/TypeScript configuration and reporting workflows with reusable multiselect components, input validation, and conditional rendering; consolidated logic and removed redundant service calls.",
+        "Applied GitHub Copilot and iterative agent workflows across feature development, RCA, scenario design, debugging, and code review to shorten delivery cycles while retaining ownership of design decisions and validation."
+      ]
+    },
+    {
+      "title": "Application Developer",
+      "org": "Data Nova India Pvt. Ltd.",
+      "location": "Noida, India",
+      "dates": "Feb 2023 - May 2023",
+      "bullets": [
+        "Developed ERP mobile application modules using MVVM, separating user interfaces from presentation and application logic.",
+        "Improved API-backed data retrieval by approximately 30% by refining retrieval logic and eliminating unnecessary processing in ERP workflows."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Store REST API",
+      "note": "In progress | project and PG-DAC skills",
+      "bullets": [
+        "Implemented cart-management REST APIs using Java 8+ features and Spring MVC with controller/service/repository separation, DTO mapping, request validation, exception handling, SQL/MySQL persistence through Spring Data JPA/Hibernate and Flyway migrations, and Swagger/OpenAPI documentation."
+      ]
+    },
+    {
+      "title": "UNITY - Peer-to-Peer Music Sync",
+      "note": "Functional prototype; AI-assisted",
+      "bullets": [
+        "Designed the architecture and protocol for a local-network Android music session with leader/follower control, device discovery, pairing-code joining, and synchronized queues."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "PG Diploma in Advanced Computing (PG-DAC)",
+      "org": "C-DAC",
+      "location": "Pune",
+      "dates": "Mar 2024 - Aug 2024"
+    },
+    {
+      "title": "B.Tech, Computer Science & Engineering",
+      "org": "Dr. A.P.J. Abdul Kalam Technical University",
+      "location": "",
+      "dates": "2020 - 2023"
+    }
+  ]
+}

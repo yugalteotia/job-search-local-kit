@@ -1,0 +1,12 @@
+{
+  "job_id": 372,
+  "portal": "linkedin",
+  "requisition_id": "4478450952",
+  "url": "https://www.linkedin.com/jobs/view/4478450952/",
+  "captured_at": "2026-10-14T15:32:14.766935+00:00",
+  "origin": "manual_user_report",
+  "user_reported_applied": true,
+  "portal_confirmation_verified": false,
+  "retry_allowed": false,
+  "note": "User reports manual application and explicitly instructs no retry; independent portal confirmation unavailable in saved logs."
+}

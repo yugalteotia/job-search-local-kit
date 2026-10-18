@@ -1,0 +1,8 @@
+{
+  "confirmed_on": "2026-09-28",
+  "scope": "Portal dates and derived experience only; resume retains month/year dates",
+  "employment": [
+    {"company":"Data Nova", "start_month":"2023-02", "end_month":"2023-05", "java":false, "basis":"Month/year dates supported by generic resume; user revoked assumed day-level dates. Ask if a portal requires exact dates."},
+    {"company":"IDeaS", "start":"2024-10-14", "end":"2026-09-30", "java":true, "basis":"User confirmed exact start day 14 October; year from master; last working day from confirmed profile"}
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "row": 10,
+  "reason": "listing ingested",
+  "changes": {
+    "Company": {
+      "before": null,
+      "after": "UnitedHealth Group (Optum)"
+    },
+    "Role": {
+      "before": null,
+      "after": "Software Engineer - Java Fullstack"
+    },
+    "Job ID": {
+      "before": null,
+      "after": "2388999"
+    },
+    "Direct link": {
+      "before": null,
+      "after": "https://careers.unitedhealthgroup.com/job/noida/software-engineer-java-fullstack/34088/101107210016"
+    },
+    "Source": {
+      "before": null,
+      "after": "Original company career site via Playwright"
+    },
+    "Location": {
+      "before": null,
+      "after": "Noida, India"
+    },
+    "Posted date": {
+      "before": null,
+      "after": "2026-09-24"
+    },
+    "Verified date": {
+      "before": null,
+      "after": "2026-09-27T18:29:00Z"
+    },
+    "Fit": {
+      "before": null,
+      "after": "High"
+    },
+    "Fit rationale": {
+      "before": null,
+      "after": "Java/APIs and backend or full-stack development match production work; approximately 2 years plus earlier Data Nova employment fits typical 2+ years/equivalent capability. Cloud, monitoring and Kubernetes are preferred, not required. Required evidence coverage: 100%."
+    },
+    "Key gaps": {
+      "before": null,
+      "after": "Production cloud platforms; Monitoring platform tooling; Kubernetes/event-driven systems"
+    },
+    "Status": {
+      "before": null,
+      "after": "Shortlisted"
+    },
+    "Next step": {
+      "before": null,
+      "after": "Prepare; submissions disabled"
+    }
+  },
+  "backup": ".workflow/backups/20260927T185014-70f4da48.xlsx"
+}

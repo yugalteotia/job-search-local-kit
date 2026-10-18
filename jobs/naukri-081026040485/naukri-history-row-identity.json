@@ -1,0 +1,25 @@
+[
+  {
+    "attributes": [
+      {
+        "name": "class",
+        "value": null
+      }
+    ],
+    "links": [
+      {
+        "path": null,
+        "onclick": null
+      },
+      {
+        "path": "/mock-interview-questions/test",
+        "onclick": null
+      },
+      {
+        "path": "/ai-interview-questions/question-bank",
+        "onclick": null
+      }
+    ],
+    "idAttributes": []
+  }
+]

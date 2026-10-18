@@ -1,0 +1,374 @@
+{
+  "url": "https://www.naukri.com/java-spring-boot-backend-jobs-in-india",
+  "title": "Java Spring Boot Backend Jobs In India - 88062 Java Spring Boot Backend Job Vacancies In India - Naukri.com",
+  "body_characters": 9359,
+  "headings": [
+    "Java Spring Boot Backend Jobs In India",
+    "Senior JAVA Spring Boot Backend API Developer",
+    "Java Spring Boot Backend Engineer",
+    "Java Backend Developer | Spring Boot | Microservices"
+  ],
+  "inputs": [
+    {
+      "placeholder": "Enter keyword / designation / companies",
+      "id": "",
+      "visible": true
+    },
+    {
+      "placeholder": "Select experience",
+      "id": "experienceDD",
+      "visible": true
+    },
+    {
+      "placeholder": "Enter location",
+      "id": "",
+      "visible": true
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Work from office-wfhType-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Hybrid-wfhType-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Remote-wfhType-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Temp. WFH due to covid-wfhType-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Engineering - Software & QA-functionAreaIdGid-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-IT & Information Security-functionAreaIdGid-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Data Science & Analytics-functionAreaIdGid-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Engineering - Hardware & Networks-functionAreaIdGid-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-10-15 Lakhs-ctcFilter-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-15-25 Lakhs-ctcFilter-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-25-50 Lakhs-ctcFilter-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-50-75 Lakhs-ctcFilter-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Foreign MNC-qbusinessSize-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Corporate-qbusinessSize-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Indian MNC-qbusinessSize-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Startup-qbusinessSize-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Software Development-glbl_qcrc-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Quality Assurance and Testing-glbl_qcrc-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-DevOps-glbl_qcrc-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-DBA / Data warehousing-glbl_qcrc-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-PG Diploma-pgTypeGid-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Any Postgraduate-pgTypeGid-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-B.Tech / B.E.-ugTypeGid-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Any Graduate-ugTypeGid-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Company Jobs-jobPostType-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Consultant Jobs-jobPostType-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Software Product-industryTypeIdGid-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-BPM / BPO-industryTypeIdGid-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-IT Services & Consulting-industryTypeIdGid-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Recruitment / Staffing-industryTypeIdGid-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Accenture-qctopGroupId-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Infosys-qctopGroupId-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Tata Consultancy Services-qctopGroupId-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-EY-qctopGroupId-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Pune-cityTypeGid-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Bengaluru-cityTypeGid-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Hyderabad-cityTypeGid-",
+      "visible": false
+    },
+    {
+      "placeholder": "",
+      "id": "chk-Delhi / NCR-cityTypeGid-",
+      "visible": false
+    }
+  ],
+  "search": [
+    {
+      "class": "nI-gNb-sb__main",
+      "text": "java spring boot backend, india"
+    },
+    {
+      "class": "nI-gNb-sb__expand",
+      "text": ""
+    },
+    {
+      "class": "nI-gNb-sb__full-view",
+      "text": ""
+    },
+    {
+      "class": "nI-gNb-sb__seperator",
+      "text": ""
+    },
+    {
+      "class": "nI-gNb-sb__keywords",
+      "text": ""
+    },
+    {
+      "class": "nI-gNb-sb__seperator",
+      "text": ""
+    },
+    {
+      "class": "nI-gNb-sb__expDD",
+      "text": ""
+    },
+    {
+      "class": "nI-gNb-sb__seperator",
+      "text": ""
+    },
+    {
+      "class": "nI-gNb-sb__locations",
+      "text": ""
+    },
+    {
+      "class": "nI-gNb-sb__placeholder nI-gNb-sb__placeholder--prefill",
+      "text": "java spring boot backend, india"
+    },
+    {
+      "class": "nI-gNb-sb__icon-wrapper",
+      "text": ""
+    }
+  ],
+  "blocked_non_get_paths": [
+    {
+      "method": "POST",
+      "path": "/uba"
+    },
+    {
+      "method": "POST",
+      "path": "/cloudgateway-ccs/inventory-management-services/v2/page/pagename/ni-desktop-profile"
+    },
+    {
+      "method": "POST",
+      "path": "/cloudgateway-ccs/inventory-management-services/v2/page/pagename/ni-desktop-profile"
+    },
+    {
+      "method": "POST",
+      "path": "/cloudgateway-ccs/inventory-management-services/v2/page/pagename/ni-desktop-srp-dashboard-v2"
+    },
+    {
+      "method": "POST",
+      "path": "/uba"
+    },
+    {
+      "method": "POST",
+      "path": "/uba"
+    },
+    {
+      "method": "POST",
+      "path": "/uba"
+    },
+    {
+      "method": "POST",
+      "path": "/uba"
+    },
+    {
+      "method": "POST",
+      "path": "/uba"
+    },
+    {
+      "method": "POST",
+      "path": "/collectorapi/v1/uba/bulk"
+    },
+    {
+      "method": "POST",
+      "path": "/collectorapi/v1/uba/bulk"
+    },
+    {
+      "method": "POST",
+      "path": "/uba"
+    },
+    {
+      "method": "POST",
+      "path": "/uba"
+    },
+    {
+      "method": "POST",
+      "path": "/rmkt/collect/854187457/"
+    },
+    {
+      "method": "POST",
+      "path": "/rmkt/collect/10857553821/"
+    },
+    {
+      "method": "POST",
+      "path": "/ccm/collect"
+    },
+    {
+      "method": "POST",
+      "path": "/ccm/s/collect"
+    },
+    {
+      "method": "POST",
+      "path": "/g/collect"
+    },
+    {
+      "method": "POST",
+      "path": "/g/collect"
+    },
+    {
+      "method": "POST",
+      "path": "/pagead/viewthroughconversion/854187457/"
+    },
+    {
+      "method": "POST",
+      "path": "/pagead/1p-conversion/854187457/"
+    },
+    {
+      "method": "POST",
+      "path": "/uba"
+    },
+    {
+      "method": "POST",
+      "path": "/uba"
+    },
+    {
+      "method": "POST",
+      "path": "/cloudgateway-ccs/inventory-management-services/v2/page/pagename/ni-desktop-srp-dashboard-v2"
+    },
+    {
+      "method": "POST",
+      "path": "/uba"
+    },
+    {
+      "method": "POST",
+      "path": "/uba"
+    },
+    {
+      "method": "POST",
+      "path": "/collectorapi/v1/uba/bulk"
+    }
+  ]
+}

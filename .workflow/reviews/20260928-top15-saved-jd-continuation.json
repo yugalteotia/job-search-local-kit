@@ -1,0 +1,305 @@
+{
+  "run_id": "d8f9289d-333c-4c90-b939-6b1bd19dc336",
+  "continuation": "Saved exact JDs from interrupted first attempt; no new detail tabs opened",
+  "eligible_job_ids": [
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215
+  ],
+  "review_queue_added": 12,
+  "newly_reviewed": 12,
+  "results": [
+    {
+      "job_id": 202,
+      "company": "Infosys",
+      "role": "Java Back End Developer | Springboot | Microservices",
+      "location": "Bengaluru, Hyderabad, Chennai",
+      "direct_url": "https://www.naukri.com/job-listings-java-back-end-developer-springboot-microservices-infosys-hyderabad-chennai-bengaluru-3-to-6-years-110826000033",
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "2f91588218d58d2f390005aa4396e8f710f595491d021b3c7f6b423692cee788",
+      "original_page_checked_at": "2026-09-28T16:34:42.325302+00:00",
+      "reviewed_at": "2026-09-28T16:39:01.472059+00:00",
+      "experience_minimum": 3.0,
+      "evidence": {
+        "location": "Bengaluru, Hyderabad, Chennai",
+        "experience": "Hyderabad, Chennai Job highlights 3-6 years Java backend development with expertise in Java 8/11/17, Spring Boot, Microservices, REST APIs, and SQL datab",
+        "technology": ", Chennai Job highlights 3-6 years Java backend development with expertise in Java 8/11/17, Spring Boot, Microservices, REST APIs, and SQL databases Design, develop, and maintain backend servic",
+        "role": null
+      },
+      "reasons": [
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 212,
+      "company": "Sonata Software",
+      "role": "Java Full Stack Developer",
+      "location": "Bengaluru, Hyderabad, Chennai",
+      "direct_url": "https://www.naukri.com/job-listings-java-full-stack-developer-sonata-software-hyderabad-chennai-bengaluru-6-to-11-years-210126043373",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "5784f0cd80f80d15e87ebd84592ee9b385681f19302db1a59a0a600d1abaebbd",
+      "original_page_checked_at": "2026-09-28T16:34:42.495241+00:00",
+      "reviewed_at": "2026-09-28T16:39:01.480692+00:00",
+      "experience_minimum": 8.0,
+      "evidence": {
+        "location": "Bengaluru, Hyderabad, Chennai",
+        "experience": "Hyderabad, Chennai Job highlights 8+ years Java/J2EE with Spring Boot and 3+ years AWS serverless experience including Lambda, API Gateway, DynamoDB, an",
+        "technology": "d, Chennai Job highlights 8+ years Java/J2EE with Spring Boot and 3+ years AWS serverless experience including Lambda, API Gateway, DynamoDB, and IaC (",
+        "role": "+ years professional experience in software engineering with Java/J2EE; strong in Spring Boot, REST, Maven/Gradle, and JPA/Hibernate. 3+ years building"
+      },
+      "reasons": [
+        "Required experience starts at 8 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 207,
+      "company": "NonStop io Technologies Pvt Ltd",
+      "role": "Java Full Stack Developer",
+      "location": "Pune",
+      "direct_url": "https://cutshort.io/job/Java-Full-Stack-Developer-Pune-NonStop-io-Technologies-Pvt-Ltd-hMKQX3i4",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "b8c2dc7603df9e0f27e822c1cdd3994fe5e3d5198e014ed072e6a288216e1370",
+      "original_page_checked_at": "2026-09-28T16:34:42.425060+00:00",
+      "reviewed_at": "2026-09-28T16:39:01.487806+00:00",
+      "experience_minimum": 10.0,
+      "evidence": {
+        "location": "Pune",
+        "experience": "a product engineering company with 10+ years of experience building web and mobile applications for startups and enterprises. We're a team of passionate e",
+        "technology": "Location: Pune Skills RESTful APIs Java Hibernate (Java) React.js API MySQL Microservices CI/CD Build Products. Solve Real Problems. Grow w",
+        "role": "ng with CI/CD pipelines and modern software engineering practices. Skills We're Looking For Must Have 3–6 years of experience in Java development(Min 3"
+      },
+      "reasons": [
+        "Required experience starts at 10 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 201,
+      "company": "Wissen Technology",
+      "role": "Java Backend Developer",
+      "location": "Bengaluru (Bangalore)",
+      "direct_url": "https://cutshort.io/job/Java-Backend-Developer-Bengaluru-Bangalore-Wissen-Technology-GQawk6gn",
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "e227f64905257cfeb560779c8e6850c0e74bae921f24607801f2183fa5e3e45d",
+      "original_page_checked_at": "2026-09-28T16:34:42.302647+00:00",
+      "reviewed_at": "2026-09-28T16:39:01.492626+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "Bengaluru (Bangalore)",
+        "experience": null,
+        "technology": "tion: Bengaluru (Bangalore) Skills Java Spring Boot Microservices Design patterns Spring Hibernate (Java) Data Structures Algorithms Problem",
+        "role": null
+      },
+      "reasons": [
+        "Required experience band is not explicit in the qualification excerpt",
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ]
+    },
+    {
+      "job_id": 204,
+      "company": "Staffnixcom",
+      "role": "AI Native Backend Engineer ( Core Java, 3 Months contract",
+      "location": "Chennai, Bengaluru (Bangalore), Ahmedabad",
+      "direct_url": "https://cutshort.io/job/AI-Native-Backend-Engineer-Core-Java-3-Months-contract-Chennai-Bengaluru-Bangalore-Ahmedabad-Staffnixcom-yTzo2Ike",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "10e8a5cf7c622af39769a5ad631729b62625ad836eb043f0a9728b4e67a6eb10",
+      "original_page_checked_at": "2026-09-28T16:34:42.356095+00:00",
+      "reviewed_at": "2026-09-28T16:39:01.499026+00:00",
+      "experience_minimum": 2.0,
+      "evidence": {
+        "location": "Chennai, Bengaluru (Bangalore), Ahmedabad",
+        "experience": "andatory (Experience 1): Must have 2+ years of hands-on backend software engineering experience. 3 Mandatory (Experience 2): Must be able to design and i",
+        "technology": null,
+        "role": "Skills Java Python Strong Backend Software Engineer Profile with strong Core Java expertise 2 Mandatory (Experience 1): Must have 2+ years of hands-on"
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification"
+      ]
+    },
+    {
+      "job_id": 203,
+      "company": "Nxtwave Disruptive Technologies(Hiring for a Client)",
+      "role": "Java Developer",
+      "location": "Bengaluru",
+      "direct_url": "https://www.naukri.com/job-listings-java-developer-nxtwave-disruptive-technologies-hiring-for-a-client-bengaluru-3-to-5-years-250926037784",
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "880c8c9cc62649803b30532f45503d34ca61f2aed2972d6bf354093c86da34bc",
+      "original_page_checked_at": "2026-09-28T16:34:42.335602+00:00",
+      "reviewed_at": "2026-09-28T16:39:01.504628+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "Bengaluru",
+        "experience": null,
+        "technology": "Job highlights Experienced in Core Java, Spring Boot, Microservices, REST/SOAP Web Services, Hibernate/JPA Design, develop, test, deploy, and",
+        "role": null
+      },
+      "reasons": [
+        "Required experience band is not explicit in the qualification excerpt",
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ]
+    },
+    {
+      "job_id": 211,
+      "company": "Global digital engineering and technology services company",
+      "role": "FullStack Developer(Java, React)",
+      "location": "Pune",
+      "direct_url": "https://cutshort.io/job/FullStack-Developer-Java-React-Pune-Unique-Occupational-YOU6wo2H",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "842806211a75d0ec71d442c72eec1d7035ea8efcac6940dcef32701d512cd0c9",
+      "original_page_checked_at": "2026-09-28T16:34:42.481995+00:00",
+      "reviewed_at": "2026-09-28T16:39:01.515960+00:00",
+      "experience_minimum": 8.0,
+      "evidence": {
+        "location": "Pune",
+        "experience": "tware Developer – SDE3 Experience: 8-12 Years Employment Type: Full-time Location: Pune (Hybrid) Job Description We are seeking a highly skilled Senior Ful",
+        "technology": "Location: Pune Skills Java Spring Boot React.js Redux Hooks Amazon Web Services (AWS) Apache Kafka Docker Kubernetes Role: Senio",
+        "role": "performance. • Leverage AI-driven software engineering practices, including LLM-powered development tools, agentic AI workflows, code generation, autom"
+      },
+      "reasons": [
+        "Required experience starts at 8 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 209,
+      "company": "Careernet",
+      "role": "Java Fullstack Developer",
+      "location": "Bengaluru, Chennai",
+      "direct_url": "https://www.naukri.com/job-listings-java-fullstack-developer-careernet-chennai-bengaluru-4-to-8-years-240926034442",
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "3f8184bc4bc590d3c95d4db9573f1e00e79d51b69f840e0007372370e216f3da",
+      "original_page_checked_at": "2026-09-28T16:34:42.453866+00:00",
+      "reviewed_at": "2026-09-28T16:39:01.522471+00:00",
+      "experience_minimum": 4.0,
+      "evidence": {
+        "location": "Bengaluru, Chennai",
+        "experience": "Bengaluru, Chennai Job highlights 4-9 years Java development experience with expertise in Spring Boot, Microservices, Kafka, and Capital Markets trade li",
+        "technology": ", Chennai Job highlights 4-9 years Java development experience with expertise in Spring Boot, Microservices, Kafka, and Capital Markets trade lifecycle Develop and maintain Java back",
+        "role": null
+      },
+      "reasons": [
+        "Required experience starts at 4 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 208,
+      "company": "MNC",
+      "role": "Java Full Stack Developer",
+      "location": "Hyderabad, Bengaluru (Bangalore)",
+      "direct_url": "https://cutshort.io/job/Java-Full-Stack-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-rhRxZwLZ",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "318cd23bd749b3990c66c0acb4b4020bb4df6e7059c47658424ca3c47d1d414e",
+      "original_page_checked_at": "2026-09-28T16:34:42.443030+00:00",
+      "reviewed_at": "2026-09-28T16:39:01.528202+00:00",
+      "experience_minimum": 8.0,
+      "evidence": {
+        "location": "Hyderabad, Bengaluru (Bangalore)",
+        "experience": "ts. Required Qualifications 4.5 to 8 years of hands-on experience in Full Stack Java Development. Strong experience in Core Java and Spring Boot. Strong",
+        "technology": "abad, Bengaluru (Bangalore) Skills Java Fullstack Developer Angular Spring Boot Microservices Job Summary We are looking for an experienced Java Full Stack Developer wit",
+        "role": null
+      },
+      "reasons": [
+        "Required experience starts at 8 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 206,
+      "company": "Gravity Engineering Services Pvt Ltd",
+      "role": "Senior Java Software Engineer",
+      "location": "Bengaluru (Bangalore)",
+      "direct_url": "https://cutshort.io/job/Senior-Java-Software-Engineer-Bengaluru-Bangalore-Gravity-Engineering-Services-Pvt-Ltd-lZM4cE6C",
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "38579744b4a96c6b8ee2ff825060929f134ea2b14c61e3bae5dd85a8cb958a6d",
+      "original_page_checked_at": "2026-09-28T16:34:42.404340+00:00",
+      "reviewed_at": "2026-09-28T16:39:01.536267+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "Bengaluru (Bangalore)",
+        "experience": null,
+        "technology": "tion: Bengaluru (Bangalore) Skills Java Spring Boot Spring Cloud Microservices Kafka Prompt engineering Caching GenAI Integration Apache Kafk",
+        "role": "GenAI) We are looking for a Senior Software Engineer who will be driving architectural direction, multi-team initiatives, and the development of highly"
+      },
+      "reasons": [
+        "Required experience band is not explicit in the qualification excerpt",
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ]
+    },
+    {
+      "job_id": 210,
+      "company": "Photon",
+      "role": "Java Developer",
+      "location": "Bengaluru, Hyderabad, Chennai",
+      "direct_url": "https://www.naukri.com/job-listings-java-developer-photon-hyderabad-chennai-bengaluru-5-to-7-years-180926020236",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "a6b432e4bce89f8e98ea38180984a8b65ee886829092ac4f37d9994017b6fa8b",
+      "original_page_checked_at": "2026-09-28T16:34:42.469357+00:00",
+      "reviewed_at": "2026-09-28T16:39:01.542069+00:00",
+      "experience_minimum": 5.0,
+      "evidence": {
+        "location": "Bengaluru, Hyderabad, Chennai",
+        "experience": "ce, Engineering, or related field. 5+ years of experience in Strong J2EE. Strong proficiency in Spring Boot and related Spring frameworks (Spring MVC, Sp",
+        "technology": "Strong J2EE. Strong proficiency in Spring Boot and related Spring frameworks (Spring MVC, Spring Data, Spring Security). Experience with",
+        "role": null
+      },
+      "reasons": [
+        "Required experience starts at 5 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 205,
+      "company": "MNC",
+      "role": "Java Developer",
+      "location": "Hyderabad, Bengaluru (Bangalore)",
+      "direct_url": "https://cutshort.io/job/Java-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-qsMkLepD",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "326c22f67d8bd4024298a9de6abdd724d068d8b5e51bf467cc15cf8cd200664e",
+      "original_page_checked_at": "2026-09-28T16:34:42.373532+00:00",
+      "reviewed_at": "2026-09-28T16:39:01.548036+00:00",
+      "experience_minimum": 6.0,
+      "evidence": {
+        "location": "Hyderabad, Bengaluru (Bangalore)",
+        "experience": "maintainability. Mandatory Skills: 6–10 years of experience in Java Full Stack Development. Strong hands-on experience in Core Java. Strong experience with",
+        "technology": "abad, Bengaluru (Bangalore) Skills Java React.js Spring Boot Microservices Job Summary: We are looking for an experienced Java Full Stack Developer wi",
+        "role": null
+      },
+      "reasons": [
+        "Required experience starts at 6 years, above the 2.5-year High-fit gate"
+      ]
+    }
+  ],
+  "finished_at": "2026-09-28T16:39:01.551607+00:00"
+}

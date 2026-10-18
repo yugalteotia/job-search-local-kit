@@ -1,0 +1,44 @@
+{
+  "job_id": 372,
+  "requisition_id": "4478450952",
+  "status": "NeedsAnswer",
+  "attempt_id": null,
+  "submit_clicked": false,
+  "visible_questions": [
+    {
+      "question": "Email",
+      "type": "select-one",
+      "required": true
+    },
+    {
+      "question": "Phone country code",
+      "type": "select-one",
+      "required": true
+    },
+    {
+      "question": "Phone",
+      "type": "text",
+      "required": true
+    },
+    {
+      "question": "Deselect resume Yugal_Teotia_Resume.pdf",
+      "type": "radio",
+      "required": false
+    },
+    {
+      "question": "Select resume Yugal_Teotia_Software_Engineer.pdf",
+      "type": "radio",
+      "required": false
+    },
+    {
+      "question": "Follow Data Eminence to stay up to date with their page.",
+      "type": "checkbox",
+      "required": false
+    }
+  ],
+  "active_control": "Phone",
+  "question": "Phone",
+  "reason": "unknown_required_answer",
+  "url": "https://www.linkedin.com/jobs/view/4478450952/",
+  "draft_save_requested": true
+}

@@ -1,0 +1,19 @@
+{
+  "attempt_id": "3fa65894-186e-44de-a4eb-cadde135e80d",
+  "requisition_id": "081026040485",
+  "status": "confirmed",
+  "answered": [
+    {
+      "question": "Are you currently residing in Bengaluru or willing to relocate to Bengaluru?",
+      "question_key": "b16abff4d87eab095434e856835111c48a1f0715f69c8bd82315229c1aa04a41",
+      "fact_ref": "relocation",
+      "at": "2026-10-13T13:31:03.493957+00:00"
+    }
+  ],
+  "saves": 1,
+  "pending_question": null,
+  "resumes": 0,
+  "save_in_flight": false,
+  "updated_at": "2026-10-13T13:31:03.493984+00:00",
+  "answers_logged": false
+}

@@ -1,0 +1,76 @@
+{
+  "company": "Brillio",
+  "role": "Senior Engineer",
+  "job_id": "R01571651",
+  "slug": "brillio-senior-engineer-r01571651",
+  "url": "https://jobs.lever.co/brillio-2/170fb4c9-1346-49f1-9014-d56a36cae2c3",
+  "direct_application_url": "https://jobs.lever.co/brillio-2/170fb4c9-1346-49f1-9014-d56a36cae2c3/apply",
+  "source": "Original Brillio Lever page, live browser check",
+  "checked_at": "2026-09-27T23:04:18Z",
+  "posted_date": null,
+  "location": "Bangalore, Karnataka, India",
+  "original_verified": true,
+  "live": true,
+  "india": true,
+  "development_role": true,
+  "fit_checks": {
+    "java_spring_backend": {
+      "verified": true,
+      "evidence": "Original JD requires Java/Spring Boot REST backend services and microservices; IDeaS production work includes these."
+    },
+    "experience_band": {
+      "verified": true,
+      "evidence": "Original JD asks at least 2–4 years Java full stack; profile has about 2 professional years Java at IDeaS, plus Data Nova non-Java mobile work."
+    },
+    "india_location": {
+      "verified": true,
+      "evidence": "Original page says Bangalore, India; profile allows relocation."
+    }
+  },
+  "jd": "Senior Engineer - R01571651; Bangalore, India. At least 2–4 years hands-on Java fullstack development and significant microservices exposure. Build scalable Java fullstack applications, Spring Boot/Hibernate REST APIs, AngularJS or React JS advanced interfaces, MySQL/Oracle relational integrations and Docker deployments. Required: advanced Java, Spring Boot/Core, Hibernate, microservices, advanced AngularJS or React JS, MySQL/Oracle RDBMS integration and Docker. Preferred: CI/CD, cloud, advanced frontend frameworks and distributed/event-driven systems. CS degree and certifications desired. Direct Apply for this job link leads to the Lever /apply route. No posting date displayed.",
+  "rationale": "Java/Spring backend overlap is strong but advanced AngularJS/React, production Hibernate and relational database integration are not demonstrated at the required depth; Medium only.",
+  "requirements": [
+    {
+      "name": "Java/Spring Boot REST backend",
+      "required": true,
+      "basis": "work",
+      "master_bullet": [
+        0,
+        0
+      ],
+      "evidence": "Designed and implemented REST and gRPC APIs for cross-product communication, with pagination, filtering, audit information, and backward-compatible Protocol Buffer contracts validated through contract-style tests."
+    },
+    {
+      "name": "2–4 years Java fullstack",
+      "required": true,
+      "basis": "profile",
+      "evidence": "IDeaS Oct 2024–Sep 2026 Java/backend plus Ember.js/TypeScript frontend; Data Nova was mobile development."
+    },
+    {
+      "name": "Advanced AngularJS or React JS",
+      "required": true,
+      "basis": "gap",
+      "evidence": "Production frontend is Ember.js/TypeScript; React is basic project/training only."
+    },
+    {
+      "name": "Hibernate",
+      "required": true,
+      "basis": "project",
+      "evidence": "Store REST API in progress uses JPA/Hibernate, not production."
+    },
+    {
+      "name": "MySQL/Oracle RDBMS integration",
+      "required": true,
+      "basis": "project",
+      "evidence": "MySQL integration appears in in-progress Store REST API only; production data work is MongoDB."
+    },
+    {
+      "name": "Docker and microservices",
+      "required": true,
+      "basis": "profile",
+      "evidence": "Master skills list Docker; IDeaS 20-module Spring Boot microservice upgrade is in experience bullet 4."
+    }
+  ],
+  "fit": "Medium",
+  "score": 50
+}

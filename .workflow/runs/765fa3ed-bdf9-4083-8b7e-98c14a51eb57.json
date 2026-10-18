@@ -1,0 +1,455 @@
+{
+  "run_id": "765fa3ed-bdf9-4083-8b7e-98c14a51eb57",
+  "started_at": "2026-10-13T10:14:54.234122+00:00",
+  "mode": "read_only",
+  "upload_enabled": false,
+  "submission_enabled": false,
+  "scheduled": true,
+  "test": true,
+  "source_scope": [
+    "naukri"
+  ],
+  "fresh_only": true,
+  "status": "Success",
+  "sources": {
+    "naukri": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-10-13T10:15:13.412666+00:00",
+      "pages_checked": 2,
+      "leads": 4,
+      "feed_jobs": 0
+    }
+  },
+  "coverage": {
+    "naukri": [
+      {
+        "query": "Java Spring Boot",
+        "location": "Mumbai",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=Mumbai&pageNo=1",
+        "observed_url": "https://www.naukri.com/java-spring-boot-jobs-in-mumbai?jobAge=7&experience=2",
+        "checked_at": "2026-10-13T10:15:05.080359+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_label": "2",
+          "freshness_label": "Last 7 days",
+          "sort_label": "Date"
+        },
+        "error_kind": null,
+        "extracted_exact_ids": [
+          "230426029893",
+          "131026920666",
+          "131026920444",
+          "131026920425",
+          "131026920415",
+          "131026920234",
+          "131026919254",
+          "131026919067",
+          "131026918983",
+          "131026918894",
+          "131026018136",
+          "131026017858",
+          "131026014959",
+          "131026012380",
+          "121026922981",
+          "121026922743",
+          "121026922567",
+          "121026922440",
+          "121026922203",
+          "121026921408"
+        ],
+        "retained_leads": 0,
+        "card_filter_exclusions": {
+          "title_outside_search_target": 20
+        }
+      },
+      {
+        "query": "Java Spring Boot backend",
+        "location": "India",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+        "observed_url": "https://www.naukri.com/java-spring-boot-backend-jobs-in-india?jobAge=7&experience=3",
+        "checked_at": "2026-10-13T10:15:13.198501+00:00",
+        "status": "Success",
+        "visible_cards": 21,
+        "lead_count": 20,
+        "filters": {
+          "experience_label": "3",
+          "freshness_label": "Last 7 days",
+          "sort_label": "Date"
+        },
+        "error_kind": null,
+        "extracted_exact_ids": [
+          "131026034482",
+          "131026034268",
+          "131026034128",
+          "131026033916",
+          "131026033617",
+          "131026033061",
+          "131026033026",
+          "131026032965",
+          "131026031688",
+          "131026031563",
+          "131026031456",
+          "230426029893",
+          "300726031043",
+          "280826012167",
+          "131026030706",
+          "071026049368",
+          "061026000112",
+          "131026029811",
+          "131026029803",
+          "131026029762"
+        ],
+        "retained_leads": 4,
+        "card_filter_exclusions": {
+          "title_outside_search_target": 16
+        }
+      }
+    ]
+  },
+  "leads": 4,
+  "unique_original_requisitions_verified": 0,
+  "fit_decisions": {
+    "335": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "Mumbai",
+        "experience": "Experience: 3+ years in full-stack mobile, web, and backend software development. Fintech/Lending experience is a strong plus. Mob",
+        "technology": null,
+        "role": null
+      },
+      "jd_sha256": "41312a31f34470b9fd1f5948f1342e644c602ab9c6de3b7847e111d5a7ca2cb5"
+    }
+  },
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/765fa3ed-bdf9-4083-8b7e-98c14a51eb57.json"
+  ],
+  "queue": {
+    "ResumeReady": 1
+  },
+  "stage_seconds": {
+    "discovery": 19.17,
+    "original_verification": 0.0,
+    "lead_resolution": 6.68,
+    "fit_review": 0.01,
+    "auto_fit_resume": 0.09
+  },
+  "stage_counts": {
+    "normalized_unique_ats": 0,
+    "selected_for_original_check": 0,
+    "fetched": 4,
+    "unique_portal_leads": 4,
+    "fresh": 0,
+    "unknown_date": 4,
+    "skipped_old": 0,
+    "repeat_skipped": 0,
+    "unique_original_requisitions": 0,
+    "eligible_for_review": 1,
+    "original_jds_reviewed": 0,
+    "original_or_portal_jds_reviewed": 1,
+    "portal_native_verified": 1,
+    "high": 0,
+    "queued_for_resume": 0,
+    "review_queue_added": 1,
+    "portal_originals_matched": 0,
+    "portal_leads_still_needing_original": 2144
+  },
+  "top_reviewed": [
+    {
+      "job_id": 335,
+      "company": "Bisani Brothers",
+      "role": "Senior Software Developer - Mobile, Web & Backend (Fintech)",
+      "location": "Mumbai",
+      "direct_url": "https://www.naukri.com/job-listings-senior-software-developer-mobile-web-backend-fintech-bisani-brothers-lucknow-mumbai-all-areas-3-to-4-years-131026034128",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "41312a31f34470b9fd1f5948f1342e644c602ab9c6de3b7847e111d5a7ca2cb5",
+      "original_page_checked_at": "2026-10-13T10:15:20.044154+00:00",
+      "reviewed_at": "2026-10-13T10:15:20.132238+00:00",
+      "experience_minimum": 3.0,
+      "evidence": {
+        "location": "Mumbai",
+        "experience": "Experience: 3+ years in full-stack mobile, web, and backend software development. Fintech/Lending experience is a strong plus. Mob",
+        "technology": null,
+        "role": null
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ]
+    }
+  ],
+  "recovery": {
+    "requeued_resume": 0,
+    "returned_to_prepared": 0,
+    "claimed_left_locked": 3
+  },
+  "freshness": {
+    "policy": {
+      "routine_review_hours": 24,
+      "sweep_overlap_minutes": 90,
+      "unknown_date_details_per_run": 30,
+      "transient_retry_hours": 6,
+      "pending_application_recheck_hours": 6
+    },
+    "counts": {
+      "fresh": 0,
+      "recent": 0,
+      "unknown_date": 4,
+      "skipped_old": 0,
+      "repeat_skipped": 0,
+      "history_skipped": 0,
+      "unknown_date_deferred": 0
+    },
+    "detail_candidates": 4,
+    "skips": []
+  },
+  "portal_native": {
+    "selected": 2,
+    "verified": 1,
+    "unverified": 1,
+    "verified_job_ids": [
+      335
+    ],
+    "results": [
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-junior-backend-developer-vrinda-global-hyderabad-2-to-5-years-131026029803",
+        "portal_job_id": "131026029803",
+        "title": "Junior Backend Developer",
+        "employer": "Vrinda Global",
+        "location": "Hyderabad",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 1744,
+        "experience_evidence": "2 - 5 years",
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 1,
+        "card_sha256": "6b0fcc8647d41e7634b415c42ef29560332aad093656d7fb0189d859a09813fa",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "Just now"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-software-developer-mobile-web-backend-fintech-bisani-brothers-lucknow-mumbai-all-areas-3-to-4-years-131026034128",
+        "portal_job_id": "131026034128",
+        "title": "Senior Software Developer - Mobile, Web & Backend (Fintech)",
+        "employer": "Bisani Brothers",
+        "location": "Mumbai",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 3415,
+        "experience_evidence": "3 - 4 years",
+        "apply_visible": true,
+        "database_job_id": 335,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 0
+        },
+        "render_checks": 1,
+        "card_sha256": "4490fd64efeb7a5f070c2de21a7886290407d7ab7f2d7a067e70d09a10f5d89e",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "Just now"
+      }
+    ]
+  },
+  "lead_resolution": {
+    "navigation_links_reclassified": 152,
+    "missing_ats_jd_refresh": {
+      "checked": 0,
+      "results": []
+    },
+    "direct_provider_coverage": {},
+    "direct_employer_coverage": {},
+    "portal_employer_coverage": {},
+    "target_title_failures_in_batch": 0,
+    "portal_jobs_inspected": 0,
+    "originals_matched": 0,
+    "substantive_originals_verified": 0,
+    "live_title_only": 0,
+    "direct_check_failures": 0,
+    "needs_original": 2144,
+    "title_relevant_unresolved": 1251,
+    "by_source": {
+      "naukri": {
+        "needs_original": 716,
+        "not_a_job": 3
+      },
+      "linkedin": {
+        "needs_original": 1368,
+        "not_a_job": 4
+      },
+      "foundit": {
+        "needs_original": 0,
+        "not_a_job": 17
+      },
+      "indeed": {
+        "needs_original": 0,
+        "not_a_job": 98
+      },
+      "cutshort": {
+        "needs_original": 60,
+        "not_a_job": 30
+      }
+    },
+    "results": []
+  },
+  "linked_portal_native": null,
+  "review_coverage": {
+    "by_source": {
+      "naukri_portal_native": 1
+    },
+    "by_company": {
+      "Bisani Brothers": 1
+    }
+  },
+  "master_resume": {
+    "ok": true,
+    "issues": []
+  },
+  "auto_fit": {
+    "considered": 1,
+    "queued": 0,
+    "not_eligible": 1,
+    "blocked": 0,
+    "skipped_unchanged": 16,
+    "results": [
+      {
+        "job_id": 335,
+        "employer": "Bisani Brothers",
+        "title": "Senior Software Developer - Mobile, Web & Backend (Fintech)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Title indicates a different seniority band: senior"
+        ]
+      }
+    ]
+  },
+  "auto_resume": {
+    "prepared": 0,
+    "failed": 0,
+    "results": []
+  },
+  "queue_eligibility": {
+    "naukri_ready_candidates": 0,
+    "resume_jobs_ready_to_build": 0,
+    "locked_or_applied_queue_rows": 1
+  },
+  "staging": {
+    "path": ".workflow/staging.json",
+    "resume_review_ready": 0,
+    "needs_jd_evidence_review": 0
+  },
+  "blocker_alerts": [
+    {
+      "job_id": 220,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 241,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 250,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 220,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 241,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 250,
+      "status": "cooldown"
+    }
+  ],
+  "naukri_application_worker": {
+    "enabled": true,
+    "max_submissions_per_run": 1,
+    "other_portals": "discovery_only",
+    "capability_reason": "Proof marker valid; one claim per run",
+    "status": "DryRun",
+    "candidate_count": 0,
+    "resumable_count": 0,
+    "checks": [],
+    "submissions": 0,
+    "forms_opened": 0,
+    "uploads": 0
+  },
+  "portals": {
+    "naukri": {
+      "capability": "ApplyReady",
+      "reason": "Proof marker valid; one claim per run",
+      "session": "unknown"
+    },
+    "linkedin": {
+      "capability": "DiscoveryOnly",
+      "reason": "No end-to-end application path proven for this portal",
+      "session": "unknown"
+    },
+    "foundit": {
+      "capability": "Blocked",
+      "reason": "Last discovery NoVisibleCards",
+      "session": "unknown"
+    },
+    "indeed": {
+      "capability": "DiscoveryOnly",
+      "reason": "No end-to-end application path proven for this portal",
+      "session": "unknown"
+    },
+    "cutshort": {
+      "capability": "DiscoveryOnly",
+      "reason": "No end-to-end application path proven for this portal",
+      "session": "unknown"
+    },
+    "ats": {
+      "capability": "DiscoveryOnly",
+      "reason": "Public feeds are read-only; application forms are not implemented",
+      "session": "unknown"
+    }
+  },
+  "tab_lifecycle": {
+    "created": null,
+    "reused": null,
+    "closed": null,
+    "remaining_automation_tabs": null,
+    "job_tabs_created": null,
+    "job_tabs_closed": null,
+    "welcome_tabs_created": null,
+    "welcome_tabs_closed": null,
+    "remaining_job_tabs": null,
+    "remaining_welcome_tabs": null,
+    "uncertain_ids": [
+      "No tab lifecycle report was emitted"
+    ],
+    "recorded_ids": [],
+    "log_paths": []
+  },
+  "finished_at": "2026-10-13T10:15:20.310804+00:00",
+  "elapsed_seconds": 26.08
+}

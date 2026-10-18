@@ -1,0 +1,15 @@
+{
+  "attempt_id": "3fa65894-186e-44de-a4eb-cadde135e80d",
+  "requisition_id": "081026040485",
+  "captured_at": "2026-10-13T13:43:46.810915+00:00",
+  "url": "https://www.naukri.com/job-listings-sde-ii-backend-navi-limited-bengaluru-3-to-4-years-081026040485",
+  "confirmation_text": "Exact jobId in Applied Jobs history API, with complete Applied Jobs history load",
+  "exact_listing_applied": true,
+  "exact_history_id_match": true,
+  "history_full": true,
+  "identity_basis": "server_history_exact_job_id",
+  "readonly_evidence": "jobs/naukri-081026040485/naukri-history-server-identity.json",
+  "readonly_evidence_sha256": "48a41809eb0dbd0848d809f6ea0d12e5e05ee2ec558cf8f73425381bb5d6d5c3",
+  "new_application_action": false,
+  "role_resume_sha256": "c6c835a60130f64b52629a73d1bd9fd9c493693380a242005ae270cc88d04540"
+}

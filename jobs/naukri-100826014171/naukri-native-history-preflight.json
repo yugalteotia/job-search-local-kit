@@ -1,0 +1,155 @@
+{
+  "full": true,
+  "exact": 0,
+  "loaded_rows": 304,
+  "expected_total": 304,
+  "load_sweeps": [
+    {
+      "rows": 10,
+      "total": 304,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 20,
+      "total": 304,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 40,
+      "total": 304,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 60,
+      "total": 304,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 80,
+      "total": 304,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 100,
+      "total": 304,
+      "exact": 0,
+      "company_role": 1,
+      "more": true
+    },
+    {
+      "rows": 120,
+      "total": 304,
+      "exact": 0,
+      "company_role": 1,
+      "more": true
+    },
+    {
+      "rows": 140,
+      "total": 304,
+      "exact": 0,
+      "company_role": 2,
+      "more": true
+    },
+    {
+      "rows": 160,
+      "total": 304,
+      "exact": 0,
+      "company_role": 2,
+      "more": true
+    },
+    {
+      "rows": 180,
+      "total": 304,
+      "exact": 0,
+      "company_role": 2,
+      "more": true
+    },
+    {
+      "rows": 200,
+      "total": 304,
+      "exact": 0,
+      "company_role": 2,
+      "more": true
+    },
+    {
+      "rows": 220,
+      "total": 304,
+      "exact": 0,
+      "company_role": 2,
+      "more": true
+    },
+    {
+      "rows": 240,
+      "total": 304,
+      "exact": 0,
+      "company_role": 2,
+      "more": true
+    },
+    {
+      "rows": 260,
+      "total": 304,
+      "exact": 0,
+      "company_role": 2,
+      "more": true
+    },
+    {
+      "rows": 280,
+      "total": 304,
+      "exact": 0,
+      "company_role": 2,
+      "more": true
+    },
+    {
+      "rows": 300,
+      "total": 304,
+      "exact": 0,
+      "company_role": 2,
+      "more": true
+    },
+    {
+      "rows": 304,
+      "total": 304,
+      "exact": 0,
+      "company_role": 2,
+      "more": false
+    }
+  ],
+  "company_role": 0,
+  "company_role_observed": 2,
+  "company_role_disambiguated": true,
+  "company_role_other_exact_ids": [
+    "081026050135",
+    "091026022088"
+  ],
+  "server_company_role_rows": [
+    {
+      "job_id": "091026022088",
+      "title": "Java Spring Boot Developer 3-9 yrs",
+      "company": "Infosys",
+      "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+    },
+    {
+      "job_id": "081026050135",
+      "title": "Java Spring Boot Developer",
+      "company": "Infosys",
+      "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+    }
+  ],
+  "identity_basis": "exact_listing_link",
+  "server_exact_rows": [],
+  "exact_rows_by_id": {
+    "100826014171": []
+  },
+  "observed_exact_rows_unverified": 0,
+  "at": "2026-10-16T11:04:26.084124+00:00"
+}

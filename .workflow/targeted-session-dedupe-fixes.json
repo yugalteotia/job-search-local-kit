@@ -1,0 +1,208 @@
+{
+  "protected_locks_before": [
+    {
+      "id": 220,
+      "state": "SubmissionUnconfirmed",
+      "attempt_id": "b59f715d-900f-4ce8-94eb-32385b97bf92",
+      "attempt_state": "uncertain"
+    },
+    {
+      "id": 241,
+      "state": "SubmissionUnconfirmed",
+      "attempt_id": "1e71b9fe-7638-4205-98d9-09fc908f5ba6",
+      "attempt_state": "uncertain"
+    },
+    {
+      "id": 250,
+      "state": "SubmissionUnconfirmed",
+      "attempt_id": "9a7b0155-5410-4784-a255-2da08c2cdc45",
+      "attempt_state": "uncertain"
+    }
+  ],
+  "comparison_audit": [
+    {
+      "job_id": 358,
+      "portal_id": "200826029442",
+      "previous_comparison": {
+        "status": "uncertain",
+        "possible_matches": [
+          {
+            "role": "Java Back End Developer | Springboot | Microservices",
+            "status": "Applied",
+            "source": "portal_observation",
+            "similarity": 1.0
+          }
+        ],
+        "compared_by_exact_id": 7
+      },
+      "actual_previous_history_id": "110826000033",
+      "previous_db_record": [
+        {
+          "id": 202,
+          "slug": "infosys-javabackenddeveloperspringbootmi",
+          "state": "Applied",
+          "canonical_url": "https://www.naukri.com/job-listings-java-back-end-developer-springboot-microservices-infosys-hyderabad-chennai-bengaluru-3-to-6-years-110826000033"
+        }
+      ],
+      "current_comparison": {
+        "status": "clear",
+        "possible_matches": [],
+        "compared_by_exact_id": 9
+      },
+      "fit_outcome": {
+        "job_id": 358,
+        "employer": "Infosys",
+        "title": "Java + Springboot Developer",
+        "outcome": "queued",
+        "fit": "High",
+        "strong_medium": false,
+        "notes": {
+          "other_gaps": [],
+          "unverified_fundamentals": []
+        },
+        "interview_preparation_gaps": []
+      }
+    },
+    {
+      "job_id": 359,
+      "portal_id": "200826029266",
+      "previous_comparison": {
+        "status": "uncertain",
+        "possible_matches": [
+          {
+            "role": "Java Back End Developer | Springboot | Microservices",
+            "status": "Applied",
+            "source": "portal_observation",
+            "similarity": 1.0
+          }
+        ],
+        "compared_by_exact_id": 7
+      },
+      "actual_previous_history_id": "110826000033",
+      "previous_db_record": [
+        {
+          "id": 202,
+          "slug": "infosys-javabackenddeveloperspringbootmi",
+          "state": "Applied",
+          "canonical_url": "https://www.naukri.com/job-listings-java-back-end-developer-springboot-microservices-infosys-hyderabad-chennai-bengaluru-3-to-6-years-110826000033"
+        }
+      ],
+      "current_comparison": {
+        "status": "clear",
+        "possible_matches": [],
+        "compared_by_exact_id": 9
+      },
+      "fit_outcome": {
+        "job_id": 359,
+        "employer": "Infosys",
+        "title": "Java + Springboot Developer",
+        "outcome": "queued",
+        "fit": "High",
+        "strong_medium": false,
+        "notes": {
+          "other_gaps": [],
+          "unverified_fundamentals": []
+        },
+        "interview_preparation_gaps": []
+      }
+    },
+    {
+      "job_id": 360,
+      "portal_id": "200826029374",
+      "previous_comparison": {
+        "status": "uncertain",
+        "possible_matches": [
+          {
+            "role": "Java Back End Developer | Springboot | Microservices",
+            "status": "Applied",
+            "source": "portal_observation",
+            "similarity": 1.0
+          }
+        ],
+        "compared_by_exact_id": 7
+      },
+      "actual_previous_history_id": "110826000033",
+      "previous_db_record": [
+        {
+          "id": 202,
+          "slug": "infosys-javabackenddeveloperspringbootmi",
+          "state": "Applied",
+          "canonical_url": "https://www.naukri.com/job-listings-java-back-end-developer-springboot-microservices-infosys-hyderabad-chennai-bengaluru-3-to-6-years-110826000033"
+        }
+      ],
+      "current_comparison": {
+        "status": "clear",
+        "possible_matches": [],
+        "compared_by_exact_id": 9
+      },
+      "fit_outcome": {
+        "job_id": 360,
+        "employer": "Infosys",
+        "title": "Java + Springboot Developer",
+        "outcome": "queued",
+        "fit": "High",
+        "strong_medium": false,
+        "notes": {
+          "other_gaps": [],
+          "unverified_fundamentals": []
+        },
+        "interview_preparation_gaps": []
+      }
+    }
+  ],
+  "linkedin_workflow_session_validation": ".workflow/runs/bd91676b-77ba-4ec7-94a1-21531b25324a.json",
+  "old_linkedin_failure_cause": "Unknown; no original health samples. Same launcher and profile verified; readiness race guarded without accepting verification walls.",
+  "queue_only_run": {
+    "evidence": ".workflow/runs/8d851fc5-574d-47d6-a631-45a33782ea35.json",
+    "naukri_new_claims": 3,
+    "linkedin_new_claims": 0,
+    "confirmed_applications": 0,
+    "results": [
+      {
+        "id": 358,
+        "slug": "naukri-200826029442",
+        "requisition_id": "200826029442",
+        "state": "SubmissionUnconfirmed",
+        "attempt_id": "3cdf1aa9-e42e-43ed-850d-2e376c4af1a5",
+        "attempt_state": "uncertain",
+        "reason": "applied_on_listing_without_independent_history_confirmation",
+        "completion_2xx": true,
+        "job_bound_confirmation": false,
+        "generic_resume_restored": true,
+        "generic_resume_verified_at": "2026-10-14T04:50:44.959569+00:00",
+        "evidence": "jobs/naukri-200826029442/naukri-native-outcome.json"
+      },
+      {
+        "id": 359,
+        "slug": "naukri-200826029266",
+        "requisition_id": "200826029266",
+        "state": "SubmissionUnconfirmed",
+        "attempt_id": "f92c3633-d18a-4da8-a4da-d2cac33150f7",
+        "attempt_state": "uncertain",
+        "reason": "applied_on_listing_without_independent_history_confirmation",
+        "completion_2xx": true,
+        "job_bound_confirmation": false,
+        "generic_resume_restored": true,
+        "generic_resume_verified_at": "2026-10-14T04:52:25.890631+00:00",
+        "evidence": "jobs/naukri-200826029266/naukri-native-outcome.json"
+      },
+      {
+        "id": 360,
+        "slug": "naukri-200826029374",
+        "requisition_id": "200826029374",
+        "state": "SubmissionUnconfirmed",
+        "attempt_id": "67b0ad72-997a-4606-a588-4a6968a4708c",
+        "attempt_state": "uncertain",
+        "reason": "applied_on_listing_without_independent_history_confirmation",
+        "completion_2xx": true,
+        "job_bound_confirmation": false,
+        "generic_resume_restored": true,
+        "generic_resume_verified_at": "2026-10-14T04:54:07.563422+00:00",
+        "evidence": "jobs/naukri-200826029374/naukri-native-outcome.json"
+      }
+    ],
+    "protected_locks_unchanged": true,
+    "generic_restore_pending": false,
+    "no_discovery": true
+  }
+}

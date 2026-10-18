@@ -1,0 +1,11 @@
+{
+  "row": 10,
+  "reason": "truthful resume rendered",
+  "changes": {
+    "Resume version": {
+      "before": null,
+      "after": "jobs/optum-2388999-java-fullstack/Tailored_Resume.pdf"
+    }
+  },
+  "backup": ".workflow/backups/20260927T185025-64069f3b.xlsx"
+}

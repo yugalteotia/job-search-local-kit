@@ -1,0 +1,10 @@
+[     971ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     971ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     971ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     971ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    1508ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    1508ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    1508ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    1508ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    1844ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://uhg.taleo.net/careersection/2026PRD.1.4.14.3.0/akira/pub/js/akira-corec.js:216
+[    1847ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://uhg.taleo.net/careersection/2026PRD.1.4.14.3.0/akira/pub/js/akira-corec.js:660

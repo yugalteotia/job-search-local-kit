@@ -1,0 +1,23 @@
+{
+  "job_id": 358,
+  "requisition_id": "200826029442",
+  "form_url": "https://www.naukri.com/job-listings-java-springboot-developer-infosys-hyderabad-chennai-bengaluru-2-to-3-years-200826029442",
+  "provider": "naukri_native_chat",
+  "signed_in": true,
+  "account_name_matches": true,
+  "resume_filename": "Yugal_Teotia_Java_Springboot_Developer.pdf",
+  "resume_sha256": "09987182ed0464c431ff270ee7287abc255635de097b76bcb9c7e4d109bc38ea",
+  "final_action": "native_apply_open",
+  "visible_required_fields": 0,
+  "answers_logged": false,
+  "checks": {
+    "live": true,
+    "unapplied": true,
+    "fit": true,
+    "resume_visual": true,
+    "resume_selected": true,
+    "answers_confirmed": true,
+    "unique_apply": true
+  },
+  "created_at": "2026-10-14T04:49:56.091674+00:00"
+}

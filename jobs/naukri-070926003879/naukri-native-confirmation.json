@@ -1,0 +1,20 @@
+{
+  "attempt_id": "392355bd-7563-49cd-9ab6-e1848ca3be53",
+  "requisition_id": "070926003879",
+  "captured_at": "2026-09-29T13:50:22.109447+00:00",
+  "url": "https://www.naukri.com/job-listings-java-backend-developer-naukri-e-hire-campaign-mumbai-1-to-4-years-070926003879",
+  "confirmation_text": "Exact Tech Mahindra requisition appears in Applied Jobs history and the exact listing displays Applied.",
+  "exact_listing_applied": true,
+  "exact_history_id_match": true,
+  "history_matches": 1,
+  "evidence_source": "read-only exact listing and Applied Jobs inspection",
+  "final_network_outcome": {
+    "chat_answer_http_status": 200,
+    "chat_answer_job_id_match": true,
+    "job_status_refresh_flowtype": "show",
+    "job_status_refresh_http_status": 200,
+    "completion_request_observed": false,
+    "workflow_committed_metadata": false,
+    "note": "Naukri closed the questionnaire after the third answer; no separate completion-flow request or dataCommitted=true was observed."
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "mode": "read_only",
+  "queued_for_review": 0,
+  "reviewed": 0,
+  "by_source": {},
+  "by_company": {},
+  "high": 0,
+  "queued_for_resume": 0,
+  "selection_coverage": {
+    "verified_live_postings": 174,
+    "with_requisition_and_https_url": 174,
+    "india_location": 77,
+    "target_engineering_title": 10,
+    "substantive_original_jd": 0,
+    "reviewable": 0,
+    "excluded": {
+      "missing_identity": 0,
+      "location_not_india": 97,
+      "title_outside_target": 67,
+      "no_substantive_jd": 10
+    }
+  },
+  "pending_after_run": 0,
+  "roles": [],
+  "top_hard_filtered": [
+    {
+      "job_id": 154,
+      "company": "Celonis",
+      "role": "Software Engineer - Java, Springboot, SAAS",
+      "source": "celonis_greenhouse",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7791275003",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Original posting has no substantive duties or qualification text"
+      ]
+    },
+    {
+      "job_id": 156,
+      "company": "Celonis",
+      "role": "Senior Software Engineer - Java, Springboot, SAAS",
+      "source": "celonis_greenhouse",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7791291003",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Original posting has no substantive duties or qualification text"
+      ]
+    },
+    {
+      "job_id": 168,
+      "company": "Brillio",
+      "role": "Fullstack Engineer - React  Java - R01527438",
+      "source": "brillio_lever",
+      "direct_url": "https://jobs.lever.co/brillio-2/7fb2ac4a-a088-4c5d-b67d-77834786b729",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Original posting has no substantive duties or qualification text"
+      ]
+    },
+    {
+      "job_id": 155,
+      "company": "Celonis",
+      "role": "Staff Software Engineer - Java, Springboot, SAAS",
+      "source": "celonis_greenhouse",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7791427003",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Original posting has no substantive duties or qualification text"
+      ]
+    },
+    {
+      "job_id": 174,
+      "company": "Brillio",
+      "role": "Tech Specialist, Cloud Engineering - R01571253",
+      "source": "brillio_lever",
+      "direct_url": "https://jobs.lever.co/brillio-2/82ef6d95-46e7-4713-afd9-3dd47f2bc971",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Original posting has no substantive duties or qualification text",
+        "Title does not indicate a target software engineering role"
+      ]
+    }
+  ]
+}

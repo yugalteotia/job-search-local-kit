@@ -1,0 +1,32 @@
+{
+  "checked_at": "2026-09-29T11:56:27.085828+00:00",
+  "job_id": 244,
+  "portal_job_id": "070926003879",
+  "source": "naukri_portal_native",
+  "canonical_url": "https://www.naukri.com/job-listings-java-backend-developer-naukri-e-hire-campaign-mumbai-1-to-4-years-070926003879",
+  "account_signed_in": true,
+  "exact_listing_path": true,
+  "page_title": "Java Backend Developer - Mumbai - Naukri E Hire Campaign - 1 to 4 years of experience",
+  "hiring_employer_text": "Tech Mahindra is hiring candidates for Java Backend Developer role for Mumbai location.",
+  "portal_poster_text": "Posted by Naukri E Hire Campaign",
+  "apply_action_visible_and_enabled": true,
+  "posting_text_seen": [
+    "Posted: 3 weeks ago",
+    "Posted 22 days ago",
+    "Posted 4 days ago"
+  ],
+  "absolute_posting_date": null,
+  "posting_date_status": "Unknown; page shows relative ages and no absolute date; multiple labels prevent a single exact age from being assigned confidently.",
+  "applied_indicator_on_detail_page": false,
+  "full_applied_jobs_history": {
+    "rows_loaded": 74,
+    "source_total": 74,
+    "full_history_loaded": true,
+    "exact_portal_id_matches": 0,
+    "captured_at": "2026-09-29T11:12:51.885834+00:00"
+  },
+  "sqlite_submission_attempts": 0,
+  "form_opened": false,
+  "upload_performed": false,
+  "submission_attempted": false
+}

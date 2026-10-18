@@ -1,0 +1,20 @@
+{
+  "job_id": 365,
+  "requisition_id": "141026016132",
+  "attempt_id": "92649bb3-2263-45b9-9489-019b4ea96ab9",
+  "saves": 0,
+  "status": "Applied",
+  "stage": "applied_history_check",
+  "preflight_resume_repair_only": false,
+  "generic_resume_restored": true,
+  "generic_resume_restore_evidence": "jobs/naukri-141026016132/naukri-generic-startup-verification.json",
+  "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+  "generic_resume_verified_at": "2026-10-14T07:40:47.248100+00:00",
+  "generic_resume_repaired_at_start": false,
+  "confirmation_path": "jobs/naukri-141026016132/naukri-native-confirmation.json",
+  "delayed_confirmation": true,
+  "new_application_action": false,
+  "questionnaire_completion_verified": false,
+  "newly_confirmed_answer_sent": false,
+  "answers_logged": false
+}

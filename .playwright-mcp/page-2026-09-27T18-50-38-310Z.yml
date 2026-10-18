@@ -1,0 +1,59 @@
+- generic [ref=e1]:
+  - link [ref=e4] [cursor=pointer]:
+    - /url: https://jobs.lever.co/hevodata
+    - img "Hevo Data logo" [ref=e5]
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - heading "Associate Software Development Engineer (SDE)" [level=2] [ref=e11]
+        - generic [ref=e12]:
+          - generic [ref=e13]: Bangalore, India
+          - generic [ref=e14]: Engineering – Backend /
+          - generic [ref=e15]: Full time /
+          - generic [ref=e16]: On-site
+      - link "apply for this job" [ref=e18] [cursor=pointer]:
+        - /url: https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a/apply
+    - generic [ref=e19]:
+      - generic [ref=e25]:
+        - main [ref=e34]:
+          - list [ref=e39]:
+            - listitem [ref=e40]:
+              - list [ref=e55]:
+                - listitem [ref=e56]:
+                  - generic [ref=e68]:
+                    - strong [ref=e70]: "What you’ll own as Associate SDE at Hevo:"
+                    - generic [ref=e72]: . Implement SaaS connectors for assigned applications, learning application specific nuances like basic auth and data extraction.
+                    - generic [ref=e73]: . Assist in building simple REST API components, focusing on clean implementation and testing.
+                    - generic [ref=e74]: . Debug and optimize code for data pipeline efficiency under mentorship.
+                    - generic [ref=e75]: . Contribute to feature breakdown, coding, and documentation for smaller tasks.
+                    - generic [ref=e76]: . Apply logical thinking to solve integration issues and improve component quality.
+                    - generic [ref=e77]: .Build internal tools with AI for business teams to run their functions
+                    - strong [ref=e92]: "What you’ll bring to the table:"
+                    - generic [ref=e94]: . Basic object-oriented programming skills and familiarity with design principles.
+                    - generic [ref=e95]: . Exposure to data pipelines or APIs; eagerness to learn concurrency and performance basics.
+                    - generic [ref=e96]: . Foundational knowledge of REST APIs (e.g., making calls, handling JSON) – no deep expertise needed.
+                    - generic [ref=e97]: . Proficiency in Java/TypeScript/Python, good problem-solving with data structures and algorithms.
+                    - generic [ref=e98]: . Strong analytical and logical thinking for real-world challenges.
+                    - strong [ref=e101]: "Candidate Persona:"
+                    - generic [ref=e103]: . Freshers with experience in software development, ideally with internships in integrations or data tools.
+                    - generic [ref=e104]: . B Tech in Computer Science or equivalent from a reputed college.
+        - generic [ref=e146]:
+          - complementary "Side panel":
+            - generic:
+              - tablist:
+                - tab "Calendar"
+                - tab "Keep"
+                - tab "Tasks"
+                - tab "Contacts"
+                - tab "Get Add-ons"
+      - generic [ref=e151]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=e154] [cursor=pointer]:
+        - /url: https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a/apply
+  - generic [ref=e156]:
+    - paragraph [ref=e157]:
+      - link "Hevo Data Home Page" [ref=e158] [cursor=pointer]:
+        - /url: http://www.hevodata.com
+    - link "Jobs powered by Lever logo" [ref=e159] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e160]: Jobs powered by
+      - img "Lever logo" [ref=e161]

@@ -1,0 +1,36 @@
+{
+  "test": "2 local form preparation(s), no submission",
+  "flows": [
+    {
+      "worker": 1,
+      "isolated": false,
+      "error": "RuntimeError: browser_evaluate returned chooser error: ### error\nerror: tool \"browser_evaluate\" does not handle the modal state.\n### modal state\n- [file chooser]: can be handled by browser_file_upload",
+      "seconds": 4.25
+    },
+    {
+      "worker": 2,
+      "job_id": "TEST-REQ-2",
+      "expected_url": "http://127.0.0.1:33969/form/2",
+      "expected_resume": "Test_Resume_2.pdf",
+      "observed": {
+        "url": "http://127.0.0.1:33969/form/2",
+        "job": "TEST-REQ-2",
+        "resume": "",
+        "submitted": false
+      },
+      "fields_isolated": true,
+      "resume_isolated": false,
+      "isolated": false,
+      "upload_error": "browser_click returned timeout error: ### error\ntimeouterror: browserbackend.calltool: timeout 5000ms exceeded.\ncall log:\n\u001b[2m  - waiting for locator('#resume')\u001b[22m\n\u001b[2m    - locator resolved to <input id=\"resume\" type=\"file\"/>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    - waiting for element to be visible, enabled and stable\u001b[22m\n",
+      "seconds": 11.43,
+      "field_checks": [
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  ],
+  "passed": false,
+  "evidence": ".workflow/parallel-tests/20260928T062634-two-forms.json"
+}

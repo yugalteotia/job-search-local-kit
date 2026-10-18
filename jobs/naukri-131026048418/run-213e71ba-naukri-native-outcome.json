@@ -1,0 +1,10 @@
+{
+  "job_id": 346,
+  "requisition_id": "131026048418",
+  "attempt_id": null,
+  "saves": 0,
+  "status": "Blocked",
+  "stage": "applied_history_check",
+  "error_type": "RuntimeError",
+  "answers_logged": false
+}

@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-09-29T10:01:54.812315+00:00",
+  "job_id": 241,
+  "requisition_id": "280926023134",
+  "fit": "Medium",
+  "pilot_suitable": true,
+  "experience": {
+    "jd": "2 to 6 years of professional backend development experience using Java",
+    "actual": "IDeaS 14 Oct 2024\u201330 Sep 2026; Data Nova Feb\u2013May 2023; do not round up professional Java years"
+  },
+  "evidence": {
+    "production": [
+      "Java 17, Spring Boot and Spring MVC at IDeaS",
+      "REST and gRPC APIs at IDeaS",
+      "MongoDB data access at IDeaS",
+      "Docker, Git, Maven/Gradle, JUnit at work"
+    ],
+    "project_training": [
+      "SQL, MySQL, JPA/Hibernate through PG-DAC and Store REST API project"
+    ],
+    "gaps": [
+      "No confirmed PostgreSQL/Oracle production usage",
+      "No confirmed GraphQL implementation",
+      "No claimed Kubernetes experience"
+    ]
+  },
+  "decision": "Strong backend duties and Java/Spring stack; experience band near profile and some required data skills have project depth only. Truthful manual-scope pilot permitted; not autonomous High."
+}

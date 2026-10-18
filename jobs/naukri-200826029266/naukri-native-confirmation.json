@@ -1,0 +1,60 @@
+{
+  "attempt_id": "f92c3633-d18a-4da8-a4da-d2cac33150f7",
+  "requisition_id": "200826029266",
+  "captured_at": "2026-10-14T05:18:19.256574+00:00",
+  "url": "https://www.naukri.com/job-listings-java-springboot-developer-infosys-kolkata-chennai-bengaluru-2-to-3-years-200826029266",
+  "confirmation_text": "Exact listing header Applied and exact server history Application Sent",
+  "exact_listing_applied": true,
+  "applied_control": "#already-applied in exact listing header",
+  "exact_history_id_match": true,
+  "history_full": true,
+  "history_loaded_rows": 265,
+  "history_expected_total": 265,
+  "history_identity": {
+    "basis": "server_history_exact_job_id",
+    "server_rows": [
+      {
+        "job_id": "200826029266",
+        "title": "Java + Springboot Developer",
+        "company": "Infosys",
+        "status": [
+          {
+            "statusId": 1,
+            "statusValue": "Applied",
+            "dateTime": "2026-10-14 10:23:20"
+          },
+          {
+            "statusId": 2,
+            "statusValue": "Application Sent",
+            "dateTime": "2026-10-14 10:23:21"
+          }
+        ]
+      },
+      {
+        "job_id": "200826029266",
+        "title": "Java + Springboot Developer",
+        "company": "Infosys",
+        "status": [
+          {
+            "statusId": 1,
+            "statusValue": "Applied",
+            "dateTime": "2026-10-14 10:23:20"
+          },
+          {
+            "statusId": 2,
+            "statusValue": "Application Sent",
+            "dateTime": "2026-10-14 10:23:21"
+          }
+        ]
+      }
+    ]
+  },
+  "account_identity_verified": true,
+  "new_application_action": false,
+  "delayed_confirmation": true,
+  "read_only_reconciliation": true,
+  "role_resume_sha256_at_original_action": "e99b2d85a02b7506b846ef2090ed7f8b47f6b93ed17a5aadb2ee710b68f99f95",
+  "generic_resume_restored": true,
+  "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+  "audit_path": "jobs/naukri-200826029266/naukri-readonly-confirmation-audit.json"
+}

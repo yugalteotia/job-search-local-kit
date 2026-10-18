@@ -1,0 +1,68 @@
+{
+  "attempt_id": "1ec26691-8d1d-48d2-8a87-80d396ffe3ba",
+  "requisition_id": "131026047727",
+  "captured_at": "2026-10-13T19:07:30.749787+00:00",
+  "url": "https://www.naukri.com/job-listings-java-full-stack-developer-naukri-assist-hyderabad-3-to-10-years-131026047727",
+  "confirmation_text": "Exact Naukri requisition appears in fully loaded Applied Jobs history",
+  "exact_history_id_match": true,
+  "history_full": true,
+  "delayed_confirmation": true,
+  "new_application_action": false,
+  "history_observed_at": "2026-10-13T19:02:07.586256+00:00",
+  "history_identity": {
+    "basis": "server_history_exact_job_id",
+    "server_rows": [
+      {
+        "job_id": "131026047727",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "Java Full Stack Developer",
+        "company": "Naukri Assist",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "modifiedDate": "2026-10-14 00:27:01",
+            "dateTime": "2026-10-14 00:27:01",
+            "statusValue": "Applied"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "modifiedDate": "2026-10-14 00:27:01",
+            "dateTime": "2026-10-14 00:27:01",
+            "statusValue": "Application Sent"
+          }
+        ]
+      },
+      {
+        "job_id": "131026047727",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "Java Full Stack Developer",
+        "company": "Naukri Assist",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "dateTime": "2026-10-14 00:27:01",
+            "modifiedDate": "2026-10-14 00:27:01",
+            "statusValue": "Applied"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "dateTime": "2026-10-14 00:27:01",
+            "modifiedDate": "2026-10-14 00:27:01",
+            "statusValue": "Application Sent"
+          }
+        ]
+      }
+    ]
+  },
+  "questionnaire_completion_verified": false,
+  "unverified_pending_question": "How many years of experience do you have in GenAI or Artificial Intelligence ?",
+  "newly_confirmed_answer_sent": false
+}

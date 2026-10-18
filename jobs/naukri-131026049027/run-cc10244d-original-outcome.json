@@ -1,0 +1,16 @@
+{
+  "job_id": 355,
+  "requisition_id": "131026049027",
+  "attempt_id": null,
+  "saves": 0,
+  "status": "Blocked",
+  "stage": "session_check",
+  "error_type": "RuntimeError",
+  "error_origin": {
+    "file": "naukri_native_worker.py",
+    "function": "_run_one",
+    "line": 392
+  },
+  "error_message": "Profile was not generic at worker start; restored it and stopped safely",
+  "answers_logged": false
+}

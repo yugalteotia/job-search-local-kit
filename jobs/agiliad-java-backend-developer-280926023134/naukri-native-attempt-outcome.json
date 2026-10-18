@@ -1,0 +1,153 @@
+{
+  "job_id": 241,
+  "requisition_id": "280926023134",
+  "url": "https://www.naukri.com/job-listings-java-developer-senior-java-developer-agiliad-pune-2-to-6-years-280926023134",
+  "started_at": "2026-09-29T10:08:58.920829+00:00",
+  "attempt_id": "1e71b9fe-7638-4205-98d9-09fc908f5ba6",
+  "save_click_count": 1,
+  "outcome": "Uncertain; one Save clicked, no retry permitted",
+  "resume_sha256": "782a2ce8c41bd2f2e1860a9b673d9ab82aebc35340b1dcbd5168266aa494ad82",
+  "submission_enabled_for_schedule": false,
+  "history_before": {
+    "checked_at": "2026-09-29T10:09:13.041077+00:00",
+    "url": "https://www.naukri.com/myapply/historypage",
+    "loaded_rows": 74,
+    "source_total": 74,
+    "full_source_loaded": true,
+    "exact_id_matches": 0,
+    "sweeps": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      74
+    ]
+  },
+  "role_upload": {
+    "at": "2026-09-29T10:09:20.571063+00:00",
+    "before": "Yugal_Teotia_CV.pdf",
+    "after": "Yugal_Teotia_Java_Backend_Developer.pdf",
+    "pdf_sha256": "782a2ce8c41bd2f2e1860a9b673d9ab82aebc35340b1dcbd5168266aa494ad82",
+    "response_statuses": [
+      {
+        "path": "/cloudgateway-mynaukri/resman-aggregator-services/v0/users/self/profiles/7cb124b61d07cca5b819d1f1298276bd7432cb89a97f3944f79fd6c296adc7b6/advResume",
+        "status": 200
+      }
+    ]
+  },
+  "listing_before": {
+    "exact": true,
+    "apply": true,
+    "applied": false,
+    "pending": false
+  },
+  "listing_checked_at": "2026-09-29T10:09:22.007087+00:00",
+  "chat_ui": {
+    "drawer": true,
+    "question_count": 1,
+    "editables": 1,
+    "prefilled": false,
+    "upload_inputs": 0,
+    "saved": false
+  },
+  "claimed_at": "2026-09-29T10:09:24.396344+00:00",
+  "network_guard": {
+    "job_id": "280926023134",
+    "phase": "answer_sent",
+    "show_count": 1,
+    "answer_count": 1,
+    "completion_count": 0,
+    "events": [
+      {
+        "at": "2026-09-29T10:09:22.454289+00:00",
+        "elapsed_ms": 447,
+        "job_id": "280926023134",
+        "phase": "show_sent",
+        "method": "POST",
+        "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+        "flowtype": "show",
+        "allowed": true,
+        "reason": "exact_job_show",
+        "response_status": 200,
+        "response_elapsed_ms": 693
+      },
+      {
+        "at": "2026-09-29T10:09:24.469114+00:00",
+        "elapsed_ms": 2462,
+        "job_id": "280926023134",
+        "phase": "answer_sent",
+        "method": "POST",
+        "path": "/cloudgateway-chatbot/chatbot-services/botapi/v5/respond",
+        "flowtype": "unknown",
+        "allowed": true,
+        "reason": "one_claimed_chat_answer",
+        "response_status": 200,
+        "response_elapsed_ms": 2565
+      }
+    ]
+  },
+  "network_responses": [
+    {
+      "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+      "status": 200,
+      "job_id_match": true,
+      "is_apply": true,
+      "data_committed": false
+    },
+    {
+      "path": "/cloudgateway-chatbot/chatbot-services/botapi/v5/respond",
+      "status": 200,
+      "job_id_match": true,
+      "is_apply": null,
+      "data_committed": null
+    }
+  ],
+  "chat_after_save": {
+    "thank_you": false,
+    "visible_question_count": 2
+  },
+  "save_finished_at": "2026-09-29T10:09:26.987034+00:00",
+  "completion_network_2xx": false,
+  "listing_after": {
+    "exact": true,
+    "apply": true,
+    "applied": false,
+    "pending": false
+  },
+  "history_after": {
+    "checked_at": "2026-09-29T10:09:38.589244+00:00",
+    "url": "https://www.naukri.com/myapply/historypage",
+    "loaded_rows": 74,
+    "source_total": 74,
+    "full_source_loaded": true,
+    "exact_id_matches": 0,
+    "sweeps": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      74
+    ]
+  },
+  "outcome_checked_at": "2026-09-29T10:09:38.589274+00:00",
+  "generic_restore": {
+    "at": "2026-09-29T10:09:46.115203+00:00",
+    "before": "Yugal_Teotia_Java_Backend_Developer.pdf",
+    "after": "Yugal_Teotia_CV.pdf",
+    "pdf_sha256": "9a1322fc3058108d66aa74ef8c23b6b4027a3d341feedb029eb45b135906cb17",
+    "response_statuses": [
+      {
+        "path": "/cloudgateway-mynaukri/resman-aggregator-services/v0/users/self/profiles/7cb124b61d07cca5b819d1f1298276bd7432cb89a97f3944f79fd6c296adc7b6/advResume",
+        "status": 200
+      }
+    ]
+  },
+  "generic_restored_verified": true,
+  "finished_at": "2026-09-29T10:09:46.119100+00:00"
+}

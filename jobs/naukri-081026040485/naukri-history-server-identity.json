@@ -1,0 +1,139 @@
+{
+  "history": {
+    "full": true,
+    "exact": 0,
+    "company_role": 1,
+    "observed_exact_rows_unverified": 0,
+    "at": "2026-10-13T13:43:46.810915+00:00"
+  },
+  "exact_id_objects": [
+    {
+      "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "exact_id_keys": [
+        "jobId"
+      ],
+      "object_keys": [
+        "jobId",
+        "applyType",
+        "jobTitle",
+        "company",
+        "location",
+        "isOpen",
+        "jobActivity",
+        "jobActivityDate",
+        "rpId",
+        "logoName",
+        "logoPath",
+        "companyId",
+        "arsScore",
+        "starRating",
+        "feedbackStored",
+        "status",
+        "companyRating",
+        "videoProfilePreferred",
+        "applyViaCall",
+        "applyViaCallEnabled",
+        "jobType",
+        "applyFlowType",
+        "isCrawled"
+      ],
+      "exact_job_id": "081026040485"
+    },
+    {
+      "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v3/history-description",
+      "exact_id_keys": [
+        "jobId"
+      ],
+      "object_keys": [
+        "jobId",
+        "applyType",
+        "jobTitle",
+        "company",
+        "location",
+        "isOpen",
+        "jobActivity",
+        "jobActivityDate",
+        "rpId",
+        "logoName",
+        "logoPath",
+        "companyId",
+        "arsScore",
+        "videoProfilePreferred",
+        "applyViaCall",
+        "applyViaCallEnabled",
+        "jobType",
+        "applyFlowType",
+        "isCrawled"
+      ],
+      "exact_job_id": "081026040485"
+    },
+    {
+      "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "exact_id_keys": [
+        "jobId"
+      ],
+      "object_keys": [
+        "jobId",
+        "applyType",
+        "jobTitle",
+        "company",
+        "location",
+        "isOpen",
+        "jobActivity",
+        "jobActivityDate",
+        "rpId",
+        "logoName",
+        "logoPath",
+        "companyId",
+        "arsScore",
+        "starRating",
+        "feedbackStored",
+        "status",
+        "companyRating",
+        "videoProfilePreferred",
+        "applyViaCall",
+        "applyViaCallEnabled",
+        "jobType",
+        "applyFlowType",
+        "isCrawled"
+      ],
+      "exact_job_id": "081026040485"
+    },
+    {
+      "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v3/history-description",
+      "exact_id_keys": [
+        "jobId"
+      ],
+      "object_keys": [
+        "jobId",
+        "applyType",
+        "jobTitle",
+        "company",
+        "location",
+        "isOpen",
+        "jobActivity",
+        "jobActivityDate",
+        "rpId",
+        "logoName",
+        "logoPath",
+        "companyId",
+        "arsScore",
+        "videoProfilePreferred",
+        "applyViaCall",
+        "applyViaCallEnabled",
+        "jobType",
+        "applyFlowType",
+        "isCrawled"
+      ],
+      "exact_job_id": "081026040485"
+    }
+  ],
+  "json_response_paths": [
+    "/cloudgateway-apply/whtma-services/v0/applyapi/v3/history-description",
+    "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+    "/cloudgateway-mynaukri/notification-center-services/v0/naukrinotificationcentre/user/self/count",
+    "/manifest.json",
+    "/sapapi/v2/user/jobs/081026040485"
+  ],
+  "application_actions": 0
+}

@@ -1,0 +1,21 @@
+{
+  "job_id": 202,
+  "requisition_id": "110826000033",
+  "listing": {
+    "exact_path": true,
+    "apply_count": 0,
+    "applied": true,
+    "pending": false
+  },
+  "history": {
+    "full": false,
+    "exact": 1,
+    "company_role": 1,
+    "at": "2026-10-13T04:45:05.689829+00:00"
+  },
+  "at": "2026-10-13T04:45:05.689844+00:00",
+  "answers_sent": 0,
+  "application_completion_sent": false,
+  "generic_resume_restored": true,
+  "status": "ReadOnlyHandoffRequired"
+}

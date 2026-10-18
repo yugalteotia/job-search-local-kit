@@ -1,0 +1,1250 @@
+{
+  "pages": [
+    {
+      "query": "Java Spring Boot backend",
+      "location": "India",
+      "page": 1,
+      "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "observed_url": "https://www.naukri.com/java-spring-boot-backend-jobs-in-india?jobAge=7&experience=2",
+      "checked_at": "2026-10-15T03:00:13.561039+00:00",
+      "status": "Success",
+      "visible_cards": 20,
+      "lead_count": 20,
+      "filters": {
+        "experience_label": "2",
+        "freshness_label": "Last 7 days",
+        "sort_label": "Date"
+      },
+      "rendered_search": {
+        "keywords": "java spring boot backend, ",
+        "location": "india, ",
+        "experience": "2 years",
+        "heading": "Java Spring Boot Backend Jobs In India"
+      },
+      "last_search_api_parameters": {
+        "keyword": [
+          "java spring boot backend"
+        ],
+        "location": [
+          "india"
+        ],
+        "experience": [
+          "2",
+          "2"
+        ],
+        "jobAge": [
+          "7",
+          "7"
+        ],
+        "sort": [
+          "f"
+        ]
+      },
+      "error_kind": null,
+      "extracted_exact_ids": [
+        "151026006980",
+        "151026006978",
+        "151026006974",
+        "151026006972",
+        "151026006968",
+        "151026006965",
+        "151026006963",
+        "151026006960",
+        "151026005096",
+        "151026000173",
+        "151026000170",
+        "151026000169",
+        "151026000167",
+        "151026000154",
+        "151026000153",
+        "151026000152",
+        "151026000149",
+        "151026000147",
+        "151026000146",
+        "141026012384"
+      ],
+      "retained_leads": 1,
+      "card_filter_exclusions": {
+        "unrelated_bpo_data_entry_qa_role": 18,
+        "no_relevant_title_or_generic_engineering_card_skills": 1
+      }
+    },
+    {
+      "query": "Java Backend Developer",
+      "location": "India",
+      "page": 1,
+      "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "observed_url": "https://www.naukri.com/java-backend-developer-jobs-in-india?jobAge=7&experience=3",
+      "checked_at": "2026-10-15T03:00:21.294113+00:00",
+      "status": "Success",
+      "visible_cards": 20,
+      "lead_count": 20,
+      "filters": {
+        "experience_label": "3",
+        "freshness_label": "Last 7 days",
+        "sort_label": "Date"
+      },
+      "rendered_search": {
+        "keywords": "java backend developer, ",
+        "location": "india, ",
+        "experience": "3 years",
+        "heading": "Java Backend Developer Jobs In India"
+      },
+      "last_search_api_parameters": {
+        "keyword": [
+          "java backend developer"
+        ],
+        "location": [
+          "india"
+        ],
+        "experience": [
+          "3",
+          "3"
+        ],
+        "jobAge": [
+          "7",
+          "7"
+        ],
+        "sort": [
+          "f"
+        ]
+      },
+      "error_kind": null,
+      "extracted_exact_ids": [
+        "121026013470",
+        "121026011427",
+        "121026013389",
+        "121026012306",
+        "141026012384",
+        "141026019111",
+        "151026000100",
+        "141026041550",
+        "141026041328",
+        "141026040919",
+        "141026040566",
+        "200826033407",
+        "100826023702",
+        "190826009541",
+        "030826024220",
+        "270726031005",
+        "141026039050",
+        "141026038725",
+        "141026038671",
+        "141026037946"
+      ],
+      "retained_leads": 8,
+      "card_filter_exclusions": {
+        "unrelated_bpo_data_entry_qa_role": 4,
+        "no_relevant_title_or_generic_engineering_card_skills": 8
+      }
+    }
+  ],
+  "cards": [
+    {
+      "title": "Software Developer",
+      "url": "https://www.naukri.com/job-listings-software-developer-starrise-recruitment-pimpri-chinchwad-hyderabad-pune-0-to-2-years-151026005096",
+      "portal_job_id": "151026005096",
+      "employer": "MNC",
+      "card_skills": [
+        "Java",
+        "SQL",
+        "Fullstack Development",
+        "Frontend Development",
+        "Javascript",
+        "CSS",
+        "C++",
+        "c"
+      ],
+      "card_location": "Hybrid - Pune, Hyderabad, Pimpri-Chinchwad",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Software Developer\nMNC\nPosted by Starrise Recruitment\n0-2 Yrs\n2.75-5.5 Lacs PA\nHybrid - Pune, Hyderabad, Pimpri-Chinchwad\n SOFTWARE DEVELOPER START YOUR IT CAREER WITH US!Are you a Fresher looking for your fir...\nJavaSQLFullstack DevelopmentFrontend DevelopmentJavascriptCSSC++c\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1"
+    },
+    {
+      "title": "Java Developer",
+      "url": "https://www.naukri.com/job-listings-java-developer-mobily-infotech-mit-bengaluru-2-to-4-years-141026019111",
+      "portal_job_id": "141026019111",
+      "employer": "Mobily Infotech (MIT)",
+      "card_skills": [
+        "Java",
+        "API",
+        "Spring",
+        "SQL",
+        "Development",
+        "Java Development"
+      ],
+      "card_location": "Hybrid - Bengaluru",
+      "posted_at": null,
+      "posted_text": "Today",
+      "card_excerpt": "Java Developer\nMobily Infotech (MIT)\n3.1\n128 Reviews\n2-4 Yrs\nHybrid - Bengaluru\nAdditional Technical Skills (Preferred). Project Management & Collaboration : Jira, Con...\nJavaAPISpringSQLDevelopmentJava Development\nToday\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1"
+    },
+    {
+      "title": "Software Developer To Data Analyst(Engineer)",
+      "url": "https://www.naukri.com/job-listings-software-developer-to-data-analyst-engineer-oasis-technology-and-consulting-services-chennai-bengaluru-3-to-8-years-151026000100",
+      "portal_job_id": "151026000100",
+      "employer": "Oasis Technology And Consulting Services",
+      "card_skills": [
+        "AWS",
+        "Python",
+        "Java",
+        "Artificial Intelligence",
+        "ETL",
+        "Big Data Analytics",
+        "Al",
+        "Tableau"
+      ],
+      "card_location": "Bengaluru, Chennai",
+      "posted_at": null,
+      "posted_text": "Today",
+      "card_excerpt": "Software Developer To Data Analyst(Engineer)\nOasis Technology And Consulting Services\n3-8 Yrs\n7.5-17.5 Lacs PA\nBengaluru, Chennai\nEnsure high-quality code by following best practices in design patterns, testing framew...\nAWSPythonJavaArtificial IntelligenceETLBig Data AnalyticsAlTableau\nToday\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1"
+    },
+    {
+      "title": "Java Spring Boot Microservices",
+      "url": "https://www.naukri.com/job-listings-java-spring-boot-microservices-infosys-kolkata-pune-bengaluru-2-to-7-years-141026040566",
+      "portal_job_id": "141026040566",
+      "employer": "Infosys",
+      "card_skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Spring Microservices",
+        "Java Spring Boot",
+        "Spring",
+        "Boot"
+      ],
+      "card_location": "Hybrid - Pune, Bengaluru, Kolkata",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Java Spring Boot Microservices\nInfosys\n3.5\n53080 Reviews\n2-7 Yrs\nHybrid - Pune, Bengaluru, Kolkata\nThe ideal candidate should have strong expertise in Java, Spring Boot, Microservices Ar...\nJavaSpring BootMicroservicesSpring MicroservicesJava Spring BootSpringBoot\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1"
+    },
+    {
+      "title": "JAVA Springboot Microservices -INF (2-9)YRS",
+      "url": "https://www.naukri.com/job-listings-java-springboot-microservices-inf-2-9-yrs-infosys-hyderabad-chennai-bengaluru-2-to-7-years-200826033407",
+      "portal_job_id": "200826033407",
+      "employer": "Infosys",
+      "card_skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Java Development",
+        "Spring Microservices",
+        "Java Spring Boot",
+        "Development",
+        "Spring"
+      ],
+      "card_location": "Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "JAVA Springboot Microservices -INF (2-9)YRS\nInfosys\n3.5\n53080 Reviews\n2-7 Yrs\nBengaluru, Hyderabad, Chennai\nThere is a huge requirement for Java Developer . Technical and Professional Requiremen...\nJavaSpring BootMicroservicesJava DevelopmentSpring MicroservicesJava Spring BootDevelopmentSpring\nPrefers women\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1"
+    },
+    {
+      "title": "Java Developer-INF (3 -5 YRS)",
+      "url": "https://www.naukri.com/job-listings-java-developer-inf-3-5-yrs-infosys-hyderabad-chennai-bengaluru-3-to-6-years-100826023702",
+      "portal_job_id": "100826023702",
+      "employer": "Infosys",
+      "card_skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Spring",
+        "Boot"
+      ],
+      "card_location": "Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Java Developer-INF (3 -5 YRS)\nInfosys\n3.5\n53080 Reviews\n3-6 Yrs\nBengaluru, Hyderabad, Chennai\nPreferred Skills: Technology->Java->Springboot . .\nJavaSpring BootMicroservicesSpringBoot\nPrefers women\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1"
+    },
+    {
+      "title": "Java Full Stack Developer (React js)_ (2-3 Years)",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-react-js-2-3-years-infosys-hyderabad-chennai-bengaluru-2-to-3-years-190826009541",
+      "portal_job_id": "190826009541",
+      "employer": "Infosys",
+      "card_skills": [
+        "Java Fullstack",
+        "React.js",
+        "Reacts Js",
+        "Java",
+        "Spring Boot",
+        "Boot",
+        "Javascript",
+        "Full Stack"
+      ],
+      "card_location": "Hybrid - Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Java Full Stack Developer (React js)_ (2-3 Years)\nInfosys\n3.5\n53080 Reviews\n2-3 Yrs\nHybrid - Bengaluru, Hyderabad, Chennai\nand build POCs You will create requirement specifications from the business needs, defi...\nJava FullstackReact.jsReacts JsJavaSpring BootBootJavascriptFull Stack\nPrefers women\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1"
+    },
+    {
+      "title": "Java Full Stack Developer(Angular/React)(2-3 years)",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-react-2-3-years-infosys-hyderabad-chennai-bengaluru-2-to-3-years-030826024220",
+      "portal_job_id": "030826024220",
+      "employer": "Infosys",
+      "card_skills": [
+        "Java",
+        "Spring Boot",
+        "React.js",
+        "Angular",
+        "Boot",
+        "Angular React",
+        "Bootstrap",
+        "Full Stack"
+      ],
+      "card_location": "Hybrid - Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Java Full Stack Developer(Angular/React)(2-3 years)\nInfosys\n3.5\n53080 Reviews\n2-3 Yrs\nHybrid - Bengaluru, Hyderabad, Chennai\nThere is a huge requirement for Java Fullstack and these skills are mandatory (Java, Sp...\nJavaSpring BootReact.jsAngularBootAngular ReactBootstrapFull Stack\nPrefers women\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1"
+    },
+    {
+      "title": "java+reactjs (2-15)-INF",
+      "url": "https://www.naukri.com/job-listings-java-reactjs-2-15-inf-infosys-hyderabad-chennai-bengaluru-2-to-3-years-270726031005",
+      "portal_job_id": "270726031005",
+      "employer": "Infosys",
+      "card_skills": [
+        "Java",
+        "Spring Boot",
+        "React.js",
+        "Java Fullstack",
+        "Boot",
+        "Full Stack",
+        "Spring"
+      ],
+      "card_location": "Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "java+reactjs (2-15)-INF\nInfosys\n3.5\n53080 Reviews\n2-3 Yrs\nBengaluru, Hyderabad, Chennai\nPreferred Skills: Technology->Java->Java - ALL\nJavaSpring BootReact.jsJava FullstackBootFull StackSpring\nPrefers women\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1"
+    }
+  ],
+  "raw_cards": [
+    {
+      "title": "Back Office Executive",
+      "url": "https://www.naukri.com/job-listings-back-office-executive-recruit-diary-pune-0-to-2-years-151026006980",
+      "portal_job_id": "151026006980",
+      "employer": "RECRUIT DIARY",
+      "card_skills": [
+        "Non Voice",
+        "Data Entry",
+        "Back Office",
+        "BPO Non Voice",
+        "Typing",
+        "Non Voice Process",
+        "Computer Operating",
+        "Backend Operations"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Back Office Executive\nRECRUIT DIARY\nPosted by Recruit Diary\n0-2 Yrs\n2.25-4.5 Lacs PA\nRemote\nPreferred candidate profile Good typing speed and accuracyGood communication and organi...\nNon VoiceData EntryBack OfficeBPO Non VoiceTypingNon Voice ProcessComputer OperatingBackend Operations\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Data Entry Executive",
+      "url": "https://www.naukri.com/job-listings-data-entry-executive-recruit-diary-pune-0-to-3-years-151026006978",
+      "portal_job_id": "151026006978",
+      "employer": "RECRUIT DIARY",
+      "card_skills": [
+        "Non Voice",
+        "Data Entry",
+        "Excel",
+        "BPO Non Voice",
+        "Typing",
+        "Back Office Processing",
+        "Non Voice Process",
+        "Computer Operating"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Data Entry Executive\nRECRUIT DIARY\nPosted by Recruit Diary\n0-3 Yrs\n2-4.25 Lacs PA\nRemote\nPreferred candidate profile Good typing speed with accuracy . Good organizational and t...\nNon VoiceData EntryExcelBPO Non VoiceTypingBack Office ProcessingNon Voice ProcessComputer Operating\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Back Office Operations Executive",
+      "url": "https://www.naukri.com/job-listings-back-office-operations-executive-recruit-diary-bengaluru-0-to-3-years-151026006974",
+      "portal_job_id": "151026006974",
+      "employer": "RECRUIT DIARY",
+      "card_skills": [
+        "Computer Operating",
+        "Backend Operations",
+        "Non Voice",
+        "BPO Non Voice",
+        "Back Office Operation",
+        "Backend",
+        "Excel",
+        "Typing"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Back Office Operations Executive\nRECRUIT DIARY\nPosted by Recruit Diary\n0-3 Yrs\n1.75-4 Lacs PA\nRemote\nPreferred candidate profile Good typing speed with accuracyGood organizational and time...\nComputer OperatingBackend OperationsNon VoiceBPO Non VoiceBack Office OperationBackendExcelTyping\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Data Entry Executive",
+      "url": "https://www.naukri.com/job-listings-data-entry-executive-recruit-diary-bengaluru-0-to-3-years-151026006972",
+      "portal_job_id": "151026006972",
+      "employer": "RECRUIT DIARY",
+      "card_skills": [
+        "Computer Operating",
+        "Non Voice",
+        "Back Office",
+        "BPO Non Voice",
+        "Typing",
+        "Typing Speed",
+        "Non Voice Process",
+        "Backend Operations"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Data Entry Executive\nRECRUIT DIARY\nPosted by Recruit Diary\n0-3 Yrs\n2-4 Lacs PA\nRemote\n. Freshers can also apply Verify data and correct errors wherever requiredPreferred can...\nComputer OperatingNon VoiceBack OfficeBPO Non VoiceTypingTyping SpeedNon Voice ProcessBackend Operations\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Back Office Operations Executive",
+      "url": "https://www.naukri.com/job-listings-back-office-operations-executive-recruit-diary-hyderabad-0-to-3-years-151026006968",
+      "portal_job_id": "151026006968",
+      "employer": "RECRUIT DIARY",
+      "card_skills": [
+        "Typing",
+        "Backend Operations",
+        "Non Voice",
+        "BPO Non Voice",
+        "Backend",
+        "Backend Process",
+        "Non Voice Process",
+        "Solving Queries"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Back Office Operations Executive\nRECRUIT DIARY\nPosted by Recruit Diary\n0-3 Yrs\n1.75-3.75 Lacs PA\nRemote\nVerify data and correct errors wherever requiredPreferred candidate profile Good typing...\nTypingBackend OperationsNon VoiceBPO Non VoiceBackendBackend ProcessNon Voice ProcessSolving Queries\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Data Entry Executive",
+      "url": "https://www.naukri.com/job-listings-data-entry-executive-recruit-diary-hyderabad-0-to-3-years-151026006965",
+      "portal_job_id": "151026006965",
+      "employer": "RECRUIT DIARY",
+      "card_skills": [
+        "Computer Operating",
+        "Non Voice",
+        "Data Entry",
+        "Back Office",
+        "BPO Non Voice",
+        "Typing",
+        "Back Office Processing",
+        "Non Voice Process"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Data Entry Executive\nRECRUIT DIARY\nPosted by Recruit Diary\n0-3 Yrs\n2-4 Lacs PA\nRemote\nFresher candidates can also applyVerify data and correct errors wherever requiredPrefer...\nComputer OperatingNon VoiceData EntryBack OfficeBPO Non VoiceTypingBack Office ProcessingNon Voice Process\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Back Office Operations Executive",
+      "url": "https://www.naukri.com/job-listings-back-office-operations-executive-recruit-diary-chandigarh-0-to-3-years-151026006963",
+      "portal_job_id": "151026006963",
+      "employer": "RECRUIT DIARY",
+      "card_skills": [
+        "Computer Operating",
+        "Data Entry",
+        "Back Office",
+        "Typing",
+        "Email",
+        "Word",
+        "Typing Speed",
+        "Backend Operations"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Back Office Operations Executive\nRECRUIT DIARY\nPosted by Recruit Diary\n0-3 Yrs\n1.75-3.75 Lacs PA\nRemote\n. Freshers and experienced candidates can applyPreferred candidate profile Basic comput...\nComputer OperatingData EntryBack OfficeTypingEmailWordTyping SpeedBackend Operations\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Data Entry Executive",
+      "url": "https://www.naukri.com/job-listings-data-entry-executive-recruit-diary-chandigarh-0-to-4-years-151026006960",
+      "portal_job_id": "151026006960",
+      "employer": "RECRUIT DIARY",
+      "card_skills": [
+        "Computer Operating",
+        "Non Voice",
+        "Data Entry",
+        "Backend",
+        "Typing",
+        "Non Voice Process",
+        "Backend Operations",
+        "Data Entry Operation"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Data Entry Executive\nRECRUIT DIARY\nPosted by Recruit Diary\n0-4 Yrs\n2-4 Lacs PA\nRemote\nThe candidate should have basic computer knowledge, proficiency in MS Excel, and good t...\nComputer OperatingNon VoiceData EntryBackendTypingNon Voice ProcessBackend OperationsData Entry Operation\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Software Developer",
+      "url": "https://www.naukri.com/job-listings-software-developer-starrise-recruitment-pimpri-chinchwad-hyderabad-pune-0-to-2-years-151026005096",
+      "portal_job_id": "151026005096",
+      "employer": "MNC",
+      "card_skills": [
+        "Java",
+        "SQL",
+        "Fullstack Development",
+        "Frontend Development",
+        "Javascript",
+        "CSS",
+        "C++",
+        "c"
+      ],
+      "card_location": "Hybrid - Pune, Hyderabad, Pimpri-Chinchwad",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Software Developer\nMNC\nPosted by Starrise Recruitment\n0-2 Yrs\n2.75-5.5 Lacs PA\nHybrid - Pune, Hyderabad, Pimpri-Chinchwad\n SOFTWARE DEVELOPER START YOUR IT CAREER WITH US!Are you a Fresher looking for your fir...\nJavaSQLFullstack DevelopmentFrontend DevelopmentJavascriptCSSC++c\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": null
+    },
+    {
+      "title": "Back Office Operations Executive | Work From Home | Freshers Welcome",
+      "url": "https://www.naukri.com/job-listings-back-office-operations-executive-work-from-home-freshers-welcome-gens-hiree-mohali-0-to-4-years-151026000173",
+      "portal_job_id": "151026000173",
+      "employer": "Gens Hiree",
+      "card_skills": [
+        "BPO Non Voice",
+        "MIS Operations",
+        "Backend Operations",
+        "Back Office",
+        "Blended Process",
+        "Email Support",
+        "Typing Speed",
+        "Solving Queries"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Today",
+      "card_excerpt": "Back Office Operations Executive | Work From Home | Freshers Welcome\nGens Hiree\nPosted by Gens Hiree\n0-4 Yrs\n3-4 Lacs PA\nRemote\nThis is a Work From Home opportunity and is a great fit for freshers who want to start ...\nBPO Non VoiceMIS OperationsBackend OperationsBack OfficeBlended ProcessEmail SupportTyping SpeedSolving Queries\nToday\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Data Entry Executive | Work From Home & Office Both",
+      "url": "https://www.naukri.com/job-listings-data-entry-executive-work-from-home-office-both-gens-hiree-chandigarh-0-to-4-years-151026000170",
+      "portal_job_id": "151026000170",
+      "employer": "Gens Hiree",
+      "card_skills": [
+        "Typing",
+        "Computer Operating",
+        "Non Voice",
+        "Back Office",
+        "Data Entry Operation",
+        "Blended Process",
+        "BPO Non Voice",
+        "Email Support"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Today",
+      "card_excerpt": "Data Entry Executive | Work From Home & Office Both\nGens Hiree\nPosted by Gens Hiree\n0-4 Yrs\n3.5-4.25 Lacs PA\nRemote\n- Fresher And Experience Both Can Apply No Target Work\nTypingComputer OperatingNon VoiceBack OfficeData Entry OperationBlended ProcessBPO Non VoiceEmail Support\nToday\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Back Office Operations Executive | Work From Home | Freshers Welcome",
+      "url": "https://www.naukri.com/job-listings-back-office-operations-executive-work-from-home-freshers-welcome-gens-hiree-nagpur-0-to-4-years-151026000169",
+      "portal_job_id": "151026000169",
+      "employer": "Gens Hiree",
+      "card_skills": [
+        "Blended Process",
+        "BPO Non Voice",
+        "MIS Operations",
+        "Backend Operations",
+        "Back Office",
+        "Email Support",
+        "Typing Speed",
+        "Solving Queries"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Today",
+      "card_excerpt": "Back Office Operations Executive | Work From Home | Freshers Welcome\nGens Hiree\nPosted by Gens Hiree\n0-4 Yrs\n3-4 Lacs PA\nRemote\nThis is a Work From Home opportunity and is a great fit for freshers who want to start ...\nBlended ProcessBPO Non VoiceMIS OperationsBackend OperationsBack OfficeEmail SupportTyping SpeedSolving Queries\nToday\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Data Entry Executive | Work From Home & Office Both",
+      "url": "https://www.naukri.com/job-listings-data-entry-executive-work-from-home-office-both-gens-hiree-nagpur-0-to-4-years-151026000167",
+      "portal_job_id": "151026000167",
+      "employer": "Gens Hiree",
+      "card_skills": [
+        "Computer Operating",
+        "Non Voice",
+        "Backend",
+        "Back Office",
+        "Data Entry Operation",
+        "Blended Process",
+        "BPO Non Voice",
+        "Email Support"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Today",
+      "card_excerpt": "Data Entry Executive | Work From Home & Office Both\nGens Hiree\nPosted by Gens Hiree\n0-4 Yrs\n3.5-4.25 Lacs PA\nRemote\n- Fresher And Experience Both Can Apply No Target Work\nComputer OperatingNon VoiceBackendBack OfficeData Entry OperationBlended ProcessBPO Non VoiceEmail Support\nToday\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Data Entry Executive | Work From Home & Office Both",
+      "url": "https://www.naukri.com/job-listings-data-entry-executive-work-from-home-office-both-gens-hiree-pune-0-to-4-years-151026000154",
+      "portal_job_id": "151026000154",
+      "employer": "Gens Hiree",
+      "card_skills": [
+        "Computer Operating",
+        "Non Voice",
+        "Data Entry Operation",
+        "Blended Process",
+        "BPO Non Voice",
+        "Email Support",
+        "12th",
+        "Typing"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Today",
+      "card_excerpt": "Data Entry Executive | Work From Home & Office Both\nGens Hiree\nPosted by Gens Hiree\n0-4 Yrs\n3-4 Lacs PA\nRemote\n- Fresher And Experience Both Can Apply No Target Work\nComputer OperatingNon VoiceData Entry OperationBlended ProcessBPO Non VoiceEmail Support12thTyping\nToday\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Back Office Operations Executive | Work From Home | Freshers Welcome",
+      "url": "https://www.naukri.com/job-listings-back-office-operations-executive-work-from-home-freshers-welcome-gens-hiree-pune-0-to-4-years-151026000153",
+      "portal_job_id": "151026000153",
+      "employer": "Gens Hiree",
+      "card_skills": [
+        "BPO Non Voice",
+        "MIS Operations",
+        "Backend Operations",
+        "Back Office",
+        "Blended Process",
+        "Email Support",
+        "Typing Speed",
+        "Solving Queries"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Today",
+      "card_excerpt": "Back Office Operations Executive | Work From Home | Freshers Welcome\nGens Hiree\nPosted by Gens Hiree\n0-4 Yrs\n3-4 Lacs PA\nRemote\nThis is a Work From Home opportunity and is a great fit for freshers who want to start ...\nBPO Non VoiceMIS OperationsBackend OperationsBack OfficeBlended ProcessEmail SupportTyping SpeedSolving Queries\nToday\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Back Office Operations Executive | Work From Home | Freshers Welcome",
+      "url": "https://www.naukri.com/job-listings-back-office-operations-executive-work-from-home-freshers-welcome-gens-hiree-bengaluru-0-to-4-years-151026000152",
+      "portal_job_id": "151026000152",
+      "employer": "Gens Hiree",
+      "card_skills": [
+        "BPO Non Voice",
+        "MIS Operations",
+        "Backend Operations",
+        "Back Office",
+        "Blended Process",
+        "Email Support",
+        "Typing Speed",
+        "Solving Queries"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Today",
+      "card_excerpt": "Back Office Operations Executive | Work From Home | Freshers Welcome\nGens Hiree\nPosted by Gens Hiree\n0-4 Yrs\n3-4 Lacs PA\nRemote\nThis is a Work From Home opportunity and is a great fit for freshers who want to start ...\nBPO Non VoiceMIS OperationsBackend OperationsBack OfficeBlended ProcessEmail SupportTyping SpeedSolving Queries\nToday\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Data Entry Executive | Work From Home & Office Both",
+      "url": "https://www.naukri.com/job-listings-data-entry-executive-work-from-home-office-both-gens-hiree-bengaluru-0-to-4-years-151026000149",
+      "portal_job_id": "151026000149",
+      "employer": "Gens Hiree",
+      "card_skills": [
+        "Computer Operating",
+        "Non Voice",
+        "Data Entry Operation",
+        "Blended Process",
+        "BPO Non Voice",
+        "Email Support",
+        "12th",
+        "Typing"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Today",
+      "card_excerpt": "Data Entry Executive | Work From Home & Office Both\nGens Hiree\nPosted by Gens Hiree\n0-4 Yrs\n3-4 Lacs PA\nRemote\n- Fresher And Experience Both Can Apply No Target Work\nComputer OperatingNon VoiceData Entry OperationBlended ProcessBPO Non VoiceEmail Support12thTyping\nToday\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Back Office Operations Executive | Work From Home | Freshers Welcome",
+      "url": "https://www.naukri.com/job-listings-back-office-operations-executive-work-from-home-freshers-welcome-gens-hiree-hyderabad-0-to-5-years-151026000147",
+      "portal_job_id": "151026000147",
+      "employer": "Gens Hiree",
+      "card_skills": [
+        "BPO Non Voice",
+        "MIS Operations",
+        "Backend Operations",
+        "Back Office",
+        "Blended Process",
+        "Email Support",
+        "Typing Speed",
+        "Solving Queries"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Today",
+      "card_excerpt": "Back Office Operations Executive | Work From Home | Freshers Welcome\nGens Hiree\nPosted by Gens Hiree\n0-5 Yrs\n3-7.5 Lacs PA\nRemote\nThis is a Work From Home opportunity and is a great fit for freshers who want to start ...\nBPO Non VoiceMIS OperationsBackend OperationsBack OfficeBlended ProcessEmail SupportTyping SpeedSolving Queries\nToday\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Data Entry Executive | Work From Home & Office Both",
+      "url": "https://www.naukri.com/job-listings-data-entry-executive-work-from-home-office-both-gens-hiree-hyderabad-0-to-5-years-151026000146",
+      "portal_job_id": "151026000146",
+      "employer": "Gens Hiree",
+      "card_skills": [
+        "Computer Operating",
+        "Non Voice",
+        "Data Entry Operation",
+        "Blended Process",
+        "BPO Non Voice",
+        "Email Support",
+        "12th",
+        "Typing"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Today",
+      "card_excerpt": "Data Entry Executive | Work From Home & Office Both\nGens Hiree\nPosted by Gens Hiree\n0-5 Yrs\n3-7 Lacs PA\nRemote\n- Fresher And Experience Both Can Apply No Target Work\nComputer OperatingNon VoiceData Entry OperationBlended ProcessBPO Non VoiceEmail Support12thTyping\nToday\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Dot Net Developer",
+      "url": "https://www.naukri.com/job-listings-dot-net-developer-medi-assist-bangalore-rural-bengaluru-2-to-5-years-141026012384",
+      "portal_job_id": "141026012384",
+      "employer": "Medi Assist",
+      "card_skills": [
+        ".NET",
+        "Backend Development",
+        ".NET Core",
+        "ASP.NET Core MVC",
+        "ASP.NET Core",
+        "Net MVC",
+        "ASP.NET",
+        "Core"
+      ],
+      "card_location": "Bengaluru, Bangalore Rural",
+      "posted_at": null,
+      "posted_text": "Today",
+      "card_excerpt": "Dot Net Developer\nMedi Assist\n3.4\n2091 Reviews\n2-5 Yrs\nBengaluru, Bangalore Rural\n About Medi Assist: We provide third party administration services to insurance compan...\n.NETBackend Development.NET CoreASP.NET Core MVCASP.NET CoreNet MVCASP.NETCore\nToday\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Data Quality Engineer",
+      "url": "https://www.naukri.com/job-listings-data-quality-engineer-epam-systems-hyderabad-chennai-bengaluru-3-to-8-years-121026013470",
+      "portal_job_id": "121026013470",
+      "employer": "Epam Systems",
+      "card_skills": [
+        "Data Validation",
+        "Test Automation Framework",
+        "CD",
+        "Automation",
+        "Ci/Cd",
+        "Quality Engineering",
+        "SQL",
+        "Jenkins"
+      ],
+      "card_location": "Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Data Quality Engineer\nEpam Systems\n3.7\n2326 Reviews\n3-8 Yrs\nBengaluru, Hyderabad, Chennai\nProfessional experience of 4-6 years in data quality engineering, including ETL automat...\nData ValidationTest Automation FrameworkCDAutomationCi/CdQuality EngineeringSQLJenkins\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Data Quality Engineer",
+      "url": "https://www.naukri.com/job-listings-data-quality-engineer-epam-systems-hyderabad-chennai-bengaluru-3-to-8-years-121026011427",
+      "portal_job_id": "121026011427",
+      "employer": "Epam Systems",
+      "card_skills": [
+        "Data Validation",
+        "Test Automation Framework",
+        "CD",
+        "Automating",
+        "Software Testing",
+        "Ci/Cd",
+        "Quality Engineering",
+        "SQL"
+      ],
+      "card_location": "Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Data Quality Engineer\nEpam Systems\n3.7\n2326 Reviews\n3-8 Yrs\nBengaluru, Hyderabad, Chennai\n4-6 years of professional experience in ETL automation and testing for Data Warehouse /...\nData ValidationTest Automation FrameworkCDAutomatingSoftware TestingCi/CdQuality EngineeringSQL\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Data Quality Engineer",
+      "url": "https://www.naukri.com/job-listings-data-quality-engineer-epam-systems-hyderabad-chennai-bengaluru-3-to-8-years-121026013389",
+      "portal_job_id": "121026013389",
+      "employer": "Epam Systems",
+      "card_skills": [
+        "Data Validation",
+        "Test Automation Framework",
+        "CD",
+        "Ci/Cd",
+        "Quality Engineering",
+        "SQL",
+        "Jenkins",
+        "Data Quality"
+      ],
+      "card_location": "Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Data Quality Engineer\nEpam Systems\n3.7\n2326 Reviews\n3-8 Yrs\nBengaluru, Hyderabad, Chennai\nBasic understanding of data governance and metadata management concepts. Certification ...\nData ValidationTest Automation FrameworkCDCi/CdQuality EngineeringSQLJenkinsData Quality\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Data Quality Engineer",
+      "url": "https://www.naukri.com/job-listings-data-quality-engineer-epam-systems-hyderabad-chennai-bengaluru-3-to-8-years-121026012306",
+      "portal_job_id": "121026012306",
+      "employer": "Epam Systems",
+      "card_skills": [
+        "Test Automation Framework",
+        "CD",
+        "Lambda Expressions",
+        "Bigquery",
+        "Ci/Cd",
+        "Quality Testing",
+        "Quality Engineering",
+        "SQL"
+      ],
+      "card_location": "Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Data Quality Engineer\nEpam Systems\n3.7\n2326 Reviews\n3-8 Yrs\nBengaluru, Hyderabad, Chennai\n4-6 years of relevant experience in ETL automation plus Data Warehouse / Data Lake test...\nTest Automation FrameworkCDLambda ExpressionsBigqueryCi/CdQuality TestingQuality EngineeringSQL\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Dot Net Developer",
+      "url": "https://www.naukri.com/job-listings-dot-net-developer-medi-assist-bangalore-rural-bengaluru-2-to-5-years-141026012384",
+      "portal_job_id": "141026012384",
+      "employer": "Medi Assist",
+      "card_skills": [
+        ".NET",
+        "Backend Development",
+        ".NET Core",
+        "ASP.NET Core MVC",
+        "ASP.NET Core",
+        "Net MVC",
+        "ASP.NET",
+        "Core"
+      ],
+      "card_location": "Bengaluru, Bangalore Rural",
+      "posted_at": null,
+      "posted_text": "Today",
+      "card_excerpt": "Dot Net Developer\nMedi Assist\n3.4\n2091 Reviews\n2-5 Yrs\nBengaluru, Bangalore Rural\n About Medi Assist: We provide third party administration services to insurance compan...\n.NETBackend Development.NET CoreASP.NET Core MVCASP.NET CoreNet MVCASP.NETCore\nToday\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Java Developer",
+      "url": "https://www.naukri.com/job-listings-java-developer-mobily-infotech-mit-bengaluru-2-to-4-years-141026019111",
+      "portal_job_id": "141026019111",
+      "employer": "Mobily Infotech (MIT)",
+      "card_skills": [
+        "Java",
+        "API",
+        "Spring",
+        "SQL",
+        "Development",
+        "Java Development"
+      ],
+      "card_location": "Hybrid - Bengaluru",
+      "posted_at": null,
+      "posted_text": "Today",
+      "card_excerpt": "Java Developer\nMobily Infotech (MIT)\n3.1\n128 Reviews\n2-4 Yrs\nHybrid - Bengaluru\nAdditional Technical Skills (Preferred). Project Management & Collaboration : Jira, Con...\nJavaAPISpringSQLDevelopmentJava Development\nToday\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": null
+    },
+    {
+      "title": "Software Developer To Data Analyst(Engineer)",
+      "url": "https://www.naukri.com/job-listings-software-developer-to-data-analyst-engineer-oasis-technology-and-consulting-services-chennai-bengaluru-3-to-8-years-151026000100",
+      "portal_job_id": "151026000100",
+      "employer": "Oasis Technology And Consulting Services",
+      "card_skills": [
+        "AWS",
+        "Python",
+        "Java",
+        "Artificial Intelligence",
+        "ETL",
+        "Big Data Analytics",
+        "Al",
+        "Tableau"
+      ],
+      "card_location": "Bengaluru, Chennai",
+      "posted_at": null,
+      "posted_text": "Today",
+      "card_excerpt": "Software Developer To Data Analyst(Engineer)\nOasis Technology And Consulting Services\n3-8 Yrs\n7.5-17.5 Lacs PA\nBengaluru, Chennai\nEnsure high-quality code by following best practices in design patterns, testing framew...\nAWSPythonJavaArtificial IntelligenceETLBig Data AnalyticsAlTableau\nToday\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": null
+    },
+    {
+      "title": "ERPNext Developer",
+      "url": "https://www.naukri.com/job-listings-erpnext-developer-talentrouters-chennai-1-to-3-years-141026041550",
+      "portal_job_id": "141026041550",
+      "employer": "TalentRouters",
+      "card_skills": [
+        "Mariadb",
+        "ERP next",
+        "Frappe Framework",
+        "Software Engineering",
+        "Software",
+        "ERP",
+        "Engineering",
+        "Framework"
+      ],
+      "card_location": "Chennai",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "ERPNext Developer\nTalentRouters\nPosted by Talentrouters\n1-3 Yrs\n2.5-4.25 Lacs PA\nChennai\nCandidates who do not have ERPNext development experience or who cannot join within 15 ...\nMariadbERP nextFrappe FrameworkSoftware EngineeringSoftwareERPEngineeringFramework\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Growth engineer",
+      "url": "https://www.naukri.com/job-listings-growth-engineer-nayberry-chandigarh-1-to-5-years-141026041328",
+      "portal_job_id": "141026041328",
+      "employer": "Nayberry",
+      "card_skills": [
+        "Growth Marketing",
+        "User Acquisition",
+        "Digital Marketing",
+        "Growth Strategy",
+        "Performance Marketing",
+        "Growth Hacking",
+        "Customer Acquisition",
+        "Hacking"
+      ],
+      "card_location": "Chandigarh",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Growth engineer\nNayberry\n1-5 Yrs\n96,000-1.44 Lacs PA\nChandigarh\nResponsibilities:Develop growth strategies for user acquisition & retentionOptimize per...\nGrowth MarketingUser AcquisitionDigital MarketingGrowth StrategyPerformance MarketingGrowth HackingCustomer AcquisitionHacking\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Platform Engineer",
+      "url": "https://www.naukri.com/job-listings-platform-engineer-kochava-india-bengaluru-3-to-6-years-141026040919",
+      "portal_job_id": "141026040919",
+      "employer": "Kochava India",
+      "card_skills": [
+        "Backend Development",
+        "GCP",
+        "Site Reliability Engineering",
+        "Kubernetes",
+        "Python",
+        "Golang",
+        "Airflow",
+        "Pubsub"
+      ],
+      "card_location": "Hybrid - Bengaluru",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Platform Engineer\nKochava India\n3-6 Yrs\n35-45 Lacs PA\nHybrid - Bengaluru\n Platform Engineer SRE & Application DevelopmentAbout the RoleWe are looking for a high...\nBackend DevelopmentGCPSite Reliability EngineeringKubernetesPythonGolangAirflowPubsub\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Java Spring Boot Microservices",
+      "url": "https://www.naukri.com/job-listings-java-spring-boot-microservices-infosys-kolkata-pune-bengaluru-2-to-7-years-141026040566",
+      "portal_job_id": "141026040566",
+      "employer": "Infosys",
+      "card_skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Spring Microservices",
+        "Java Spring Boot",
+        "Spring",
+        "Boot"
+      ],
+      "card_location": "Hybrid - Pune, Bengaluru, Kolkata",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Java Spring Boot Microservices\nInfosys\n3.5\n53080 Reviews\n2-7 Yrs\nHybrid - Pune, Bengaluru, Kolkata\nThe ideal candidate should have strong expertise in Java, Spring Boot, Microservices Ar...\nJavaSpring BootMicroservicesSpring MicroservicesJava Spring BootSpringBoot\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": null
+    },
+    {
+      "title": "JAVA Springboot Microservices -INF (2-9)YRS",
+      "url": "https://www.naukri.com/job-listings-java-springboot-microservices-inf-2-9-yrs-infosys-hyderabad-chennai-bengaluru-2-to-7-years-200826033407",
+      "portal_job_id": "200826033407",
+      "employer": "Infosys",
+      "card_skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Java Development",
+        "Spring Microservices",
+        "Java Spring Boot",
+        "Development",
+        "Spring"
+      ],
+      "card_location": "Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "JAVA Springboot Microservices -INF (2-9)YRS\nInfosys\n3.5\n53080 Reviews\n2-7 Yrs\nBengaluru, Hyderabad, Chennai\nThere is a huge requirement for Java Developer . Technical and Professional Requiremen...\nJavaSpring BootMicroservicesJava DevelopmentSpring MicroservicesJava Spring BootDevelopmentSpring\nPrefers women\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": null
+    },
+    {
+      "title": "Java Developer-INF (3 -5 YRS)",
+      "url": "https://www.naukri.com/job-listings-java-developer-inf-3-5-yrs-infosys-hyderabad-chennai-bengaluru-3-to-6-years-100826023702",
+      "portal_job_id": "100826023702",
+      "employer": "Infosys",
+      "card_skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "Spring",
+        "Boot"
+      ],
+      "card_location": "Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Java Developer-INF (3 -5 YRS)\nInfosys\n3.5\n53080 Reviews\n3-6 Yrs\nBengaluru, Hyderabad, Chennai\nPreferred Skills: Technology->Java->Springboot . .\nJavaSpring BootMicroservicesSpringBoot\nPrefers women\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": null
+    },
+    {
+      "title": "Java Full Stack Developer (React js)_ (2-3 Years)",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-react-js-2-3-years-infosys-hyderabad-chennai-bengaluru-2-to-3-years-190826009541",
+      "portal_job_id": "190826009541",
+      "employer": "Infosys",
+      "card_skills": [
+        "Java Fullstack",
+        "React.js",
+        "Reacts Js",
+        "Java",
+        "Spring Boot",
+        "Boot",
+        "Javascript",
+        "Full Stack"
+      ],
+      "card_location": "Hybrid - Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Java Full Stack Developer (React js)_ (2-3 Years)\nInfosys\n3.5\n53080 Reviews\n2-3 Yrs\nHybrid - Bengaluru, Hyderabad, Chennai\nand build POCs You will create requirement specifications from the business needs, defi...\nJava FullstackReact.jsReacts JsJavaSpring BootBootJavascriptFull Stack\nPrefers women\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": null
+    },
+    {
+      "title": "Java Full Stack Developer(Angular/React)(2-3 years)",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-react-2-3-years-infosys-hyderabad-chennai-bengaluru-2-to-3-years-030826024220",
+      "portal_job_id": "030826024220",
+      "employer": "Infosys",
+      "card_skills": [
+        "Java",
+        "Spring Boot",
+        "React.js",
+        "Angular",
+        "Boot",
+        "Angular React",
+        "Bootstrap",
+        "Full Stack"
+      ],
+      "card_location": "Hybrid - Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Java Full Stack Developer(Angular/React)(2-3 years)\nInfosys\n3.5\n53080 Reviews\n2-3 Yrs\nHybrid - Bengaluru, Hyderabad, Chennai\nThere is a huge requirement for Java Fullstack and these skills are mandatory (Java, Sp...\nJavaSpring BootReact.jsAngularBootAngular ReactBootstrapFull Stack\nPrefers women\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": null
+    },
+    {
+      "title": "java+reactjs (2-15)-INF",
+      "url": "https://www.naukri.com/job-listings-java-reactjs-2-15-inf-infosys-hyderabad-chennai-bengaluru-2-to-3-years-270726031005",
+      "portal_job_id": "270726031005",
+      "employer": "Infosys",
+      "card_skills": [
+        "Java",
+        "Spring Boot",
+        "React.js",
+        "Java Fullstack",
+        "Boot",
+        "Full Stack",
+        "Spring"
+      ],
+      "card_location": "Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "java+reactjs (2-15)-INF\nInfosys\n3.5\n53080 Reviews\n2-3 Yrs\nBengaluru, Hyderabad, Chennai\nPreferred Skills: Technology->Java->Java - ALL\nJavaSpring BootReact.jsJava FullstackBootFull StackSpring\nPrefers women\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": null
+    },
+    {
+      "title": "Ad ops Engineer",
+      "url": "https://www.naukri.com/job-listings-ad-ops-engineer-indium-software-bengaluru-2-to-4-years-141026039050",
+      "portal_job_id": "141026039050",
+      "employer": "Indium Software",
+      "card_skills": [
+        "Ad Trafficking",
+        "Ad Operations",
+        "DSP",
+        "Ad Agency",
+        "Online Advertising",
+        "Ad Server",
+        "Trafficking",
+        "Campaigns"
+      ],
+      "card_location": "Bengaluru",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Ad ops Engineer\nIndium Software\n3.9\n1447 Reviews\n2-4 Yrs\n3-8 Lacs PA\nBengaluru\nWork Location: Bangalore Shift : DayShift Timing : 7.30 Am to 4.30 PM2-4 years of work ...\nAd TraffickingAd OperationsDSPAd AgencyOnline AdvertisingAd ServerTraffickingCampaigns\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Associate Consultant",
+      "url": "https://www.naukri.com/job-listings-associate-consultant-cherish-hr-services-noida-gurugram-bengaluru-2-to-4-years-141026038725",
+      "portal_job_id": "141026038725",
+      "employer": "Big 4 Accounting Firms",
+      "card_skills": [
+        "Azure Cloud",
+        "Reacts Js",
+        "Integration",
+        "DevOps",
+        "Azure Pipelines",
+        "Terraform",
+        ".NET",
+        "Ci/Cd"
+      ],
+      "card_location": "Noida, Bengaluru, Gurugram",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Associate Consultant\nBig 4 Accounting Firms\nPosted by Cherish Hr Services\n2-4 Yrs\n10-12 Lacs PA\nNoida, Bengaluru, Gurugram\n Job Title: Junior Azure Integrations Support Engineer Role OverviewThe Junior Azure In...\nAzure CloudReacts JsIntegrationDevOpsAzure PipelinesTerraform.NETCi/Cd\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Azure DevOps Engineer",
+      "url": "https://www.naukri.com/job-listings-azure-devops-engineer-acesoft-labs-bengaluru-3-to-7-years-141026038671",
+      "portal_job_id": "141026038671",
+      "employer": "Acesoft Labs",
+      "card_skills": [
+        "Argo CD",
+        "Ci/Cd",
+        "Azure DevOps",
+        "Kubernetes",
+        "Jenkins",
+        "Docker",
+        "Github",
+        "Cd"
+      ],
+      "card_location": "Hybrid - Bengaluru",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Azure DevOps Engineer\nAcesoft Labs\nPosted by Acesoft Labs\n3-7 Yrs\nHybrid - Bengaluru\n DescriptionAzure DevOps EngineerRole: Azure DevOps EngineerExperience: unto 5 years, P...\nArgo CDCi/CdAzure DevOpsKubernetesJenkinsDockerGithubCd\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Rust Developer",
+      "url": "https://www.naukri.com/job-listings-rust-developer-vyntrapro-innovations-gurugram-3-to-6-years-141026037946",
+      "portal_job_id": "141026037946",
+      "employer": "Vyntrapro Innovations",
+      "card_skills": [
+        "PostgreSQL",
+        "MySQL",
+        "Jenkins",
+        "Agile/Scrum",
+        "gRPC services",
+        "Rust",
+        "TDD",
+        "GitHub"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Rust Developer\nVyntrapro Innovations\n4.6\n30 Reviews\n3-6 Yrs\n20-22.5 Lacs PA\nRemote\nBachelors or Masters degree in Computer Science or related engineering fieldMust have 2...\nPostgreSQLMySQLJenkinsAgile/ScrumgRPC servicesRustTDDGitHub\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    }
+  ]
+}

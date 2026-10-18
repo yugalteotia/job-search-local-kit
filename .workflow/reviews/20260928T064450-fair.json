@@ -1,0 +1,72 @@
+{
+  "mode": "read_only",
+  "queued_for_review": 0,
+  "reviewed": 0,
+  "by_source": {},
+  "by_company": {},
+  "high": 0,
+  "queued_for_resume": 0,
+  "roles": [],
+  "top_hard_filtered": [
+    {
+      "job_id": 104,
+      "company": "Celonis",
+      "role": "Customer Support Engineer - Level 1",
+      "source": "celonis_greenhouse",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/6647315003",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Primary role title is outside Java/Spring backend target",
+        "Title does not indicate a target software engineering role"
+      ]
+    },
+    {
+      "job_id": 23,
+      "company": "Brillio",
+      "role": "AI/ML Engineer - R01570580",
+      "source": "brillio_lever",
+      "direct_url": "https://jobs.lever.co/brillio-2/e899238d-c1f9-4196-8595-16d64cb1aff7",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Primary role title is outside Java/Spring backend target",
+        "Title does not indicate a target software engineering role"
+      ]
+    },
+    {
+      "job_id": 59,
+      "company": "Brillio",
+      "role": "Data Engineer - R01571442",
+      "source": "brillio_lever",
+      "direct_url": "https://jobs.lever.co/brillio-2/4eab5886-5daf-42f2-bdfb-e0fb8dcc8b8c",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Primary role title is outside Java/Spring backend target",
+        "Title does not indicate a target software engineering role"
+      ]
+    },
+    {
+      "job_id": 166,
+      "company": "Celonis",
+      "role": "Manager, Value Engineering",
+      "source": "celonis_greenhouse",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7635358003",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Primary role title is outside Java/Spring backend target",
+        "Title does not indicate a target software engineering role"
+      ]
+    },
+    {
+      "job_id": 169,
+      "company": "Brillio",
+      "role": "DB Migration Engineer - R01531207",
+      "source": "brillio_lever",
+      "direct_url": "https://jobs.lever.co/brillio-2/e83c8652-20c8-4640-93d8-cea560717ec2",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Primary role title is outside Java/Spring backend target",
+        "Title does not indicate a target software engineering role"
+      ]
+    }
+  ]
+}

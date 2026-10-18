@@ -1,0 +1,346 @@
+- generic [ref=f24e1]:
+  - link "Go to the main content section." [ref=f24e2] [cursor=pointer]:
+    - /url: "#mainContent"
+  - text:     
+  - generic [ref=f24e3]:
+    - generic [ref=f24e8]:
+      - generic:
+        - textbox [ref=f24e9]
+        - button ""
+      - generic [ref=f24e11]:
+        - link [ref=f24e13] [cursor=pointer]:
+          - /url: https://careers.unitedhealthgroup.com/
+          - img "UHG Logo" [ref=f24e14]
+        - generic [ref=f24e15]:
+          - list [ref=f24e17]:
+            - listitem [ref=f24e18]:
+              - link "My Profile" [ref=f24e19] [cursor=pointer]:
+                - /url: https://uhg.taleo.net/careersection/10000/profile.ftl?lang=en
+            - listitem [ref=f24e20]:
+              - link "Join Our Talent Community" [ref=f24e21] [cursor=pointer]:
+                - /url: https://www.unitedhealthgroup.com/careers/en/hiring-process/join-our-talent-community.html
+            - listitem [ref=f24e22]:
+              - link "My Dashboard" [ref=f24e23] [cursor=pointer]:
+                - /url: https://uhg.taleo.net/careersection/10000/mysubmissions.ftl?lang=en
+          - list [ref=f24e25]:
+            - listitem [ref=f24e26]:
+              - link "Work Here" [ref=f24e27] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/work.html
+            - listitem [ref=f24e28]:
+              - link "Our Culture" [ref=f24e29] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/culture.html
+            - listitem [ref=f24e30]:
+              - link "Hiring Process & Guidance" [ref=f24e31] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/hiring-process.html
+            - listitem [ref=f24e32]:
+              - link "Early Careers" [ref=f24e33] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/early-careers.html
+            - listitem [ref=f24e34]:
+              - link "Blog" [ref=f24e35] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/blog.html
+    - generic [ref=f24e36]: Improve the lives of others while Caring. Connecting. Growing together.
+    - generic [ref=f24e40]:
+      - generic [ref=f24e42]:
+        - generic [ref=f24e43]:
+          - generic [ref=f24e44]: YUGAL TEOTIA, you are signed in.
+          - generic [aria-hidden] [ref=f24e47]: "|"
+          - link "Sign Out" [ref=f24e49] [cursor=pointer]:
+            - /url: "#"
+        - list [ref=f24e50]:
+          - listitem [ref=f24e51]:
+            - generic:
+              - link "Go to the section":
+                - /url: "#"
+          - listitem [ref=f24e52]:
+            - link "My Dashboard" [ref=f24e53] [cursor=pointer]:
+              - /url: "#"
+      - generic [ref=f24e54]:
+        - generic [ref=f24e55]:
+          - generic [ref=f24e56]:
+            - text: "Applying for:"
+            - 'link "Software Engineer - Java Fullstack (Job Number: 2388999)" [ref=f24e59] [cursor=pointer]':
+              - /url: "#"
+            - generic [ref=f24e60] [cursor=pointer]
+          - table [ref=f24e62]:
+            - rowgroup [ref=f24e63]:
+              - row [ref=f24e64]:
+                - cell [ref=f24e65]:
+                  - list [ref=f24e69]:
+                    - group "Section allowing navigation through the pages of the job submission flow" [ref=f24e70]:
+                      - listitem [ref=f24e73]:
+                        - link "Attachments" [ref=f24e77] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f24e80]:
+                        - link "About You" [ref=f24e84] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f24e87]:
+                        - link "Education and Experience" [ref=f24e91] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f24e94]:
+                        - link "Job Profile Questions" [ref=f24e98] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f24e101]:
+                        - link "eSignature" [ref=f24e105] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f24e108]:
+                        - generic [ref=f24e109]: Review and Submit
+          - button "Submit" [ref=f24e116] [cursor=pointer]
+        - generic [ref=f24e117]:
+          - link "Beginning of the main content section." [ref=f24e118] [cursor=pointer]:
+            - /url: "#"
+          - table [ref=f24e120]:
+            - rowgroup [ref=f24e121]:
+              - row [ref=f24e122]:
+                - cell [ref=f24e123]:
+                  - heading "Review and Submit" [level=1] [ref=f24e124]
+                  - generic [ref=f24e127]: The following information will be submitted after you click the Submit button. Where an Edit link is displayed, you can modify the corresponding information.
+                  - generic [ref=f24e129]:
+                    - generic [ref=f24e130]:
+                      - heading "Attachments" [level=2] [ref=f24e131]
+                      - generic [aria-hidden] [ref=f24e134]: "|"
+                      - link "Edit" [ref=f24e136] [cursor=pointer]:
+                        - /url: "#"
+                    - generic [ref=f24e139]:
+                      - generic [ref=f24e140]:
+                        - heading [level=3]
+                      - table [ref=f24e143]:
+                        - rowgroup [ref=f24e144]:
+                          - row [ref=f24e145]:
+                            - columnheader "Relevant Files" [ref=f24e146]
+                            - columnheader "Resume / CV" [ref=f24e149]
+                            - columnheader "File Name" [ref=f24e152]
+                            - columnheader "Date" [ref=f24e155]
+                            - columnheader "Comments" [ref=f24e158]
+                        - rowgroup [ref=f24e161]:
+                          - row [ref=f24e162]:
+                            - cell "Yes" [ref=f24e163]
+                            - cell "Yes" [ref=f24e165]
+                            - cell [ref=f24e167]:
+                              - link "Tailored_Resume_v2.pdf" [ref=f24e168] [cursor=pointer]:
+                                - /url: /careersection/viewAttachedFile.jss?attachmentNo=52822786&portalCode=10780&candidateNo=39261341&applicationNo=77365054
+                            - cell "9/28/26" [ref=f24e169]
+                            - cell "39261341" [ref=f24e171]
+                  - generic [ref=f24e173]:
+                    - generic [ref=f24e174]:
+                      - heading "About You" [level=2] [ref=f24e175]
+                      - generic [aria-hidden] [ref=f24e178]: "|"
+                      - link "Edit" [ref=f24e180] [cursor=pointer]:
+                        - /url: "#"
+                    - generic [ref=f24e182]:
+                      - heading "Source Tracking" [level=3] [ref=f24e185]
+                      - generic [ref=f24e187]:
+                        - generic [ref=f24e188]: Source Type
+                        - generic [ref=f24e191]: Other
+                        - generic [ref=f24e194]: Source
+                        - generic [ref=f24e197]: Give 'Other' Explanation
+                        - generic [ref=f24e200]: Source Detail
+                        - generic [ref=f24e203]: Shine job listing
+                    - generic [ref=f24e206]:
+                      - heading "Personal Information" [level=3] [ref=f24e209]
+                      - generic [ref=f24e211]:
+                        - generic [ref=f24e212]: Full Name
+                        - generic [ref=f24e215]: YUGAL TEOTIA
+                        - generic [ref=f24e218]: Country Code
+                        - generic [ref=f24e221]: "91"
+                        - generic [ref=f24e224]: Preferred Phone Number (ex 1231231234)
+                        - generic [ref=f24e227]: "9560369538"
+                        - generic [ref=f24e230]: Email Address
+                        - generic [ref=f24e233]: teotia.yugal@gmail.com
+                        - generic [ref=f24e236]: Gender
+                        - generic [ref=f24e239]: Male
+                        - generic [ref=f24e242]: Have you served in the Indian Armed forces?
+                        - generic [ref=f24e245]: "No"
+                        - generic [ref=f24e248]: Place of Residence
+                        - generic [ref=f24e251]: Pune
+                        - generic [ref=f24e254]: Street Address (line 1)
+                        - generic [ref=f24e257]: 25/2/1, Shruti Banglo, New DP Road, Vishal Nagar, Pimple Nilakh
+                        - generic [ref=f24e260]: Address (line 2)
+                        - generic [ref=f24e264]: City
+                        - generic [ref=f24e267]: Pune
+                        - generic [ref=f24e270]: Zip/Postal Code
+                        - generic [ref=f24e273]: "411027"
+                        - generic [ref=f24e276]: Are you presently or previously employed by a government entity, either as an employee, special government employee, contractor, consultant, member of the military or advisor? [COI3A]
+                        - generic [ref=f24e279]: "No"
+                        - generic [ref=f24e282]: Please describe the nature of the employment. If you are unsure if your government experience qualifies, please provide this information. If this does not apply, type NA. [COI3B]
+                        - generic [ref=f24e285]: Linux System Administrator Intern at National Informatics Centre, New Delhi, Jun–Sep 2022. This was an internship, not permanent government employment.
+                        - generic [ref=f24e288]: Are you or a close family member* presently or previously employed with Deloitte, Baker Tilly or KPMG? (Yes/No) [COI4A]
+                        - generic [ref=f24e291]: "No"
+                        - generic [ref=f24e294]: Please tell us if you have a financial interest in the firm doing the work and whether or not you participated on a UnitedHealth Group account. If this does not apply, type NA. [COI4B]
+                        - generic [ref=f24e297]: NA
+                        - generic [ref=f24e300]: Please indicate the firm(s) which you or a close family member* are presently or previously employed? [COI4C]
+                        - generic [ref=f24e303]: None of the above
+                        - generic [ref=f24e306]: If currently working for Deloitte, Baker Tilly or KPMG, I acknowledge that accepting an offer of employment with UnitedHealth Group will require me to sever my current employment relationship prior to beginning employment with UnitedHealth Group. [COI4D]
+                        - generic [ref=f24e309]: Not Employed by Deloitte, Baker Tilly or KPMG
+                        - generic [ref=f24e312]: Are you subject to a non-compete or non-solicitation or any restrictive covenant by virtue of any agreement entered between you and your current or former employer, which may affect your employment with UnitedHealth Group? [COI7A]
+                        - generic [ref=f24e315]: "No"
+                        - generic [ref=f24e318]: If YES, please provide details. If NO, please enter "NO" [COI7B]
+                        - generic [ref=f24e321]: "NO"
+                        - generic [ref=f24e324]: Have you previously been made an offer by UnitedHealth Group? [COI8A]
+                        - generic [ref=f24e327]: "No"
+                        - generic [ref=f24e330]: If YES, please specify the dates. If NO, please enter "NO". [COI8B]
+                        - generic [ref=f24e333]: "NO"
+                        - generic [ref=f24e336]: Have you previously been employed by UnitedHealth Group, or its affiliate or predecessor companies? [COI9A]
+                        - generic [ref=f24e339]: "No"
+                        - generic [ref=f24e342]: If YES, please provide the dates and positions below. If NO, please type "NO". [COI9B]
+                        - generic [ref=f24e345]: "NO"
+                        - generic [ref=f24e348]: Do you have a relationship with anyone in the department in which you are getting hired (immediate process/sub-department)? [COI10A]
+                        - generic [ref=f24e351]: "No"
+                        - generic [ref=f24e354]: Yes/No Name? Relationship? [COI10B]
+                        - generic [ref=f24e357]: "NO"
+                        - generic [ref=f24e360]: Are you legally authorized to work in the country where the job is located without any restrictions? Proof will be required. [LEGAL2]
+                        - generic [ref=f24e363]: "Yes"
+                        - generic [ref=f24e366]: Will you now, or in the future, require sponsorship to work in the country where the job is located? [LEGAL3]
+                        - generic [ref=f24e369]: "No"
+                  - generic [ref=f24e372]:
+                    - generic [ref=f24e373]:
+                      - heading "Education and Experience" [level=2] [ref=f24e374]
+                      - generic [aria-hidden] [ref=f24e377]: "|"
+                      - link "Edit" [ref=f24e379] [cursor=pointer]:
+                        - /url: "#"
+                    - generic [ref=f24e381]:
+                      - heading "Education Summary" [level=3] [ref=f24e384]
+                      - generic [ref=f24e387]:
+                        - generic [ref=f24e388]: Name of Educational Institution
+                        - generic [ref=f24e391]: Centre for Development of Advanced Computing
+                        - generic [ref=f24e394]: Area of Study
+                        - generic [ref=f24e397]: ADVANCED COMPUTING
+                        - generic [ref=f24e400]: Education Level
+                        - generic [ref=f24e403]: Technical Diploma
+                        - generic [ref=f24e406]: Education Level Completed?
+                        - generic [ref=f24e409]: "Yes"
+                        - generic [ref=f24e412]: Degree/Diploma/Certificate
+                        - generic [ref=f24e415]: Other Degree
+                        - generic [ref=f24e418]: Start Date
+                        - generic [ref=f24e421]: Mar 2024
+                        - generic [ref=f24e424]: Graduation Date
+                        - generic [ref=f24e427]: Aug 2024
+                        - separator [ref=f24e430]
+                        - generic [ref=f24e431]: Name of Educational Institution
+                        - generic [ref=f24e434]: Dr.A.P.J. Abdul Kalam Technical University
+                        - generic [ref=f24e437]: Area of Study
+                        - generic [ref=f24e440]: COMPUTER SCIENCE & ENGINEERING
+                        - generic [ref=f24e443]: Education Level
+                        - generic [ref=f24e446]: Bachelor's Degree
+                        - generic [ref=f24e449]: Education Level Completed?
+                        - generic [ref=f24e452]: "Yes"
+                        - generic [ref=f24e455]: Degree/Diploma/Certificate
+                        - generic [ref=f24e458]: Bachelor of Engineering
+                        - generic [ref=f24e461]: Start Date
+                        - generic [ref=f24e465]: Graduation Date
+                    - generic [ref=f24e469]:
+                      - heading "Work Experience Summary" [level=3] [ref=f24e472]
+                      - generic [ref=f24e475]:
+                        - generic [ref=f24e476]: Current Job
+                        - generic [ref=f24e479]: "Yes"
+                        - generic [ref=f24e480]: Employer
+                        - generic [ref=f24e483]: IDeaS - A SAS Company
+                        - generic [ref=f24e486]: Job Title
+                        - generic [ref=f24e489]: Software Engineer
+                        - generic [ref=f24e492]: Start Date
+                        - generic [ref=f24e495]: Oct 2024
+                        - generic [ref=f24e498]: End Date
+                        - generic [ref=f24e502]: Current/Ending Salary
+                        - generic [ref=f24e505]: "1000000"
+                        - generic [ref=f24e508]: Reason for Leaving
+                        - generic [ref=f24e511]: Role ends 30 Sep 2026; seeking backend software engineering focused on services and APIs.
+                        - separator [ref=f24e514]
+                        - generic [ref=f24e515]: Current Job
+                        - generic [ref=f24e518]: "No"
+                        - generic [ref=f24e519]: Employer
+                        - generic [ref=f24e522]: Data Nova India Pvt. Ltd.
+                        - generic [ref=f24e525]: Job Title
+                        - generic [ref=f24e528]: Application Developer
+                        - generic [ref=f24e531]: Start Date
+                        - generic [ref=f24e534]: Feb 2023
+                        - generic [ref=f24e537]: End Date
+                        - generic [ref=f24e540]: May 2023
+                        - generic [ref=f24e543]: Current/Ending Salary
+                        - generic [ref=f24e546]: "360000"
+                        - generic [ref=f24e549]: Reason for Leaving
+                        - generic [ref=f24e552]: Left to prepare for C-CAT and pursue PG-DAC at C-DAC.
+                  - generic [ref=f24e555]:
+                    - generic [ref=f24e556]:
+                      - heading "Job Profile Questions" [level=2] [ref=f24e557]
+                      - generic [aria-hidden] [ref=f24e560]: "|"
+                      - link "Edit" [ref=f24e562] [cursor=pointer]:
+                        - /url: "#"
+                    - generic [ref=f24e564]:
+                      - generic [ref=f24e566]:
+                        - heading [level=3]
+                      - generic [ref=f24e568]:
+                        - generic [ref=f24e569]: How many years of professional experience do you have developing applications using Java and Spring Boot? (TEC120)
+                        - generic [ref=f24e572]: 1 or more years but less than 3 years
+                        - generic [ref=f24e575]: How many years of professional experience do you have leading enterprise modernization initiatives involving APIs, microservices, cloud platforms, or digital transformation programs? (TEC246)
+                        - generic [ref=f24e578]: Less than 2 years
+                        - generic [ref=f24e581]: How many years of professional experience do you have developing frontend web applications using React, Angular, Next.js, and/or NestJS? (TEC292)
+                        - generic [ref=f24e584]: No experience
+                  - generic [ref=f24e587]:
+                    - generic [ref=f24e588]:
+                      - heading "eSignature" [level=2] [ref=f24e589]
+                      - generic [aria-hidden] [ref=f24e592]: "|"
+                      - link "Edit" [ref=f24e594] [cursor=pointer]:
+                        - /url: "#"
+                    - generic [ref=f24e596]:
+                      - generic [ref=f24e598]:
+                        - heading [level=3]
+                      - generic [ref=f24e600]:
+                        - generic [ref=f24e601]: "eSigned by:"
+                        - generic [ref=f24e604]: Yugal Teotia
+                        - generic [ref=f24e607]: "Date:"
+                        - generic [ref=f24e610]: 9/28/26
+        - generic [ref=f24e616]:
+          - button "Submit" [ref=f24e617] [cursor=pointer]
+          - button "Save as Draft" [ref=f24e618] [cursor=pointer]
+          - button "Quit" [ref=f24e619] [cursor=pointer]
+    - generic [ref=f24e621]:
+      - generic [ref=f24e624]:
+        - generic [ref=f24e625]:
+          - list [ref=f24e627]:
+            - listitem [ref=f24e628]:
+              - link "" [ref=f24e629] [cursor=pointer]:
+                - /url: http://facebook.com/uhgcareers
+            - listitem [ref=f24e631]:
+              - link "" [ref=f24e632] [cursor=pointer]:
+                - /url: https://www.instagram.com/uhgcareers/
+            - listitem [ref=f24e634]:
+              - link "" [ref=f24e635] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/1720
+            - listitem [ref=f24e637]:
+              - link [ref=f24e638] [cursor=pointer]:
+                - /url: http://twitter.com/uhgcareers
+                - img "Twitter" [ref=f24e639]
+            - listitem [ref=f24e640]:
+              - link "" [ref=f24e641] [cursor=pointer]:
+                - /url: http://www.youtube.com/user/uhgcareers
+            - listitem [ref=f24e643]:
+              - link "" [ref=f24e644] [cursor=pointer]:
+                - /url: http://www.glassdoor.com/Overview/Working-at-UnitedHealth-Group-EI_IE1991.11,29.htm
+            - listitem [ref=f24e646]:
+              - link "" [ref=f24e647] [cursor=pointer]:
+                - /url: https://careers.unitedhealthgroup.com/blog
+          - generic [ref=f24e649]:
+            - link "Social Responsibility" [ref=f24e652] [cursor=pointer]:
+              - /url: "#popup1"
+            - link "Fraudulent Activity" [ref=f24e655] [cursor=pointer]:
+              - /url: "#popup2"
+        - generic [ref=f24e656]:
+          - paragraph [ref=f24e657]:
+            - link "Privacy Policy" [ref=f24e658] [cursor=pointer]:
+              - /url: https://www.unitedhealthgroup.com/privacy.html
+            - link "Family & Medical Leave Act (PDF)" [ref=f24e659] [cursor=pointer]:
+              - /url: http://www.dol.gov/whd/regs/compliance/posters/fmlaen.pdf
+            - link "Equal Employment Law Poster (PDF)" [ref=f24e660] [cursor=pointer]:
+              - /url: http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf
+            - link "Pay Transparency Employee Polygraph Protection Act (PDF)" [ref=f24e661] [cursor=pointer]:
+              - /url: https://cdn-static.findly.com/wp-content/uploads/sites/1288/2020/10/PayTransparencySupplementNondiscrimRev2017.pdf
+            - link "E-Verify Participation Poster" [ref=f24e662] [cursor=pointer]:
+              - /url: https://cdn-static.findly.com/wp-content/uploads/sites/1288/2020/10/E-Verify_Participation_Poster.pdf
+            - link "Immigrant and Employee Right to Work Poster" [ref=f24e663] [cursor=pointer]:
+              - /url: https://careers.unitedhealthgroup.com/-/media/9EB3C61FAAD54205BCE70F65D03E6628.ashx
+          - paragraph [ref=f24e664]: © 2023 UnitedHealth Group, All rights reserved.
+          - paragraph [ref=f24e665]: UnitedHealth Group is committed to working with and providing reasonable accommodations to individuals with physical and mental disabilities. If you need special assistance or accommodation for any part of the application process, please call 1-866-566-8715 to be connected to Recruitment Services. Recruitment Services hours of operation are 7 a.m. to 7 p.m. CT, Monday through Friday.
+          - paragraph [ref=f24e666]: UnitedHealth Group is a registered service mark of UnitedHealth Group, Inc. The UnitedHealth Group name with the dimensional logo, as well as the dimensional logo alone, are both service marks for the UnitedHealth Group, Inc.
+          - paragraph [ref=f24e667]: "Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law."
+          - paragraph [ref=f24e668]: UnitedHealth Group is a drug-free workplace. Candidates are required to pass a drug test before beginning employment.
+      - link "Top" [ref=f24e669] [cursor=pointer]:
+        - /url: "#"

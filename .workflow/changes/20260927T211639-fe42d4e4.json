@@ -1,0 +1,15 @@
+{
+  "row": 10,
+  "reason": "Final values verified; one authorized submit attempt starting",
+  "changes": {
+    "Status": {
+      "before": "Stopped",
+      "after": "Submission unconfirmed"
+    },
+    "Next step": {
+      "before": "Blocked pending final batch: NIC government-internship Yes classification, complete eSignature acceptance and no-payment attestation. Compensation/leaving corrections saved; no signature/submission. Scheduling disabled.",
+      "after": "Authorized single submission attempt starting; verify confirmation before retrying. Do not reapply."
+    }
+  },
+  "backup": ".workflow/backups/20260927T211639-fe42d4e4.xlsx"
+}

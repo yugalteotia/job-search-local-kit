@@ -1,0 +1,22 @@
+{
+  "shard": "portals_b",
+  "searches": [
+    {"source":"LinkedIn","query":"Java Spring Boot Backend; India; past 24 hours","page_url":"https://www.linkedin.com/jobs/search/?keywords=Java%20Spring%20Boot%20Backend&location=India&f_TPR=r86400&sortBy=DD","page_number":1,"sort":"Most recent (confirmed UI)","checked_at":"2026-09-28T03:00:58Z","status":"partial page inspected; 7 visible cards, results loaded lazily"},
+    {"source":"LinkedIn","query":"Java Spring Boot Backend; India; past 24 hours","page_url":"https://www.linkedin.com/jobs/search/?keywords=Java%20Spring%20Boot%20Backend&location=India&f_TPR=r86400&sortBy=DD&start=25","page_number":2,"sort":"Most recent","checked_at":"2026-09-28T03:01:36Z","status":"partial page inspected; 7 visible cards, results loaded lazily"},
+    {"source":"LinkedIn","query":"Java Spring Boot Developer 2 years; Pune; past week","page_url":"https://www.linkedin.com/jobs/search/?keywords=Java%20Spring%20Boot%20Developer%202%20years&location=Pune%2C%20Maharashtra%2C%20India&f_TPR=r604800&sortBy=DD","page_number":1,"sort":"Most recent (confirmed UI)","checked_at":"2026-09-28T03:01:57Z","status":"partial page inspected; 7 visible cards, results loaded lazily"},
+    {"source":"LinkedIn","query":"Java Spring Boot Developer 2 years; Pune; past week","page_url":"https://www.linkedin.com/jobs/search/?keywords=Java%20Spring%20Boot%20Developer%202%20years&location=Pune%2C%20Maharashtra%2C%20India&f_TPR=r604800&sortBy=DD&start=25","page_number":2,"sort":"Most recent","checked_at":"2026-09-28T03:04:20Z","status":"partial page inspected; 7 visible cards, results loaded lazily"},
+    {"source":"Foundit","query":"java spring boot backend 2 years; Pune","page_url":"https://www.foundit.in/srp/results?query=java%20spring%20boot%20backend%202%20years&locations=Pune&sort=recent","page_number":1,"sort":"recent parameter requested; unconfirmed","checked_at":"2026-09-28T03:02:31Z","status":"results could not be fetched"},
+    {"source":"Foundit","query":"java spring boot; India","page_url":"https://www.foundit.in/srp/results?query=java%20spring%20boot&locations=India","page_number":1,"sort":"not offered or verified","checked_at":"2026-09-28T03:02:45Z","status":"partial page inspected; 15 visible cards; mostly 5+ years"},
+    {"source":"Foundit","query":"java backend api; Hyderabad","page_url":"https://www.foundit.in/srp/results?query=java%20backend%20api&locations=Hyderabad","page_number":1,"sort":"not offered or verified","checked_at":"2026-09-28T03:03:37Z","status":"no results displayed"},
+    {"source":"Foundit","query":"backend spring boot; India","page_url":"https://www.foundit.in/srp/results?query=backend%20spring%20boot&locations=India","page_number":1,"sort":"not offered or verified","checked_at":"2026-09-28T03:03:46Z","status":"6 visible cards inspected; all listed at 3+ years, several 5+ years"},
+    {"source":"Foundit","query":"java spring boot 2 years; India","page_url":"https://www.foundit.in/srp/results?query=java%20spring%20boot%202%20years&locations=India","page_number":1,"sort":"not offered or verified","checked_at":"2026-09-28T03:06:30Z","status":"no results displayed; title briefly showed count before content resolved"}
+  ],
+  "original_requisitions": [
+    {"company":"Atlassian","requisition_id":"REQ-2026-1248","original_url":"https://globalcareers-atlassian.icims.com/jobs/25540/backend-software-engineer%2C-ii/job","live_verified":true,"fit":"Low: original JD requires 4+ years backend experience and hands-on public cloud; profile has about 2 years professional Java/backend and no production cloud"}
+  ],
+  "alerts_checked": 0,
+  "blocked_sources": [
+    {"source":"Foundit targeted Pune route","reason":"Could not fetch results with unconfirmed sort=recent parameter; no page coverage claimed"},
+    {"source":"Foundit sort control","reason":"No date sort confirmed; All Filters click timed out twice"}
+  ]
+}

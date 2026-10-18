@@ -1,0 +1,32 @@
+{
+  "job_id": 355,
+  "requisition_id": "131026049027",
+  "expected_filename": "Yugal_Teotia_CV.pdf",
+  "expected_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+  "initial_filename": "Yugal_Teotia_Resume.pdf",
+  "observed_filename": "Yugal_Teotia_Resume.pdf",
+  "filename_samples": [
+    "Yugal_Teotia_Resume.pdf",
+    "Yugal_Teotia_Resume.pdf"
+  ],
+  "previous_verified_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+  "repair_performed": true,
+  "verified": true,
+  "before_application_action": true,
+  "at": "2026-10-13T18:44:24.544868+00:00",
+  "upload": {
+    "at": "2026-10-13T18:44:33.065718+00:00",
+    "before": "Yugal_Teotia_Resume.pdf",
+    "after": "Yugal_Teotia_CV.pdf",
+    "pdf_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+    "response_statuses": [
+      {
+        "endpoint": "profile_resume_upload",
+        "status": 200
+      }
+    ]
+  },
+  "final_filename": "Yugal_Teotia_CV.pdf",
+  "verified_at": "2026-10-13T18:44:33.068879+00:00",
+  "verification_basis": "uploaded_expected_bytes_and_server_acknowledgement"
+}

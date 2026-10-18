@@ -1,0 +1,93 @@
+{
+  "job_id": 326,
+  "requisition_id": "100826024093",
+  "attempt_id": "b9fe87ea-007a-42b4-b4b3-8f0ba35eac05",
+  "saves": 1,
+  "status": "Uncertain",
+  "stage": "questionnaire",
+  "preflight_resume_repair_only": false,
+  "generic_resume_restored": true,
+  "generic_resume_restore_evidence": "jobs/naukri-100826024093/naukri-generic-startup-verification.json",
+  "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+  "generic_resume_verified_at": "2026-10-14T11:02:20.378616+00:00",
+  "generic_resume_repaired_at_start": false,
+  "pending_question": "Are you available for a interview?(Virtual)",
+  "error_type": "RuntimeError",
+  "error_origin": {
+    "file": "naukri_native_worker.py",
+    "function": "_run_one",
+    "line": 625
+  },
+  "error_message": "Question repeated after continuation; no answer is replayed",
+  "answers_logged": false,
+  "network_guard": {
+    "job_id": "100826024093",
+    "phase": "followup_status_received",
+    "show_count": 1,
+    "answer_count": 1,
+    "save_arm_count": 1,
+    "followup_status_count": 0,
+    "post_completion_status_count": 0,
+    "completion_count": 0,
+    "reopen_count": 1,
+    "workflow_committed": false,
+    "events": [
+      {
+        "at": "2026-10-14T11:01:26.762180+00:00",
+        "elapsed_ms": 178,
+        "job_id": "100826024093",
+        "phase": "show_sent",
+        "method": "POST",
+        "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+        "flowtype": "show",
+        "allowed": true,
+        "reason": "exact_job_show",
+        "response_status": 200,
+        "response_elapsed_ms": 471,
+        "response_metadata": {
+          "isApply": true,
+          "isLeafNode": false,
+          "dataCommitted": false,
+          "job_id_match": true,
+          "currentNodeName": "apply3"
+        }
+      },
+      {
+        "at": "2026-10-14T11:01:30.427325+00:00",
+        "elapsed_ms": 3843,
+        "job_id": "100826024093",
+        "phase": "answer_sent",
+        "method": "POST",
+        "path": "/cloudgateway-chatbot/chatbot-services/botapi/v5/respond",
+        "flowtype": "unknown",
+        "allowed": true,
+        "reason": "one_claimed_chat_answer",
+        "response_status": 200,
+        "response_elapsed_ms": 3941,
+        "response_metadata": {
+          "job_id_match": true
+        }
+      },
+      {
+        "at": "2026-10-14T11:01:32.970516+00:00",
+        "elapsed_ms": 6386,
+        "job_id": "100826024093",
+        "phase": "reopen_show_sent",
+        "method": "POST",
+        "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+        "flowtype": "show",
+        "allowed": true,
+        "reason": "reopen_same_claimed_attempt_show",
+        "response_status": 200,
+        "response_elapsed_ms": 6618,
+        "response_metadata": {
+          "isApply": true,
+          "isLeafNode": false,
+          "dataCommitted": false,
+          "job_id_match": true,
+          "currentNodeName": "apply3"
+        }
+      }
+    ]
+  }
+}

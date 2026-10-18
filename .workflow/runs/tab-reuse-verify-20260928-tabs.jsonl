@@ -1,0 +1,3 @@
+{"time": "2026-09-28T09:02:37.389630+00:00", "event": "tab_created", "tab_id": 1, "owner": "ecb3d255-13bc-4f21-8f25-1731c87f3696"}
+{"time": "2026-09-28T09:02:43.023917+00:00", "event": "tab_closed", "tab_id": 1, "owner": "ecb3d255-13bc-4f21-8f25-1731c87f3696"}
+{"time": "2026-09-28T09:02:43.025079+00:00", "event": "tab_lifecycle_summary", "created": 1, "reused": 0, "closed": 1, "remaining_automation_tabs": 0, "remaining_tab_ids": [], "owner": "ecb3d255-13bc-4f21-8f25-1731c87f3696", "automatic_cleanup": true}

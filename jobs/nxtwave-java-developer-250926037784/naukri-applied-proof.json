@@ -1,0 +1,24 @@
+{
+  "requisition_id": "250926037784",
+  "captured_at": "2026-09-29T01:27:57.891414+00:00",
+  "listing_url": "https://www.naukri.com/job-listings-java-developer-nxtwave-disruptive-technologies-hiring-for-a-client-bengaluru-3-to-5-years-250926037784",
+  "listing": {
+    "host": "www.naukri.com",
+    "path": "/job-listings-java-developer-nxtwave-disruptive-technologies-hiring-for-a-client-bengaluru-3-to-5-years-250926037784",
+    "title": "Java Developer - Bengaluru - Nxtwave Disruptive Technologies(Hiring for a Client) - 3 to 5 years of experience",
+    "status": [
+      "Applied",
+      "Applied"
+    ],
+    "applyButtonCount": 0
+  },
+  "history_url": "https://www.naukri.com/myapply/historypage",
+  "history": {
+    "host": "www.naukri.com",
+    "path": "/myapply/historypage",
+    "filterSelected": true,
+    "naukriCount": "74",
+    "match": "\nJava Developer\nNxtwave Disruptive Technologies(Hiring for a Client)\n3.3\n1476 Reviews\nApplication sent today\nPrep for this interview\nMock\nQ&A\nSoft"
+  },
+  "verified": true
+}

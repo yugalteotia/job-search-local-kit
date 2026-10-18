@@ -1,0 +1,638 @@
+{
+  "run_id": "ab222580-a831-4944-865f-944031450ef2",
+  "started_at": "2026-09-29T19:21:09.317275+00:00",
+  "mode": "read_only",
+  "upload_enabled": false,
+  "submission_enabled": false,
+  "scheduled": true,
+  "test": true,
+  "source_scope": [
+    "naukri"
+  ],
+  "fresh_only": false,
+  "status": "Partial",
+  "sources": {
+    "naukri": {
+      "status": "Failed",
+      "error_kind": "RuntimeError",
+      "checked_at": "2026-09-29T19:21:09.418157+00:00",
+      "pages_checked": 0,
+      "leads": 0,
+      "feed_jobs": 0
+    }
+  },
+  "coverage": {
+    "naukri": []
+  },
+  "leads": 0,
+  "unique_original_requisitions_verified": 0,
+  "fit_decisions": {
+    "253": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience starts at 8 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "Hyderabad - India",
+        "experience": "eering best practices. Key Skills: 8+ years of experience with Chef, Ansible, and configuration management tools. 5+ years of experience with Infrastruct",
+        "technology": null,
+        "role": "y with DevOps Engineers, SREs, and Software Engineers to support and enhance the ConnectED Cloud and ConnectED Reach platforms. This is a hybrid role wi"
+      },
+      "jd_sha256": "f62fd85eeb2afd186cd5903527e9b6bf4d4d3a9e39dc341cf5c7b9d97148656d"
+    }
+  },
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [
+    {
+      "source": "naukri",
+      "reason": "RuntimeError"
+    }
+  ],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/ab222580-a831-4944-865f-944031450ef2.json"
+  ],
+  "queue": {
+    "ResumeReady": 2
+  },
+  "stage_seconds": {
+    "discovery": 0.09,
+    "original_verification": 0.0,
+    "lead_resolution": 12.55,
+    "fit_review": 0.37,
+    "auto_fit_resume": 3.93
+  },
+  "stage_counts": {
+    "normalized_unique_ats": 0,
+    "selected_for_original_check": 0,
+    "fetched": 0,
+    "unique_portal_leads": 0,
+    "fresh": 0,
+    "unknown_date": 0,
+    "skipped_old": 0,
+    "repeat_skipped": 0,
+    "unique_original_requisitions": 0,
+    "eligible_for_review": 0,
+    "original_jds_reviewed": 1,
+    "original_or_portal_jds_reviewed": 1,
+    "portal_native_verified": 0,
+    "high": 0,
+    "queued_for_resume": 0,
+    "review_queue_added": 1,
+    "portal_originals_matched": 0,
+    "portal_leads_still_needing_original": 554
+  },
+  "top_reviewed": [
+    {
+      "job_id": 253,
+      "company": "Dun & Bradstreet",
+      "role": "Senior Software Engineer (R-20000)",
+      "location": "Hyderabad - India",
+      "direct_url": "https://jobs.lever.co/dnb/13381c24-6813-40d4-885e-cad5df3baae7",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "f62fd85eeb2afd186cd5903527e9b6bf4d4d3a9e39dc341cf5c7b9d97148656d",
+      "original_page_checked_at": "2026-09-29T16:11:27.049780+00:00",
+      "reviewed_at": "2026-09-29T19:21:22.331234+00:00",
+      "experience_minimum": 8.0,
+      "evidence": {
+        "location": "Hyderabad - India",
+        "experience": "eering best practices. Key Skills: 8+ years of experience with Chef, Ansible, and configuration management tools. 5+ years of experience with Infrastruct",
+        "technology": null,
+        "role": "y with DevOps Engineers, SREs, and Software Engineers to support and enhance the ConnectED Cloud and ConnectED Reach platforms. This is a hybrid role wi"
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience starts at 8 years, above the 2.5-year High-fit gate"
+      ]
+    }
+  ],
+  "freshness": {
+    "policy": {
+      "routine_review_hours": 24,
+      "sweep_overlap_minutes": 90,
+      "unknown_date_details_per_run": 30,
+      "transient_retry_hours": 6,
+      "pending_application_recheck_hours": 6
+    },
+    "counts": {
+      "fresh": 0,
+      "recent": 0,
+      "unknown_date": 0,
+      "skipped_old": 0,
+      "repeat_skipped": 0,
+      "history_skipped": 0,
+      "unknown_date_deferred": 0
+    },
+    "detail_candidates": 0,
+    "skips": []
+  },
+  "portal_native": {
+    "selected": 0,
+    "verified": 0,
+    "unverified": 0,
+    "verified_job_ids": [],
+    "results": []
+  },
+  "lead_resolution": {
+    "navigation_links_reclassified": 85,
+    "missing_ats_jd_refresh": {
+      "candidates_found": 1,
+      "checked": 1,
+      "verified_substantive": 0,
+      "failed_or_unresolved": 1,
+      "results": [
+        {
+          "job_id": 189,
+          "company": "Brillio",
+          "role": "Senior Software Development Engineer - R01568499",
+          "direct_url": "https://jobs.lever.co/brillio-2/58d975db-1d26-4ecb-92de-66bbc3666320",
+          "requisition_id": "58d975db-1d26-4ecb-92de-66bbc3666320",
+          "provider": "lever",
+          "verified": false,
+          "status": "Failed",
+          "checked_at": "2026-09-29T19:21:09.505173+00:00",
+          "url": "https://jobs.lever.co/brillio-2/58d975db-1d26-4ecb-92de-66bbc3666320",
+          "error_kind": "The read operation timed out",
+          "updated_from_original": false,
+          "failure_reason": "The read operation timed out"
+        }
+      ]
+    },
+    "direct_provider_coverage": {},
+    "direct_employer_coverage": {},
+    "portal_employer_coverage": {
+      "portal company unavailable": 10
+    },
+    "target_title_failures_in_batch": 8,
+    "portal_jobs_inspected": 10,
+    "originals_matched": 0,
+    "substantive_originals_verified": 0,
+    "live_title_only": 0,
+    "direct_check_failures": 10,
+    "needs_original": 554,
+    "title_relevant_unresolved": 360,
+    "by_source": {
+      "naukri": {
+        "needs_original": 337,
+        "not_a_job": 3
+      },
+      "linkedin": {
+        "needs_original": 186,
+        "not_a_job": 3
+      },
+      "foundit": {
+        "needs_original": 0,
+        "not_a_job": 17
+      },
+      "indeed": {
+        "needs_original": 0,
+        "not_a_job": 32
+      },
+      "cutshort": {
+        "needs_original": 31,
+        "not_a_job": 30
+      }
+    },
+    "results": [
+      {
+        "source": "naukri",
+        "portal_url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-enterprise-applications-consult-asia-delhi-ncr-6-to-11-years-250926911107",
+        "portal_title": "Java Backend Developer : Spring Boot (Enterprise Applications)",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null,
+        "direct_checks": [],
+        "failure_reason": "RuntimeError"
+      },
+      {
+        "source": "cutshort",
+        "portal_url": "https://cutshort.io/job/Senior-Java-Full-Stack-Developer-6-years-Raah-Techservices-oaOOb9J3",
+        "portal_title": "Senior Java Full Stack Developer 6+ years",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null,
+        "direct_checks": [],
+        "failure_reason": "RuntimeError"
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4469697436/",
+        "portal_title": "Java Backend Modernization Engineer(onsite, only W2)\nJava Backend Modernization Engineer(onsite, only W2) with verificat",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null,
+        "direct_checks": [],
+        "failure_reason": "RuntimeError"
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4466516292/",
+        "portal_title": "Java Backend Engineer (W2 Contract only/ No 3rd Parties)\nJava Backend Engineer (W2 Contract only/ No 3rd Parties) with v",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null,
+        "direct_checks": [],
+        "failure_reason": "RuntimeError"
+      },
+      {
+        "source": "naukri",
+        "portal_url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-enterprise-applications-consult-asia-new-delhi-6-to-11-years-250926911105",
+        "portal_title": "Java Backend Developer : Spring Boot (Enterprise Applications)",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null,
+        "direct_checks": [],
+        "failure_reason": "RuntimeError"
+      },
+      {
+        "source": "cutshort",
+        "portal_url": "https://cutshort.io/job/Senior-Full-Stack-Developer-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-p7PgIKOo",
+        "portal_title": "Senior Full Stack Developer",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null,
+        "direct_checks": [],
+        "failure_reason": "RuntimeError"
+      },
+      {
+        "source": "naukri",
+        "portal_url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-enterprise-applications-consult-asia-gurugram-6-to-11-years-250926911112",
+        "portal_title": "Java Backend Developer : Spring Boot (Enterprise Applications)",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null,
+        "direct_checks": [],
+        "failure_reason": "RuntimeError"
+      },
+      {
+        "source": "cutshort",
+        "portal_url": "https://cutshort.io/job/Full-Stack-Developer-Bengaluru-Bangalore-Gemba-Concepts-cqW2LlXy",
+        "portal_title": "Full Stack Developer",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null,
+        "direct_checks": [],
+        "failure_reason": "RuntimeError"
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4470735836/",
+        "portal_title": "Senior (Lead) backend Java/J2EE/AWS developer\nSenior (Lead) backend Java/J2EE/AWS developer with verification",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null,
+        "direct_checks": [],
+        "failure_reason": "RuntimeError"
+      },
+      {
+        "source": "naukri",
+        "portal_url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-enterprise-applications-consult-asia-greater-noida-6-to-11-years-250926911111",
+        "portal_title": "Java Backend Developer : Spring Boot (Enterprise Applications)",
+        "status": "PortalError",
+        "original_url": null,
+        "employer_label": null,
+        "direct_checks": [],
+        "failure_reason": "RuntimeError"
+      }
+    ]
+  },
+  "linked_portal_native": null,
+  "review_coverage": {
+    "by_source": {
+      "dnb_lever": 1
+    },
+    "by_company": {
+      "Dun & Bradstreet": 1
+    }
+  },
+  "master_resume": {
+    "ok": false,
+    "issues": [
+      "pdf_missing_tex_content",
+      "pdf_older_than_tex"
+    ]
+  },
+  "auto_fit": {
+    "considered": 20,
+    "queued": 2,
+    "not_eligible": 17,
+    "blocked": 1,
+    "skipped_unchanged": 0,
+    "results": [
+      {
+        "job_id": 256,
+        "employer": "Coforge",
+        "title": "Java Backend Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 8 years"
+        ]
+      },
+      {
+        "job_id": 251,
+        "employer": "Infosys",
+        "title": "Java Backend Developer | Spring Boot | Microservices",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 5 years"
+        ]
+      },
+      {
+        "job_id": 250,
+        "employer": "Newgen",
+        "title": "Backend Java Developer",
+        "outcome": "queued",
+        "fit": "High",
+        "strong_medium": false,
+        "notes": {
+          "other_gaps": [],
+          "unverified_fundamentals": [
+            "debugging",
+            "oops",
+            "design patterns",
+            "multithreading"
+          ]
+        }
+      },
+      {
+        "job_id": 249,
+        "employer": "Infosys",
+        "title": "Java Backend Developer | Spring Boot | Microservices",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 5 years"
+        ]
+      },
+      {
+        "job_id": 247,
+        "employer": "NTT DATA BUSINESS SOLUTIONS",
+        "title": "Z2 Backend Developer (JAVA Spring Boot Microservices)",
+        "outcome": "not_eligible",
+        "fit": "Medium",
+        "reasons": [
+          "Experience minimum missing or beyond confirmed profile band",
+          "No confirmed evidence for kubernetes",
+          "No confirmed evidence for other_databases",
+          "Essential evidence coverage below 100%"
+        ]
+      },
+      {
+        "job_id": 246,
+        "employer": "Comzent Technologies",
+        "title": "Backend Developer (Spring Boot, Java & Kotlin)",
+        "outcome": "not_eligible",
+        "fit": "Medium",
+        "reasons": [
+          "No confirmed evidence for other_databases",
+          "Essential evidence coverage below 100%"
+        ]
+      },
+      {
+        "job_id": 245,
+        "employer": "Infosys",
+        "title": "Java Backend Developer | Spring Boot | Microservices",
+        "outcome": "blocked_duplicate",
+        "reasons": [
+          "Possible duplicate requisition requires manual resolution"
+        ]
+      },
+      {
+        "job_id": 243,
+        "employer": "IT MNC",
+        "title": "Senior Backend Engineer Java / Spring Boot(H)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Title indicates a different seniority band: senior"
+        ]
+      },
+      {
+        "job_id": 242,
+        "employer": "Shashwath Solution",
+        "title": "Java Backend Developer - Spring Boot",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 4 years"
+        ]
+      },
+      {
+        "job_id": 240,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 9 years"
+        ]
+      },
+      {
+        "job_id": 229,
+        "employer": "Epam Systems",
+        "title": "Senior Java Software Developer – Java 8, Microservices, ReactJS, JUnit",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Title indicates a different seniority band: senior"
+        ]
+      },
+      {
+        "job_id": 228,
+        "employer": "Epam Systems",
+        "title": "Lead Java Software Developer – Java 8, Microservices, ReactJS, JUnit",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Title indicates a different seniority band: lead"
+        ]
+      },
+      {
+        "job_id": 227,
+        "employer": "Epam Systems",
+        "title": "Senior Software Engineer - Java, Microservices, REST API",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Title indicates a different seniority band: senior"
+        ]
+      },
+      {
+        "job_id": 226,
+        "employer": "LTIMindtree",
+        "title": "Java Back End Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Experience minimum cannot be cited unambiguously"
+        ]
+      },
+      {
+        "job_id": 223,
+        "employer": "Luxoft",
+        "title": "Senior Backend Engineer (Java, Spring Boot, AWS)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Title indicates a different seniority band: senior"
+        ]
+      },
+      {
+        "job_id": 222,
+        "employer": "Santriya Technologies",
+        "title": "Backend Developer - Java Spring Boot AWS Full Stack Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 5 years"
+        ]
+      },
+      {
+        "job_id": 212,
+        "employer": "Sonata Software",
+        "title": "Java Full Stack Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 8 years"
+        ]
+      },
+      {
+        "job_id": 210,
+        "employer": "Photon",
+        "title": "Java Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 5 years"
+        ]
+      },
+      {
+        "job_id": 209,
+        "employer": "Careernet",
+        "title": "Java Fullstack Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 4 years"
+        ]
+      },
+      {
+        "job_id": 202,
+        "employer": "Infosys",
+        "title": "Java Back End Developer | Springboot | Microservices",
+        "outcome": "queued",
+        "fit": "Medium",
+        "strong_medium": true,
+        "notes": {
+          "other_gaps": [
+            "messaging",
+            "aws",
+            "azure",
+            "gcp",
+            "cloud_generic",
+            "kubernetes",
+            "iac_devops",
+            "jenkins",
+            "caching_search"
+          ],
+          "unverified_fundamentals": [
+            "troubleshoot",
+            "oop",
+            "design patterns",
+            "agile"
+          ]
+        }
+      }
+    ]
+  },
+  "auto_resume": {
+    "prepared": 2,
+    "failed": 0,
+    "results": [
+      {
+        "job_id": 250,
+        "employer": "Newgen",
+        "status": "ResumeReady",
+        "pdf": "Yugal_Teotia_Backend_Java_Developer.pdf"
+      },
+      {
+        "job_id": 202,
+        "employer": "Infosys",
+        "status": "ResumeReady",
+        "pdf": "Yugal_Teotia_Java_Backend_Developer.pdf"
+      }
+    ]
+  },
+  "staging": {
+    "path": ".workflow/staging.json",
+    "resume_review_ready": 0,
+    "needs_jd_evidence_review": 0
+  },
+  "blocker_alerts": [
+    {
+      "job_id": 220,
+      "status": "pending",
+      "link": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-microservices-infosys-pune-chennai-bengaluru-2-to-5-years-190826038395",
+      "desktop_sent": true
+    },
+    {
+      "job_id": 241,
+      "status": "pending",
+      "link": "https://www.naukri.com/job-listings-java-developer-senior-java-developer-agiliad-pune-2-to-6-years-280926023134",
+      "desktop_sent": true
+    },
+    {
+      "job_id": 220,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 241,
+      "status": "cooldown"
+    }
+  ],
+  "naukri_application_worker": {
+    "enabled": true,
+    "max_submissions_per_run": 1,
+    "other_portals": "discovery_only",
+    "status": "DryRun",
+    "candidate_count": 2,
+    "checks": [
+      {
+        "job_id": 250,
+        "requisition_id": "160926009207",
+        "status": "WouldSubmit",
+        "would_submit": true,
+        "resume_filename": "Yugal_Teotia_Backend_Java_Developer.pdf",
+        "global_submissions_enabled": false,
+        "actual_submission": false
+      },
+      {
+        "job_id": 202,
+        "requisition_id": "110826000033",
+        "status": "WouldSubmit",
+        "would_submit": true,
+        "resume_filename": "Yugal_Teotia_Java_Backend_Developer.pdf",
+        "global_submissions_enabled": false,
+        "actual_submission": false
+      }
+    ],
+    "submissions": 0,
+    "forms_opened": 0,
+    "uploads": 0
+  },
+  "tab_lifecycle": {
+    "created": null,
+    "reused": null,
+    "closed": null,
+    "remaining_automation_tabs": null,
+    "job_tabs_created": null,
+    "job_tabs_closed": null,
+    "welcome_tabs_created": null,
+    "welcome_tabs_closed": null,
+    "remaining_job_tabs": null,
+    "remaining_welcome_tabs": null,
+    "uncertain_ids": [
+      "No tab lifecycle report was emitted"
+    ],
+    "recorded_ids": [],
+    "log_paths": []
+  },
+  "finished_at": "2026-09-29T19:21:28.022422+00:00",
+  "elapsed_seconds": 18.71
+}

@@ -1,0 +1,35 @@
+{
+  "at": "2026-10-14T05:18:19.312717+00:00",
+  "reconciled": [
+    {
+      "job_id": 358,
+      "requisition_id": "200826029442",
+      "attempt_id": "3cdf1aa9-e42e-43ed-850d-2e376c4af1a5",
+      "proof_path": "jobs/naukri-200826029442/naukri-native-confirmation.json"
+    },
+    {
+      "job_id": 359,
+      "requisition_id": "200826029266",
+      "attempt_id": "f92c3633-d18a-4da8-a4da-d2cac33150f7",
+      "proof_path": "jobs/naukri-200826029266/naukri-native-confirmation.json"
+    },
+    {
+      "job_id": 360,
+      "requisition_id": "200826029374",
+      "attempt_id": "67b0ad72-997a-4606-a588-4a6968a4708c",
+      "proof_path": "jobs/naukri-200826029374/naukri-native-confirmation.json"
+    }
+  ],
+  "protected_locks_unchanged": true,
+  "generic_resume_verified": true,
+  "submission_lane_paused_during_reconciliation": true,
+  "source_audit": ".workflow/naukri-confirmation-readonly-audit.json",
+  "submissions_resumed": true,
+  "naukri_manual_and_timer_enabled": true,
+  "linkedin_enabled": true,
+  "confirmed_existing_attempts": 3,
+  "no_new_application_action": true,
+  "focused_checks_passed": 5,
+  "confirmation_fix": "Exact header Applied control plus bounded read-only full-history polling; partial history never positive",
+  "original_response_limit": "Only sanitized original show-response HTTP status/job binding retained; no original raw response body was stored"
+}

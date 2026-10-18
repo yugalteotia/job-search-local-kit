@@ -1,0 +1,221 @@
+{
+  "draft_id": "f4db2dce-b8a8-4501-ab06-d6a4e4406030",
+  "answered": [
+    {
+      "key": "378d8991a8e61b833848f140687ede86fc649219320a0da1ee184dc16b6187f9",
+      "question": "First name",
+      "fact_ref": "user_confirmed_saved_draft:378d8991a8e61b833848f140687ede86fc649219320a0da1ee184dc16b6187f9"
+    },
+    {
+      "key": "cc1d3b8af240aab771ac296e269885a8ec9ac76849be3b0e97f9545baf559c03",
+      "question": "Last name",
+      "fact_ref": "user_confirmed_saved_draft:cc1d3b8af240aab771ac296e269885a8ec9ac76849be3b0e97f9545baf559c03"
+    },
+    {
+      "key": "44b6fe6fef457e373b0fd499ff04452fcd76c2710553f8b4a2d19a6ea0ce48d1",
+      "question": "Phone country code",
+      "fact_ref": "user_confirmed_saved_draft:44b6fe6fef457e373b0fd499ff04452fcd76c2710553f8b4a2d19a6ea0ce48d1"
+    },
+    {
+      "key": "5a05dcd061e00f1e1d6573c83a28f658d962418c2018606746247daa8b2219c7",
+      "question": "Mobile phone number",
+      "fact_ref": "user_confirmed_saved_draft:5a05dcd061e00f1e1d6573c83a28f658d962418c2018606746247daa8b2219c7"
+    },
+    {
+      "key": "963ab047ac814c5aae4ba8a8bef344ca598c66dea2aa003e415c09df3244c298",
+      "question": "Email address",
+      "fact_ref": "user_confirmed_saved_draft:963ab047ac814c5aae4ba8a8bef344ca598c66dea2aa003e415c09df3244c298"
+    },
+    {
+      "key": "fa610e07217a92da018f1dcd558b95ed6f73e368b9aee4aa2ba5d4275619b7b0",
+      "question": "Have you completed secondary education or its equivalent?",
+      "fact_ref": "user_confirmed_saved_draft:fa610e07217a92da018f1dcd558b95ed6f73e368b9aee4aa2ba5d4275619b7b0"
+    },
+    {
+      "key": "918548ce5fced368998965869fba7adcfa463b40bf24a00c8ab214f94eeb0b95",
+      "question": "Are you legally authorized to work in the country in which this role is located? Required",
+      "fact_ref": "user_confirmed_saved_draft:918548ce5fced368998965869fba7adcfa463b40bf24a00c8ab214f94eeb0b95"
+    },
+    {
+      "key": "2249a968ca4e5bb21cd0939ff0f2dc18734d25a0427a28b875cf18d62ce56739",
+      "question": "Will you now or in the future require sponsorship to work in the country where this role is based? Required",
+      "fact_ref": "user_confirmed_saved_draft:2249a968ca4e5bb21cd0939ff0f2dc18734d25a0427a28b875cf18d62ce56739"
+    },
+    {
+      "key": "60af5e151ca5b913ac21419c248b8b3285e66b9c187fc0051cd470b99038c126",
+      "question": "Please confirm the Country in which you currently reside?",
+      "fact_ref": "user_confirmed_saved_draft:60af5e151ca5b913ac21419c248b8b3285e66b9c187fc0051cd470b99038c126"
+    },
+    {
+      "key": "0ab64231281d6f785947967a3bb1baec1efec3ef275cd4a2f8c30e10c06812b4",
+      "question": "If the country you currently live in is NOT listed in the question above, please confirm in which country you live?",
+      "fact_ref": "user_confirmed_saved_draft:0ab64231281d6f785947967a3bb1baec1efec3ef275cd4a2f8c30e10c06812b4"
+    },
+    {
+      "key": "e0b30fd0101a366d2bee4fbecc40ba2796c83e61b665edd54a7b41688d04d768",
+      "question": "What state are you currently located in?",
+      "fact_ref": "user_confirmed_saved_draft:e0b30fd0101a366d2bee4fbecc40ba2796c83e61b665edd54a7b41688d04d768"
+    },
+    {
+      "key": "9803c5a8193fc0fddd87071effa9629c108427df36f686b5d4afdd2bda507c22",
+      "question": "What are your salary expectations for this role?",
+      "fact_ref": "user_confirmed_saved_draft:9803c5a8193fc0fddd87071effa9629c108427df36f686b5d4afdd2bda507c22"
+    },
+    {
+      "key": "f688178351ae260fad5c231e3fc2f6a4eecd783aae9fe5e04ffdfcfbc908b85b",
+      "question": "Were you referred for this position? Required",
+      "fact_ref": "user_confirmed_saved_draft:f688178351ae260fad5c231e3fc2f6a4eecd783aae9fe5e04ffdfcfbc908b85b"
+    },
+    {
+      "key": "e4f5737bdffbc4de93cf7da5b846f63e5b758559f2c340a0904db4ddc7e2cefe",
+      "question": "Please provide a link to your LinkedIn profile.",
+      "fact_ref": "user_confirmed_saved_draft:e4f5737bdffbc4de93cf7da5b846f63e5b758559f2c340a0904db4ddc7e2cefe"
+    },
+    {
+      "key": "d6db05668b403b252072856e3b53738fad0bf8e816dc2ebf66aaf774cc2580eb",
+      "question": "As part of the employment process, all candidates are subject to employment and education verification, as well as a comprehensive background check, in accordance with applicable laws and company policies. I understand that I will be provided with additional information and asked to provide authorization before any such checks are conducted. Required",
+      "fact_ref": "user_confirmed_saved_draft:d6db05668b403b252072856e3b53738fad0bf8e816dc2ebf66aaf774cc2580eb"
+    },
+    {
+      "key": "8fe7001a7c7f5c63f7b5d6c3eae071fb11e7f57680d55d16f2978cc2116d7441",
+      "question": "I understand that all information provided in my application must be accurate and truthful, and that any misrepresentation may result in disqualification from the hiring process or termination of employment if discovered after hire. Required",
+      "fact_ref": "user_confirmed_saved_draft:8fe7001a7c7f5c63f7b5d6c3eae071fb11e7f57680d55d16f2978cc2116d7441"
+    },
+    {
+      "key": "79030eacbc938eee066a1315796da295cc90144a6a5c8ed81c2d59d3f676f039",
+      "question": "I acknowledge that DigiCert and its service providers may collect and process my image and related identity verification information to verify my identity, prevent fraud, maintain security, and administer the hiring process. I understand that this information will be used only for these purposes and retained in accordance with DigiCert's applicable policies and legal obligations. If I choose not to provide the information required to complete identity verification, DigiCert may be unable to continue processing my application. Do you acknowledge and agree? Required",
+      "fact_ref": "user_confirmed_saved_draft:79030eacbc938eee066a1315796da295cc90144a6a5c8ed81c2d59d3f676f039"
+    },
+    {
+      "key": "06cb76dc41093c92d6a3084633c749d45dbee48e795478d4510f8f92c4d72613",
+      "question": "Can you please share the total number of years of experience you have in the industry?",
+      "fact_ref": "user_confirmed_saved_draft:06cb76dc41093c92d6a3084633c749d45dbee48e795478d4510f8f92c4d72613"
+    },
+    {
+      "key": "f3dde166e6d59774f6120fdc64944d399d99133b9e1703685b2aa3280de623f4",
+      "question": "Is your current location in Bangalore?",
+      "fact_ref": "user_confirmed_saved_draft:f3dde166e6d59774f6120fdc64944d399d99133b9e1703685b2aa3280de623f4"
+    },
+    {
+      "key": "c462e5468b657fc80871447a076383edbb251eccf12d3cabaf82bfd91930694c",
+      "question": "Can you please provide the details of your current CTC, including the fixed, variable, and RSU/ESOP components?",
+      "fact_ref": "user_confirmed_saved_draft:c462e5468b657fc80871447a076383edbb251eccf12d3cabaf82bfd91930694c"
+    },
+    {
+      "key": "555f130c58d155b0b0b1237484fb5ff82d74ea929bdea2193c0f580e25d03161",
+      "question": "what are the major tech stacks you have majorly worked upon?",
+      "fact_ref": "user_confirmed_saved_draft:555f130c58d155b0b0b1237484fb5ff82d74ea929bdea2193c0f580e25d03161"
+    },
+    {
+      "key": "a02124142f570833c4c59baf5785b10a1763c41dd79136670126ae6fd19caebe",
+      "question": "What is the duration of your notice period?",
+      "fact_ref": "user_confirmed_saved_draft:a02124142f570833c4c59baf5785b10a1763c41dd79136670126ae6fd19caebe"
+    },
+    {
+      "key": "e861f1deb0c6838412457f328655efd082d5092455c8678252915c6e19004f41",
+      "question": "What are the reasons for your job change?",
+      "fact_ref": "user_confirmed_saved_draft:e861f1deb0c6838412457f328655efd082d5092455c8678252915c6e19004f41"
+    },
+    {
+      "key": "c6fba9a0323a3bc87ac85dbda18aee0e27705bef5ef4bbafb51c10488bb78906",
+      "question": "Voluntary Self-Identification of Gender * Required",
+      "fact_ref": "user_confirmed_saved_draft:c6fba9a0323a3bc87ac85dbda18aee0e27705bef5ef4bbafb51c10488bb78906"
+    }
+  ],
+  "steps": 12,
+  "pending_field": {
+    "index": 3,
+    "control_id": "text-entity-list-form-component-formElement-urn-li-jobs-applyformcommon-easyApplyFormElement-4470285110-36644619210-multipleChoice",
+    "question": "Please confirm the Country in which you currently reside?",
+    "type": "select-one",
+    "required": true,
+    "options": [
+      {
+        "label": "Select an option",
+        "value": "Select an option"
+      },
+      {
+        "label": "Belgium",
+        "value": "Belgium"
+      },
+      {
+        "label": "Germany",
+        "value": "Germany"
+      },
+      {
+        "label": "Ireland",
+        "value": "Ireland"
+      },
+      {
+        "label": "Latvia",
+        "value": "Latvia"
+      },
+      {
+        "label": "Netherlands",
+        "value": "Netherlands"
+      },
+      {
+        "label": "South Africa",
+        "value": "South Africa"
+      },
+      {
+        "label": "Spain",
+        "value": "Spain"
+      },
+      {
+        "label": "Switzerland",
+        "value": "Switzerland"
+      },
+      {
+        "label": "United Kingdom",
+        "value": "United Kingdom"
+      },
+      {
+        "label": "Not listed",
+        "value": "Not listed"
+      }
+    ]
+  },
+  "pending_question": null,
+  "submit_clicked": true,
+  "updated_at": "2026-10-13T14:29:16.992745+00:00",
+  "pending_reason": "confirmed_answer_not_accepted_by_control",
+  "contact_verified": [
+    {
+      "key": "378d8991a8e61b833848f140687ede86fc649219320a0da1ee184dc16b6187f9",
+      "question": "First name",
+      "fact_ref": "confirmed_identity:first name"
+    },
+    {
+      "key": "cc1d3b8af240aab771ac296e269885a8ec9ac76849be3b0e97f9545baf559c03",
+      "question": "Last name",
+      "fact_ref": "confirmed_identity:last name"
+    },
+    {
+      "key": "44b6fe6fef457e373b0fd499ff04452fcd76c2710553f8b4a2d19a6ea0ce48d1",
+      "question": "Phone country code",
+      "fact_ref": "confirmed_identity:phone country code"
+    },
+    {
+      "key": "5a05dcd061e00f1e1d6573c83a28f658d962418c2018606746247daa8b2219c7",
+      "question": "Mobile phone number",
+      "fact_ref": "confirmed_identity:mobile phone number"
+    },
+    {
+      "key": "963ab047ac814c5aae4ba8a8bef344ca598c66dea2aa003e415c09df3244c298",
+      "question": "Email address",
+      "fact_ref": "confirmed_identity:email address"
+    },
+    {
+      "key": "9db1e4a9c4a7e6099c0d57a18392d84c5d0cc98f9719105d05729d23fd4fe9e9",
+      "question": "Location (city)",
+      "fact_ref": "confirmed_identity:location city"
+    },
+    {
+      "key": "39eb78c88c5385046830e5fd6a7f403b180f8b81858b33cc2951b89af7d02c49",
+      "question": "If the state you currently live in is not listed above, please confirm which state you reside in. Please complete this only if you selected \u2018State Not Listed\u2019 above.",
+      "fact_ref": "confirmed_identity:state_from_city"
+    }
+  ],
+  "draft_save_requested": true
+}

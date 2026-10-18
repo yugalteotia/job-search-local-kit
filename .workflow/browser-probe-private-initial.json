@@ -1,0 +1,23 @@
+{
+  "started_at": "2026-09-27T21:43:54.239685+00:00",
+  "finished_at": "2026-09-27T21:44:16.943314+00:00",
+  "separate_cli": true,
+  "read_only": true,
+  "timeout_seconds": 180,
+  "timed_out": false,
+  "exit_code": 0,
+  "browser_events": [
+    {
+      "tool": "browser_evaluate",
+      "status": "in_progress"
+    },
+    {
+      "tool": "browser_evaluate",
+      "status": "completed"
+    }
+  ],
+  "passed": false,
+  "errors": [],
+  "failure": "Separate CLI did not establish signed-in identity; scheduling remains disabled.",
+  "private_token_transport": true
+}

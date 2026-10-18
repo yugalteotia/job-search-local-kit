@@ -1,0 +1,19 @@
+[      98ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[      98ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[      98ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[      98ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[      98ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[     259ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920:0
+[     525ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o97850.ingest.sentry.io/api/6722445/envelope/?sentry_key=0fa1e82141414716956803bf500a99a4&sentry_version=7&sentry_client=sentry.javascript.nextjs%2F7.80.0:0
+[     594ms] [LOG] [Track] Unauth page loaded {cs_fe_uuid: 403bf11a-c44d-403e-9ad9-20b74a606353, is_on_mobile_device: false, current_url: https://cutshort.io/jobs/java-jobs?query=Spring%20…20software%20engineer&location=Delhi%20NCR&page=2, track_event_time: Sun Oct 11 2026 08:31:04 GMT+0530 (India Standard Time), user_agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36…KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36} @ https://cdnv2.cutshort.io/_next/static/chunks/pages/_app-c249f696ba246fea.js:31
+[     608ms] [LOG] Service Worker registration successful with scope:  https://cutshort.io/ @ https://cdnv2.cutshort.io/_next/static/chunks/pages/_app-c249f696ba246fea.js:31
+[     843ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     844ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     844ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     844ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     844ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[     978ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/4yw7g/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0
+[     978ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/4yw7g/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0
+[    1009ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/4yw7g/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0
+[    1036ms] [WARNING] No available adapters. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/4yw7g/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0
+[    1675ms] [WARNING] OTS parsing error: Size of decompressed WOFF 2.0 is less than compressed size @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/4yw7g/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0

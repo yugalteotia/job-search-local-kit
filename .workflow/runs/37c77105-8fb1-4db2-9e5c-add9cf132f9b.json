@@ -1,0 +1,651 @@
+{
+  "run_id": "37c77105-8fb1-4db2-9e5c-add9cf132f9b",
+  "started_at": "2026-10-13T05:52:07.438432+00:00",
+  "mode": "read_only",
+  "upload_enabled": false,
+  "submission_enabled": false,
+  "scheduled": true,
+  "test": true,
+  "source_scope": [
+    "naukri"
+  ],
+  "fresh_only": true,
+  "status": "Success",
+  "sources": {
+    "naukri": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-10-13T05:53:04.684145+00:00",
+      "pages_checked": 6,
+      "leads": 28,
+      "feed_jobs": 0
+    }
+  },
+  "coverage": {
+    "naukri": [
+      {
+        "query": "Java Backend Developer",
+        "location": "Delhi NCR",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=Delhi%20NCR&pageNo=1",
+        "observed_url": "https://www.naukri.com/java-backend-developer-jobs-in-delhi-ncr?jobAge=7&experience=2",
+        "checked_at": "2026-10-13T05:52:18.471154+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_label": "2",
+          "freshness_label": "Last 7 days",
+          "sort_label": "Date"
+        },
+        "error_kind": null
+      },
+      {
+        "query": "Java Backend Developer",
+        "location": "Delhi NCR",
+        "page": 2,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=Delhi%20NCR&pageNo=2",
+        "observed_url": "https://www.naukri.com/java-backend-developer-jobs-in-delhi-ncr-2?jobAge=7&experience=2",
+        "checked_at": "2026-10-13T05:52:28.539065+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_label": "2",
+          "freshness_label": "Last 7 days",
+          "sort_label": "Date"
+        },
+        "error_kind": null
+      },
+      {
+        "query": "Java Spring Boot",
+        "location": "India",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+        "observed_url": "https://www.naukri.com/java-spring-boot-jobs-in-india?jobAge=7&experience=3",
+        "checked_at": "2026-10-13T05:52:36.132928+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_label": "3",
+          "freshness_label": "Last 7 days",
+          "sort_label": "Date"
+        },
+        "error_kind": null
+      },
+      {
+        "query": "Java Spring Boot",
+        "location": "India",
+        "page": 2,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=2",
+        "observed_url": "https://www.naukri.com/java-spring-boot-jobs-in-india-2?jobAge=7&experience=3",
+        "checked_at": "2026-10-13T05:52:46.339186+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_label": "3",
+          "freshness_label": "Last 7 days",
+          "sort_label": "Date"
+        },
+        "error_kind": null
+      },
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Chennai",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=Chennai&pageNo=1",
+        "observed_url": "https://www.naukri.com/java-spring-boot-backend-jobs-in-chennai?jobAge=7&experience=2",
+        "checked_at": "2026-10-13T05:52:54.448157+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_label": "2",
+          "freshness_label": "Last 7 days",
+          "sort_label": "Date"
+        },
+        "error_kind": null
+      },
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Chennai",
+        "page": 2,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=Chennai&pageNo=2",
+        "observed_url": "https://www.naukri.com/java-spring-boot-backend-jobs-in-chennai-2?jobAge=7&experience=2",
+        "checked_at": "2026-10-13T05:53:04.455323+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_label": "2",
+          "freshness_label": "Last 7 days",
+          "sort_label": "Date"
+        },
+        "error_kind": null
+      }
+    ]
+  },
+  "leads": 28,
+  "unique_original_requisitions_verified": 0,
+  "fit_decisions": {
+    "329": {
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "Bengaluru, Hyderabad, Chennai",
+        "experience": "ru, Hyderabad, Chennai Experience: 2 - 7 years Job highlights 3-5 years experience in Java backend and Angular frontend development Design and maintain scal",
+        "technology": "lications, build RESTful APIs with Spring Boot, develop Angular JS UI components, ensure code quality and application performance Job ma",
+        "role": null
+      },
+      "jd_sha256": "8ea84f10b9a2cb7ec508caf2e45bd80d7e121a0981b87fb2f03dc621e6c95296"
+    }
+  },
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/37c77105-8fb1-4db2-9e5c-add9cf132f9b.json"
+  ],
+  "queue": {
+    "ResumeReady": 2
+  },
+  "stage_seconds": {
+    "discovery": 57.23,
+    "original_verification": 0.0,
+    "lead_resolution": 19.44,
+    "fit_review": 0.02,
+    "auto_fit_resume": 0.17
+  },
+  "stage_counts": {
+    "normalized_unique_ats": 0,
+    "selected_for_original_check": 0,
+    "fetched": 28,
+    "unique_portal_leads": 27,
+    "fresh": 0,
+    "unknown_date": 9,
+    "skipped_old": 0,
+    "repeat_skipped": 18,
+    "unique_original_requisitions": 0,
+    "eligible_for_review": 1,
+    "original_jds_reviewed": 0,
+    "original_or_portal_jds_reviewed": 1,
+    "portal_native_verified": 5,
+    "high": 0,
+    "queued_for_resume": 0,
+    "review_queue_added": 1,
+    "portal_originals_matched": 0,
+    "portal_leads_still_needing_original": 2142
+  },
+  "top_reviewed": [
+    {
+      "job_id": 329,
+      "company": "Infosys",
+      "role": "JAVA+Angular Developer - INF (2-15) YRS",
+      "location": "Bengaluru, Hyderabad, Chennai",
+      "direct_url": "https://www.naukri.com/job-listings-java-angular-developer-inf-2-15-yrs-infosys-hyderabad-chennai-bengaluru-2-to-7-years-170926032578",
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "8ea84f10b9a2cb7ec508caf2e45bd80d7e121a0981b87fb2f03dc621e6c95296",
+      "original_page_checked_at": "2026-10-13T05:53:24.112572+00:00",
+      "reviewed_at": "2026-10-13T05:53:24.314629+00:00",
+      "experience_minimum": 3.0,
+      "evidence": {
+        "location": "Bengaluru, Hyderabad, Chennai",
+        "experience": "ru, Hyderabad, Chennai Experience: 2 - 7 years Job highlights 3-5 years experience in Java backend and Angular frontend development Design and maintain scal",
+        "technology": "lications, build RESTful APIs with Spring Boot, develop Angular JS UI components, ensure code quality and application performance Job ma",
+        "role": null
+      },
+      "reasons": [
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ]
+    }
+  ],
+  "recovery": {
+    "requeued_resume": 0,
+    "returned_to_prepared": 0,
+    "claimed_left_locked": 4
+  },
+  "freshness": {
+    "policy": {
+      "routine_review_hours": 24,
+      "sweep_overlap_minutes": 90,
+      "unknown_date_details_per_run": 30,
+      "transient_retry_hours": 6,
+      "pending_application_recheck_hours": 6
+    },
+    "counts": {
+      "fresh": 0,
+      "recent": 0,
+      "unknown_date": 9,
+      "skipped_old": 0,
+      "repeat_skipped": 18,
+      "history_skipped": 1,
+      "unknown_date_deferred": 0
+    },
+    "detail_candidates": 9,
+    "skips": [
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-springboot-microservices-inf-2-9-yrs-infosys-hyderabad-chennai-bengaluru-2-to-7-years-200826033407",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-react-2-3-years-infosys-pune-chennai-bengaluru-2-to-3-years-060826033871",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-react-js-2-3-years-infosys-hyderabad-chennai-bengaluru-2-to-3-years-190826009541",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-react-2-3-years-infosys-hyderabad-chennai-bengaluru-2-to-3-years-030826024220",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-developer-codepanda-academy-noida-gurugram-delhi-ncr-0-to-4-years-090724010334",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-pune-bengaluru-delhi-ncr-2-to-3-years-100826024093",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-hyderabad-pune-bengaluru-3-to-8-years-081026050483",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-react-js-angular-js-infosys-kolkata-hyderabad-pune-2-to-3-years-280926032117",
+        "reason": "locked_uncertain_attempt"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-react-js-developer-infosys-hyderabad-pune-bengaluru-3-to-8-years-091026036419",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-react-developer-infosys-pune-chennai-bengaluru-2-to-6-years-240826012293",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-react-developer-infosys-pune-chennai-bengaluru-2-to-6-years-240826012293",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-2-3y-infosys-pune-chennai-bengaluru-2-to-3-years-190826009591",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-developer-inf-2-9-yrs-infosys-hyderabad-chennai-bengaluru-2-to-7-years-070926029541",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-back-end-developer-propelgo-gurugram-1-to-3-years-101026014550",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-production-support-infosys-hyderabad-3-to-8-years-100526005703",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-production-support-infosys-hyderabad-chennai-bengaluru-3-to-8-years-060426029861",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-production-support-infosys-hyderabad-3-to-8-years-300426013239",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-selenium-automation-tester-java-hyderabad-infosys-hyderabad-chennai-bengaluru-3-to-8-years-090426029634",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-back-end-sales-support-adduco-india-chennai-2-to-4-years-121026031610",
+        "reason": "unchanged_already_reviewed"
+      }
+    ]
+  },
+  "portal_native": {
+    "selected": 5,
+    "verified": 5,
+    "unverified": 0,
+    "verified_job_ids": [
+      329,
+      330,
+      331,
+      332,
+      333
+    ],
+    "results": [
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-angular-developer-inf-2-15-yrs-infosys-hyderabad-chennai-bengaluru-2-to-7-years-170926032578",
+        "portal_job_id": "170926032578",
+        "title": "JAVA+Angular Developer - INF (2-15) YRS",
+        "employer": "Infosys",
+        "location": "Bengaluru, Hyderabad, Chennai",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 1946,
+        "experience_evidence": "2 - 7 years",
+        "apply_visible": true,
+        "database_job_id": 329,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 3
+        },
+        "render_checks": 1,
+        "card_sha256": "162de95aacc73c7eefecfba1a3b3fb7464ef157568e7c86269589904409b186c",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "1 day ago"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-angular-inf-2-15-yrs-infosys-pune-chennai-bengaluru-2-to-3-years-270726014917",
+        "portal_job_id": "270726014917",
+        "title": "JAVA+Angular -INF (2-15 YRS)",
+        "employer": "Infosys",
+        "location": "Pune, Bengaluru, Chennai",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 2160,
+        "experience_evidence": "2-15 YRS",
+        "apply_visible": true,
+        "database_job_id": 330,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 3
+        },
+        "render_checks": 1,
+        "card_sha256": "ffd9b682598268ab6330e0da01d19dad8967f20a134ac29b1780d57fbebf05a9",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "1 day ago"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-fullstack-angular-s-infosys-hyderabad-chennai-bengaluru-2-to-7-years-240826031604",
+        "portal_job_id": "240826031604",
+        "title": "Java fullstack Angular-S",
+        "employer": "Infosys",
+        "location": "Bengaluru, Hyderabad, Chennai",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 2227,
+        "experience_evidence": "2 - 7 years",
+        "apply_visible": true,
+        "database_job_id": 331,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 3
+        },
+        "render_checks": 1,
+        "card_sha256": "395d580ff6349635d2c78613ec126d2e4a910df641f1e5041f86d35a1980afe0",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "1 day ago"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-reactjs-2-15-inf-infosys-hyderabad-chennai-bengaluru-2-to-3-years-270726031005",
+        "portal_job_id": "270726031005",
+        "title": "java+reactjs (2-15)-INF",
+        "employer": "Infosys",
+        "location": "Bengaluru, Hyderabad, Chennai",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 2072,
+        "experience_evidence": "2 - 3 years",
+        "apply_visible": true,
+        "database_job_id": 332,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 3
+        },
+        "render_checks": 1,
+        "card_sha256": "cc1ef749c6f138b8464301ebcc607b012d77265d03ad87e426da969b9d945d90",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "1 day ago"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-backend-executive-cyfuture-tambaram-chennai-0-to-3-years-051026034522",
+        "portal_job_id": "051026034522",
+        "title": "Backend Executive",
+        "employer": "Cyfuture",
+        "location": "Chennai",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 1343,
+        "experience_evidence": "0 - 3 years",
+        "apply_visible": true,
+        "database_job_id": 333,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 0
+        },
+        "render_checks": 1,
+        "card_sha256": "a60f1d4823a3af8c2867f7a9a1585c4b8a366aa01b6329c28c9c293adb9379c5",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "1 day ago"
+      }
+    ]
+  },
+  "lead_resolution": {
+    "navigation_links_reclassified": 152,
+    "missing_ats_jd_refresh": {
+      "checked": 0,
+      "results": []
+    },
+    "direct_provider_coverage": {},
+    "direct_employer_coverage": {},
+    "portal_employer_coverage": {},
+    "target_title_failures_in_batch": 0,
+    "portal_jobs_inspected": 0,
+    "originals_matched": 0,
+    "substantive_originals_verified": 0,
+    "live_title_only": 0,
+    "direct_check_failures": 0,
+    "needs_original": 2142,
+    "title_relevant_unresolved": 1249,
+    "by_source": {
+      "naukri": {
+        "needs_original": 714,
+        "not_a_job": 3
+      },
+      "linkedin": {
+        "needs_original": 1368,
+        "not_a_job": 4
+      },
+      "foundit": {
+        "needs_original": 0,
+        "not_a_job": 17
+      },
+      "indeed": {
+        "needs_original": 0,
+        "not_a_job": 98
+      },
+      "cutshort": {
+        "needs_original": 60,
+        "not_a_job": 30
+      }
+    },
+    "results": []
+  },
+  "linked_portal_native": null,
+  "review_coverage": {
+    "by_source": {
+      "naukri_portal_native": 1
+    },
+    "by_company": {
+      "Infosys": 1
+    }
+  },
+  "master_resume": {
+    "ok": true,
+    "issues": []
+  },
+  "auto_fit": {
+    "considered": 1,
+    "queued": 0,
+    "not_eligible": 1,
+    "blocked": 0,
+    "skipped_unchanged": 17,
+    "results": [
+      {
+        "job_id": 329,
+        "employer": "Infosys",
+        "title": "JAVA+Angular Developer - INF (2-15) YRS",
+        "outcome": "not_eligible",
+        "fit": "Medium",
+        "reasons": [
+          "Experience minimum missing or beyond confirmed profile band",
+          "No confirmed evidence for other_frontend",
+          "No confirmed evidence for cloud_generic",
+          "No confirmed evidence for other_frontend",
+          "Essential evidence coverage below 100%"
+        ]
+      }
+    ]
+  },
+  "auto_resume": {
+    "prepared": 0,
+    "failed": 0,
+    "results": []
+  },
+  "staging": {
+    "path": ".workflow/staging.json",
+    "resume_review_ready": 0,
+    "needs_jd_evidence_review": 0
+  },
+  "blocker_alerts": [
+    {
+      "job_id": 220,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 241,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 250,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 314,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 220,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 241,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 250,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 314,
+      "status": "cooldown"
+    }
+  ],
+  "naukri_application_worker": {
+    "enabled": true,
+    "max_submissions_per_run": 1,
+    "other_portals": "discovery_only",
+    "capability_reason": "Proof marker valid; one claim per run",
+    "status": "DryRun",
+    "candidate_count": 0,
+    "resumable_count": 0,
+    "checks": [],
+    "submissions": 0,
+    "forms_opened": 0,
+    "uploads": 0
+  },
+  "portals": {
+    "naukri": {
+      "capability": "ApplyReady",
+      "reason": "Proof marker valid; one claim per run",
+      "session": "unknown"
+    },
+    "linkedin": {
+      "capability": "DiscoveryOnly",
+      "reason": "No end-to-end application path proven for this portal",
+      "session": "unknown"
+    },
+    "foundit": {
+      "capability": "Blocked",
+      "reason": "Last discovery NoVisibleCards",
+      "session": "unknown"
+    },
+    "indeed": {
+      "capability": "DiscoveryOnly",
+      "reason": "No end-to-end application path proven for this portal",
+      "session": "unknown"
+    },
+    "cutshort": {
+      "capability": "DiscoveryOnly",
+      "reason": "No end-to-end application path proven for this portal",
+      "session": "unknown"
+    },
+    "ats": {
+      "capability": "DiscoveryOnly",
+      "reason": "Public feeds are read-only; application forms are not implemented",
+      "session": "unknown"
+    }
+  },
+  "tab_lifecycle": {
+    "created": null,
+    "reused": null,
+    "closed": null,
+    "remaining_automation_tabs": null,
+    "job_tabs_created": null,
+    "job_tabs_closed": null,
+    "welcome_tabs_created": null,
+    "welcome_tabs_closed": null,
+    "remaining_job_tabs": null,
+    "remaining_welcome_tabs": null,
+    "uncertain_ids": [
+      "No tab lifecycle report was emitted"
+    ],
+    "recorded_ids": [],
+    "log_paths": []
+  },
+  "finished_at": "2026-10-13T05:53:24.648185+00:00",
+  "elapsed_seconds": 77.21
+}

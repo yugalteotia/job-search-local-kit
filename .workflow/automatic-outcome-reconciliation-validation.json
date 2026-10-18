@@ -1,0 +1,158 @@
+{
+  "before": [
+    {
+      "id": 220,
+      "state": "SubmissionUnconfirmed",
+      "attempt_id": "b59f715d-900f-4ce8-94eb-32385b97bf92",
+      "attempt_state": "uncertain"
+    },
+    {
+      "id": 241,
+      "state": "SubmissionUnconfirmed",
+      "attempt_id": "1e71b9fe-7638-4205-98d9-09fc908f5ba6",
+      "attempt_state": "uncertain"
+    },
+    {
+      "id": 250,
+      "state": "SubmissionUnconfirmed",
+      "attempt_id": "9a7b0155-5410-4784-a255-2da08c2cdc45",
+      "attempt_state": "uncertain"
+    }
+  ],
+  "after": [],
+  "confirmed": [
+    {
+      "job_id": 220,
+      "requisition_id": "190826038395",
+      "attempt_id": "b59f715d-900f-4ce8-94eb-32385b97bf92",
+      "status": "Applied",
+      "confirmation_path": "jobs/naukri-190826038395/naukri-history-reconciliation-confirmation.json",
+      "new_claim_created": false,
+      "new_application_action": false,
+      "url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-microservices-infosys-pune-chennai-bengaluru-2-to-5-years-190826038395"
+    },
+    {
+      "job_id": 241,
+      "requisition_id": "280926023134",
+      "attempt_id": "1e71b9fe-7638-4205-98d9-09fc908f5ba6",
+      "status": "Applied",
+      "confirmation_path": "jobs/agiliad-java-backend-developer-280926023134/naukri-history-reconciliation-confirmation.json",
+      "new_claim_created": false,
+      "new_application_action": false,
+      "url": "https://www.naukri.com/job-listings-java-developer-senior-java-developer-agiliad-pune-2-to-6-years-280926023134"
+    },
+    {
+      "job_id": 250,
+      "requisition_id": "160926009207",
+      "attempt_id": "9a7b0155-5410-4784-a255-2da08c2cdc45",
+      "status": "Applied",
+      "confirmation_path": "jobs/naukri-160926009207/naukri-history-reconciliation-confirmation.json",
+      "new_claim_created": false,
+      "new_application_action": false,
+      "url": "https://www.naukri.com/job-listings-backend-java-developer-naukri-e-hire-campaign-bengaluru-2-to-4-years-160926009207"
+    },
+    {
+      "job_id": 266,
+      "requisition_id": "290926917619",
+      "attempt_id": null,
+      "status": "Applied",
+      "confirmation_path": "jobs/naukri-290926917619/naukri-history-reconciliation-confirmation.json",
+      "new_claim_created": false,
+      "new_application_action": false,
+      "url": "https://www.naukri.com/job-listings-java-backend-engineer-luxoft-india-llp-pune-3-to-5-years-290926917619"
+    },
+    {
+      "job_id": 314,
+      "requisition_id": "280926032117",
+      "attempt_id": "d69e7dc1-111f-46ed-9293-a4cdf6e0172f",
+      "status": "Applied",
+      "confirmation_path": "jobs/naukri-280926032117/naukri-history-reconciliation-confirmation.json",
+      "new_claim_created": false,
+      "new_application_action": false,
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-react-js-angular-js-infosys-kolkata-hyderabad-pune-2-to-3-years-280926032117"
+    },
+    {
+      "job_id": 355,
+      "requisition_id": "131026049027",
+      "attempt_id": null,
+      "status": "Applied",
+      "confirmation_path": "jobs/naukri-131026049027/naukri-history-reconciliation-confirmation.json",
+      "new_claim_created": false,
+      "new_application_action": false,
+      "url": "https://www.naukri.com/job-listings-software-developer-ntt-data-business-solutions-bengaluru-3-to-5-years-131026049027"
+    }
+  ],
+  "notifications": [
+    {
+      "job_id": 220,
+      "sent": true
+    },
+    {
+      "job_id": 241,
+      "sent": true
+    },
+    {
+      "job_id": 250,
+      "sent": true
+    },
+    {
+      "job_id": 266,
+      "sent": true
+    },
+    {
+      "job_id": 314,
+      "sent": true
+    },
+    {
+      "job_id": 355,
+      "sent": true
+    }
+  ],
+  "providers": {
+    "naukri": {
+      "status": "Checked",
+      "pending": 6,
+      "history_full": true,
+      "blocker": null,
+      "job_errors": null,
+      "error_type": null
+    },
+    "linkedin": {
+      "status": "NoPending",
+      "pending": 0,
+      "history_full": null,
+      "blocker": null,
+      "job_errors": null,
+      "error_type": null
+    }
+  },
+  "shared_run_lock_held": true,
+  "new_claims": 0,
+  "application_actions": 0,
+  "focused_tests_passed": 7,
+  "reconciliation_evidence": ".workflow/runs/readonly-reconciliation-validation-20261014-reconciliation-validation.json",
+  "no_repeat_notifications_or_browser_when_no_pending": true,
+  "after_validation": {
+    "status": "Complete",
+    "phase": "after_validation",
+    "providers": {
+      "naukri": {
+        "status": "NoPending",
+        "pending": 0
+      },
+      "linkedin": {
+        "status": "NoPending",
+        "pending": 0
+      }
+    },
+    "confirmed": [],
+    "new_claims": 0,
+    "notifications": []
+  },
+  "focused_unique_checks_passed": 9,
+  "additional_budget_and_confirmation_checks_passed": 18,
+  "full_history_rows": 280,
+  "expected_history_rows": 280,
+  "generic_resume_unchanged": true,
+  "linkedin_history_limitation": "Current redirected job tracker has no verified Applied filter or complete count; future uncertain outcomes remain locked when history is unverified. No current LinkedIn pending attempts."
+}

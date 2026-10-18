@@ -1,0 +1,38 @@
+[ -140391ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://static.naukimg.com/s/0/0/j/nLoggerJB_v3.4.min.js:0
+[ -140384ms] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://static.naukimg.com/s/0/0/j/customElements.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ https://www.naukri.com/mnjuser/settings/communication:209
+[ -140383ms] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://static.naukimg.com/s/0/0/j/customElements.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ https://www.naukri.com/mnjuser/settings/communication:209
+[ -140383ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.naukri.com/akam/13/71265a7:0
+[ -140328ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://static.naukimg.com/s/5/105/j/internal_interfaces_v9.min.js:2
+[ -139963ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[ -139955ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[ -134786ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://static.naukimg.com/s/5/105/j/suggestor_v9.4.21.min.js:0
+[ -132110ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[ -131382ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[ -130085ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[ -130000ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[       6ms] ReferenceError: nLogger is not defined
+    at https://www.naukri.com/mnjuser/settings/communication:63:13
+[    7627ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    7627ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    7628ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    7628ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    7946ms] [LOG] searchParams null @ https://static.naukimg.com/s/9/105/_next/static/chunks/app/layout-e21cae22cb919beb.js:0
+[    7998ms] [LOG] searchParams null @ https://static.naukimg.com/s/9/105/_next/static/chunks/app/layout-e21cae22cb919beb.js:0
+[    8035ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://static.naukimg.com/s/0/0/j/nLoggerJB_v3.4.min.js:0
+[    8057ms] [LOG] searchParams null @ https://static.naukimg.com/s/9/105/_next/static/chunks/app/layout-e21cae22cb919beb.js:0
+[    8066ms] [LOG] searchParams null @ https://static.naukimg.com/s/9/105/_next/static/chunks/app/layout-e21cae22cb919beb.js:0
+[    8163ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    8205ms] [LOG] searchParams null @ https://static.naukimg.com/s/9/105/_next/static/chunks/app/layout-e21cae22cb919beb.js:0
+[    8241ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    8649ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/collectorapi/v1/uba/bulk:0
+[    9238ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    9239ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    9254ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    9255ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    9255ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/collectorapi/v1/uba/bulk:0
+[    9407ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    9495ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    9543ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[   13041ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[   13043ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[   39337ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0

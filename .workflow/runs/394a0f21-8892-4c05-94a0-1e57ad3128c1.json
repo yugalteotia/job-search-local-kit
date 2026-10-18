@@ -1,0 +1,917 @@
+{
+  "run_id": "394a0f21-8892-4c05-94a0-1e57ad3128c1",
+  "started_at": "2026-10-13T13:01:50.554432+00:00",
+  "mode": "read_only",
+  "upload_enabled": false,
+  "submission_enabled": false,
+  "scheduled": true,
+  "test": true,
+  "source_scope": [
+    "naukri",
+    "linkedin"
+  ],
+  "fresh_only": true,
+  "status": "Success",
+  "sources": {
+    "naukri": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-10-13T13:02:10.469577+00:00",
+      "pages_checked": 2,
+      "leads": 6,
+      "feed_jobs": 0
+    },
+    "linkedin": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-10-13T13:02:17.659961+00:00",
+      "pages_checked": 2,
+      "leads": 5,
+      "feed_jobs": 0
+    }
+  },
+  "coverage": {
+    "naukri": [
+      {
+        "query": "Java Spring Boot backend",
+        "location": "India",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+        "observed_url": "https://www.naukri.com/java-spring-boot-backend-jobs-in-india?jobAge=7&experience=2",
+        "checked_at": "2026-10-13T13:02:01.851533+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_label": "2",
+          "freshness_label": "Last 7 days",
+          "sort_label": "Date"
+        },
+        "rendered_search": {
+          "keywords": "java spring boot backend, ",
+          "location": "india, ",
+          "experience": "2 years",
+          "heading": "Java Spring Boot Backend Jobs In India"
+        },
+        "last_search_api_parameters": {
+          "keyword": [
+            "java spring boot backend"
+          ],
+          "location": [
+            "india"
+          ],
+          "experience": [
+            "2",
+            "2"
+          ],
+          "jobAge": [
+            "7",
+            "7"
+          ],
+          "sort": [
+            "f"
+          ]
+        },
+        "error_kind": null,
+        "extracted_exact_ids": [
+          "131026044656",
+          "131026044476",
+          "131026044388",
+          "131026043704",
+          "131026043523",
+          "131026043435",
+          "131026043258",
+          "131026043086",
+          "131026043004",
+          "131026042721",
+          "131026042270",
+          "131026041784",
+          "131026041772",
+          "131026041753",
+          "131026041740",
+          "131026041730",
+          "131026041728",
+          "131026041702",
+          "131026041499",
+          "131026040070"
+        ],
+        "retained_leads": 2,
+        "card_filter_exclusions": {
+          "unrelated_bpo_data_entry_qa_role": 13,
+          "no_relevant_title_or_generic_engineering_card_skills": 5
+        }
+      },
+      {
+        "query": "Java Backend Developer",
+        "location": "India",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+        "observed_url": "https://www.naukri.com/java-backend-developer-jobs-in-india?jobAge=7&experience=3",
+        "checked_at": "2026-10-13T13:02:10.126245+00:00",
+        "status": "Success",
+        "visible_cards": 20,
+        "lead_count": 20,
+        "filters": {
+          "experience_label": "3",
+          "freshness_label": "Last 7 days",
+          "sort_label": "Date"
+        },
+        "rendered_search": {
+          "keywords": "java backend developer, ",
+          "location": "india, ",
+          "experience": "3 years",
+          "heading": "Java Backend Developer Jobs In India"
+        },
+        "last_search_api_parameters": {
+          "keyword": [
+            "java backend developer"
+          ],
+          "location": [
+            "india"
+          ],
+          "experience": [
+            "3",
+            "3"
+          ],
+          "jobAge": [
+            "7",
+            "7"
+          ],
+          "sort": [
+            "f"
+          ]
+        },
+        "error_kind": null,
+        "extracted_exact_ids": [
+          "131026044656",
+          "240926037684",
+          "131026044388",
+          "300926036005",
+          "131026044074",
+          "131026043702",
+          "131026043658",
+          "131026043435",
+          "131026042816",
+          "131026042779",
+          "131026042767",
+          "131026042720",
+          "131026042270",
+          "071026048908",
+          "131026041722",
+          "131026041499",
+          "131026040754",
+          "280926013773",
+          "131026040074",
+          "131026039795"
+        ],
+        "retained_leads": 4,
+        "card_filter_exclusions": {
+          "unrelated_bpo_data_entry_qa_role": 5,
+          "no_relevant_title_or_generic_engineering_card_skills": 11
+        }
+      }
+    ],
+    "linkedin": [
+      {
+        "query": "Java Spring Boot backend",
+        "location": "India",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Spring%20Boot%20backend&location=India&sortBy=DD&f_AL=true&f_TPR=r604800&f_E=2%2C3&start=0",
+        "observed_url": "https://www.linkedin.com/jobs/search/?currentJobId=4478102490&f_AL=true&f_E=2%2C3&f_TPR=r604800&keywords=Java%20Spring%20Boot%20backend&location=India&sortBy=DD",
+        "visible_cards": 32,
+        "lead_count": 25,
+        "retained_leads": 1,
+        "card_filter_exclusions": {
+          "no_relevant_title_or_generic_engineering_card_skills": 24
+        },
+        "filters": {
+          "easy_apply": true,
+          "location": "India",
+          "experience_levels": [
+            "Entry level",
+            "Associate"
+          ],
+          "posting_window": "last 7 days",
+          "sort": "newest"
+        },
+        "checked_at": "2026-10-13T13:02:07.589675+00:00",
+        "status": "Success"
+      },
+      {
+        "query": "Java Backend Developer",
+        "location": "India",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Backend%20Developer&location=India&sortBy=DD&f_AL=true&f_TPR=r604800&f_E=2%2C3&start=0",
+        "observed_url": "https://www.linkedin.com/jobs/search/?currentJobId=4478102490&f_AL=true&f_E=2%2C3&f_TPR=r604800&keywords=Java%20Backend%20Developer&location=India&sortBy=DD",
+        "visible_cards": 32,
+        "lead_count": 25,
+        "retained_leads": 4,
+        "card_filter_exclusions": {
+          "no_relevant_title_or_generic_engineering_card_skills": 21
+        },
+        "filters": {
+          "easy_apply": true,
+          "location": "India",
+          "experience_levels": [
+            "Entry level",
+            "Associate"
+          ],
+          "posting_window": "last 7 days",
+          "sort": "newest"
+        },
+        "checked_at": "2026-10-13T13:02:17.406199+00:00",
+        "status": "Success"
+      }
+    ]
+  },
+  "leads": 11,
+  "unique_original_requisitions_verified": 0,
+  "fit_decisions": {},
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/394a0f21-8892-4c05-94a0-1e57ad3128c1.json"
+  ],
+  "queue": {
+    "ResumeReady": 2
+  },
+  "stage_seconds": {
+    "discovery": 27.05,
+    "original_verification": 0.0,
+    "lead_resolution": 42.36,
+    "fit_review": 0.0,
+    "auto_fit_resume": 2.63
+  },
+  "stage_counts": {
+    "normalized_unique_ats": 0,
+    "selected_for_original_check": 0,
+    "fetched": 11,
+    "unique_portal_leads": 8,
+    "fresh": 0,
+    "unknown_date": 8,
+    "skipped_old": 0,
+    "repeat_skipped": 3,
+    "unique_original_requisitions": 0,
+    "eligible_for_review": 0,
+    "original_jds_reviewed": 0,
+    "original_or_portal_jds_reviewed": 0,
+    "portal_native_verified": 0,
+    "high": 0,
+    "queued_for_resume": 0,
+    "review_queue_added": 0,
+    "portal_originals_matched": 0,
+    "portal_leads_still_needing_original": 2146
+  },
+  "top_reviewed": [],
+  "recovery": {
+    "requeued_resume": 0,
+    "returned_to_prepared": 0,
+    "claimed_left_locked": 3
+  },
+  "freshness": {
+    "policy": {
+      "routine_review_hours": 24,
+      "sweep_overlap_minutes": 90,
+      "unknown_date_details_per_run": 30,
+      "transient_retry_hours": 6,
+      "pending_application_recheck_hours": 6
+    },
+    "counts": {
+      "fresh": 0,
+      "recent": 0,
+      "unknown_date": 8,
+      "skipped_old": 0,
+      "repeat_skipped": 3,
+      "history_skipped": 0,
+      "unknown_date_deferred": 0
+    },
+    "detail_candidates": 8,
+    "skips": [
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4476429855/",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-backend-engineer-codedecoders-ahmedabad-2-to-5-years-131026044656",
+        "reason": "duplicate_in_same_sweep"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-full-stack-developer-skillmint-india-bhilai-raipur-2-to-5-years-131026042270",
+        "reason": "duplicate_in_same_sweep"
+      }
+    ]
+  },
+  "portal_native": {
+    "selected": 8,
+    "verified": 0,
+    "unverified": 8,
+    "verified_job_ids": [],
+    "results": [
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4478789469/",
+        "portal_job_id": "4478789469",
+        "title": "Backend Developer (SDE II)",
+        "employer": "Drip Capital",
+        "location": null,
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "job_title_missing_or_card_mismatch",
+          "job_specific_india_location_not_visible",
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 0,
+        "experience_evidence": null,
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 1,
+        "card_sha256": "6a054c9f9532894b7150a5f9086255faca33590ce7e3c0d50474c7b88a8bd031",
+        "freshness": "Unknown",
+        "posted_at": "2026-10-13",
+        "posted_text": "1 hour ago\nWithin the past 24 hours"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-developer-intellect-design-arena-chennai-3-to-6-years-131026042720",
+        "portal_job_id": "131026042720",
+        "title": "Java Developer",
+        "employer": "Intellect Design Arena",
+        "location": "Chennai",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 1166,
+        "experience_evidence": "3 - 6 years",
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 1,
+        "card_sha256": "6afaf910cd1518a94c28fab5959f2b79451557415a3d86394609d226e5fcc8e7",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "Just now"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4476410162/",
+        "portal_job_id": "4476410162",
+        "title": "Software Engineer",
+        "employer": "Syntrace",
+        "location": null,
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "job_title_missing_or_card_mismatch",
+          "job_specific_india_location_not_visible",
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 0,
+        "experience_evidence": null,
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 1,
+        "card_sha256": "afc0b3d0e48ac406bdbf7c538d33cbd6da28e7c6f5f284827722c26448b228ef",
+        "freshness": "Unknown",
+        "posted_at": "2026-10-13",
+        "posted_text": "1 hour ago\nWithin the past 24 hours"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-backend-engineer-codedecoders-ahmedabad-2-to-5-years-131026044656",
+        "portal_job_id": "131026044656",
+        "title": "Senior Backend Engineer",
+        "employer": "Codedecoders",
+        "location": "Ahmedabad(Motera)",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "job_specific_india_location_not_visible"
+        ],
+        "jd_characters": 763,
+        "experience_evidence": "2 - 5 years",
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 1,
+        "card_sha256": "3bb05dad80cb769b726944a06b7e19dc67df038fc1e23141023b9b86a009ce2d",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "Just now"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4470285110/",
+        "portal_job_id": "4470285110",
+        "title": "Software Engineer",
+        "employer": "DigiCert",
+        "location": null,
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "job_title_missing_or_card_mismatch",
+          "job_specific_india_location_not_visible",
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 0,
+        "experience_evidence": null,
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 1,
+        "card_sha256": "0f6a86776cfff82c7130f25e7d39d843f004b42dfde9a72676f854e32befdbb6",
+        "freshness": "Unknown",
+        "posted_at": "2026-10-13",
+        "posted_text": "54 minutes ago\nWithin the past 24 hours"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-php-software-developer-wama-technology-mumbai-3-to-8-years-131026044074",
+        "portal_job_id": "131026044074",
+        "title": "PHP Software Developer",
+        "employer": "Wama Technology",
+        "location": "Mumbai",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 1065,
+        "experience_evidence": "3 - 8 years",
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 1,
+        "card_sha256": "82938b1e8d0508ba80722a988c35539932d7b27f98b7df2150fc4f286542c3a4",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "Just now"
+      },
+      {
+        "source": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/4476429855/",
+        "portal_job_id": "4476429855",
+        "title": "Full Stack Software Engineer",
+        "employer": "Sapiogen AI",
+        "location": null,
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "job_title_missing_or_card_mismatch",
+          "job_specific_india_location_not_visible",
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 0,
+        "experience_evidence": null,
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 1,
+        "card_sha256": "f4386be565752ae135ae212b07136e22542e87ce98b1f4595407598ff1011294",
+        "freshness": "Unknown",
+        "posted_at": "2026-10-13",
+        "posted_text": "5 minutes ago\nWithin the past 24 hours"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-full-stack-developer-skillmint-india-bhilai-raipur-2-to-5-years-131026042270",
+        "portal_job_id": "131026042270",
+        "title": "Senior Full Stack Developer",
+        "employer": "Skillmint India",
+        "location": "Bhilai, Raipur",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "job_specific_india_location_not_visible",
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 1270,
+        "experience_evidence": "2 - 5 years",
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 1,
+        "card_sha256": "0714b496485bbf0e72f3c810b89339f61ec4bef8c7fb09a1fb2e80ad02ac6ccb",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "Just now"
+      }
+    ],
+    "selection_skips": []
+  },
+  "lead_resolution": {
+    "navigation_links_reclassified": 152,
+    "missing_ats_jd_refresh": {
+      "checked": 0,
+      "results": []
+    },
+    "direct_provider_coverage": {},
+    "direct_employer_coverage": {},
+    "portal_employer_coverage": {},
+    "target_title_failures_in_batch": 0,
+    "portal_jobs_inspected": 0,
+    "originals_matched": 0,
+    "substantive_originals_verified": 0,
+    "live_title_only": 0,
+    "direct_check_failures": 0,
+    "needs_original": 2146,
+    "title_relevant_unresolved": 1253,
+    "by_source": {
+      "naukri": {
+        "needs_original": 718,
+        "not_a_job": 3
+      },
+      "linkedin": {
+        "needs_original": 1368,
+        "not_a_job": 4
+      },
+      "foundit": {
+        "needs_original": 0,
+        "not_a_job": 17
+      },
+      "indeed": {
+        "needs_original": 0,
+        "not_a_job": 98
+      },
+      "cutshort": {
+        "needs_original": 60,
+        "not_a_job": 30
+      }
+    },
+    "results": []
+  },
+  "linked_portal_native": null,
+  "review_coverage": {
+    "by_source": {},
+    "by_company": {}
+  },
+  "master_resume": {
+    "ok": true,
+    "issues": []
+  },
+  "auto_fit": {
+    "considered": 19,
+    "queued": 1,
+    "not_eligible": 17,
+    "blocked": 1,
+    "skipped_unchanged": 0,
+    "results": [
+      {
+        "job_id": 337,
+        "employer": "Azentio Software",
+        "title": "Forward Deployed Software Engineer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 5 years"
+        ]
+      },
+      {
+        "job_id": 336,
+        "employer": "Azentio Software",
+        "title": "Forward Deployed Software Engineer",
+        "outcome": "not_eligible",
+        "fit": "Low",
+        "reasons": [
+          "Experience minimum missing or beyond confirmed profile band",
+          "No confirmed evidence for ai_agentic",
+          "No confirmed evidence for other_languages",
+          "No confirmed evidence for other_languages",
+          "JD requires professional or advanced depth for mysql_sql",
+          "No confirmed evidence for ai_agentic",
+          "No confirmed evidence for ai_agentic",
+          "No confirmed evidence for ai_agentic",
+          "No confirmed evidence for ai_agentic",
+          "No confirmed evidence for cloud_generic",
+          "No confirmed evidence for aws",
+          "No confirmed evidence for azure",
+          "No confirmed evidence for gcp",
+          "No confirmed evidence for cloud_generic",
+          "No confirmed evidence for kubernetes",
+          "Essential evidence coverage below 100%"
+        ]
+      },
+      {
+        "job_id": 335,
+        "employer": "Bisani Brothers",
+        "title": "Senior Software Developer - Mobile, Web & Backend (Fintech)",
+        "outcome": "not_eligible",
+        "fit": "Medium",
+        "reasons": [
+          "Experience minimum missing or beyond confirmed profile band",
+          "No confirmed evidence for mobile_delivery",
+          "No confirmed evidence for mobile_delivery",
+          "No confirmed evidence for nextjs",
+          "Essential evidence coverage below 100%"
+        ]
+      },
+      {
+        "job_id": 329,
+        "employer": "Infosys",
+        "title": "JAVA+Angular Developer - INF (2-15) YRS",
+        "outcome": "not_eligible",
+        "fit": "Medium",
+        "reasons": [
+          "Experience minimum missing or beyond confirmed profile band",
+          "No confirmed evidence for other_frontend",
+          "No confirmed evidence for cloud_generic",
+          "No confirmed evidence for other_frontend",
+          "Essential evidence coverage below 100%"
+        ]
+      },
+      {
+        "job_id": 327,
+        "employer": "Propelgo",
+        "title": "Back End Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Java is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 326,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer",
+        "outcome": "blocked_duplicate",
+        "reasons": [
+          "Possible duplicate requisition requires manual resolution"
+        ]
+      },
+      {
+        "job_id": 322,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer",
+        "outcome": "not_eligible",
+        "fit": "Medium",
+        "reasons": [
+          "Experience minimum missing or beyond confirmed profile band",
+          "No confirmed evidence for other_frontend",
+          "No confirmed evidence for other_frontend",
+          "No confirmed evidence for other_databases",
+          "No confirmed evidence for jenkins",
+          "Essential evidence coverage below 100%"
+        ]
+      },
+      {
+        "job_id": 321,
+        "employer": "Infosys",
+        "title": "Java React Js Developer",
+        "outcome": "not_eligible",
+        "fit": "Medium",
+        "reasons": [
+          "Experience minimum missing or beyond confirmed profile band",
+          "No confirmed evidence for other_frontend",
+          "No confirmed evidence for jenkins",
+          "Essential evidence coverage below 100%"
+        ]
+      },
+      {
+        "job_id": 320,
+        "employer": "Infosys",
+        "title": "Java React Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 318,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer (Angular)(2-3Y)",
+        "outcome": "not_eligible",
+        "fit": "Medium",
+        "reasons": [
+          "No confirmed evidence for other_frontend",
+          "No confirmed evidence for cloud_generic",
+          "No confirmed evidence for other_frontend",
+          "No confirmed evidence for other_frontend",
+          "No confirmed evidence for other_frontend",
+          "Essential evidence coverage below 100%"
+        ]
+      },
+      {
+        "job_id": 317,
+        "employer": "Codepanda Academy",
+        "title": "Java Developer",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 316,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer (Angular/React)(2-3 Years)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 315,
+        "employer": "Infosys",
+        "title": "JAVA Developer-INF (2 - 9) YRS",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 313,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer (React js)_ (2-3 Years)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 312,
+        "employer": "Infosys",
+        "title": "Java Full Stack Developer(Angular/React)(2-3 years)",
+        "outcome": "not_eligible",
+        "reasons": [
+          "backend work is not explicit in the JD body"
+        ]
+      },
+      {
+        "job_id": 309,
+        "employer": "Navi Limited",
+        "title": "SDE II (Backend)",
+        "outcome": "queued",
+        "fit": "Medium",
+        "strong_medium": true,
+        "notes": {
+          "other_gaps": [
+            "messaging"
+          ],
+          "unverified_fundamentals": [
+            "object-oriented",
+            "design patterns",
+            "data structures",
+            "algorithms",
+            "troubleshooting",
+            "agile"
+          ]
+        }
+      },
+      {
+        "job_id": 307,
+        "employer": "Tata Consultancy Services",
+        "title": "Java Backend Developer - N",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 5 years"
+        ]
+      },
+      {
+        "job_id": 305,
+        "employer": "Codemythos Solutions",
+        "title": "Backend Engineer - Java | Spring Boot | WebSocket | PostgreSQL",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Required experience starts at 4 years"
+        ]
+      },
+      {
+        "job_id": 303,
+        "employer": "Epam Systems",
+        "title": "Lead Software Engineer - Java with Spring Boot",
+        "outcome": "not_eligible",
+        "reasons": [
+          "Title indicates a different seniority band: lead"
+        ]
+      }
+    ]
+  },
+  "auto_resume": {
+    "prepared": 1,
+    "failed": 0,
+    "results": [
+      {
+        "job_id": 309,
+        "employer": "Navi Limited",
+        "status": "ResumeReady",
+        "pdf": "Yugal_Teotia_SDE.pdf"
+      }
+    ]
+  },
+  "queue_eligibility": {
+    "naukri_ready_candidates": 1,
+    "resume_jobs_ready_to_build": 0,
+    "locked_or_applied_queue_rows": 1
+  },
+  "staging": {
+    "path": ".workflow/staging.json",
+    "resume_review_ready": 0,
+    "needs_jd_evidence_review": 0
+  },
+  "blocker_alerts": [
+    {
+      "job_id": 220,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 241,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 250,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 220,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 241,
+      "status": "cooldown"
+    },
+    {
+      "job_id": 250,
+      "status": "cooldown"
+    }
+  ],
+  "naukri_application_worker": {
+    "enabled": true,
+    "max_submissions_per_run": 1,
+    "other_portals": "discovery_only",
+    "capability_reason": "Proof marker valid; one claim per run",
+    "status": "DryRun",
+    "candidate_count": 1,
+    "resumable_count": 0,
+    "checks": [
+      {
+        "job_id": 309,
+        "requisition_id": "081026040485",
+        "status": "WouldSubmit",
+        "would_submit": true,
+        "would_resume": false,
+        "resume_filename": "Yugal_Teotia_SDE.pdf",
+        "global_submissions_enabled": true,
+        "actual_submission": false
+      }
+    ],
+    "submissions": 0,
+    "forms_opened": 0,
+    "uploads": 0
+  },
+  "portals": {
+    "naukri": {
+      "capability": "ApplyReady",
+      "reason": "Proof marker valid; one claim per run",
+      "session": "unknown"
+    },
+    "linkedin": {
+      "capability": "DiscoveryOnly",
+      "reason": "LinkedIn live lane is off",
+      "session": "unknown"
+    },
+    "foundit": {
+      "capability": "Blocked",
+      "reason": "Discovery is switched off in config",
+      "session": "unknown"
+    },
+    "indeed": {
+      "capability": "Blocked",
+      "reason": "Discovery is switched off in config",
+      "session": "unknown"
+    },
+    "cutshort": {
+      "capability": "Blocked",
+      "reason": "Discovery is switched off in config",
+      "session": "unknown"
+    },
+    "ats": {
+      "capability": "Blocked",
+      "reason": "No employer board is enabled",
+      "session": "unknown"
+    }
+  },
+  "linkedin_application_worker": {
+    "enabled": false,
+    "max_submissions_per_run": 1,
+    "capability_reason": "LinkedIn live lane is off",
+    "status": "DiscoveryOnly",
+    "candidate_count": 0,
+    "submissions": 0
+  },
+  "tab_lifecycle": {
+    "created": null,
+    "reused": null,
+    "closed": null,
+    "remaining_automation_tabs": null,
+    "job_tabs_created": null,
+    "job_tabs_closed": null,
+    "welcome_tabs_created": null,
+    "welcome_tabs_closed": null,
+    "remaining_job_tabs": null,
+    "remaining_welcome_tabs": null,
+    "uncertain_ids": [
+      "No tab lifecycle report was emitted"
+    ],
+    "recorded_ids": [],
+    "log_paths": []
+  },
+  "finished_at": "2026-10-13T13:03:02.841561+00:00",
+  "elapsed_seconds": 72.29
+}

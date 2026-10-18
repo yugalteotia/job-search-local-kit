@@ -1,0 +1,181 @@
+- generic [ref=f9e1]:
+  - link "Go to the main content section." [ref=f9e2] [cursor=pointer]:
+    - /url: "#mainContent"
+  - text:     
+  - generic [ref=f9e3]:
+    - generic [ref=f9e8]:
+      - generic:
+        - textbox [ref=f9e9]
+        - button ""
+      - generic [ref=f9e11]:
+        - link [ref=f9e13] [cursor=pointer]:
+          - /url: https://careers.unitedhealthgroup.com/
+          - img "UHG Logo" [ref=f9e14]
+        - generic [ref=f9e15]:
+          - list [ref=f9e17]:
+            - listitem [ref=f9e18]:
+              - link "My Profile" [ref=f9e19] [cursor=pointer]:
+                - /url: https://uhg.taleo.net/careersection/10000/profile.ftl?lang=en
+            - listitem [ref=f9e20]:
+              - link "Join Our Talent Community" [ref=f9e21] [cursor=pointer]:
+                - /url: https://www.unitedhealthgroup.com/careers/en/hiring-process/join-our-talent-community.html
+            - listitem [ref=f9e22]:
+              - link "My Dashboard" [ref=f9e23] [cursor=pointer]:
+                - /url: https://uhg.taleo.net/careersection/10000/mysubmissions.ftl?lang=en
+          - list [ref=f9e25]:
+            - listitem [ref=f9e26]:
+              - link "Work Here" [ref=f9e27] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/work.html
+            - listitem [ref=f9e28]:
+              - link "Our Culture" [ref=f9e29] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/culture.html
+            - listitem [ref=f9e30]:
+              - link "Hiring Process & Guidance" [ref=f9e31] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/hiring-process.html
+            - listitem [ref=f9e32]:
+              - link "Early Careers" [ref=f9e33] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/early-careers.html
+            - listitem [ref=f9e34]:
+              - link "Blog" [ref=f9e35] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/blog.html
+    - generic [ref=f9e36]: Improve the lives of others while Caring. Connecting. Growing together.
+    - generic [ref=f9e40]:
+      - generic [ref=f9e42]:
+        - generic [ref=f9e43]:
+          - generic [ref=f9e44]: YUGAL TEOTIA, you are signed in.
+          - generic [aria-hidden] [ref=f9e47]: "|"
+          - link "Sign Out" [ref=f9e49] [cursor=pointer]:
+            - /url: "#"
+        - list [ref=f9e50]:
+          - listitem [ref=f9e51]:
+            - generic:
+              - link "Go to the section":
+                - /url: "#"
+          - listitem [ref=f9e52]:
+            - link "My Dashboard" [ref=f9e53] [cursor=pointer]:
+              - /url: "#"
+      - generic [ref=f9e54]:
+        - generic [ref=f9e55]:
+          - generic [ref=f9e56]:
+            - text: "Applying for:"
+            - 'link "Software Engineer - Java Fullstack (Job Number: 2388999)" [ref=f9e59] [cursor=pointer]':
+              - /url: "#"
+            - generic [ref=f9e60] [cursor=pointer]
+          - table [ref=f9e62]:
+            - rowgroup [ref=f9e63]:
+              - row [ref=f9e64]:
+                - cell [ref=f9e65]:
+                  - list [ref=f9e69]:
+                    - group "Section allowing navigation through the pages of the job submission flow" [ref=f9e70]:
+                      - listitem [ref=f9e73]:
+                        - link "Attachments" [ref=f9e77] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f9e80]:
+                        - link "About You" [ref=f9e84] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f9e87]:
+                        - link "Education and Experience" [ref=f9e91] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f9e94]:
+                        - link "Job Profile Questions" [ref=f9e98] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f9e101]:
+                        - generic [ref=f9e102]: eSignature
+                      - listitem [ref=f9e107]:
+                        - generic [ref=f9e108]: Review and Submit
+        - generic:
+          - link "Beginning of the main content section." [ref=f9e113] [cursor=pointer]:
+            - /url: "#"
+          - table:
+            - rowgroup:
+              - row:
+                - cell [ref=f9e114]:
+                  - heading "eSignature" [level=1] [ref=f9e115]
+                  - generic [ref=f9e119]:
+                    - heading [level=2]
+                    - generic [ref=f9e121]: Please read the following statement carefully, then acknowledge you have read and accept it by providing the information requested at the bottom of the page.
+                    - generic [ref=f9e124]:
+                      - generic [ref=f9e125]: Select a language
+                      - combobox "Select a language" [ref=f9e127]:
+                        - option "English" [selected]
+                        - option "English (United Kingdom)"
+                        - option "French"
+                        - option "Portuguese (Brazil)"
+                        - option "Spanish"
+                    - generic [ref=f9e130]:
+                      - strong [ref=f9e132]:
+                        - generic [ref=f9e133]: "SIGNATURE AND UNDERSTANDING:"
+                      - generic [ref=f9e137]: I understand that if I have misrepresented information in this application or in any accompanying document or resume which I may submit in support of this application, or if I have omitted any material facts, Optum Global Solutions (India) Pvt. Ltd. ("OGS")will not consider me for employment. If I become employed by OGS, and any misrepresentation falsification or omission is discovered after I have begun employment, I understand that my employment with OGS may be subject to termination.
+                      - generic [ref=f9e141]: Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by submitting your resume and communicating electronically with us, you acknowledge and hereby provides your consent to our internal processing of your personal data in this way. Once you have uploaded a resume on the provided link, you can update or ask us to remove your resume from our Database at any point of time.
+                      - paragraph [ref=f9e147]:
+                        - generic [ref=f9e148]: You understand that your resume and accompanying materials will be used by OGS for purposes of assessing your eligibility for available positions, processing your application and corresponding with you about suitable opportunities at OGS as they arise. Before confirming a job offer, OGS will also conduct various background checks, to the extent allowed by applicable laws, which will involve vetting and verification of your background and the information supplied in order to assess your eligibility for the position, for example searches and verification of educational history and qualifications, employment history and reference checks, financial or credit reference checks, criminal records checks, legal and professional sanctions checks and staff fraud checks. Your information will be stored in a centralized database and may be shared with OGS's affiliates and service providers located outside the European Economic Area where the data protection standards may not be equivalent to those of your country of residence. Once you have supplied us with your information, you can update or ask us to remove your information from our database at any time. You also have the option to delete your information directly in the system. If your application is unsuccessful, we will continue to retain your information for a period of 3 years to assess your suitability for future positions, unless you inform us otherwise.
+                      - paragraph [ref=f9e149]
+                      - paragraph [ref=f9e153]:
+                        - generic [ref=f9e154]: At Optum we are continually in search of talent and Optum strictly discourages the practice of soliciting financial consideration in lieu of employments. In case someone approaches you in this regards, please report it at Optum immediately.
+                      - paragraph [ref=f9e157]:
+                        - generic [ref=f9e158]: Also, please attest that you have not paid any money in lieu of a job with us. If you are found involved in financial consideration for employment, a strict action will be taken against you which includes but not limited to termination.
+                    - generic [ref=f9e160]: Do Not eSign Until You Have Read The Above Statement.
+                    - generic [ref=f9e162]: By signing my eSignature below, I certify that I have read, fully understand and accept all terms of the foregoing statement.
+                    - generic [ref=f9e165]: I also acknowledge that my eSignature is the electronic equivalent of a hand-written signature.
+                    - generic [ref=f9e169]:
+                      - generic "The field Full Name is mandatory." [ref=f9e170]:
+                        - text: Full Name
+                        - generic [ref=f9e173]: .
+                        - generic [ref=f9e174]: Required
+                      - textbox "Full Name . Required" [ref=f9e175]
+        - generic [ref=f9e179]:
+          - button "Save and Continue" [ref=f9e180] [cursor=pointer]
+          - button "Save as Draft" [ref=f9e181] [cursor=pointer]
+          - button "Quit" [ref=f9e182] [cursor=pointer]
+    - generic [ref=f9e184]:
+      - generic [ref=f9e187]:
+        - generic [ref=f9e188]:
+          - list [ref=f9e190]:
+            - listitem [ref=f9e191]:
+              - link "" [ref=f9e192] [cursor=pointer]:
+                - /url: http://facebook.com/uhgcareers
+            - listitem [ref=f9e194]:
+              - link "" [ref=f9e195] [cursor=pointer]:
+                - /url: https://www.instagram.com/uhgcareers/
+            - listitem [ref=f9e197]:
+              - link "" [ref=f9e198] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/1720
+            - listitem [ref=f9e200]:
+              - link [ref=f9e201] [cursor=pointer]:
+                - /url: http://twitter.com/uhgcareers
+                - img "Twitter" [ref=f9e202]
+            - listitem [ref=f9e203]:
+              - link "" [ref=f9e204] [cursor=pointer]:
+                - /url: http://www.youtube.com/user/uhgcareers
+            - listitem [ref=f9e206]:
+              - link "" [ref=f9e207] [cursor=pointer]:
+                - /url: http://www.glassdoor.com/Overview/Working-at-UnitedHealth-Group-EI_IE1991.11,29.htm
+            - listitem [ref=f9e209]:
+              - link "" [ref=f9e210] [cursor=pointer]:
+                - /url: https://careers.unitedhealthgroup.com/blog
+          - generic [ref=f9e212]:
+            - link "Social Responsibility" [ref=f9e215] [cursor=pointer]:
+              - /url: "#popup1"
+            - link "Fraudulent Activity" [ref=f9e218] [cursor=pointer]:
+              - /url: "#popup2"
+        - generic [ref=f9e219]:
+          - paragraph [ref=f9e220]:
+            - link "Privacy Policy" [ref=f9e221] [cursor=pointer]:
+              - /url: https://www.unitedhealthgroup.com/privacy.html
+            - link "Family & Medical Leave Act (PDF)" [ref=f9e222] [cursor=pointer]:
+              - /url: http://www.dol.gov/whd/regs/compliance/posters/fmlaen.pdf
+            - link "Equal Employment Law Poster (PDF)" [ref=f9e223] [cursor=pointer]:
+              - /url: http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf
+            - link "Pay Transparency Employee Polygraph Protection Act (PDF)" [ref=f9e224] [cursor=pointer]:
+              - /url: https://cdn-static.findly.com/wp-content/uploads/sites/1288/2020/10/PayTransparencySupplementNondiscrimRev2017.pdf
+            - link "E-Verify Participation Poster" [ref=f9e225] [cursor=pointer]:
+              - /url: https://cdn-static.findly.com/wp-content/uploads/sites/1288/2020/10/E-Verify_Participation_Poster.pdf
+            - link "Immigrant and Employee Right to Work Poster" [ref=f9e226] [cursor=pointer]:
+              - /url: https://careers.unitedhealthgroup.com/-/media/9EB3C61FAAD54205BCE70F65D03E6628.ashx
+          - paragraph [ref=f9e227]: © 2023 UnitedHealth Group, All rights reserved.
+          - paragraph [ref=f9e228]: UnitedHealth Group is committed to working with and providing reasonable accommodations to individuals with physical and mental disabilities. If you need special assistance or accommodation for any part of the application process, please call 1-866-566-8715 to be connected to Recruitment Services. Recruitment Services hours of operation are 7 a.m. to 7 p.m. CT, Monday through Friday.
+          - paragraph [ref=f9e229]: UnitedHealth Group is a registered service mark of UnitedHealth Group, Inc. The UnitedHealth Group name with the dimensional logo, as well as the dimensional logo alone, are both service marks for the UnitedHealth Group, Inc.
+          - paragraph [ref=f9e230]: "Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law."
+          - paragraph [ref=f9e231]: UnitedHealth Group is a drug-free workplace. Candidates are required to pass a drug test before beginning employment.
+      - link "Top" [ref=f9e232] [cursor=pointer]:
+        - /url: "#"

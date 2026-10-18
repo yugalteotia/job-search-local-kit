@@ -1,0 +1,69 @@
+{
+  "attempt_id": "94e49615-95e5-414c-b1a9-d4af098ae9ec",
+  "requisition_id": "210826932489",
+  "captured_at": "2026-10-18T07:03:49.644835+00:00",
+  "url": "https://www.naukri.com/job-listings-java-springboot-developer-infosys-limited-bengaluru-1-to-2-years-210826932489",
+  "confirmation_text": "Exact Naukri requisition appears as Applied",
+  "exact_listing_applied": true,
+  "exact_history_id_match": true,
+  "history_full": true,
+  "network_reason": "positive_exact_applied_after_claimed_open",
+  "history_identity": {
+    "basis": "server_history_exact_job_id",
+    "server_rows": [
+      {
+        "job_id": "210826932489",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "Java Springboot Developer",
+        "company": "Infosys Limited",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "modifiedDate": "2026-10-18 12:33:04",
+            "statusValue": "Applied",
+            "dateTime": "2026-10-18 12:33:04"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "modifiedDate": "2026-10-18 12:33:04",
+            "statusValue": "Application Sent",
+            "dateTime": "2026-10-18 12:33:04"
+          }
+        ]
+      },
+      {
+        "job_id": "210826932489",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "Java Springboot Developer",
+        "company": "Infosys Limited",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "statusValue": "Applied",
+            "modifiedDate": "2026-10-18 12:33:04",
+            "dateTime": "2026-10-18 12:33:04"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "statusValue": "Application Sent",
+            "modifiedDate": "2026-10-18 12:33:04",
+            "dateTime": "2026-10-18 12:33:04"
+          }
+        ]
+      }
+    ]
+  },
+  "network_status": 200,
+  "flowtype": "show",
+  "response_metadata": {
+    "job_id_match": true
+  }
+}

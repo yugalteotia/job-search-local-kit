@@ -1,0 +1,43 @@
+{
+  "recorded_at": "2026-10-13T15:55:04.781340+00:00",
+  "run_id": "681701c8-421d-4ac5-bb5b-92e0926f379e",
+  "scope": "LinkedIn only; two queries, one bounded page each; three unique retained jobs",
+  "jobs": [
+    {
+      "requisition_id": "4476433893",
+      "employer": "BoomerangFX",
+      "eligible": false,
+      "reasons": [
+        "Essential .NET/C#, Microsoft Azure and SQL Server expertise not supported by confirmed skills"
+      ],
+      "required_experience": "3+ years"
+    },
+    {
+      "requisition_id": "4478117539",
+      "employer": "Dinoxo",
+      "eligible": false,
+      "reasons": [
+        "Mandatory C#/.NET/ASP.NET expertise and advanced SQL Server queries, stored procedures and optimization not supported by confirmed skills"
+      ],
+      "required_experience": "3+ years"
+    },
+    {
+      "requisition_id": "4478129047",
+      "employer": "Zensar Technologies",
+      "eligible": false,
+      "reasons": [
+        "Explicit 5\u201315-year experience requirement exceeds confirmed experience",
+        "Required Angular UI, JMS/IBM MQ and Docker evidence missing",
+        "Enabled native Easy Apply action not visible"
+      ],
+      "required_experience": "5\u201315 years"
+    }
+  ],
+  "eligible_new_jobs": 0,
+  "new_application_attempts": 0,
+  "live_validation": "Pending suitable new candidate using confirmed default facts",
+  "override_job": "4470285110",
+  "override_reusable": false,
+  "jd_evidence": ".workflow/linkedin-validation-bounded-jds.json",
+  "fit_or_dedupe_weakened": false
+}

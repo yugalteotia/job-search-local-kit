@@ -1,0 +1,11 @@
+{
+  "row": 10,
+  "reason": "Authorized preparation blocked by mandatory credential change",
+  "changes": {
+    "Next step": {
+      "before": "Blocked: existing email cannot use guest submission. Manual Taleo access step required: Send Email in current page to establish credentials for existing record, or sign in. No automated account creation or submission.",
+      "after": "Blocked: YUGAL TEOTIA signed in, but application redirects to Change User Name and Password. User must complete new username, access code/expired password, new password and confirmation directly in Chrome and click OK; application form not accessed."
+    }
+  },
+  "backup": ".workflow/backups/20260927T202844-0aec508f.xlsx"
+}

@@ -1,0 +1,17 @@
+{
+  "attempt_id": "aab10674-d636-4e94-9cb1-b963e2efbace",
+  "requisition_id": "171026009891",
+  "checked_at": "2026-10-17T07:04:21.369580+00:00",
+  "pending_question": "Are you using AI-Assisted Development?",
+  "completion_count": 0,
+  "workflow_committed": false,
+  "denied_events": 0,
+  "save_in_flight": false,
+  "listing_exact_path": true,
+  "listing_applied": false,
+  "history_full": true,
+  "history_exact": 0,
+  "history_company_role": 0,
+  "answers_logged": false,
+  "safe": true
+}

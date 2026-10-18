@@ -1,0 +1,14 @@
+[     376ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     376ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     376ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     376ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     867ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     868ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     868ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     868ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     919ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://my.greenhouse.io/users/self?job_post_id=8226057:0
+[    1289ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    1289ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    1289ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    1289ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    1337ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.zhTT8Br0Ho8.O/m=googleapis_proxy/rt=j/sv=1/d=1/ed=1/rs=AHpOoo-7LeULGjNQZRvhdu3G71akb6JY6A/cb=gapi.loaded_0?le=scs:98

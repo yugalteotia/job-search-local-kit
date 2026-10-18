@@ -1,0 +1,10 @@
+{
+  "status": "verified",
+  "provider": "linkedin",
+  "job_id": 388,
+  "requisition_id": "4479656999",
+  "attempt_id": "0e796b4f-8a5d-4563-84f3-053903f8d3e1",
+  "proof_path": "jobs/linkedin-4479656999/linkedin-easy-apply-confirmation.json",
+  "proof_sha256": "318cd3a947a15880986aa0d26e29fc0cab716678ce5afc07eb456e72fed71b7b",
+  "verified_at": "2026-10-17T07:06:38.747150+00:00"
+}

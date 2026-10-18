@@ -1,0 +1,240 @@
+{
+  "navigation_links_reclassified": 74,
+  "portal_jobs_inspected": 30,
+  "originals_matched": 0,
+  "needs_original": 158,
+  "by_source": {
+    "naukri": {
+      "needs_original": 0,
+      "not_a_job": 3
+    },
+    "linkedin": {
+      "needs_original": 150,
+      "not_a_job": 0
+    },
+    "foundit": {
+      "needs_original": 0,
+      "not_a_job": 17
+    },
+    "indeed": {
+      "needs_original": 8,
+      "not_a_job": 24
+    },
+    "cutshort": {
+      "needs_original": 0,
+      "not_a_job": 30
+    }
+  },
+  "results": [
+    {
+      "source": "indeed",
+      "portal_url": "https://in.indeed.com/viewjob?jk=123456789abcdef0",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4470833694/",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4471363240/",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "indeed",
+      "portal_url": "https://in.indeed.com/viewjob?jk=0f1e2d3c4b5a6978",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4471339922/",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "indeed",
+      "portal_url": "https://in.indeed.com/viewjob?jk=890abcdef0123456",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4471340845/",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "Tata Consultancy Services"
+    },
+    {
+      "source": "indeed",
+      "portal_url": "https://in.indeed.com/viewjob?jk=cdef0123456789ab",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4472484842/",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "indeed",
+      "portal_url": "https://in.indeed.com/viewjob?jk=f1e2d3c4b5a67890",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "indeed",
+      "portal_url": "https://in.indeed.com/viewjob?jk=456789abcdef0123",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4472482957/",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4472285026/",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "Wiraa"
+    },
+    {
+      "source": "indeed",
+      "portal_url": "https://in.indeed.com/viewjob?jk=789abcdef0123456",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "indeed",
+      "portal_url": "https://in.indeed.com/viewjob?jk=a1b2c3d4e5f67890",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4472403013/",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4469772655/",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4459636452/",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4471320992/",
+      "status": "PortalError",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4472483892/",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4471340286/",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4472707542/",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "Flexiple"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4471348041/",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4471336436/",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "Nexal IIT"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4472491205/",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "AfterQuery Experts"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4471315844/",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4470853876/",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4470858581/",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "Oracle"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4408764982/",
+      "status": "Unavailable",
+      "original_url": null,
+      "employer_label": null
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4471359509/",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "Solidity Labs"
+    }
+  ]
+}

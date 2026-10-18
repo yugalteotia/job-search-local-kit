@@ -1,0 +1,24 @@
+[     273ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     273ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     273ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     273ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     876ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://s.go-mpulse.net/boomerang/2PT3Q-JAT3X-EBX46-NT4FH-M8PHW:0
+[    1273ms] [WARNING] [Elastic APM] RUM agent is inactive @ https://media.foundit.in/public/core/_next/static/chunks/app/page-b6990252bf0844a6.js:0
+[    1484ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://s.go-mpulse.net/boomerang/2PT3Q-JAT3X-EBX46-NT4FH-M8PHW:0
+[    3349ms] [ERROR] Banner config fetch failed: SyntaxError: Unexpected end of JSON input @ https://media.foundit.in/public/core/_next/static/chunks/main-app-dd3a114eb34083bd.js:0
+[    3696ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    3696ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    3696ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    3696ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    4668ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://s.go-mpulse.net/boomerang/2PT3Q-JAT3X-EBX46-NT4FH-M8PHW:0
+[    5016ms] [WARNING] [Elastic APM] RUM agent is inactive @ https://media.foundit.in/public/core/_next/static/chunks/app/(Engagement)/user/page-5896e490aacac0ab.js:0
+[    5771ms] [ERROR] Banner config fetch failed: SyntaxError: Unexpected end of JSON input @ https://media.foundit.in/public/core/_next/static/chunks/main-app-dd3a114eb34083bd.js:0
+[    5785ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://s.go-mpulse.net/boomerang/2PT3Q-JAT3X-EBX46-NT4FH-M8PHW:0
+[    5831ms] [LOG] Cookie Banner Error:  TypeError: Cannot set properties of null (setting 'onclick')
+    at https://media.foundit.in/dpdpa-banners/dpdpa-script.js:684:126
+    at https://media.foundit.in/dpdpa-banners/dpdpa-script.js:684:403 @ https://media.foundit.in/dpdpa-banners/dpdpa-script.js:683
+[    5899ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js:0
+[    7871ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/TxnL1A/1CUqu/S_17f/NnAd/zh5hktEzap/cggyWQ/bhk/zOXZiawM9?v=5b13416c-afe2-83b2-5782-ea09ef8b17d2:0
+[    7871ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/TxnL1A/1CUqu/S_17f/NnAd/zh5hktEzap/cggyWQ/bhk/zOXZiawM9?v=5b13416c-afe2-83b2-5782-ea09ef8b17d2:0
+[    7928ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/TxnL1A/1CUqu/S_17f/NnAd/zh5hktEzap/cggyWQ/bhk/zOXZiawM9?v=5b13416c-afe2-83b2-5782-ea09ef8b17d2:0
+[   11137ms] [WARNING] The resource https://s.go-mpulse.net/boomerang/2PT3Q-JAT3X-EBX46-NT4FH-M8PHW was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.foundit.in/home/user:0

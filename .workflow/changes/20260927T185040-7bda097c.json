@@ -1,0 +1,15 @@
+{
+  "row": 10,
+  "reason": "application draft prepared",
+  "changes": {
+    "Status": {
+      "before": "Shortlisted",
+      "after": "Blocked"
+    },
+    "Next step": {
+      "before": "Prepare; submissions disabled",
+      "after": "Company ATS login handoff"
+    }
+  },
+  "backup": ".workflow/backups/20260927T185040-7bda097c.xlsx"
+}

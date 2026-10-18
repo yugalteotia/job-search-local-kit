@@ -1,0 +1,202 @@
+{
+  "run_id": "7cf7ea92-7763-4a0b-ac38-bc7373d4edc5",
+  "started_at": "2026-09-28T06:16:35.774920+00:00",
+  "mode": "read_only",
+  "upload_enabled": false,
+  "submission_enabled": false,
+  "scheduled": true,
+  "test": true,
+  "status": "Partial",
+  "sources": {
+    "naukri": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:16:42.722889+00:00",
+      "pages_checked": 1,
+      "leads": 3,
+      "feed_jobs": 0
+    },
+    "linkedin": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:16:51.887499+00:00",
+      "pages_checked": 1,
+      "leads": 7,
+      "feed_jobs": 0
+    },
+    "indeed": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:16:52.673326+00:00",
+      "pages_checked": 1,
+      "leads": 12,
+      "feed_jobs": 0
+    },
+    "foundit": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:16:52.873922+00:00",
+      "pages_checked": 1,
+      "leads": 17,
+      "feed_jobs": 0
+    },
+    "celonis_greenhouse": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:16:52.874053+00:00",
+      "pages_checked": 1,
+      "leads": 0,
+      "feed_jobs": 100,
+      "unique_originals_verified": 98
+    },
+    "cutshort": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:16:57.850448+00:00",
+      "pages_checked": 1,
+      "leads": 30,
+      "feed_jobs": 0
+    },
+    "brillio_lever": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:16:52.673435+00:00",
+      "pages_checked": 2,
+      "leads": 0,
+      "feed_jobs": 50,
+      "unique_originals_verified": 50
+    }
+  },
+  "coverage": {
+    "naukri": [
+      {
+        "query": "Java backend API",
+        "location": "Remote India",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20backend%20API&l=Remote%20India&pageNo=1",
+        "checked_at": "2026-09-28T06:16:42.689353+00:00",
+        "status": "Success",
+        "lead_count": 3,
+        "observed_url": "https://www.naukri.com/java-backend-api-jobs-in-remote-india",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "linkedin": [
+      {
+        "query": "Java backend API",
+        "location": "Remote India",
+        "page": 1,
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20backend%20API&location=Remote%20India&sortBy=DD&start=0",
+        "checked_at": "2026-09-28T06:16:51.871100+00:00",
+        "status": "Success",
+        "lead_count": 7,
+        "observed_url": "https://www.linkedin.com/jobs/search/",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "indeed": [
+      {
+        "query": "Java backend API",
+        "location": "Remote India",
+        "page": 1,
+        "url": "https://in.indeed.com/jobs?q=Java%20backend%20API&l=Remote%20India&sort=date&start=0",
+        "checked_at": "2026-09-28T06:16:52.657862+00:00",
+        "status": "Success",
+        "lead_count": 12,
+        "observed_url": "https://in.indeed.com/jobs",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "foundit": [
+      {
+        "query": "Java backend API",
+        "location": "Remote India",
+        "page": 1,
+        "url": "https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Remote%20India&page=1",
+        "checked_at": "2026-09-28T06:16:52.842292+00:00",
+        "status": "Success",
+        "lead_count": 17,
+        "observed_url": "https://www.foundit.in/srp/results",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "celonis_greenhouse": [
+      {
+        "page": 1,
+        "url": "https://boards-api.greenhouse.io/v1/boards/celonis/jobs?content=true",
+        "items": 100,
+        "total_returned": 253,
+        "checked_at": "2026-09-28T06:16:54.966225+00:00",
+        "status": "Partial"
+      }
+    ],
+    "cutshort": [
+      {
+        "query": "Java backend API",
+        "location": "Remote India",
+        "page": 1,
+        "url": "https://cutshort.io/jobs/java-jobs?query=Java%20backend%20API&location=Remote%20India&page=1",
+        "checked_at": "2026-09-28T06:16:57.818663+00:00",
+        "status": "Success",
+        "lead_count": 30,
+        "observed_url": "https://cutshort.io/jobs/java-jobs",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "brillio_lever": [
+      {
+        "page": 1,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=0&limit=25&mode=json",
+        "items": 25,
+        "checked_at": "2026-09-28T06:16:57.117723+00:00",
+        "status": "Success"
+      },
+      {
+        "page": 2,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=25&limit=25&mode=json",
+        "items": 25,
+        "checked_at": "2026-09-28T06:16:59.231087+00:00",
+        "status": "Success"
+      }
+    ]
+  },
+  "leads": 219,
+  "unique_original_requisitions_verified": 148,
+  "fit_decisions": {},
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [
+    {
+      "original_url": "https://job-boards.greenhouse.io/celonis/jobs/7998286003",
+      "reason": "TimeoutError"
+    },
+    {
+      "original_url": "https://job-boards.greenhouse.io/celonis/jobs/8003215003",
+      "reason": "TimeoutError"
+    }
+  ],
+  "evidence_paths": [
+    ".workflow/runs/7cf7ea92-7763-4a0b-ac38-bc7373d4edc5.json"
+  ],
+  "queue": {},
+  "stage_seconds": {
+    "discovery": 23.45,
+    "original_verification": 35.6,
+    "fit_review": 0.0
+  },
+  "stage_counts": {
+    "fetched": 219,
+    "unique_portal_leads": 63,
+    "unique_original_requisitions": 148,
+    "eligible_for_review": 5,
+    "original_jds_reviewed": 0,
+    "high": 0,
+    "queued_for_resume": 0,
+    "review_queue_added": 0
+  },
+  "top_reviewed": [],
+  "finished_at": "2026-09-28T06:17:35.576428+00:00",
+  "elapsed_seconds": 59.8
+}

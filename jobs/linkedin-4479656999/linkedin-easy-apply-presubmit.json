@@ -1,0 +1,22 @@
+{
+  "job_id": 388,
+  "requisition_id": "4479656999",
+  "provider": "linkedin_easy_apply",
+  "form_url": "https://www.linkedin.com/jobs/view/4479656999/",
+  "resume_sha256": "03e54d99bd4d96f6c73833e6da316d21fde12f6c999a825edfe303b493c382f5",
+  "final_action": "submit_application",
+  "checks": {
+    "live": true,
+    "unapplied": true,
+    "fit": true,
+    "resume_visual": true,
+    "resume_selected": true,
+    "answers_confirmed": true,
+    "unique_apply": true
+  },
+  "fact_refs": [
+    "confirmed_identity:email",
+    "confirmed_identity:phone country code",
+    "confirmed_identity:phone"
+  ]
+}

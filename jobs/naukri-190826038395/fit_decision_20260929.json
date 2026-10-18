@@ -1,0 +1,91 @@
+{
+  "jd_sha256": "7b115e4fcecb7439468a540783d9316f3417de94de542abcfc097baf97b944e9",
+  "java_excerpt": "Design, develop, and maintain robust backend applications using Java and Spring Boot.",
+  "spring_boot_excerpt": "Design, develop, and maintain robust backend applications using Java and Spring Boot.",
+  "backend_excerpt": "Design, develop, and maintain robust backend applications using Java and Spring Boot.",
+  "location_excerpt": "Location: Pune, Bengaluru, Chennai",
+  "experience_excerpt": "Experience: 2 - 5 years",
+  "required_professional_years": 2,
+  "notes": [
+    "Approximately 2+ years overall professional experience; no rounded-up exact figure.",
+    "SQL/MySQL/JPA/Hibernate are PG-DAC and in-progress Store REST API project skills, not IDeaS production.",
+    "Cloud deployment contribution remains a duty gap; no production cloud claim.",
+    "Spring MVC used at IDeaS and in Store project; Java 17 used at IDeaS, user-confirmed 2026-09-29."
+  ],
+  "requirements": [
+    {
+      "name": "Java/Spring Boot backend",
+      "essential": true,
+      "jd_excerpt": "Design, develop, and maintain robust backend applications using Java and Spring Boot.",
+      "basis": "work",
+      "master_work_excerpt": "20 Java modules from Spring Boot 2.6 to Spring Boot 3.5"
+    },
+    {
+      "name": "Java 17",
+      "essential": true,
+      "jd_excerpt": "Core Java (Java 8/11/17)",
+      "basis": "profile_work",
+      "profile_work_excerpt": "Java (Java 17 at IDeaS), Spring Boot and Spring MVC",
+      "master_skill_excerpt": "Java, JavaScript, TypeScript, Kotlin"
+    },
+    {
+      "name": "REST APIs",
+      "essential": true,
+      "jd_excerpt": "Develop RESTful APIs and integrate with internal and external systems.",
+      "basis": "work",
+      "master_work_excerpt": "Designed and implemented REST and gRPC APIs for cross-product communication"
+    },
+    {
+      "name": "Microservices",
+      "essential": true,
+      "jd_excerpt": "Build scalable and high-performance Microservices-based solutions.",
+      "basis": "work",
+      "master_work_excerpt": "Upgraded a microservice application across 20 Java modules"
+    },
+    {
+      "name": "Spring MVC",
+      "essential": true,
+      "jd_excerpt": "Spring MVC\nSpring Data JPA / Hibernate",
+      "basis": "profile_work",
+      "profile_work_excerpt": "Java (Java 17 at IDeaS), Spring Boot and Spring MVC",
+      "master_work_excerpt": "20 Java modules from Spring Boot 2.6 to Spring Boot 3.5"
+    },
+    {
+      "name": "Spring Data JPA / Hibernate",
+      "essential": true,
+      "jd_excerpt": "Spring Data JPA / Hibernate",
+      "basis": "project",
+      "profile_project_excerpt": "MySQL + Spring Data JPA + Hibernate + Flyway",
+      "master_skill_excerpt": "MySQL, Spring Data JPA, Hibernate, Flyway"
+    },
+    {
+      "name": "SQL/MySQL",
+      "essential": true,
+      "jd_excerpt": "SQL (Oracle, PostgreSQL, MySQL)",
+      "basis": "project",
+      "master_project_excerpt": "Spring Boot, Spring Data JPA, MySQL, Flyway, OpenAPI"
+    },
+    {
+      "name": "Maven / Gradle",
+      "essential": true,
+      "jd_excerpt": "Maven / Gradle\nGit",
+      "basis": "profile_work",
+      "profile_work_excerpt": "Git, Gradle, Maven, GitHub Actions, Docker, Linux",
+      "master_skill_excerpt": "Git, Gradle, Maven, GitHub Actions, Docker, Linux"
+    },
+    {
+      "name": "Git",
+      "essential": true,
+      "jd_excerpt": "Maven / Gradle\nGit",
+      "basis": "profile_work",
+      "profile_work_excerpt": "Git, Gradle, Maven, GitHub Actions, Docker, Linux",
+      "master_skill_excerpt": "Git, Gradle, Maven, GitHub Actions, Docker, Linux"
+    },
+    {
+      "name": "Cloud deployment contribution",
+      "essential": true,
+      "jd_excerpt": "Contribute to CI/CD implementation and cloud deployment initiatives.",
+      "basis": "gap"
+    }
+  ]
+}

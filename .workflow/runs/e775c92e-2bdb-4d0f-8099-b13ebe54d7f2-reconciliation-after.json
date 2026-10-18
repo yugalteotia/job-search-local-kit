@@ -1,0 +1,17 @@
+{
+  "status": "Complete",
+  "phase": "after",
+  "providers": {
+    "naukri": {
+      "status": "NoPending",
+      "pending": 0
+    },
+    "linkedin": {
+      "status": "NoPending",
+      "pending": 0
+    }
+  },
+  "confirmed": [],
+  "new_claims": 0,
+  "notifications": []
+}

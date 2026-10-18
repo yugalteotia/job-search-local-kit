@@ -1,0 +1,14 @@
+.local-deps/
+.venv/
+__pycache__/
+.workflow/lock
+.workflow/run.lock
+.private/
+*.env
+jobs/*/submission.lock
+# Defensive patterns: browser authentication must live outside this repository.
+.auth/
+playwright/.auth/
+session_*.json
+auth_state*.json
+**/user-data/

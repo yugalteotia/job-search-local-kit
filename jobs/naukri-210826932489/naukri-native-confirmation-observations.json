@@ -1,0 +1,264 @@
+{
+  "attempt_id": "94e49615-95e5-414c-b1a9-d4af098ae9ec",
+  "requisition_id": "210826932489",
+  "observations": [
+    {
+      "listing": {
+        "exact_path": true,
+        "apply_count": 0,
+        "applied": true,
+        "applied_control_count": 1,
+        "applied_control_labels": [
+          "Applied"
+        ],
+        "pending": false,
+        "site_restriction": false
+      },
+      "history": {
+        "full": true,
+        "exact": 1,
+        "loaded_rows": 316,
+        "expected_total": 316,
+        "load_sweeps": [
+          {
+            "rows": 10,
+            "total": 316,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 20,
+            "total": 316,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 40,
+            "total": 316,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 60,
+            "total": 316,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 80,
+            "total": 316,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 100,
+            "total": 316,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 120,
+            "total": 316,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 140,
+            "total": 316,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 160,
+            "total": 316,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 180,
+            "total": 316,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 200,
+            "total": 316,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 220,
+            "total": 316,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 240,
+            "total": 316,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 260,
+            "total": 316,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 280,
+            "total": 316,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 300,
+            "total": 316,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 316,
+            "total": 316,
+            "exact": 0,
+            "company_role": 1,
+            "more": false
+          }
+        ],
+        "company_role": 1,
+        "company_role_observed": 1,
+        "company_role_disambiguated": false,
+        "company_role_other_exact_ids": [],
+        "server_company_role_rows": [
+          {
+            "job_id": "210826932489",
+            "title": "Java Springboot Developer",
+            "company": "Infosys Limited",
+            "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+          }
+        ],
+        "identity_basis": "server_history_exact_job_id",
+        "server_exact_rows": [
+          {
+            "job_id": "210826932489",
+            "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+            "title": "Java Springboot Developer",
+            "company": "Infosys Limited",
+            "status": [
+              {
+                "statusId": 1,
+                "appId": null,
+                "count": 1,
+                "modifiedDate": "2026-10-18 12:33:04",
+                "statusValue": "Applied",
+                "dateTime": "2026-10-18 12:33:04"
+              },
+              {
+                "statusId": 2,
+                "appId": 107,
+                "count": 1,
+                "modifiedDate": "2026-10-18 12:33:04",
+                "statusValue": "Application Sent",
+                "dateTime": "2026-10-18 12:33:04"
+              }
+            ]
+          },
+          {
+            "job_id": "210826932489",
+            "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+            "title": "Java Springboot Developer",
+            "company": "Infosys Limited",
+            "status": [
+              {
+                "statusId": 1,
+                "appId": null,
+                "count": 1,
+                "statusValue": "Applied",
+                "modifiedDate": "2026-10-18 12:33:04",
+                "dateTime": "2026-10-18 12:33:04"
+              },
+              {
+                "statusId": 2,
+                "appId": 107,
+                "count": 1,
+                "statusValue": "Application Sent",
+                "modifiedDate": "2026-10-18 12:33:04",
+                "dateTime": "2026-10-18 12:33:04"
+              }
+            ]
+          }
+        ],
+        "exact_rows_by_id": {
+          "210826932489": [
+            {
+              "job_id": "210826932489",
+              "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+              "title": "Java Springboot Developer",
+              "company": "Infosys Limited",
+              "status": [
+                {
+                  "statusId": 1,
+                  "appId": null,
+                  "count": 1,
+                  "modifiedDate": "2026-10-18 12:33:04",
+                  "statusValue": "Applied",
+                  "dateTime": "2026-10-18 12:33:04"
+                },
+                {
+                  "statusId": 2,
+                  "appId": 107,
+                  "count": 1,
+                  "modifiedDate": "2026-10-18 12:33:04",
+                  "statusValue": "Application Sent",
+                  "dateTime": "2026-10-18 12:33:04"
+                }
+              ]
+            },
+            {
+              "job_id": "210826932489",
+              "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+              "title": "Java Springboot Developer",
+              "company": "Infosys Limited",
+              "status": [
+                {
+                  "statusId": 1,
+                  "appId": null,
+                  "count": 1,
+                  "statusValue": "Applied",
+                  "modifiedDate": "2026-10-18 12:33:04",
+                  "dateTime": "2026-10-18 12:33:04"
+                },
+                {
+                  "statusId": 2,
+                  "appId": 107,
+                  "count": 1,
+                  "statusValue": "Application Sent",
+                  "modifiedDate": "2026-10-18 12:33:04",
+                  "dateTime": "2026-10-18 12:33:04"
+                }
+              ]
+            }
+          ]
+        },
+        "observed_exact_rows_unverified": 0,
+        "at": "2026-10-18T07:03:49.644037+00:00"
+      },
+      "at": "2026-10-18T07:03:49.644056+00:00"
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "navigation_links_reclassified": 74,
+  "missing_ats_jd_refresh": {
+    "candidates_found": 1,
+    "checked": 1,
+    "verified_substantive": 0,
+    "failed_or_unresolved": 1,
+    "results": [
+      {
+        "job_id": 189,
+        "company": "Brillio",
+        "role": "Senior Software Development Engineer - R01568499",
+        "direct_url": "https://jobs.lever.co/brillio-2/58d975db-1d26-4ecb-92de-66bbc3666320",
+        "requisition_id": "58d975db-1d26-4ecb-92de-66bbc3666320",
+        "provider": "lever",
+        "verified": false,
+        "status": "LiveTitleOnly",
+        "checked_at": "2026-09-28T12:34:58.950153+00:00",
+        "url": "https://jobs.lever.co/brillio-2/58d975db-1d26-4ecb-92de-66bbc3666320",
+        "title": "Senior Software Development Engineer - R01568499",
+        "error_kind": "live_page_has_no_substantive_duties_and_qualifications",
+        "visible_chars": 207,
+        "updated_from_original": false,
+        "failure_reason": "live_page_has_no_substantive_duties_and_qualifications"
+      }
+    ]
+  },
+  "direct_provider_coverage": {},
+  "direct_employer_coverage": {},
+  "portal_jobs_inspected": 29,
+  "originals_matched": 0,
+  "substantive_originals_verified": 0,
+  "live_title_only": 0,
+  "direct_check_failures": 29,
+  "needs_original": 45,
+  "title_relevant_unresolved": 0,
+  "by_source": {
+    "naukri": {
+      "needs_original": 0,
+      "not_a_job": 3
+    },
+    "linkedin": {
+      "needs_original": 45,
+      "not_a_job": 0
+    },
+    "foundit": {
+      "needs_original": 0,
+      "not_a_job": 17
+    },
+    "indeed": {
+      "needs_original": 0,
+      "not_a_job": 24
+    },
+    "cutshort": {
+      "needs_original": 0,
+      "not_a_job": 30
+    }
+  },
+  "results": [
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4471320992/",
+      "portal_title": "Back End Developer\nBack End Developer",
+      "status": "PortalDetailsUnavailable",
+      "original_url": null,
+      "employer_label": null,
+      "direct_checks": [],
+      "failure_reason": "PortalDetailsUnavailable"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4444343443/",
+      "portal_title": "Software Engineer (Full Stack)\nSoftware Engineer (Full Stack) with verification",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "Energy Exemplar",
+      "direct_checks": [],
+      "failure_reason": "no direct requisition link on inspected portal page"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4472714460/",
+      "portal_title": "Senior Software Engineer\nSenior Software Engineer with verification",
+      "status": "PortalDetailsUnavailable",
+      "original_url": null,
+      "employer_label": null,
+      "direct_checks": [],
+      "failure_reason": "PortalDetailsUnavailable"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4472707131/",
+      "portal_title": "Founding Engineer (JavaScript/TypeScript | Up to 40LPA)\nFounding Engineer (JavaScript/TypeScript | Up to 40LPA)",
+      "status": "PortalDetailsUnavailable",
+      "original_url": null,
+      "employer_label": null,
+      "direct_checks": [],
+      "failure_reason": "PortalDetailsUnavailable"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4470858507/",
+      "portal_title": "Software Engineer - III\nSoftware Engineer - III with verification",
+      "status": "PortalDetailsUnavailable",
+      "original_url": null,
+      "employer_label": null,
+      "direct_checks": [],
+      "failure_reason": "PortalDetailsUnavailable"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4470828829/",
+      "portal_title": "Senior Software Engineer\nSenior Software Engineer with verification",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "Hawk Sense Business Solutions Pvt Ltd (formerly known as Hawk Sense Security Systems Pvt Ltd)",
+      "direct_checks": [],
+      "failure_reason": "no direct requisition link on inspected portal page"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4470860430/",
+      "portal_title": "Software Engineer\nSoftware Engineer with verification",
+      "status": "PortalDetailsUnavailable",
+      "original_url": null,
+      "employer_label": null,
+      "direct_checks": [],
+      "failure_reason": "PortalDetailsUnavailable"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4471342649/",
+      "portal_title": "Software Engineer (ETL Developers)\nSoftware Engineer (ETL Developers) with verification",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "NielsenIQ",
+      "direct_checks": [],
+      "failure_reason": "no direct requisition link on inspected portal page"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4472496842/",
+      "portal_title": "Software Engineer\nSoftware Engineer",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "HRM Counsel",
+      "direct_checks": [],
+      "failure_reason": "no direct requisition link on inspected portal page"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4472496677/",
+      "portal_title": "Lead Software Engineer (AI and DevOps)\nLead Software Engineer (AI and DevOps) with verification",
+      "status": "PortalDetailsUnavailable",
+      "original_url": null,
+      "employer_label": null,
+      "direct_checks": [],
+      "failure_reason": "PortalDetailsUnavailable"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4470826781/",
+      "portal_title": "Software Engineer, Senior\nSoftware Engineer, Senior with verification",
+      "status": "PortalDetailsUnavailable",
+      "original_url": null,
+      "employer_label": null,
+      "direct_checks": [],
+      "failure_reason": "PortalDetailsUnavailable"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4471335508/",
+      "portal_title": "Senior Software Engineer\nSenior Software Engineer",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "Deltacubes",
+      "direct_checks": [],
+      "failure_reason": "no direct requisition link on inspected portal page"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4472700566/",
+      "portal_title": "Lead Software Engineer (AI & .Net)\nLead Software Engineer (AI & .Net) with verification",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "SimCorp",
+      "direct_checks": [],
+      "failure_reason": "no direct requisition link on inspected portal page"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4471301322/",
+      "portal_title": "Software Engineer I\nSoftware Engineer I",
+      "status": "PortalDetailsUnavailable",
+      "original_url": null,
+      "employer_label": null,
+      "direct_checks": [],
+      "failure_reason": "PortalDetailsUnavailable"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4434996712/",
+      "portal_title": "Cyber Full-Stack Technical Software Engineer\nCyber Full-Stack Technical Software Engineer with verification",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "Deloitte",
+      "direct_checks": [],
+      "failure_reason": "no direct requisition link on inspected portal page"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4441532567/",
+      "portal_title": "Sr Software Engineer - Playlist\nSr Software Engineer - Playlist",
+      "status": "PortalDetailsUnavailable",
+      "original_url": null,
+      "employer_label": null,
+      "direct_checks": [],
+      "failure_reason": "PortalDetailsUnavailable"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4470573564/",
+      "portal_title": "Software Engineer\nSoftware Engineer",
+      "status": "PortalDetailsUnavailable",
+      "original_url": null,
+      "employer_label": null,
+      "direct_checks": [],
+      "failure_reason": "PortalDetailsUnavailable"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4472439363/",
+      "portal_title": "Software Developer (HTML, CSS)\nSoftware Developer (HTML, CSS)",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "Wiraa",
+      "direct_checks": [],
+      "failure_reason": "no direct requisition link on inspected portal page"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4470185524/",
+      "portal_title": "Senior Software Engineer and AWS Architect\nSenior Software Engineer and AWS Architect",
+      "status": "PortalDetailsUnavailable",
+      "original_url": null,
+      "employer_label": null,
+      "direct_checks": [],
+      "failure_reason": "PortalDetailsUnavailable"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4471616813/",
+      "portal_title": "Software Engineer\nSoftware Engineer",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "Teambuilderz LLC",
+      "direct_checks": [],
+      "failure_reason": "no direct requisition link on inspected portal page"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4463501030/",
+      "portal_title": "Software Engineer\nSoftware Engineer with verification",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "Servify",
+      "direct_checks": [],
+      "failure_reason": "no direct requisition link on inspected portal page"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4470844322/",
+      "portal_title": "Software Engineer, Senior\nSoftware Engineer, Senior with verification",
+      "status": "PortalDetailsUnavailable",
+      "original_url": null,
+      "employer_label": null,
+      "direct_checks": [],
+      "failure_reason": "PortalDetailsUnavailable"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4472481768/",
+      "portal_title": "Software Developer\nSoftware Developer",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "AfterQuery Experts",
+      "direct_checks": [],
+      "failure_reason": "no direct requisition link on inspected portal page"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4471349262/",
+      "portal_title": "Backend Engineering Intern, Voice AI Platform\nBackend Engineering Intern, Voice AI Platform with verification",
+      "status": "PortalDetailsUnavailable",
+      "original_url": null,
+      "employer_label": null,
+      "direct_checks": [],
+      "failure_reason": "PortalDetailsUnavailable"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4471333341/",
+      "portal_title": "Fresher Backend Developer\nFresher Backend Developer with verification",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "TantranZm",
+      "direct_checks": [],
+      "failure_reason": "no direct requisition link on inspected portal page"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4468599104/",
+      "portal_title": "Principal Software Engineer\nPrincipal Software Engineer with verification",
+      "status": "PortalDetailsUnavailable",
+      "original_url": null,
+      "employer_label": null,
+      "direct_checks": [],
+      "failure_reason": "PortalDetailsUnavailable"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4426604602/",
+      "portal_title": "Principal Software Engineer\nPrincipal Software Engineer with verification",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "Energy Exemplar",
+      "direct_checks": [],
+      "failure_reason": "no direct requisition link on inspected portal page"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4408763407/",
+      "portal_title": "Staff Software Engineer\nStaff Software Engineer with verification",
+      "status": "PortalDetailsUnavailable",
+      "original_url": null,
+      "employer_label": null,
+      "direct_checks": [],
+      "failure_reason": "PortalDetailsUnavailable"
+    },
+    {
+      "source": "linkedin",
+      "portal_url": "https://www.linkedin.com/jobs/view/4470857163/",
+      "portal_title": "Associate Principal - Software Engineering\nAssociate Principal - Software Engineering",
+      "status": "NoAllowlistedOriginal",
+      "original_url": null,
+      "employer_label": "LTM",
+      "direct_checks": [],
+      "failure_reason": "no direct requisition link on inspected portal page"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "row": 8,
+  "reason": "reviewed tracker correction",
+  "changes": {
+    "Fit": {
+      "before": "High",
+      "after": "Medium (original unverified)"
+    },
+    "Fit rationale": {
+      "before": "Backend-focused SWE at product co (Optum); 2+ yr band matches ~2 yrs; Java/APIs/backend services/testing/CI/CD all done at work; AI-assisted engineering explicitly preferred.",
+      "after": "Historical Shine listing has strong generic skill overlap, but its aggregator ID is not a verified employer requisition. Original employer listing must be linked and checked before High fit or preparation."
+    },
+    "Next step": {
+      "before": "STAGED for submission — BLOCKED: earliest joining date UNCONFIRMED, form will ask. Ask Yugal before submitting.",
+      "after": "Find original employer requisition and resolve possible overlap with 2388999. Legacy tailored PDF is not cleared for upload. Submission disabled."
+    }
+  },
+  "backup": ".workflow/backups/20260927T192253-58efbe79.xlsx"
+}

@@ -1,0 +1,6 @@
+openpyxl==3.1.5
+PyYAML==6.0.1
+reportlab==5.0.1
+pypdf==6.19.0
+Pillow>=10,<13
+playwright==1.63.0

@@ -1,0 +1,53 @@
+[    1460ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    1460ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    1460ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    1460ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    1460ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    1563ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://s.go-mpulse.net/boomerang/2PT3Q-JAT3X-EBX46-NT4FH-M8PHW:0
+[    1564ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.foundit.in/akam/13/315ee11e:0
+[    1564ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://media.foundit.in/trex/public/theme_3/dist/js/userTracking.js?v=20260924130943:0
+[    1699ms] [LOG] Cookie Banner Error:  TypeError: Cannot set properties of null (setting 'onclick')
+    at https://media.foundit.in/dpdpa-banners/dpdpa-script.js:684:126
+    at https://media.foundit.in/dpdpa-banners/dpdpa-script.js:684:403 @ https://media.foundit.in/dpdpa-banners/dpdpa-script.js:683
+[    1764ms] [WARNING] A preload for 'https://media.foundit.in/trex/search/public/fonts/fonticonssrp.woff?001' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:5
+[    1767ms] [WARNING] A preload for 'https://media.foundit.in/trex/public/default/dist/fonts/fonticonshdr.woff?001' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:5
+[    1791ms] [ERROR] TypeError: Cannot read properties of undefined (reading 'fullPath')
+    at o.data (https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:6:141363)
+    at https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:17:30015
+    at https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:17:30075
+    at Kn (https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:17:30251)
+    at t._init (https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:17:42020)
+    at new o (https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:17:46961)
+    at https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:17:32969
+    at init (https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:17:33000)
+    at https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:17:67550
+    at p (https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:17:67826) @ https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:16
+[    1811ms] [LOG] Updated TTI Calculation @ https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:5
+[    1811ms] [WARNING] The PerformanceObserver does not support buffered flag with the entryTypes argument. @ https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:5
+[    2050ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://s.go-mpulse.net/boomerang/2PT3Q-JAT3X-EBX46-NT4FH-M8PHW:0
+[    2060ms] [WARNING] The PerformanceObserver does not support buffered flag with the entryTypes argument. @ https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:5
+[    2062ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://js-agent.newrelic.com/nr-spa-1130.min.js:0
+[    2092ms] [LOG] TTI - Time to Interactive: 2.023 seconds @ https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:5
+[    2140ms] [WARNING] A preload for 'https://media.foundit.in/trex/search/public/fonts/fonticonssrp.woff?001' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:0
+[    2394ms] [LOG] [ERROR registration]:  TypeError: Failed to register a ServiceWorker for scope ('https://www.foundit.in/trex/public/theme_3/src/js/') with script ('https://www.foundit.in/trex/public/theme_3/src/js/service-worker.js'): ServiceWorker script evaluation failed @ https://media.foundit.in/trex/public/theme_3/dist/js/header.js?ver=20260924130943:24
+[    2587ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:67
+[    2588ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:67
+[    2623ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:67
+[    3194ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:67
+[    3194ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:67
+[    3229ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:67
+[    3360ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:67
+[    3361ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:67
+[    3402ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:67
+[    3474ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:67
+[    3474ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:67
+[    3510ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:67
+[    3658ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:67
+[    3659ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:67
+[    3699ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:67
+[    3832ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:67
+[    3832ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:67
+[    3884ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:67
+[   13129ms] [WARNING] The resource https://s.go-mpulse.net/boomerang/2PT3Q-JAT3X-EBX46-NT4FH-M8PHW was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:0
+[   13129ms] [WARNING] The resource https://media.foundit.in/trex/public/default/dist/fonts/fonticonshdr.woff?001 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:0
+[   13129ms] [WARNING] The resource https://media.foundit.in/trex/search/public/fonts/fonticonssrp.woff?001 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Mumbai&page=2:0

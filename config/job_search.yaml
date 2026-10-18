@@ -1,0 +1,257 @@
+version: 1
+mode: production
+freshness:
+  routine_review_hours: 24
+  sweep_overlap_minutes: 90
+  unknown_date_details_per_run: 30
+  transient_retry_hours: 6
+  pending_application_recheck_hours: 6
+sources:
+  naukri:
+    type: portal
+    enabled: true
+    host: www.naukri.com
+    search_url: https://www.naukri.com/java-jobs-in-india?k={query}&l={location}&pageNo={page}
+    last_successful_fetch: '2026-10-18T15:00:23.734163+00:00'
+    max_queries: 3
+    max_pages: 2
+  linkedin:
+    type: portal
+    enabled: true
+    host: www.linkedin.com
+    search_url: https://www.linkedin.com/jobs/search/?keywords={query}&location={location}&sortBy=DD&f_AL=true&f_TPR=r604800&f_E=2%2C3&start={offset}
+    last_successful_fetch: '2026-10-12T15:00:54.213212+00:00'
+    max_queries: 3
+    max_pages: 2
+  foundit:
+    type: portal
+    enabled: false
+    host: www.foundit.in
+    search_url: https://www.foundit.in/srp/results?query={query}&locations={location}&page={page}
+    last_successful_fetch: '2026-09-28T12:38:47.724515+00:00'
+    max_queries: 3
+    max_pages: 2
+  indeed:
+    type: portal
+    enabled: false
+    host: in.indeed.com
+    search_url: https://in.indeed.com/jobs?q={query}&l={location}&sort=date&start={offset}
+    last_successful_fetch: '2026-10-12T15:01:10.938128+00:00'
+    max_queries: 3
+    max_pages: 2
+  cutshort:
+    type: portal
+    enabled: false
+    host: cutshort.io
+    search_url: https://cutshort.io/jobs/java-jobs?query={query}&location={location}&page={page}
+    last_successful_fetch: '2026-10-12T15:01:13.773442+00:00'
+    max_queries: 2
+    max_pages: 2
+employer_boards:
+  hevo_lever:
+    type: lever
+    enabled: false
+    employer: Hevo Data
+    board: hevo
+    last_successful_fetch: null
+    max_pages: 2
+    page_size: 25
+  brillio_lever:
+    type: lever
+    enabled: false
+    employer: Brillio
+    board: brillio-2
+    last_successful_fetch: '2026-10-12T15:01:10.938239+00:00'
+    max_pages: 3
+    page_size: 100
+  celonis_greenhouse:
+    type: greenhouse
+    enabled: false
+    employer: Celonis
+    board: celonis
+    last_successful_fetch: '2026-09-28T12:38:53.217169+00:00'
+    max_pages: 1
+    page_size: 100
+  ontic_ashby:
+    type: ashby
+    enabled: false
+    employer: Ontic
+    board: Ontic
+    last_successful_fetch: null
+    max_pages: 1
+    page_size: 100
+  ghx_greenhouse:
+    type: greenhouse
+    enabled: false
+    employer: GHX
+    board: globalhealthcareexchangeinc
+    last_successful_fetch: '2026-10-12T15:01:16.967833+00:00'
+    max_pages: 1
+    page_size: 100
+  legion_greenhouse:
+    type: greenhouse
+    enabled: false
+    employer: Legion
+    board: legion
+    last_successful_fetch: '2026-10-12T15:01:18.298904+00:00'
+    max_pages: 1
+    page_size: 100
+  tegna_greenhouse:
+    type: greenhouse
+    enabled: false
+    employer: TEGNA India
+    board: tegnaindia
+    last_successful_fetch: '2026-10-12T15:01:19.821154+00:00'
+    max_pages: 1
+    page_size: 100
+  dnb_lever:
+    type: lever
+    enabled: false
+    employer: Dun & Bradstreet
+    board: dnb
+    last_successful_fetch: '2026-10-12T15:01:19.996343+00:00'
+    max_pages: 2
+    page_size: 100
+  gradera_ashby:
+    type: ashby
+    enabled: false
+    employer: Gradera
+    board: gradera
+    last_successful_fetch: '2026-10-12T15:01:20.995264+00:00'
+    max_pages: 1
+    page_size: 100
+search:
+  terms:
+  - Java Spring Boot backend
+  - Java Backend Developer
+  - Java Spring Boot
+  target_roles:
+  - Backend Engineer
+  - Java Developer
+  - Software Engineer
+  - API Engineer
+  - Full Stack Engineer
+  locations:
+  - Pune
+  - Bengaluru
+  - Hyderabad
+  - Delhi NCR
+  - Mumbai
+  - Chennai
+  - Remote India
+  experience_years:
+    min: 1
+    max: 4
+  hard_exclusions:
+  - paid placement
+  - pure support or operations
+  - manual testing as primary work
+  - outside India without India-remote eligibility
+high_fit:
+  minimum_essential_coverage: 1.0
+  maximum_required_professional_years: 2.5
+  require_java_and_spring_boot: true
+  require_substantial_backend: true
+  require_india_location: true
+  allow_project_training_evidence_with_depth_review: true
+  secondary_skills_policy: interview_preparation
+  maximum_approved_near_miss_years: 3
+review:
+  per_company_cap: 5
+  max_jds_per_run: 30
+  max_original_checks_per_company: 20
+  max_portal_leads_per_run: 10
+schedule:
+  enabled: true
+  application_enabled: true
+  timezone: Asia/Kolkata
+  times:
+  - 08:30
+  - '12:30'
+  - '16:30'
+  - '20:30'
+  missed_run_catchup: false
+  max_seconds: 1800
+concurrency:
+  discovery: 3
+  verification: 3
+  resume: 3
+  application: 1
+  per_employer: 1
+  per_ats: 1
+alerts:
+  desktop_enabled: true
+  phone_enabled: false
+  repeat_cooldown_minutes: 360
+retention:
+  terminal_details_days: 0
+  submission_proof_days: 30
+  run_logs_days: 90
+submissions:
+  enabled: true
+  require_live_form_test: true
+  require_confirmation_proof: true
+naukri_worker:
+  enabled: true
+  max_submissions_per_run: 10
+  medium_max_required_years_exclusive: 4
+  excluded_requisition_ids:
+  - '250926037784'
+  - 070926003879
+  - '2388999'
+  - '190826038395'
+  - '280926023134'
+  - '160926009207'
+  require_role_resume_visual_review: true
+  require_generic_resume_restore: true
+direct_requisition_rules:
+  lever:
+    enabled: false
+    hosts:
+    - jobs.lever.co
+    path_pattern: ^/[A-Za-z0-9_-]+/[0-9a-fA-F-]{36}/?$
+  greenhouse:
+    enabled: false
+    hosts:
+    - job-boards.greenhouse.io
+    - boards.greenhouse.io
+    path_pattern: ^/[A-Za-z0-9_-]+/jobs/[0-9]+/?$
+  ashby:
+    enabled: false
+    hosts:
+    - jobs.ashbyhq.com
+    path_pattern: ^/[A-Za-z0-9_-]+/[0-9a-fA-F-]{36}/?$
+  employer_site:
+    enabled: false
+    host_policy: linked_apply_url_exact_host
+    apply_link_text_pattern: '(?i)^(apply(?: now| on company site)?|view (?:job|role)|company
+      site)$'
+    path_pattern: (?i)(?:/jobs?/|/careers?/|/positions?/|/roles?/|job[-_]?details?)
+    max_links_per_lead: 3
+portal_workers:
+  naukri:
+    apply_enabled: true
+    scheduled_apply_enabled: true
+    max_submissions_per_run: 10
+    max_new_attempts_per_run: 10
+  linkedin:
+    apply_enabled: true
+    scheduled_apply_enabled: true
+    max_submissions_per_run: 10
+    max_new_attempts_per_run: 10
+  foundit:
+    apply_enabled: false
+    scheduled_apply_enabled: false
+    max_submissions_per_run: 1
+  indeed:
+    apply_enabled: false
+    scheduled_apply_enabled: false
+    max_submissions_per_run: 1
+  cutshort:
+    apply_enabled: false
+    scheduled_apply_enabled: false
+    max_submissions_per_run: 1
+  ats:
+    apply_enabled: false
+    scheduled_apply_enabled: false
+    max_submissions_per_run: 1

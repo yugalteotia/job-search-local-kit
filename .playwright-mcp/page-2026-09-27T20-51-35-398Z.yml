@@ -1,0 +1,243 @@
+- generic [active] [ref=f8e1]:
+  - link "Go to the main content section." [ref=f8e2] [cursor=pointer]:
+    - /url: "#mainContent"
+  - text:     
+  - generic [ref=f8e3]:
+    - generic [ref=f8e8]:
+      - generic:
+        - textbox [ref=f8e9]
+        - button ""
+      - generic [ref=f8e11]:
+        - link [ref=f8e13] [cursor=pointer]:
+          - /url: https://careers.unitedhealthgroup.com/
+          - img "UHG Logo" [ref=f8e14]
+        - generic [ref=f8e15]:
+          - list [ref=f8e17]:
+            - listitem [ref=f8e18]:
+              - link "My Profile" [ref=f8e19] [cursor=pointer]:
+                - /url: https://uhg.taleo.net/careersection/10000/profile.ftl?lang=en
+            - listitem [ref=f8e20]:
+              - link "Join Our Talent Community" [ref=f8e21] [cursor=pointer]:
+                - /url: https://www.unitedhealthgroup.com/careers/en/hiring-process/join-our-talent-community.html
+            - listitem [ref=f8e22]:
+              - link "My Dashboard" [ref=f8e23] [cursor=pointer]:
+                - /url: https://uhg.taleo.net/careersection/10000/mysubmissions.ftl?lang=en
+          - list [ref=f8e25]:
+            - listitem [ref=f8e26]:
+              - link "Work Here" [ref=f8e27] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/work.html
+            - listitem [ref=f8e28]:
+              - link "Our Culture" [ref=f8e29] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/culture.html
+            - listitem [ref=f8e30]:
+              - link "Hiring Process & Guidance" [ref=f8e31] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/hiring-process.html
+            - listitem [ref=f8e32]:
+              - link "Early Careers" [ref=f8e33] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/early-careers.html
+            - listitem [ref=f8e34]:
+              - link "Blog" [ref=f8e35] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/blog.html
+    - generic [ref=f8e36]: Improve the lives of others while Caring. Connecting. Growing together.
+    - generic [ref=f8e40]:
+      - link "The page includes some errors. Go to the error list." [ref=f8e41] [cursor=pointer]:
+        - /url: "#errorMessages"
+      - generic [ref=f8e43]:
+        - generic [ref=f8e44]:
+          - generic [ref=f8e45]: YUGAL TEOTIA, you are signed in.
+          - generic [aria-hidden] [ref=f8e48]: "|"
+          - link "Sign Out" [ref=f8e50] [cursor=pointer]:
+            - /url: "#"
+        - list [ref=f8e51]:
+          - listitem [ref=f8e52]:
+            - generic:
+              - link "Go to the section":
+                - /url: "#"
+          - listitem [ref=f8e53]:
+            - link "My Dashboard" [ref=f8e54] [cursor=pointer]:
+              - /url: "#"
+      - generic [ref=f8e55]:
+        - generic [ref=f8e56]:
+          - generic [ref=f8e57]:
+            - text: "Applying for:"
+            - 'link "Software Engineer - Java Fullstack (Job Number: 2388999)" [ref=f8e60] [cursor=pointer]':
+              - /url: "#"
+            - generic [ref=f8e61] [cursor=pointer]
+          - table [ref=f8e63]:
+            - rowgroup [ref=f8e64]:
+              - row [ref=f8e65]:
+                - cell [ref=f8e66]:
+                  - list [ref=f8e70]:
+                    - group "Section allowing navigation through the pages of the job submission flow" [ref=f8e71]:
+                      - listitem [ref=f8e74]:
+                        - link "Attachments" [ref=f8e78] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f8e81]:
+                        - link "About You" [ref=f8e85] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f8e88]:
+                        - link "Education and Experience" [ref=f8e92] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f8e95]:
+                        - generic [ref=f8e96]: Job Profile Questions
+                      - listitem [ref=f8e101]:
+                        - generic [ref=f8e102]: eSignature
+                      - listitem [ref=f8e107]:
+                        - generic [ref=f8e108]: Review and Submit
+        - generic [ref=f8e113]:
+          - alert [ref=f8e114]:
+            - heading [level=1] [ref=f8e115]:
+              - link "Errors occurred on this page, could not proceed. Please correct the errors before proceeding. Beginning of error list." [ref=f8e116] [cursor=pointer]:
+                - /url: "#"
+            - list [ref=f8e117]:
+              - listitem [ref=f8e118]: You must answer all mandatory questions.
+          - link "Beginning of the main content section." [ref=f8e119] [cursor=pointer]:
+            - /url: "#"
+          - table:
+            - rowgroup:
+              - row "Job Profile Questions Mandatory fields are marked with an asterisk. . Required Please answer the following questions as accurately as possible. 1. How many years of professional experience do you have developing applications using Java and Spring Boot? (TEC120) . Required 2. How many years of professional experience do you have leading enterprise modernization initiatives involving APIs, microservices, cloud platforms, or digital transformation programs? (TEC246) . Required 3. How many years of professional experience do you have developing frontend web applications using React, Angular, Next.js, and/or NestJS? (TEC292) . Required":
+                - cell "Job Profile Questions Mandatory fields are marked with an asterisk. . Required Please answer the following questions as accurately as possible. 1. How many years of professional experience do you have developing applications using Java and Spring Boot? (TEC120) . Required 2. How many years of professional experience do you have leading enterprise modernization initiatives involving APIs, microservices, cloud platforms, or digital transformation programs? (TEC246) . Required 3. How many years of professional experience do you have developing frontend web applications using React, Angular, Next.js, and/or NestJS? (TEC292) . Required" [ref=f8e120]:
+                  - heading "Job Profile Questions" [level=1] [ref=f8e121]
+                  - generic [ref=f8e125]:
+                    - text: Mandatory fields are marked with an asterisk.
+                    - generic "This field is mandatory" [ref=f8e129]:
+                      - generic [ref=f8e130]: .
+                      - generic [ref=f8e131]: Required
+                  - generic [ref=f8e132]:
+                    - heading [level=2]
+                    - generic [ref=f8e134]: Please answer the following questions as accurately as possible.
+                    - generic [ref=f8e136]:
+                      - group "1. How many years of professional experience do you have developing applications using Java and Spring Boot? (TEC120) . Required" [ref=f8e137]:
+                        - generic "This field is mandatory" [ref=f8e139]:
+                          - generic [ref=f8e140]: "1."
+                          - text: How many years of professional experience do you have developing applications using Java and Spring Boot? (TEC120)
+                          - generic [ref=f8e143]: .
+                          - generic [ref=f8e144]: Required
+                        - generic [ref=f8e146]:
+                          - radio "Less than 1 year" [ref=f8e147]
+                          - text: Less than 1 year
+                        - generic [ref=f8e149]:
+                          - radio "1 or more years but less than 3 years" [ref=f8e150]
+                          - text: 1 or more years but less than 3 years
+                        - generic [ref=f8e152]:
+                          - radio "3 or more years but less than 5 years" [ref=f8e153]
+                          - text: 3 or more years but less than 5 years
+                        - generic [ref=f8e155]:
+                          - radio "5 or more years but less than 10 years" [ref=f8e156]
+                          - text: 5 or more years but less than 10 years
+                        - generic [ref=f8e158]:
+                          - radio "10 or more years" [ref=f8e159]
+                          - text: 10 or more years
+                        - generic [ref=f8e161]:
+                          - radio "No experience" [ref=f8e162]
+                          - text: No experience
+                      - group "2. How many years of professional experience do you have leading enterprise modernization initiatives involving APIs, microservices, cloud platforms, or digital transformation programs? (TEC246) . Required" [ref=f8e163]:
+                        - generic "This field is mandatory" [ref=f8e165]:
+                          - generic [ref=f8e166]: "2."
+                          - text: How many years of professional experience do you have leading enterprise modernization initiatives involving APIs, microservices, cloud platforms, or digital transformation programs? (TEC246)
+                          - generic [ref=f8e169]: .
+                          - generic [ref=f8e170]: Required
+                        - generic [ref=f8e172]:
+                          - radio "Less than 2 years" [ref=f8e173]
+                          - text: Less than 2 years
+                        - generic [ref=f8e175]:
+                          - radio "2 or more years but less than 4 years" [ref=f8e176]
+                          - text: 2 or more years but less than 4 years
+                        - generic [ref=f8e178]:
+                          - radio "4 or more years but less than 6 years" [ref=f8e179]
+                          - text: 4 or more years but less than 6 years
+                        - generic [ref=f8e181]:
+                          - radio "6 or more years but less than 8 years" [ref=f8e182]
+                          - text: 6 or more years but less than 8 years
+                        - generic [ref=f8e184]:
+                          - radio "8 or more years but less than 10 years" [ref=f8e185]
+                          - text: 8 or more years but less than 10 years
+                        - generic [ref=f8e187]:
+                          - radio "10 or more years" [ref=f8e188]
+                          - text: 10 or more years
+                        - generic [ref=f8e190]:
+                          - radio "No experience" [ref=f8e191]
+                          - text: No experience
+                      - group "3. How many years of professional experience do you have developing frontend web applications using React, Angular, Next.js, and/or NestJS? (TEC292) . Required" [ref=f8e192]:
+                        - generic "This field is mandatory" [ref=f8e194]:
+                          - generic [ref=f8e195]: "3."
+                          - text: How many years of professional experience do you have developing frontend web applications using React, Angular, Next.js, and/or NestJS? (TEC292)
+                          - generic [ref=f8e198]: .
+                          - generic [ref=f8e199]: Required
+                        - generic [ref=f8e201]:
+                          - radio "Less than 1 year" [ref=f8e202]
+                          - text: Less than 1 year
+                        - generic [ref=f8e204]:
+                          - radio "More than 1 year but less than 3 years" [ref=f8e205]
+                          - text: More than 1 year but less than 3 years
+                        - generic [ref=f8e207]:
+                          - radio "More than 3 years but less than 5 years" [ref=f8e208]
+                          - text: More than 3 years but less than 5 years
+                        - generic [ref=f8e210]:
+                          - radio "More than 5 years but less than 7 years" [ref=f8e211]
+                          - text: More than 5 years but less than 7 years
+                        - generic [ref=f8e213]:
+                          - radio "More than 7 years but less than 10 years" [ref=f8e214]
+                          - text: More than 7 years but less than 10 years
+                        - generic [ref=f8e216]:
+                          - radio "More than 10 years" [ref=f8e217]
+                          - text: More than 10 years
+                        - generic [ref=f8e219]:
+                          - radio "No experience" [ref=f8e220]
+                          - text: No experience
+        - generic [ref=f8e224]:
+          - button "Save and Continue" [ref=f8e225] [cursor=pointer]
+          - button "Save as Draft" [ref=f8e226] [cursor=pointer]
+          - button "Quit" [ref=f8e227] [cursor=pointer]
+    - generic [ref=f8e229]:
+      - generic [ref=f8e232]:
+        - generic [ref=f8e233]:
+          - list [ref=f8e235]:
+            - listitem [ref=f8e236]:
+              - link "" [ref=f8e237] [cursor=pointer]:
+                - /url: http://facebook.com/uhgcareers
+            - listitem [ref=f8e239]:
+              - link "" [ref=f8e240] [cursor=pointer]:
+                - /url: https://www.instagram.com/uhgcareers/
+            - listitem [ref=f8e242]:
+              - link "" [ref=f8e243] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/1720
+            - listitem [ref=f8e245]:
+              - link [ref=f8e246] [cursor=pointer]:
+                - /url: http://twitter.com/uhgcareers
+                - img "Twitter" [ref=f8e247]
+            - listitem [ref=f8e248]:
+              - link "" [ref=f8e249] [cursor=pointer]:
+                - /url: http://www.youtube.com/user/uhgcareers
+            - listitem [ref=f8e251]:
+              - link "" [ref=f8e252] [cursor=pointer]:
+                - /url: http://www.glassdoor.com/Overview/Working-at-UnitedHealth-Group-EI_IE1991.11,29.htm
+            - listitem [ref=f8e254]:
+              - link "" [ref=f8e255] [cursor=pointer]:
+                - /url: https://careers.unitedhealthgroup.com/blog
+          - generic [ref=f8e257]:
+            - link "Social Responsibility" [ref=f8e260] [cursor=pointer]:
+              - /url: "#popup1"
+            - link "Fraudulent Activity" [ref=f8e263] [cursor=pointer]:
+              - /url: "#popup2"
+        - generic [ref=f8e264]:
+          - paragraph [ref=f8e265]:
+            - link "Privacy Policy" [ref=f8e266] [cursor=pointer]:
+              - /url: https://www.unitedhealthgroup.com/privacy.html
+            - link "Family & Medical Leave Act (PDF)" [ref=f8e267] [cursor=pointer]:
+              - /url: http://www.dol.gov/whd/regs/compliance/posters/fmlaen.pdf
+            - link "Equal Employment Law Poster (PDF)" [ref=f8e268] [cursor=pointer]:
+              - /url: http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf
+            - link "Pay Transparency Employee Polygraph Protection Act (PDF)" [ref=f8e269] [cursor=pointer]:
+              - /url: https://cdn-static.findly.com/wp-content/uploads/sites/1288/2020/10/PayTransparencySupplementNondiscrimRev2017.pdf
+            - link "E-Verify Participation Poster" [ref=f8e270] [cursor=pointer]:
+              - /url: https://cdn-static.findly.com/wp-content/uploads/sites/1288/2020/10/E-Verify_Participation_Poster.pdf
+            - link "Immigrant and Employee Right to Work Poster" [ref=f8e271] [cursor=pointer]:
+              - /url: https://careers.unitedhealthgroup.com/-/media/9EB3C61FAAD54205BCE70F65D03E6628.ashx
+          - paragraph [ref=f8e272]: © 2023 UnitedHealth Group, All rights reserved.
+          - paragraph [ref=f8e273]: UnitedHealth Group is committed to working with and providing reasonable accommodations to individuals with physical and mental disabilities. If you need special assistance or accommodation for any part of the application process, please call 1-866-566-8715 to be connected to Recruitment Services. Recruitment Services hours of operation are 7 a.m. to 7 p.m. CT, Monday through Friday.
+          - paragraph [ref=f8e274]: UnitedHealth Group is a registered service mark of UnitedHealth Group, Inc. The UnitedHealth Group name with the dimensional logo, as well as the dimensional logo alone, are both service marks for the UnitedHealth Group, Inc.
+          - paragraph [ref=f8e275]: "Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law."
+          - paragraph [ref=f8e276]: UnitedHealth Group is a drug-free workplace. Candidates are required to pass a drug test before beginning employment.
+      - link "Top" [ref=f8e277] [cursor=pointer]:
+        - /url: "#"

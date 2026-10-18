@@ -1,0 +1,88 @@
+{
+  "job_id": 309,
+  "requisition_id": "081026040485",
+  "attempt_id": "3fa65894-186e-44de-a4eb-cadde135e80d",
+  "saves": 1,
+  "status": "Applied",
+  "stage": "questionnaire",
+  "pending_question": "Are you currently residing in Bengaluru or willing to relocate to Bengaluru?",
+  "error_type": "RuntimeError",
+  "answers_logged": false,
+  "network_guard": {
+    "job_id": "081026040485",
+    "phase": "followup_status_received",
+    "show_count": 1,
+    "answer_count": 1,
+    "save_arm_count": 1,
+    "followup_status_count": 0,
+    "post_completion_status_count": 0,
+    "completion_count": 0,
+    "reopen_count": 1,
+    "workflow_committed": false,
+    "events": [
+      {
+        "at": "2026-10-13T13:30:58.688200+00:00",
+        "elapsed_ms": 487,
+        "job_id": "081026040485",
+        "phase": "show_sent",
+        "method": "POST",
+        "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+        "flowtype": "show",
+        "allowed": true,
+        "reason": "exact_job_show",
+        "response_status": 200,
+        "response_elapsed_ms": 789,
+        "response_metadata": {
+          "isApply": true,
+          "isLeafNode": true,
+          "dataCommitted": false,
+          "job_id_match": true,
+          "currentNodeName": "apply2"
+        }
+      },
+      {
+        "at": "2026-10-13T13:31:02.482933+00:00",
+        "elapsed_ms": 4281,
+        "job_id": "081026040485",
+        "phase": "answer_sent",
+        "method": "POST",
+        "path": "/cloudgateway-chatbot/chatbot-services/botapi/v5/respond",
+        "flowtype": "unknown",
+        "allowed": true,
+        "reason": "one_claimed_chat_answer",
+        "response_status": 200,
+        "response_elapsed_ms": 4400,
+        "response_metadata": {
+          "job_id_match": true
+        }
+      },
+      {
+        "at": "2026-10-13T13:31:05.161960+00:00",
+        "elapsed_ms": 6960,
+        "job_id": "081026040485",
+        "phase": "reopen_show_sent",
+        "method": "POST",
+        "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+        "flowtype": "show",
+        "allowed": true,
+        "reason": "reopen_same_claimed_attempt_show",
+        "response_status": 200,
+        "response_elapsed_ms": 7224,
+        "response_metadata": {
+          "isApply": true,
+          "isLeafNode": true,
+          "dataCommitted": false,
+          "job_id_match": true,
+          "currentNodeName": "apply2"
+        }
+      }
+    ]
+  },
+  "generic_resume_restored": true,
+  "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+  "generic_resume_verified_at": "2026-10-13T13:31:17.124982+00:00",
+  "confirmation_path": "jobs/naukri-081026040485/naukri-native-confirmation.json",
+  "delayed_confirmation": true,
+  "reconciliation_pending": false,
+  "new_application_action": false
+}

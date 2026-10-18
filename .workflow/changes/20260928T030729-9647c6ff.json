@@ -1,0 +1,11 @@
+{
+  "row": 18,
+  "reason": "listing ingested",
+  "changes": {
+    "Fit rationale": {
+      "before": "Core Java, REST, MongoDB and concurrency work align, but cloud and message queues are stated requirements without demonstrated experience; multithreading expertise and 2-year Java minimum are not established at required depth. Medium only. Required evidence coverage: 43%.",
+      "after": "Core Java, REST, MongoDB and concurrency work align, but cloud and message queues are stated requirements without demonstrated experience; multithreading expertise and 2-year Java minimum are not established at required depth. Low fit. Required evidence coverage: 43%."
+    }
+  },
+  "backup": ".workflow/backups/20260928T030729-9647c6ff.xlsx"
+}

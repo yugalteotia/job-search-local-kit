@@ -1,0 +1,39 @@
+{
+  "started_at": "2026-09-27T21:45:06.021483+00:00",
+  "finished_at": "2026-09-27T21:45:32.496769+00:00",
+  "separate_cli": true,
+  "read_only": true,
+  "timeout_seconds": 180,
+  "timed_out": false,
+  "exit_code": 0,
+  "browser_events": [
+    {
+      "tool": "browser_navigate",
+      "status": "in_progress"
+    },
+    {
+      "tool": "browser_navigate",
+      "status": "completed"
+    },
+    {
+      "tool": "browser_evaluate",
+      "status": "in_progress"
+    },
+    {
+      "tool": "browser_evaluate",
+      "status": "completed",
+      "result_keys": [
+        "content",
+        "structured_content"
+      ]
+    }
+  ],
+  "passed": false,
+  "errors": [],
+  "failure": "Separate CLI did not establish signed-in identity; scheduling remains disabled.",
+  "private_token_transport": true,
+  "observed_identity": {
+    "signed_in": false,
+    "identity_match": false
+  }
+}

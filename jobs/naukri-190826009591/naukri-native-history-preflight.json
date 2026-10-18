@@ -1,0 +1,13 @@
+{
+  "full": true,
+  "exact": 0,
+  "company_role": 0,
+  "company_role_observed": 0,
+  "company_role_disambiguated": false,
+  "company_role_other_exact_ids": [],
+  "server_company_role_rows": [],
+  "identity_basis": "exact_listing_link",
+  "server_exact_rows": [],
+  "observed_exact_rows_unverified": 0,
+  "at": "2026-10-13T18:50:48.387523+00:00"
+}

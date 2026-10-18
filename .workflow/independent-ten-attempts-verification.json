@@ -1,0 +1,38 @@
+{
+  "checked_at": "2026-10-13T17:49:00.608695+00:00",
+  "providers": {
+    "naukri": {
+      "scheduled_enabled": true,
+      "apply_now_enabled": true,
+      "max_new_attempts_per_run": 10
+    },
+    "linkedin": {
+      "scheduled_enabled": true,
+      "apply_now_enabled": true,
+      "max_new_attempts_per_run": 10
+    }
+  },
+  "policy": {
+    "secondary_skills_policy": "interview_preparation",
+    "maximum_approved_near_miss_years": 3
+  },
+  "no_submit_tests": {
+    "provider_budgets_and_policy": 11,
+    "shared_native_workers": 1,
+    "execution_controls": 6,
+    "ui": 8,
+    "legacy_fit_and_resume": 24,
+    "questionnaire_locks": 27,
+    "frontend_and_word_experience": 5,
+    "native_controls": 7,
+    "passed": true
+  },
+  "actual_run_history_unchanged": true,
+  "protected_locks_preserved": true,
+  "digicert_override_not_reusable": true,
+  "browser_started_for_validation": false,
+  "search_started_for_validation": false,
+  "application_started_for_validation": false,
+  "pending_generic_restore": false,
+  "config_backup": ".workflow/config-before-independent-ten-attempts.yaml"
+}

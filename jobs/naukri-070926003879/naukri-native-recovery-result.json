@@ -1,0 +1,67 @@
+{
+  "job_id": 244,
+  "requisition_id": "070926003879",
+  "attempt_id": "392355bd-7563-49cd-9ab6-e1848ca3be53",
+  "started_at": "2026-09-29T13:05:57.355953+00:00",
+  "precondition_checks": {
+    "exact_job": true,
+    "one_existing_attempt": true,
+    "no_completion_request": true,
+    "no_commit": true,
+    "no_applied_history_match": true,
+    "not_applied_and_live": true,
+    "notice_question_waiting": true,
+    "generic_resume_restored": true
+  },
+  "new_attempt_created": false,
+  "previous_save_replayed": false,
+  "notice_answer_save_count": 0,
+  "outcome": "Stopped before reopening; existing attempt remains locked",
+  "network_responses": [],
+  "signed_in_account_verified": true,
+  "generic_resume_before": "Yugal_Teotia_CV.pdf",
+  "role_resume_verified": true,
+  "profile_upload_statuses": [
+    {
+      "endpoint": "profile_resume_upload",
+      "status": 200
+    }
+  ],
+  "live_listing_before": {
+    "exact_path": true,
+    "apply_visible": true,
+    "applied_button": false,
+    "applied_status": false,
+    "pending": false
+  },
+  "applied_history_before": {
+    "checked_at": "2026-09-29T13:06:20.362073+00:00",
+    "rows": 87,
+    "source_total": 87,
+    "full_history_loaded": true,
+    "exact_id_matches": 0,
+    "company_role_matches": 0,
+    "sweeps": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      87
+    ]
+  },
+  "generic_restored_verified": true,
+  "generic_restore_statuses": [
+    {
+      "endpoint": "profile_resume_upload",
+      "status": 200
+    }
+  ],
+  "finished_at": "2026-09-29T13:06:28.032002+00:00",
+  "error_type": "RuntimeError",
+  "error_message": "Exact visible Apply control is unavailable",
+  "apply_clicked": false
+}

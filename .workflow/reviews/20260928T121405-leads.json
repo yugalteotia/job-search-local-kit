@@ -1,0 +1,30 @@
+{
+  "navigation_links_reclassified": 74,
+  "portal_jobs_inspected": 0,
+  "originals_matched": 0,
+  "needs_original": 98,
+  "title_relevant_unresolved": 29,
+  "by_source": {
+    "naukri": {
+      "needs_original": 0,
+      "not_a_job": 3
+    },
+    "linkedin": {
+      "needs_original": 98,
+      "not_a_job": 0
+    },
+    "foundit": {
+      "needs_original": 0,
+      "not_a_job": 17
+    },
+    "indeed": {
+      "needs_original": 0,
+      "not_a_job": 24
+    },
+    "cutshort": {
+      "needs_original": 0,
+      "not_a_job": 30
+    }
+  },
+  "results": []
+}

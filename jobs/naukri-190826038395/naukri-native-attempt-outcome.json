@@ -1,0 +1,132 @@
+{
+  "job_id": 220,
+  "requisition_id": "190826038395",
+  "url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-microservices-infosys-pune-chennai-bengaluru-2-to-5-years-190826038395",
+  "started_at": "2026-09-29T08:10:08.010909+00:00",
+  "prior_full_history": "jobs/naukri-190826038395/full-applied-history-audit.json",
+  "resume_sha256": "4c30dcd8d3fa93ddebc1a1419e54791b20fbdd4e3c0f594c902d136325d6f9db",
+  "attempt_id": "b59f715d-900f-4ce8-94eb-32385b97bf92",
+  "save_click_count": 1,
+  "chat_answer_requests_allowed": 1,
+  "outcome": "Uncertain: one confirmed Yes/Save sent; generic Thank You without exact job-bound submission proof; no retry",
+  "signed_in": true,
+  "account_name_matches": true,
+  "role_upload": {
+    "at": "2026-09-29T08:10:19.407711+00:00",
+    "before": "Yugal_Teotia_CV.pdf",
+    "after": "Yugal_Teotia_Java_Backend_Developer.pdf",
+    "pdf_sha256": "4c30dcd8d3fa93ddebc1a1419e54791b20fbdd4e3c0f594c902d136325d6f9db",
+    "response_statuses": [
+      {
+        "path": "/cloudgateway-mynaukri/resman-aggregator-services/v0/users/self/profiles/7cb124b61d07cca5b819d1f1298276bd7432cb89a97f3944f79fd6c296adc7b6/advResume",
+        "status": 200
+      }
+    ]
+  },
+  "profile_verified_at": "2026-09-29T08:10:19.407711+00:00",
+  "preflow_listing": {
+    "path": "/job-listings-java-backend-developer-spring-boot-microservices-infosys-pune-chennai-bengaluru-2-to-5-years-190826038395",
+    "title": "Java Backend Developer | Spring Boot | Microservices - Bengaluru,Pune,Chennai - Infosys - 2 to 5 years of experience",
+    "exactIdInPath": true,
+    "applyVisible": true,
+    "appliedButtonVisible": false,
+    "appliedStatusVisible": false,
+    "pendingStatusVisible": false
+  },
+  "listing_checked_at": "2026-09-29T08:10:21.170437+00:00",
+  "apply_show_count": 1,
+  "show_response": [
+    {
+      "status": 200,
+      "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+      "isApply": true,
+      "isLeafNode": false,
+      "dataCommitted": false,
+      "currentNodeName": "apply3",
+      "jobIdMentioned": true,
+      "roleFilenameMentioned": false
+    }
+  ],
+  "chat_before_answer": {
+    "drawerVisible": true,
+    "prompts": [
+      "Are you available for a interview?(Virtual)"
+    ],
+    "yesOptionVisible": true,
+    "yesChecked": false,
+    "noChecked": false,
+    "visibleUploadInputs": 0,
+    "visibleResumeNames": [],
+    "thankYouVisible": false,
+    "appliedStatusVisible": false,
+    "applyButtonVisible": true
+  },
+  "presubmit_path": "jobs/naukri-190826038395/naukri-native-presubmit.json",
+  "claimed_at": "2026-09-29T08:10:23.170710+00:00",
+  "chat_after_save": {
+    "drawerVisible": true,
+    "prompts": [
+      "Are you available for a interview?(Virtual)",
+      "Thank you for your responses."
+    ],
+    "yesOptionVisible": false,
+    "yesChecked": false,
+    "noChecked": false,
+    "visibleUploadInputs": 0,
+    "visibleResumeNames": [],
+    "thankYouVisible": true,
+    "appliedStatusVisible": false,
+    "applyButtonVisible": true
+  },
+  "answer_response": [
+    {
+      "status": 200,
+      "path": "/cloudgateway-chatbot/chatbot-services/botapi/v5/respond",
+      "isApply": null,
+      "isLeafNode": null,
+      "dataCommitted": null,
+      "currentNodeName": null,
+      "jobIdMentioned": true,
+      "roleFilenameMentioned": false
+    }
+  ],
+  "blocked_application_requests": [
+    {
+      "method": "POST",
+      "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply"
+    }
+  ],
+  "save_completed_at": "2026-09-29T08:10:25.727831+00:00",
+  "listing_after_save": {
+    "path": "/job-listings-java-backend-developer-spring-boot-microservices-infosys-pune-chennai-bengaluru-2-to-5-years-190826038395",
+    "title": "Java Backend Developer | Spring Boot | Microservices - Bengaluru,Pune,Chennai - Infosys - 2 to 5 years of experience",
+    "exactIdInPath": true,
+    "applyVisible": true,
+    "appliedButtonVisible": false,
+    "appliedStatusVisible": false,
+    "pendingStatusVisible": false
+  },
+  "error_type": "Error",
+  "error_at": "2026-09-29T08:10:31.547109+00:00",
+  "generic_restore": {
+    "at": "2026-09-29T08:10:39.044366+00:00",
+    "before": "Yugal_Teotia_Java_Backend_Developer.pdf",
+    "after": "Yugal_Teotia_CV.pdf",
+    "pdf_sha256": "9a1322fc3058108d66aa74ef8c23b6b4027a3d341feedb029eb45b135906cb17",
+    "response_statuses": [
+      {
+        "path": "/cloudgateway-mynaukri/resman-aggregator-services/v0/users/self/profiles/7cb124b61d07cca5b819d1f1298276bd7432cb89a97f3944f79fd6c296adc7b6/advResume",
+        "status": 200
+      }
+    ]
+  },
+  "generic_restored_verified": true,
+  "finished_at": "2026-09-29T08:10:39.046307+00:00",
+  "post_save_full_history_path": "jobs/naukri-190826038395/full-applied-history-audit.json",
+  "post_save_listing_path": "jobs/naukri-190826038395/post-save-listing-audit.json",
+  "post_save_full_history_exact_matches": 0,
+  "post_save_full_history_loaded_rows": 74,
+  "post_save_exact_listing_applied": false,
+  "follow_up_apply_workflow_request_blocked": true,
+  "investigation_finished_at": "2026-09-29T08:14:16.736544+00:00"
+}

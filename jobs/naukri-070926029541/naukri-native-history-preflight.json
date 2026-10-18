@@ -1,0 +1,69 @@
+{
+  "full": true,
+  "exact": 1,
+  "company_role": 1,
+  "company_role_observed": 1,
+  "company_role_disambiguated": false,
+  "company_role_other_exact_ids": [],
+  "server_company_role_rows": [
+    {
+      "job_id": "070926029541",
+      "title": "JAVA Developer-INF (2 - 9) YRS",
+      "company": "Infosys",
+      "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+    }
+  ],
+  "identity_basis": "server_history_exact_job_id",
+  "server_exact_rows": [
+    {
+      "job_id": "070926029541",
+      "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "title": "JAVA Developer-INF (2 - 9) YRS",
+      "company": "Infosys",
+      "status": [
+        {
+          "statusId": 1,
+          "appId": null,
+          "count": 1,
+          "modifiedDate": "2026-10-13 22:23:08",
+          "statusValue": "Applied",
+          "dateTime": "2026-10-13 22:23:08"
+        },
+        {
+          "statusId": 2,
+          "appId": 107,
+          "count": 1,
+          "modifiedDate": "2026-10-13 22:23:08",
+          "statusValue": "Application Sent",
+          "dateTime": "2026-10-13 22:23:08"
+        }
+      ]
+    },
+    {
+      "job_id": "070926029541",
+      "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+      "title": "JAVA Developer-INF (2 - 9) YRS",
+      "company": "Infosys",
+      "status": [
+        {
+          "statusId": 1,
+          "appId": null,
+          "count": 1,
+          "modifiedDate": "2026-10-13 22:23:08",
+          "statusValue": "Applied",
+          "dateTime": "2026-10-13 22:23:08"
+        },
+        {
+          "statusId": 2,
+          "appId": 107,
+          "count": 1,
+          "modifiedDate": "2026-10-13 22:23:08",
+          "statusValue": "Application Sent",
+          "dateTime": "2026-10-13 22:23:08"
+        }
+      ]
+    }
+  ],
+  "observed_exact_rows_unverified": 0,
+  "at": "2026-10-14T03:01:32.069610+00:00"
+}

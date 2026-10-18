@@ -1,0 +1,25 @@
+{
+  "job_id": 244,
+  "requisition_id": "070926003879",
+  "checked_at": "2026-09-29T13:50:22.109447+00:00",
+  "read_only": true,
+  "signed_in": true,
+  "profile_resume_filename": "Yugal_Teotia_CV.pdf",
+  "history": {
+    "rows_loaded": 10,
+    "source_total": 88,
+    "full_history_loaded": false,
+    "exact_id_matches": 1,
+    "company_role_matches": 0,
+    "sweeps": [
+      10
+    ]
+  },
+  "listing": {
+    "exact_path": true,
+    "apply_visible": false,
+    "applied_button": false,
+    "applied_status": true,
+    "pending": false
+  }
+}

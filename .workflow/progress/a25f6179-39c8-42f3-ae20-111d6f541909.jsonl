@@ -1,0 +1,9 @@
+{"seq": 1, "at": "2026-10-13T13:59:07.817219+00:00", "kind": "start", "message": "Run started (cli)"}
+{"seq": 2, "at": "2026-10-13T13:59:07.819198+00:00", "kind": "info", "message": "Sources checked: "}
+{"seq": 3, "at": "2026-10-13T13:59:07.819432+00:00", "kind": "info", "message": "Original employer pages verified: 0 of 0 selected"}
+{"seq": 4, "at": "2026-10-13T13:59:07.879823+00:00", "kind": "info", "message": "Roles reviewed against JD evidence: 0"}
+{"seq": 5, "at": "2026-10-13T13:59:08.064929+00:00", "kind": "info", "message": "Fit review: 0 queued; resumes prepared: 0"}
+{"seq": 6, "at": "2026-10-13T13:59:08.089732+00:00", "kind": "info", "message": "naukri worker finished: DiscoveryOnly"}
+{"seq": 7, "at": "2026-10-13T13:59:08.090041+00:00", "kind": "info", "message": "linkedin worker: live, max 1"}
+{"seq": 8, "at": "2026-10-13T13:59:23.913009+00:00", "kind": "info", "message": "linkedin worker finished: Complete"}
+{"seq": 9, "at": "2026-10-13T13:59:24.261720+00:00", "kind": "finish", "message": "Run finished: Success", "status": "Success", "summary": {"errors": 0, "worker": "DiscoveryOnly"}}

@@ -1,0 +1,15 @@
+{
+  "row": 10,
+  "reason": "One authorized guest attempt blocked; stopped at account-access handoff",
+  "changes": {
+    "Resume version": {
+      "before": "Previous PDF rejected; corrected v2 is for local review only",
+      "after": "Tailored_Resume_v2.pdf — visually approved, hash verified; not uploaded"
+    },
+    "Next step": {
+      "before": "Do not resume Optum application without explicit user authorization. Profile reconciliation and PDF repair only.",
+      "after": "Blocked: existing email cannot use guest submission. Manual Taleo access step required: Send Email in current page to establish credentials for existing record, or sign in. No automated account creation or submission."
+    }
+  },
+  "backup": ".workflow/backups/20260927T202541-a7ab073f.xlsx"
+}

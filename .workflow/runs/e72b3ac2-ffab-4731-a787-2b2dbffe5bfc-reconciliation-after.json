@@ -1,0 +1,176 @@
+{
+  "status": "Complete",
+  "phase": "after",
+  "providers": {
+    "naukri": {
+      "status": "Checked",
+      "pending": 3,
+      "history": {
+        "full": true,
+        "account_verified": true,
+        "rows_by_id": {
+          "290826005830": [],
+          "171026009891": [],
+          "100826024113": []
+        },
+        "loaded_rows": 308,
+        "expected_total": 308,
+        "load_sweeps": [
+          {
+            "rows": 10,
+            "total": 308,
+            "exact": 0,
+            "company_role": 0,
+            "more": true
+          },
+          {
+            "rows": 20,
+            "total": 308,
+            "exact": 0,
+            "company_role": 0,
+            "more": true
+          },
+          {
+            "rows": 40,
+            "total": 308,
+            "exact": 0,
+            "company_role": 0,
+            "more": true
+          },
+          {
+            "rows": 60,
+            "total": 308,
+            "exact": 0,
+            "company_role": 0,
+            "more": true
+          },
+          {
+            "rows": 80,
+            "total": 308,
+            "exact": 0,
+            "company_role": 0,
+            "more": true
+          },
+          {
+            "rows": 100,
+            "total": 308,
+            "exact": 0,
+            "company_role": 0,
+            "more": true
+          },
+          {
+            "rows": 120,
+            "total": 308,
+            "exact": 0,
+            "company_role": 0,
+            "more": true
+          },
+          {
+            "rows": 140,
+            "total": 308,
+            "exact": 0,
+            "company_role": 0,
+            "more": true
+          },
+          {
+            "rows": 160,
+            "total": 308,
+            "exact": 0,
+            "company_role": 0,
+            "more": true
+          },
+          {
+            "rows": 180,
+            "total": 308,
+            "exact": 0,
+            "company_role": 0,
+            "more": true
+          },
+          {
+            "rows": 200,
+            "total": 308,
+            "exact": 0,
+            "company_role": 0,
+            "more": true
+          },
+          {
+            "rows": 220,
+            "total": 308,
+            "exact": 0,
+            "company_role": 0,
+            "more": true
+          },
+          {
+            "rows": 240,
+            "total": 308,
+            "exact": 0,
+            "company_role": 0,
+            "more": true
+          },
+          {
+            "rows": 260,
+            "total": 308,
+            "exact": 0,
+            "company_role": 0,
+            "more": true
+          },
+          {
+            "rows": 280,
+            "total": 308,
+            "exact": 0,
+            "company_role": 0,
+            "more": true
+          },
+          {
+            "rows": 300,
+            "total": 308,
+            "exact": 0,
+            "company_role": 0,
+            "more": true
+          },
+          {
+            "rows": 308,
+            "total": 308,
+            "exact": 0,
+            "company_role": 0,
+            "more": false
+          }
+        ],
+        "generic_filename_before": "Yugal_Teotia_CV.pdf",
+        "generic_filename_after": "Yugal_Teotia_CV.pdf",
+        "expected_generic_filename": "Yugal_Teotia_CV.pdf",
+        "blocker": null
+      }
+    },
+    "linkedin": {
+      "status": "NoPending",
+      "pending": 0
+    }
+  },
+  "confirmed": [],
+  "new_claims": 0,
+  "tracker": {
+    "database_rows": 392,
+    "tracker_rows": 392,
+    "quick_rows": 43,
+    "detailed_rows": 392,
+    "quick": "views/quick.html",
+    "detailed": "views/detailed.html",
+    "status": {
+      "status_json": "views/status.json",
+      "applied": 28,
+      "needs_answer": 1,
+      "uncertain": 3
+    }
+  },
+  "notifications": [
+    {
+      "job_id": 390,
+      "sent": true
+    },
+    {
+      "job_id": 388,
+      "sent": true
+    }
+  ]
+}

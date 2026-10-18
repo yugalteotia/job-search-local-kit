@@ -1,0 +1,14 @@
+{
+  "recorded_at": "2026-10-13T15:36:34.276840+00:00",
+  "job_id": 339,
+  "requisition_id": "4470285110",
+  "attempt_id": "ecba38ff-14f5-4824-95c7-b058a651c86d",
+  "user_reports_confirmation_email_received": true,
+  "email_independently_inspected": false,
+  "email_exact_job_match": false,
+  "status": "Pending email artifact: no current mailbox access or fresh saved capture",
+  "application_proof_path": "jobs/linkedin-4470285110/linkedin-easy-apply-confirmation.json",
+  "application_remains_confirmed_and_locked": true,
+  "new_application_action": false,
+  "experience_discrepancy_unresolved": true
+}

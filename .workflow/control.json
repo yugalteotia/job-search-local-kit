@@ -1,0 +1,18 @@
+{
+  "paused": false,
+  "submission_enabled": true,
+  "schedule_enabled": true,
+  "scheduled_application_enabled": true,
+  "provider_modes": {
+    "naukri": {
+      "live": true,
+      "scheduled": true,
+      "max_submissions_per_run": 10
+    },
+    "linkedin": {
+      "live": true,
+      "scheduled": true,
+      "max_submissions_per_run": 10
+    }
+  }
+}

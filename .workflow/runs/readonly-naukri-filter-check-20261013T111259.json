@@ -1,0 +1,332 @@
+{
+  "run_id": "readonly-naukri-filter-check-20261013T111259",
+  "mode": "read_only",
+  "queries": 2,
+  "page_cap_per_query": 1,
+  "jd_cap": 6,
+  "search_pages": [
+    {
+      "query": "Java Spring Boot backend",
+      "location": "India",
+      "page": 1,
+      "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=India&pageNo=1",
+      "observed_url": "https://www.naukri.com/java-spring-boot-backend-jobs-in-india?jobAge=7&experience=2",
+      "checked_at": "2026-10-13T11:13:12.629805+00:00",
+      "status": "Success",
+      "visible_cards": 20,
+      "lead_count": 20,
+      "filters": {
+        "experience_label": "2",
+        "freshness_label": "Last 7 days",
+        "sort_label": "Date"
+      },
+      "rendered_search": {
+        "keywords": "java spring boot backend, ",
+        "location": "india, ",
+        "experience": "2 years",
+        "heading": "Java Spring Boot Backend Jobs In India"
+      },
+      "last_search_api_parameters": {
+        "keyword": [
+          "java spring boot backend"
+        ],
+        "location": [
+          "india"
+        ],
+        "experience": [
+          "2",
+          "2"
+        ],
+        "jobAge": [
+          "7",
+          "7"
+        ],
+        "sort": [
+          "f"
+        ]
+      },
+      "error_kind": null,
+      "extracted_exact_ids": [
+        "131026037104",
+        "131026037094",
+        "131026036885",
+        "131026036503",
+        "131026036420",
+        "131026036071",
+        "250926031761",
+        "131026035640",
+        "131026035562",
+        "081026020687",
+        "091026024941",
+        "131026034268",
+        "131026033026",
+        "131026031688",
+        "131026031456",
+        "230426029893",
+        "300726031043",
+        "280826012167",
+        "131026030749",
+        "131026030706"
+      ],
+      "retained_leads": 0,
+      "card_filter_exclusions": {
+        "no_relevant_title_or_generic_engineering_card_skills": 16,
+        "unrelated_bpo_data_entry_qa_role": 4
+      }
+    },
+    {
+      "query": "Java Backend Developer",
+      "location": "India",
+      "page": 1,
+      "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "observed_url": "https://www.naukri.com/java-backend-developer-jobs-in-india?jobAge=7&experience=3",
+      "checked_at": "2026-10-13T11:13:22.830354+00:00",
+      "status": "Success",
+      "visible_cards": 20,
+      "lead_count": 20,
+      "filters": {
+        "experience_label": "3",
+        "freshness_label": "Last 7 days",
+        "sort_label": "Date"
+      },
+      "rendered_search": {
+        "keywords": "java backend developer, ",
+        "location": "india, ",
+        "experience": "3 years",
+        "heading": "Java Backend Developer Jobs In India"
+      },
+      "last_search_api_parameters": {
+        "keyword": [
+          "java backend developer"
+        ],
+        "location": [
+          "india"
+        ],
+        "experience": [
+          "3",
+          "3"
+        ],
+        "jobAge": [
+          "7",
+          "7"
+        ],
+        "sort": [
+          "f"
+        ]
+      },
+      "error_kind": null,
+      "extracted_exact_ids": [
+        "131026037194",
+        "131026037104",
+        "131026036885",
+        "131026036420",
+        "131026023621",
+        "131026035640",
+        "081026050279",
+        "131026035562",
+        "131026034482",
+        "131026034128",
+        "131026033916",
+        "131026033061",
+        "131026033026",
+        "131026032965",
+        "131026031563",
+        "230426029893",
+        "300726031043",
+        "280826012167",
+        "131026030706",
+        "071026049368"
+      ],
+      "retained_leads": 3,
+      "card_filter_exclusions": {
+        "no_relevant_title_or_generic_engineering_card_skills": 16,
+        "unrelated_bpo_data_entry_qa_role": 1
+      }
+    }
+  ],
+  "raw_search_artifact": ".workflow/runs/readonly-naukri-filter-check-20261013T111259-naukri-search.json",
+  "unique_relevant_cards": 3,
+  "freshness_counts": {
+    "fresh": 0,
+    "recent": 0,
+    "unknown_date": 3,
+    "skipped_old": 0,
+    "repeat_skipped": 0,
+    "history_skipped": 0,
+    "unknown_date_deferred": 0
+  },
+  "freshness_skips": [],
+  "jd_inspection": {
+    "selected": 3,
+    "verified": 3,
+    "unverified": 0,
+    "verified_job_ids": [
+      335,
+      336,
+      337
+    ],
+    "results": [
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-senior-software-developer-mobile-web-backend-fintech-bisani-brothers-lucknow-mumbai-all-areas-3-to-4-years-131026034128",
+        "portal_job_id": "131026034128",
+        "title": "Senior Software Developer - Mobile, Web & Backend (Fintech)",
+        "employer": "Bisani Brothers",
+        "location": "Mumbai",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 3415,
+        "experience_evidence": "3 - 4 years",
+        "apply_visible": true,
+        "database_job_id": 335,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 0
+        },
+        "render_checks": 1,
+        "card_sha256": "9286e6a6537493c0173dd462a8aedcbce0d466588cbeffd9ae7b98c61e35ffc9",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "Just now"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-forward-deployed-software-engineer-hack-and-grow-consultancy-bengaluru-3-to-5-years-131026032965",
+        "portal_job_id": "131026032965",
+        "title": "Forward Deployed Software Engineer",
+        "employer": "Azentio Software",
+        "location": "Bengaluru",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 4986,
+        "experience_evidence": "3 - 5 years",
+        "apply_visible": true,
+        "database_job_id": 336,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 0
+        },
+        "render_checks": 1,
+        "card_sha256": "438028acf272e6b21755a777c382b3d61355182979faa838e78e52d8554768d1",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "Just now"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-forward-deployed-software-engineer-hack-and-grow-consultancy-bengaluru-3-to-5-years-131026033916",
+        "portal_job_id": "131026033916",
+        "title": "Forward Deployed Software Engineer",
+        "employer": "Azentio Software",
+        "location": "Bengaluru",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 5584,
+        "experience_evidence": "3 - 5 years",
+        "apply_visible": true,
+        "database_job_id": 337,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 0
+        },
+        "render_checks": 1,
+        "card_sha256": "efc45ea77ee784916dab5a7ce83c8faeb9bce63c833645cec36e81ce35422a59",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": "Just now"
+      }
+    ],
+    "selection_skips": []
+  },
+  "fit_outcomes": [
+    {
+      "job_id": 335,
+      "title": "Senior Software Developer - Mobile, Web & Backend (Fintech)",
+      "portal_job_id": "131026034128",
+      "fit": "NotEligible",
+      "eligible": false,
+      "reasons": [
+        "Title indicates a different seniority band: senior"
+      ]
+    },
+    {
+      "job_id": 336,
+      "title": "Forward Deployed Software Engineer",
+      "portal_job_id": "131026032965",
+      "fit": "NotEligible",
+      "eligible": false,
+      "reasons": [
+        "Spring Boot is not explicit in the JD body"
+      ]
+    },
+    {
+      "job_id": 337,
+      "title": "Forward Deployed Software Engineer",
+      "portal_job_id": "131026033916",
+      "fit": "NotEligible",
+      "eligible": false,
+      "reasons": [
+        "Required experience starts at 5 years"
+      ]
+    }
+  ],
+  "application_attempts": 0,
+  "uploads": 0,
+  "answers_sent": 0,
+  "dedupe_attempts_unchanged": true,
+  "search_error": null,
+  "saved_run_audit": {
+    "run_id": "c213c94b-b54f-4a0c-b572-54cc9520147c",
+    "observed_urls": [
+      "https://www.naukri.com/java-spring-boot-jobs-in-mumbai?jobAge=7&experience=2",
+      "https://www.naukri.com/java-spring-boot-backend-jobs-in-india?jobAge=7&experience=3"
+    ],
+    "old_first_query_location": "Mumbai; not all-India",
+    "old_keyword_loss_proven": false,
+    "saved_page_capture_type": "structured card/URL/filter JSON; prior UI keyword fields and search API parameters were not saved",
+    "fixed_selection_replay_not_historical_exclusion_proof": {
+      "selected_exact_ids": [
+        "131026034128"
+      ],
+      "individual_skips": [
+        {
+          "source": "naukri",
+          "portal_job_id": "081026050279",
+          "url": "https://www.naukri.com/job-listings-automation-testing-with-karate-api-chennai-2nd-round-ftf-hcltech-chengalpattu-chennai-3-to-8-years-081026050279",
+          "title": "Automation Testing with Karate API @ Chennai @ 2nd Round FTF",
+          "reason": "unrelated_bpo_data_entry_qa_role"
+        },
+        {
+          "source": "naukri",
+          "portal_job_id": "131026031456",
+          "url": "https://www.naukri.com/job-listings-walk-in-any-fresher-s-expr-backend-operations-data-entry-bpo-kpo-wisdom-bridge-consultants-ballari-hosur-bidar-devanahalli-hosakote-bangalore-rural-bengaluru-anekal-belagavi-0-to-3-years-131026031456",
+          "title": "Walk-in Any Fresher's/Expr- Backend Operations/Data Entry/Bpo/Kpo",
+          "reason": "unrelated_bpo_data_entry_qa_role"
+        },
+        {
+          "source": "naukri",
+          "portal_job_id": "131026034268",
+          "url": "https://www.naukri.com/job-listings-walk-in-any-fresher-s-expr-backend-operations-data-entry-bpo-kpo-wisdom-bridge-consultants-chitradurga-chikkaballapura-davanagere-harihar-dakshina-kannada-honnali-kollegal-hiriyur-chamarajanagar-0-to-3-years-131026034268",
+          "title": "Walk-in Any Fresher's/Expr- Backend Operations/Data Entry/Bpo/Kpo",
+          "reason": "unrelated_bpo_data_entry_qa_role"
+        },
+        {
+          "source": "naukri",
+          "portal_job_id": "131026036071",
+          "url": "https://www.naukri.com/job-listings-walk-in-any-fresher-s-expr-backend-operations-data-entry-bpo-kpo-wisdom-bridge-consultants-haveri-dharwad-hassan-kalburagi-hubballi-gadag-madikeri-kodagu-alur-0-to-3-years-131026036071",
+          "title": "Walk-in Any Fresher's/Expr- Backend Operations/Data Entry/Bpo/Kpo",
+          "reason": "unrelated_bpo_data_entry_qa_role"
+        }
+      ]
+    }
+  },
+  "focused_tests_passed": {
+    "card_filter_and_search_match": 3,
+    "portal_selection_and_refresh": 4,
+    "readonly_inspector": 2,
+    "freshness": 6
+  }
+}

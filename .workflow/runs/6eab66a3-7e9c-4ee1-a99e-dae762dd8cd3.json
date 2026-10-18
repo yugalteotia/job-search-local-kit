@@ -1,0 +1,593 @@
+{
+  "run_id": "6eab66a3-7e9c-4ee1-a99e-dae762dd8cd3",
+  "started_at": "2026-09-28T07:00:00.885110+00:00",
+  "mode": "read_only",
+  "upload_enabled": false,
+  "submission_enabled": false,
+  "scheduled": true,
+  "test": false,
+  "status": "Partial",
+  "sources": {
+    "naukri": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-09-28T07:00:15.275041+00:00",
+      "pages_checked": 6,
+      "leads": 18,
+      "feed_jobs": 0
+    },
+    "linkedin": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-09-28T07:00:47.874157+00:00",
+      "pages_checked": 6,
+      "leads": 41,
+      "feed_jobs": 0
+    },
+    "indeed": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-09-28T07:00:54.932263+00:00",
+      "pages_checked": 6,
+      "leads": 70,
+      "feed_jobs": 0
+    },
+    "foundit": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-09-28T07:00:58.852038+00:00",
+      "pages_checked": 6,
+      "leads": 102,
+      "feed_jobs": 0
+    },
+    "celonis_greenhouse": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T07:00:58.855996+00:00",
+      "pages_checked": 1,
+      "leads": 0,
+      "feed_jobs": 100,
+      "unique_originals_verified": 5
+    },
+    "brillio_lever": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-09-28T07:00:54.932400+00:00",
+      "pages_checked": 3,
+      "leads": 0,
+      "feed_jobs": 210,
+      "unique_originals_verified": 7
+    },
+    "cutshort": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-09-28T07:01:08.661196+00:00",
+      "pages_checked": 4,
+      "leads": 120,
+      "feed_jobs": 0
+    }
+  },
+  "coverage": {
+    "naukri": [
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Pune",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Spring%20Boot%20software%20engineer&l=Pune&pageNo=1",
+        "checked_at": "2026-09-28T07:00:04.974512+00:00",
+        "status": "Success",
+        "lead_count": 3,
+        "observed_url": "https://www.naukri.com/spring-boot-software-engineer-jobs-in-pune",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Pune",
+        "page": 2,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Spring%20Boot%20software%20engineer&l=Pune&pageNo=2",
+        "checked_at": "2026-09-28T07:00:06.918663+00:00",
+        "status": "Success",
+        "lead_count": 3,
+        "observed_url": "https://www.naukri.com/java-jobs-in-india",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Bengaluru",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=Bengaluru&pageNo=1",
+        "checked_at": "2026-09-28T07:00:09.009087+00:00",
+        "status": "Success",
+        "lead_count": 3,
+        "observed_url": "https://www.naukri.com/java-spring-boot-backend-jobs-in-bengaluru",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Bengaluru",
+        "page": 2,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=Bengaluru&pageNo=2",
+        "checked_at": "2026-09-28T07:00:11.700923+00:00",
+        "status": "Success",
+        "lead_count": 3,
+        "observed_url": "https://www.naukri.com/java-jobs-in-india",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java backend API",
+        "location": "Hyderabad",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20backend%20API&l=Hyderabad&pageNo=1",
+        "checked_at": "2026-09-28T07:00:13.377975+00:00",
+        "status": "Success",
+        "lead_count": 3,
+        "observed_url": "https://www.naukri.com/java-jobs-in-india",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java backend API",
+        "location": "Hyderabad",
+        "page": 2,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20backend%20API&l=Hyderabad&pageNo=2",
+        "checked_at": "2026-09-28T07:00:15.243198+00:00",
+        "status": "Success",
+        "lead_count": 3,
+        "observed_url": "https://www.naukri.com/java-backend-api-jobs-in-hyderabad-2",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "linkedin": [
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Pune",
+        "page": 1,
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Spring%20Boot%20software%20engineer&location=Pune&sortBy=DD&start=0",
+        "checked_at": "2026-09-28T07:00:11.846281+00:00",
+        "status": "Success",
+        "lead_count": 7,
+        "observed_url": "https://www.linkedin.com/jobs/search/",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Pune",
+        "page": 2,
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Spring%20Boot%20software%20engineer&location=Pune&sortBy=DD&start=25",
+        "checked_at": "2026-09-28T07:00:18.832501+00:00",
+        "status": "Success",
+        "lead_count": 7,
+        "observed_url": "https://www.linkedin.com/jobs/search/",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Bengaluru",
+        "page": 1,
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Spring%20Boot%20backend&location=Bengaluru&sortBy=DD&start=0",
+        "checked_at": "2026-09-28T07:00:26.835535+00:00",
+        "status": "Success",
+        "lead_count": 7,
+        "observed_url": "https://www.linkedin.com/jobs/search/",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Bengaluru",
+        "page": 2,
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Spring%20Boot%20backend&location=Bengaluru&sortBy=DD&start=25",
+        "checked_at": "2026-09-28T07:00:33.831245+00:00",
+        "status": "Success",
+        "lead_count": 7,
+        "observed_url": "https://www.linkedin.com/jobs/search/",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java backend API",
+        "location": "Hyderabad",
+        "page": 1,
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20backend%20API&location=Hyderabad&sortBy=DD&start=0",
+        "checked_at": "2026-09-28T07:00:41.838811+00:00",
+        "status": "Success",
+        "lead_count": 7,
+        "observed_url": "https://www.linkedin.com/jobs/search/",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java backend API",
+        "location": "Hyderabad",
+        "page": 2,
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20backend%20API&location=Hyderabad&sortBy=DD&start=25",
+        "checked_at": "2026-09-28T07:00:47.842397+00:00",
+        "status": "Success",
+        "lead_count": 6,
+        "observed_url": "https://www.linkedin.com/jobs/search/",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "indeed": [
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Pune",
+        "page": 1,
+        "url": "https://in.indeed.com/jobs?q=Spring%20Boot%20software%20engineer&l=Pune&sort=date&start=0",
+        "checked_at": "2026-09-28T07:00:21.658756+00:00",
+        "status": "Success",
+        "lead_count": 12,
+        "observed_url": "https://in.indeed.com/jobs",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Pune",
+        "page": 2,
+        "url": "https://in.indeed.com/jobs?q=Spring%20Boot%20software%20engineer&l=Pune&sort=date&start=25",
+        "checked_at": "2026-09-28T07:00:24.461384+00:00",
+        "status": "Success",
+        "lead_count": 12,
+        "observed_url": "https://in.indeed.com/jobs",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Bengaluru",
+        "page": 1,
+        "url": "https://in.indeed.com/jobs?q=Java%20Spring%20Boot%20backend&l=Bengaluru&sort=date&start=0",
+        "checked_at": "2026-09-28T07:00:32.136628+00:00",
+        "status": "Success",
+        "lead_count": 12,
+        "observed_url": "https://in.indeed.com/jobs",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Bengaluru",
+        "page": 2,
+        "url": "https://in.indeed.com/jobs?q=Java%20Spring%20Boot%20backend&l=Bengaluru&sort=date&start=25",
+        "checked_at": "2026-09-28T07:00:39.742986+00:00",
+        "status": "Success",
+        "lead_count": 13,
+        "observed_url": "https://in.indeed.com/jobs",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java backend API",
+        "location": "Hyderabad",
+        "page": 1,
+        "url": "https://in.indeed.com/jobs?q=Java%20backend%20API&l=Hyderabad&sort=date&start=0",
+        "checked_at": "2026-09-28T07:00:47.082337+00:00",
+        "status": "Success",
+        "lead_count": 11,
+        "observed_url": "https://in.indeed.com/jobs",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java backend API",
+        "location": "Hyderabad",
+        "page": 2,
+        "url": "https://in.indeed.com/jobs?q=Java%20backend%20API&l=Hyderabad&sort=date&start=25",
+        "checked_at": "2026-09-28T07:00:54.899127+00:00",
+        "status": "Success",
+        "lead_count": 10,
+        "observed_url": "https://in.indeed.com/jobs",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "foundit": [
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Pune",
+        "page": 1,
+        "url": "https://www.foundit.in/srp/results?query=Spring%20Boot%20software%20engineer&locations=Pune&page=1",
+        "checked_at": "2026-09-28T07:00:11.922539+00:00",
+        "status": "Success",
+        "lead_count": 17,
+        "observed_url": "https://www.foundit.in/srp/results",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Pune",
+        "page": 2,
+        "url": "https://www.foundit.in/srp/results?query=Spring%20Boot%20software%20engineer&locations=Pune&page=2",
+        "checked_at": "2026-09-28T07:00:21.838037+00:00",
+        "status": "Success",
+        "lead_count": 17,
+        "observed_url": "https://www.foundit.in/srp/results",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Bengaluru",
+        "page": 1,
+        "url": "https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Bengaluru&page=1",
+        "checked_at": "2026-09-28T07:00:33.846172+00:00",
+        "status": "Success",
+        "lead_count": 17,
+        "observed_url": "https://www.foundit.in/srp/results",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Bengaluru",
+        "page": 2,
+        "url": "https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Bengaluru&page=2",
+        "checked_at": "2026-09-28T07:00:41.837281+00:00",
+        "status": "Success",
+        "lead_count": 17,
+        "observed_url": "https://www.foundit.in/srp/results",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java backend API",
+        "location": "Hyderabad",
+        "page": 1,
+        "url": "https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Hyderabad&page=1",
+        "checked_at": "2026-09-28T07:00:48.842662+00:00",
+        "status": "Success",
+        "lead_count": 17,
+        "observed_url": "https://www.foundit.in/srp/results",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java backend API",
+        "location": "Hyderabad",
+        "page": 2,
+        "url": "https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Hyderabad&page=2",
+        "checked_at": "2026-09-28T07:00:58.836516+00:00",
+        "status": "Success",
+        "lead_count": 17,
+        "observed_url": "https://www.foundit.in/srp/results",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "celonis_greenhouse": [
+      {
+        "page": 1,
+        "url": "https://boards-api.greenhouse.io/v1/boards/celonis/jobs?content=true",
+        "items": 100,
+        "total_returned": 253,
+        "checked_at": "2026-09-28T07:01:00.274208+00:00",
+        "status": "Partial"
+      }
+    ],
+    "brillio_lever": [
+      {
+        "page": 1,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=0&limit=100&mode=json",
+        "items": 100,
+        "checked_at": "2026-09-28T07:00:57.713034+00:00",
+        "status": "Success"
+      },
+      {
+        "page": 2,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=100&limit=100&mode=json",
+        "items": 100,
+        "checked_at": "2026-09-28T07:01:02.057932+00:00",
+        "status": "Success"
+      },
+      {
+        "page": 3,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=200&limit=100&mode=json",
+        "items": 13,
+        "checked_at": "2026-09-28T07:01:03.950937+00:00",
+        "status": "Success"
+      }
+    ],
+    "cutshort": [
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Pune",
+        "page": 1,
+        "url": "https://cutshort.io/jobs/java-jobs?query=Spring%20Boot%20software%20engineer&location=Pune&page=1",
+        "checked_at": "2026-09-28T07:00:53.483168+00:00",
+        "status": "Success",
+        "lead_count": 30,
+        "observed_url": "https://cutshort.io/jobs/java-jobs",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Pune",
+        "page": 2,
+        "url": "https://cutshort.io/jobs/java-jobs?query=Spring%20Boot%20software%20engineer&location=Pune&page=2",
+        "checked_at": "2026-09-28T07:00:56.166586+00:00",
+        "status": "Success",
+        "lead_count": 30,
+        "observed_url": "https://cutshort.io/jobs/java-jobs",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Bengaluru",
+        "page": 1,
+        "url": "https://cutshort.io/jobs/java-jobs?query=Java%20Spring%20Boot%20backend&location=Bengaluru&page=1",
+        "checked_at": "2026-09-28T07:01:05.092730+00:00",
+        "status": "Success",
+        "lead_count": 30,
+        "observed_url": "https://cutshort.io/jobs/java-jobs",
+        "sort": "Configured newest route where available"
+      },
+      {
+        "query": "Java Spring Boot backend",
+        "location": "Bengaluru",
+        "page": 2,
+        "url": "https://cutshort.io/jobs/java-jobs?query=Java%20Spring%20Boot%20backend&location=Bengaluru&page=2",
+        "checked_at": "2026-09-28T07:01:08.629509+00:00",
+        "status": "Success",
+        "lead_count": 30,
+        "observed_url": "https://cutshort.io/jobs/java-jobs",
+        "sort": "Configured newest route where available"
+      }
+    ]
+  },
+  "leads": 661,
+  "unique_original_requisitions_verified": 12,
+  "fit_decisions": {
+    "186": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "187": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "188": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "189": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "190": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "191": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    }
+  },
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/6eab66a3-7e9c-4ee1-a99e-dae762dd8cd3.json"
+  ],
+  "queue": {},
+  "stage_seconds": {
+    "discovery": 67.77,
+    "original_verification": 3.01,
+    "lead_resolution": 59.31,
+    "fit_review": 0.08
+  },
+  "stage_counts": {
+    "normalized_unique_ats": 310,
+    "selected_for_original_check": 12,
+    "fetched": 661,
+    "unique_portal_leads": 100,
+    "unique_original_requisitions": 12,
+    "eligible_for_review": 5,
+    "original_jds_reviewed": 0,
+    "high": 0,
+    "queued_for_resume": 0,
+    "review_queue_added": 0,
+    "portal_originals_matched": 0,
+    "portal_leads_still_needing_original": 49
+  },
+  "top_reviewed": [],
+  "lead_resolution": {
+    "navigation_links_reclassified": 62,
+    "portal_jobs_inspected": 10,
+    "originals_matched": 0,
+    "needs_original": 49,
+    "by_source": {
+      "naukri": {
+        "needs_original": 0,
+        "not_a_job": 3
+      },
+      "linkedin": {
+        "needs_original": 45,
+        "not_a_job": 0
+      },
+      "foundit": {
+        "needs_original": 0,
+        "not_a_job": 16
+      },
+      "indeed": {
+        "needs_original": 4,
+        "not_a_job": 13
+      },
+      "cutshort": {
+        "needs_original": 0,
+        "not_a_job": 30
+      }
+    },
+    "results": [
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4472703097/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4472700210/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4470841402/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4472701171/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4470833694/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4472481982/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4470834604/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4471320628/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4471316811/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4471311934/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      }
+    ]
+  },
+  "review_coverage": {
+    "by_source": {},
+    "by_company": {}
+  },
+  "finished_at": "2026-09-28T07:02:11.743574+00:00",
+  "elapsed_seconds": 130.86
+}

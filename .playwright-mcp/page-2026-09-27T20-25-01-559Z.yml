@@ -1,0 +1,116 @@
+- generic [ref=f6e1]:
+  - link "Go to the main content section." [ref=f6e2] [cursor=pointer]:
+    - /url: "#mainContent"
+  - text:     
+  - generic [ref=f6e3]:
+    - generic [ref=f6e8]:
+      - generic:
+        - textbox [ref=f6e9]
+        - button ""
+      - generic [ref=f6e11]:
+        - link [ref=f6e13] [cursor=pointer]:
+          - /url: https://careers.unitedhealthgroup.com/
+          - img "UHG Logo" [ref=f6e14]
+        - generic [ref=f6e15]:
+          - list [ref=f6e17]:
+            - listitem [ref=f6e18]:
+              - link "My Profile" [ref=f6e19] [cursor=pointer]:
+                - /url: https://uhg.taleo.net/careersection/10000/profile.ftl?lang=en
+            - listitem [ref=f6e20]:
+              - link "Join Our Talent Community" [ref=f6e21] [cursor=pointer]:
+                - /url: https://www.unitedhealthgroup.com/careers/en/hiring-process/join-our-talent-community.html
+            - listitem [ref=f6e22]:
+              - link "My Dashboard" [ref=f6e23] [cursor=pointer]:
+                - /url: https://uhg.taleo.net/careersection/10000/mysubmissions.ftl?lang=en
+          - list [ref=f6e25]:
+            - listitem [ref=f6e26]:
+              - link "Work Here" [ref=f6e27] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/work.html
+            - listitem [ref=f6e28]:
+              - link "Our Culture" [ref=f6e29] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/culture.html
+            - listitem [ref=f6e30]:
+              - link "Hiring Process & Guidance" [ref=f6e31] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/hiring-process.html
+            - listitem [ref=f6e32]:
+              - link "Early Careers" [ref=f6e33] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/early-careers.html
+            - listitem [ref=f6e34]:
+              - link "Blog" [ref=f6e35] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/blog.html
+    - generic [ref=f6e36]: Improve the lives of others while Caring. Connecting. Growing together.
+    - generic [ref=f6e41]:
+      - generic [ref=f6e43]:
+        - generic [ref=f6e44]:
+          - generic [ref=f6e45]: Welcome. You are not signed in.
+          - generic [aria-hidden] [ref=f6e48]: "|"
+        - list [ref=f6e49]:
+          - listitem [ref=f6e50]:
+            - generic:
+              - link "Go to the section":
+                - /url: "#"
+      - generic [ref=f6e51]:
+        - link "Beginning of the main content section." [ref=f6e52] [cursor=pointer]:
+          - /url: "#"
+        - generic [ref=f6e53]:
+          - heading "Create a User Name and Password" [level=1] [ref=f6e56]
+          - generic [ref=f6e58]:
+            - paragraph [ref=f6e59]: The email address provided (teotia.yugal@gmail.com) already exists and cannot be used to create a guest submission.
+            - paragraph [ref=f6e61]: To apply using this email address, create a username and password.
+            - paragraph [ref=f6e63]: Please click Send Email to receive a link and instructions.
+            - paragraph [ref=f6e65]: The new username and password will be added to your existing record. You will then be able to access this submission.
+            - generic [ref=f6e67]:
+              - button "Send Email" [ref=f6e68] [cursor=pointer]
+              - button "Cancel" [ref=f6e69] [cursor=pointer]
+    - generic [ref=f6e71]:
+      - generic [ref=f6e74]:
+        - generic [ref=f6e75]:
+          - list [ref=f6e77]:
+            - listitem [ref=f6e78]:
+              - link "" [ref=f6e79] [cursor=pointer]:
+                - /url: http://facebook.com/uhgcareers
+            - listitem [ref=f6e81]:
+              - link "" [ref=f6e82] [cursor=pointer]:
+                - /url: https://www.instagram.com/uhgcareers/
+            - listitem [ref=f6e84]:
+              - link "" [ref=f6e85] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/1720
+            - listitem [ref=f6e87]:
+              - link [ref=f6e88] [cursor=pointer]:
+                - /url: http://twitter.com/uhgcareers
+                - img "Twitter" [ref=f6e89]
+            - listitem [ref=f6e90]:
+              - link "" [ref=f6e91] [cursor=pointer]:
+                - /url: http://www.youtube.com/user/uhgcareers
+            - listitem [ref=f6e93]:
+              - link "" [ref=f6e94] [cursor=pointer]:
+                - /url: http://www.glassdoor.com/Overview/Working-at-UnitedHealth-Group-EI_IE1991.11,29.htm
+            - listitem [ref=f6e96]:
+              - link "" [ref=f6e97] [cursor=pointer]:
+                - /url: https://careers.unitedhealthgroup.com/blog
+          - generic [ref=f6e99]:
+            - link "Social Responsibility" [ref=f6e102] [cursor=pointer]:
+              - /url: "#popup1"
+            - link "Fraudulent Activity" [ref=f6e105] [cursor=pointer]:
+              - /url: "#popup2"
+        - generic [ref=f6e106]:
+          - paragraph [ref=f6e107]:
+            - link "Privacy Policy" [ref=f6e108] [cursor=pointer]:
+              - /url: https://www.unitedhealthgroup.com/privacy.html
+            - link "Family & Medical Leave Act (PDF)" [ref=f6e109] [cursor=pointer]:
+              - /url: http://www.dol.gov/whd/regs/compliance/posters/fmlaen.pdf
+            - link "Equal Employment Law Poster (PDF)" [ref=f6e110] [cursor=pointer]:
+              - /url: http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf
+            - link "Pay Transparency Employee Polygraph Protection Act (PDF)" [ref=f6e111] [cursor=pointer]:
+              - /url: https://cdn-static.findly.com/wp-content/uploads/sites/1288/2020/10/PayTransparencySupplementNondiscrimRev2017.pdf
+            - link "E-Verify Participation Poster" [ref=f6e112] [cursor=pointer]:
+              - /url: https://cdn-static.findly.com/wp-content/uploads/sites/1288/2020/10/E-Verify_Participation_Poster.pdf
+            - link "Immigrant and Employee Right to Work Poster" [ref=f6e113] [cursor=pointer]:
+              - /url: https://careers.unitedhealthgroup.com/-/media/9EB3C61FAAD54205BCE70F65D03E6628.ashx
+          - paragraph [ref=f6e114]: © 2023 UnitedHealth Group, All rights reserved.
+          - paragraph [ref=f6e115]: UnitedHealth Group is committed to working with and providing reasonable accommodations to individuals with physical and mental disabilities. If you need special assistance or accommodation for any part of the application process, please call 1-866-566-8715 to be connected to Recruitment Services. Recruitment Services hours of operation are 7 a.m. to 7 p.m. CT, Monday through Friday.
+          - paragraph [ref=f6e116]: UnitedHealth Group is a registered service mark of UnitedHealth Group, Inc. The UnitedHealth Group name with the dimensional logo, as well as the dimensional logo alone, are both service marks for the UnitedHealth Group, Inc.
+          - paragraph [ref=f6e117]: "Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law."
+          - paragraph [ref=f6e118]: UnitedHealth Group is a drug-free workplace. Candidates are required to pass a drug test before beginning employment.
+      - link "Top" [ref=f6e119] [cursor=pointer]:
+        - /url: "#"

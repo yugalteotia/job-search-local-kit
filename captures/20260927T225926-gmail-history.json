@@ -1,0 +1,17 @@
+{
+  "checked_at": "2026-09-27T23:08:00Z",
+  "source": "Recent Gmail search result metadata only; messages not opened",
+  "search_url": "https://mail.google.com/mail/u/0/#search/%7Bjob+application+job+alert%7D+newer_than%3A3d",
+  "records": [
+    {"company":"VOIS", "role":null, "requisition_id":null, "date":"2026-09-26", "kind":"application_acknowledgment", "subject":"Track your VOIS Careers application", "evidence":"captures/20260927T225926-gmail-history.json"},
+    {"company":"Mphasis", "role":"Java Software Engineer", "requisition_id":null, "date":"2026-09-27", "kind":"application_acknowledgment", "subject":"Your application to Java Software Engineer at Mphasis", "evidence":"captures/20260927T225926-gmail-history.json"},
+    {"company":"GC Technologies Pvt Ltd", "role":null, "requisition_id":null, "date":"2026-09-27", "kind":"application_acknowledgment", "subject":"Your application was sent to GC Technologies Pvt Ltd", "evidence":"captures/20260927T225926-gmail-history.json"},
+    {"company":"Siemens", "role":null, "requisition_id":null, "date":"2026-09-25", "kind":"application_acknowledgment", "subject":"Thanks for your application", "evidence":"captures/20260927T225926-gmail-history.json"},
+    {"company":"Praxas AI", "role":"Senior Software Engineer", "requisition_id":null, "date":"2026-09-27", "kind":"application_acknowledgment", "subject":"Your application to Senior Software Engineer at Praxas AI", "evidence":"captures/20260927T225926-gmail-history.json"},
+    {"company":"UnitedHealth Group (Optum)", "role":"Software Engineer - Java Fullstack", "requisition_id":"2388999", "date":"2026-09-28", "kind":"application_acknowledgment", "subject":"Software Engineer - Java Fullstack 2388999 at UnitedHealth Group", "evidence":"captures/20260927T225926-gmail-history.json"},
+    {"company":"TechDoQuest", "role":"Java Backend Developer", "requisition_id":null, "date":"2026-09-27", "kind":"application_acknowledgment", "subject":"Your application to Java Backend Developer at TechDoQuest", "evidence":"captures/20260927T225926-gmail-history.json"},
+    {"company":"Vodafone", "role":null, "requisition_id":null, "date":"2026-09-26", "kind":"alert", "subject":"Here's a Vodafone job match for you", "evidence":"captures/20260927T225926-gmail-history.json"},
+    {"company":"Tata Consultancy Services", "role":"Java Developer", "requisition_id":null, "date":"2026-09-27", "kind":"application_acknowledgment", "subject":"Your application to Java Developer at Tata Consultancy Services", "evidence":"captures/20260927T225926-gmail-history.json"}
+  ],
+  "coverage": {"Gmail":"Nine relevant visible metadata entries reviewed. No messages opened; requisition identity missing for all new historical applications, so no tracker import or application-state inference.", "Naukri":"Visible notification panel checked; job recommendations and an application resume view observed, without a requisition identifier."}
+}

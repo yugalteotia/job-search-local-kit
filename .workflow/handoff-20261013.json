@@ -1,0 +1,84 @@
+{
+  "at": "2026-10-13T06:30:09.638346+00:00",
+  "manual_live": true,
+  "scheduled_live": true,
+  "paused": false,
+  "run_lock_held": false,
+  "restore_pending": false,
+  "portal_apply_lanes": {
+    "naukri": true,
+    "linkedin": false,
+    "foundit": false,
+    "indeed": false,
+    "cutshort": false,
+    "ats": false
+  },
+  "states": {
+    "Applied": 5,
+    "Closed": 2,
+    "Excluded": 2,
+    "Rejected": 1,
+    "Shortlisted": 12,
+    "SubmissionUnconfirmed": 3,
+    "Verified": 309
+  },
+  "known_records": [
+    {
+      "id": 9,
+      "requisition_id": "2388999",
+      "state": "Rejected",
+      "attempt_state": null
+    },
+    {
+      "id": 202,
+      "requisition_id": "110826000033",
+      "state": "Applied",
+      "attempt_state": null
+    },
+    {
+      "id": 203,
+      "requisition_id": "250926037784",
+      "state": "Applied",
+      "attempt_state": "confirmed"
+    },
+    {
+      "id": 220,
+      "requisition_id": "190826038395",
+      "state": "SubmissionUnconfirmed",
+      "attempt_state": "uncertain"
+    },
+    {
+      "id": 241,
+      "requisition_id": "280926023134",
+      "state": "SubmissionUnconfirmed",
+      "attempt_state": "uncertain"
+    },
+    {
+      "id": 244,
+      "requisition_id": "070926003879",
+      "state": "Applied",
+      "attempt_state": "confirmed"
+    },
+    {
+      "id": 250,
+      "requisition_id": "160926009207",
+      "state": "SubmissionUnconfirmed",
+      "attempt_state": "uncertain"
+    },
+    {
+      "id": 266,
+      "requisition_id": "290926917619",
+      "state": "Applied",
+      "attempt_state": null
+    },
+    {
+      "id": 314,
+      "requisition_id": "280926032117",
+      "state": "Applied",
+      "attempt_state": "confirmed"
+    }
+  ],
+  "systemd_timer": "NextElapseUSecRealtime=Tue 2026-10-13 12:30:00 IST\nActiveState=active\nUnitFileState=enabled\n",
+  "systemd_service": "Result=success\nExecStart={ path=/usr/bin/python3 ; argv[]=/usr/bin/python3 /home/yugal/Documents/job-search/job-search-local-kit/workflow daily --scheduled --sources naukri --fresh-only --review-limit 10 --page-cap 1 --query-cap 2 --max-seconds 1800 ; ignore_errors=no ; start_time=[n/a] ; stop_time=[n/a] ; pid=0 ; code=(null) ; status=0/0 }\nActiveState=inactive\n",
+  "unattended_scheduled_application_confirmed": false
+}

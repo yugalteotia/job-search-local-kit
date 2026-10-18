@@ -1,0 +1,684 @@
+{
+  "pages": [
+    {
+      "query": "Java Spring Boot backend",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Spring%20Boot%20backend&location=India&sortBy=DD&f_AL=true&f_TPR=r604800&f_E=2%2C3&start=0",
+      "observed_url": "https://www.linkedin.com/jobs/search/?currentJobId=4479650875&f_AL=true&f_E=2%2C3&f_TPR=r604800&keywords=Java%20Spring%20Boot%20backend&location=India&sortBy=DD",
+      "visible_cards": 32,
+      "lead_count": 25,
+      "retained_leads": 2,
+      "card_filter_exclusions": {
+        "no_relevant_title_or_generic_engineering_card_skills": 23
+      },
+      "filters": {
+        "easy_apply": true,
+        "location": "India",
+        "experience_levels": [
+          "Entry level",
+          "Associate"
+        ],
+        "posting_window": "last 7 days",
+        "sort": "newest"
+      },
+      "checked_at": "2026-10-17T15:01:03.063688+00:00",
+      "status": "Success"
+    },
+    {
+      "query": "Java Backend Developer",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Backend%20Developer&location=India&sortBy=DD&f_AL=true&f_TPR=r604800&f_E=2%2C3&start=0",
+      "observed_url": "https://www.linkedin.com/jobs/search/?currentJobId=4479650875&f_AL=true&f_E=2%2C3&f_TPR=r604800&keywords=Java%20Backend%20Developer&location=India&sortBy=DD",
+      "visible_cards": 32,
+      "lead_count": 25,
+      "retained_leads": 4,
+      "card_filter_exclusions": {
+        "no_relevant_title_or_generic_engineering_card_skills": 21
+      },
+      "filters": {
+        "easy_apply": true,
+        "location": "India",
+        "experience_levels": [
+          "Entry level",
+          "Associate"
+        ],
+        "posting_window": "last 7 days",
+        "sort": "newest"
+      },
+      "checked_at": "2026-10-17T15:01:11.323859+00:00",
+      "status": "Success"
+    }
+  ],
+  "cards": [
+    {
+      "portal_job_id": "4479667509",
+      "url": "https://www.linkedin.com/jobs/view/4479667509/",
+      "title": "Software Engineer/Software Programmer- ASP.Net Core, Vue.JS, MongoDB",
+      "employer": "Kott Software Pvt.Ltd",
+      "card_location": "",
+      "card_excerpt": "Software Engineer/Software Programmer- ASP.Net Core, Vue.JS, MongoDB\nSoftware Engineer/Software Programmer- ASP.Net Core, Vue.JS, MongoDB with verification\nKott Software Pvt.Ltd\nErnakulam, Kerala, India (On-site)\n1 school alum works here\n1 Centre for Development of Advanced Computing (C-DAC) school alum works here\n8 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-17",
+      "posted_text": "8 hours ago\nWithin the past 24 hours",
+      "keyword_search_candidate": true,
+      "source": "linkedin",
+      "search_page_url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Spring%20Boot%20backend&location=India&sortBy=DD&f_AL=true&f_TPR=r604800&f_E=2%2C3&start=0"
+    },
+    {
+      "portal_job_id": "4479656603",
+      "url": "https://www.linkedin.com/jobs/view/4479656603/",
+      "title": "AI Backend Engineer",
+      "employer": "techolution",
+      "card_location": "",
+      "card_excerpt": "AI Backend Engineer\nAI Backend Engineer with verification\ntecholution\nIndia (Remote)\n8 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-17",
+      "posted_text": "8 hours ago\nWithin the past 24 hours",
+      "source": "linkedin",
+      "search_page_url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Spring%20Boot%20backend&location=India&sortBy=DD&f_AL=true&f_TPR=r604800&f_E=2%2C3&start=0"
+    },
+    {
+      "portal_job_id": "4479688231",
+      "url": "https://www.linkedin.com/jobs/view/4479688231/",
+      "title": "urgently Required Software Engineer for Shastri Nagar,Jodhpur - ( Job ID - 24512)",
+      "employer": "EH Jobs",
+      "card_location": "",
+      "card_excerpt": "urgently Required Software Engineer for Shastri Nagar,Jodhpur - ( Job ID - 24512)\nurgently Required Software Engineer for Shastri Nagar,Jodhpur - ( Job ID - 24512)\nEH Jobs\nJodhpur, Rajasthan, India (On-site)\n8 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-17",
+      "posted_text": "8 hours ago\nWithin the past 24 hours",
+      "keyword_search_candidate": true,
+      "source": "linkedin",
+      "search_page_url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Backend%20Developer&location=India&sortBy=DD&f_AL=true&f_TPR=r604800&f_E=2%2C3&start=0"
+    },
+    {
+      "portal_job_id": "4479667509",
+      "url": "https://www.linkedin.com/jobs/view/4479667509/",
+      "title": "Software Engineer/Software Programmer- ASP.Net Core, Vue.JS, MongoDB",
+      "employer": "Kott Software Pvt.Ltd",
+      "card_location": "",
+      "card_excerpt": "Software Engineer/Software Programmer- ASP.Net Core, Vue.JS, MongoDB\nSoftware Engineer/Software Programmer- ASP.Net Core, Vue.JS, MongoDB with verification\nKott Software Pvt.Ltd\nErnakulam, Kerala, India (On-site)\n1 school alum works here\n1 Centre for Development of Advanced Computing (C-DAC) school alum works here\n8 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-17",
+      "posted_text": "8 hours ago\nWithin the past 24 hours",
+      "keyword_search_candidate": true,
+      "source": "linkedin",
+      "search_page_url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Backend%20Developer&location=India&sortBy=DD&f_AL=true&f_TPR=r604800&f_E=2%2C3&start=0"
+    },
+    {
+      "portal_job_id": "4479656603",
+      "url": "https://www.linkedin.com/jobs/view/4479656603/",
+      "title": "AI Backend Engineer",
+      "employer": "techolution",
+      "card_location": "",
+      "card_excerpt": "AI Backend Engineer\nAI Backend Engineer with verification\ntecholution\nIndia (Remote)\n8 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-17",
+      "posted_text": "8 hours ago\nWithin the past 24 hours",
+      "source": "linkedin",
+      "search_page_url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Backend%20Developer&location=India&sortBy=DD&f_AL=true&f_TPR=r604800&f_E=2%2C3&start=0"
+    },
+    {
+      "portal_job_id": "4480803613",
+      "url": "https://www.linkedin.com/jobs/view/4480803613/",
+      "title": "Java developer",
+      "employer": "VySystems",
+      "card_location": "",
+      "card_excerpt": "Java developer\nJava developer with verification\nVySystems\nMumbai, Maharashtra, India (On-site)\n15 INR/yr - 20 INR/yr\n9 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-17",
+      "posted_text": "9 hours ago\nWithin the past 24 hours",
+      "source": "linkedin",
+      "search_page_url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Backend%20Developer&location=India&sortBy=DD&f_AL=true&f_TPR=r604800&f_E=2%2C3&start=0"
+    }
+  ],
+  "raw_cards": [
+    {
+      "portal_job_id": "4479650875",
+      "url": "https://www.linkedin.com/jobs/view/4479650875/",
+      "title": "Full Stack Developer",
+      "employer": "Yamaha Motor Private Limited",
+      "card_location": "",
+      "card_excerpt": "Full Stack Developer\nFull Stack Developer\nYamaha Motor Private Limited\nGreater Coimbatore Area (On-site)\nViewed\nEasy Apply",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4477780575",
+      "url": "https://www.linkedin.com/jobs/view/4477780575/",
+      "title": "developer",
+      "employer": "siliconpin",
+      "card_location": "",
+      "card_excerpt": "developer\ndeveloper\nsiliconpin\nHabra, West Bengal, India (On-site)\n20 minutes ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-17",
+      "posted_text": "20 minutes ago\nWithin the past 24 hours",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479682533",
+      "url": "https://www.linkedin.com/jobs/view/4479682533/",
+      "title": "Technical Lead",
+      "employer": "Talentgigs",
+      "card_location": "",
+      "card_excerpt": "Technical Lead\nTechnical Lead with verification\nTalentgigs\nHyderabad, Telangana, India (Hybrid)\n1 hour ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-17",
+      "posted_text": "1 hour ago\nWithin the past 24 hours",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4468080990",
+      "url": "https://www.linkedin.com/jobs/view/4468080990/",
+      "title": "Project Manager",
+      "employer": "Flow Interio Private Limited",
+      "card_location": "",
+      "card_excerpt": "Project Manager\nProject Manager\nFlow Interio Private Limited\nHyderabad, Telangana, India (On-site)\n2 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-17",
+      "posted_text": "2 hours ago\nWithin the past 24 hours",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479670540",
+      "url": "https://www.linkedin.com/jobs/view/4479670540/",
+      "title": "Quote-to-Cash (Q2C) \u2013 Order Management | SAP SCM",
+      "employer": "Live Connections",
+      "card_location": "",
+      "card_excerpt": "Quote-to-Cash (Q2C) \u2013 Order Management | SAP SCM\nQuote-to-Cash (Q2C) \u2013 Order Management | SAP SCM with verification\nLive Connections\nPune District, Maharashtra, India (On-site)\nUp to 550K INR/yr\n7 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-17",
+      "posted_text": "7 hours ago\nWithin the past 24 hours",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479667509",
+      "url": "https://www.linkedin.com/jobs/view/4479667509/",
+      "title": "Software Engineer/Software Programmer- ASP.Net Core, Vue.JS, MongoDB",
+      "employer": "Kott Software Pvt.Ltd",
+      "card_location": "",
+      "card_excerpt": "Software Engineer/Software Programmer- ASP.Net Core, Vue.JS, MongoDB\nSoftware Engineer/Software Programmer- ASP.Net Core, Vue.JS, MongoDB with verification\nKott Software Pvt.Ltd\nErnakulam, Kerala, India (On-site)\n1 school alum works here\n1 Centre for Development of Advanced Computing (C-DAC) school alum works here\n8 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-17",
+      "posted_text": "8 hours ago\nWithin the past 24 hours",
+      "keyword_search_candidate": true,
+      "filter_reason": null
+    },
+    {
+      "portal_job_id": "4479656603",
+      "url": "https://www.linkedin.com/jobs/view/4479656603/",
+      "title": "AI Backend Engineer",
+      "employer": "techolution",
+      "card_location": "",
+      "card_excerpt": "AI Backend Engineer\nAI Backend Engineer with verification\ntecholution\nIndia (Remote)\n8 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-17",
+      "posted_text": "8 hours ago\nWithin the past 24 hours",
+      "filter_reason": null
+    },
+    {
+      "portal_job_id": "4480803686",
+      "url": "https://www.linkedin.com/jobs/view/4480803686/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4480803613",
+      "url": "https://www.linkedin.com/jobs/view/4480803613/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4477749367",
+      "url": "https://www.linkedin.com/jobs/view/4477749367/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4477750195",
+      "url": "https://www.linkedin.com/jobs/view/4477750195/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4477744411",
+      "url": "https://www.linkedin.com/jobs/view/4477744411/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4480545335",
+      "url": "https://www.linkedin.com/jobs/view/4480545335/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4477726313",
+      "url": "https://www.linkedin.com/jobs/view/4477726313/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479377800",
+      "url": "https://www.linkedin.com/jobs/view/4479377800/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4480398232",
+      "url": "https://www.linkedin.com/jobs/view/4480398232/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479384010",
+      "url": "https://www.linkedin.com/jobs/view/4479384010/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4477384824",
+      "url": "https://www.linkedin.com/jobs/view/4477384824/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4477704169",
+      "url": "https://www.linkedin.com/jobs/view/4477704169/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479362475",
+      "url": "https://www.linkedin.com/jobs/view/4479362475/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479351896",
+      "url": "https://www.linkedin.com/jobs/view/4479351896/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479370233",
+      "url": "https://www.linkedin.com/jobs/view/4479370233/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479372062",
+      "url": "https://www.linkedin.com/jobs/view/4479372062/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479349868",
+      "url": "https://www.linkedin.com/jobs/view/4479349868/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4480362564",
+      "url": "https://www.linkedin.com/jobs/view/4480362564/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479650875",
+      "url": "https://www.linkedin.com/jobs/view/4479650875/",
+      "title": "Full Stack Developer",
+      "employer": "Yamaha Motor Private Limited",
+      "card_location": "",
+      "card_excerpt": "Full Stack Developer\nFull Stack Developer\nYamaha Motor Private Limited\nGreater Coimbatore Area (On-site)\nViewed\nEasy Apply",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479669499",
+      "url": "https://www.linkedin.com/jobs/view/4479669499/",
+      "title": "Junior Full Stack Developer",
+      "employer": "QBYSS",
+      "card_location": "",
+      "card_excerpt": "Junior Full Stack Developer\nJunior Full Stack Developer\nQBYSS\nIndia (Remote)\n4 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-17",
+      "posted_text": "4 hours ago\nWithin the past 24 hours",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479688231",
+      "url": "https://www.linkedin.com/jobs/view/4479688231/",
+      "title": "urgently Required Software Engineer for Shastri Nagar,Jodhpur - ( Job ID - 24512)",
+      "employer": "EH Jobs",
+      "card_location": "",
+      "card_excerpt": "urgently Required Software Engineer for Shastri Nagar,Jodhpur - ( Job ID - 24512)\nurgently Required Software Engineer for Shastri Nagar,Jodhpur - ( Job ID - 24512)\nEH Jobs\nJodhpur, Rajasthan, India (On-site)\n8 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-17",
+      "posted_text": "8 hours ago\nWithin the past 24 hours",
+      "keyword_search_candidate": true,
+      "filter_reason": null
+    },
+    {
+      "portal_job_id": "4479667509",
+      "url": "https://www.linkedin.com/jobs/view/4479667509/",
+      "title": "Software Engineer/Software Programmer- ASP.Net Core, Vue.JS, MongoDB",
+      "employer": "Kott Software Pvt.Ltd",
+      "card_location": "",
+      "card_excerpt": "Software Engineer/Software Programmer- ASP.Net Core, Vue.JS, MongoDB\nSoftware Engineer/Software Programmer- ASP.Net Core, Vue.JS, MongoDB with verification\nKott Software Pvt.Ltd\nErnakulam, Kerala, India (On-site)\n1 school alum works here\n1 Centre for Development of Advanced Computing (C-DAC) school alum works here\n8 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-17",
+      "posted_text": "8 hours ago\nWithin the past 24 hours",
+      "keyword_search_candidate": true,
+      "filter_reason": null
+    },
+    {
+      "portal_job_id": "4479656603",
+      "url": "https://www.linkedin.com/jobs/view/4479656603/",
+      "title": "AI Backend Engineer",
+      "employer": "techolution",
+      "card_location": "",
+      "card_excerpt": "AI Backend Engineer\nAI Backend Engineer with verification\ntecholution\nIndia (Remote)\n8 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-17",
+      "posted_text": "8 hours ago\nWithin the past 24 hours",
+      "filter_reason": null
+    },
+    {
+      "portal_job_id": "4480803613",
+      "url": "https://www.linkedin.com/jobs/view/4480803613/",
+      "title": "Java developer",
+      "employer": "VySystems",
+      "card_location": "",
+      "card_excerpt": "Java developer\nJava developer with verification\nVySystems\nMumbai, Maharashtra, India (On-site)\n15 INR/yr - 20 INR/yr\n9 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-17",
+      "posted_text": "9 hours ago\nWithin the past 24 hours",
+      "filter_reason": null
+    },
+    {
+      "portal_job_id": "4479654636",
+      "url": "https://www.linkedin.com/jobs/view/4479654636/",
+      "title": "Junior Front-End Developer",
+      "employer": "crewlia",
+      "card_location": "",
+      "card_excerpt": "Junior Front-End Developer\nJunior Front-End Developer\ncrewlia\nIndia (Remote)\n10 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-17",
+      "posted_text": "10 hours ago\nWithin the past 24 hours",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4477749367",
+      "url": "https://www.linkedin.com/jobs/view/4477749367/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4477750195",
+      "url": "https://www.linkedin.com/jobs/view/4477750195/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4477744411",
+      "url": "https://www.linkedin.com/jobs/view/4477744411/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479640083",
+      "url": "https://www.linkedin.com/jobs/view/4479640083/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4477723843",
+      "url": "https://www.linkedin.com/jobs/view/4477723843/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479628375",
+      "url": "https://www.linkedin.com/jobs/view/4479628375/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4473677114",
+      "url": "https://www.linkedin.com/jobs/view/4473677114/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4480545335",
+      "url": "https://www.linkedin.com/jobs/view/4480545335/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4477726313",
+      "url": "https://www.linkedin.com/jobs/view/4477726313/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479377800",
+      "url": "https://www.linkedin.com/jobs/view/4479377800/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4480398232",
+      "url": "https://www.linkedin.com/jobs/view/4480398232/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479384010",
+      "url": "https://www.linkedin.com/jobs/view/4479384010/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4477384824",
+      "url": "https://www.linkedin.com/jobs/view/4477384824/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4477704169",
+      "url": "https://www.linkedin.com/jobs/view/4477704169/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479362475",
+      "url": "https://www.linkedin.com/jobs/view/4479362475/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4480370466",
+      "url": "https://www.linkedin.com/jobs/view/4480370466/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479351896",
+      "url": "https://www.linkedin.com/jobs/view/4479351896/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479370233",
+      "url": "https://www.linkedin.com/jobs/view/4479370233/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    }
+  ]
+}

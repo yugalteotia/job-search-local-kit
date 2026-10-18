@@ -1,0 +1,570 @@
+{
+  "generated_at": "2026-10-18T15:02:50.029779+00:00",
+  "counts": {
+    "Applied": 32,
+    "Closed": 2,
+    "Excluded": 2,
+    "NeedsReview": 1,
+    "Rejected": 1,
+    "Shortlisted": 12,
+    "Verified": 359
+  },
+  "applied": [
+    {
+      "id": 402,
+      "employer": "Infosys",
+      "title": "Java Springboot Developer",
+      "requisition_id": "210826932489",
+      "canonical_url": "https://www.naukri.com/job-listings-java-springboot-developer-infosys-limited-bengaluru-1-to-2-years-210826932489",
+      "slug": "naukri-210826932489",
+      "status_date": "2026-10-18T07:03:49.653566+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 380,
+      "employer": "Infosys",
+      "title": "Java Full Stack Developer(React.js)",
+      "requisition_id": "100826024113",
+      "canonical_url": "https://www.naukri.com/job-listings-java-full-stack-developer-react-js-infosys-kolkata-hyderabad-pune-2-to-5-years-100826024113",
+      "slug": "naukri-100826024113",
+      "status_date": "2026-10-18T07:00:48.653986+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 392,
+      "employer": "Zycus Infotech",
+      "title": "AI-First Java Developer",
+      "requisition_id": "171026009891",
+      "canonical_url": "https://www.naukri.com/job-listings-ai-first-java-developer-zycus-infotech-bengaluru-3-to-8-years-171026009891",
+      "slug": "naukri-171026009891",
+      "status_date": "2026-10-17T15:00:46.444467+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 381,
+      "employer": "Infosys",
+      "title": "Java Full Stack Developer(React.js)",
+      "requisition_id": "290826005830",
+      "canonical_url": "https://www.naukri.com/job-listings-java-full-stack-developer-react-js-infosys-kolkata-hyderabad-pune-2-to-7-years-290826005830",
+      "slug": "naukri-290826005830",
+      "status_date": "2026-10-17T15:00:46.414985+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 388,
+      "employer": "Saatvik Agro",
+      "title": "Analyst (Java) Backend Engineer",
+      "requisition_id": "4479656999",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4479656999/",
+      "slug": "linkedin-4479656999",
+      "status_date": "2026-10-17T07:06:38.755610+00:00",
+      "outcome_label": "Applied",
+      "proof": false
+    },
+    {
+      "id": 390,
+      "employer": "Infosys",
+      "title": "Java, Spring boot Developer",
+      "requisition_id": "061026917134",
+      "canonical_url": "https://www.naukri.com/job-listings-java-spring-boot-developer-infosys-limited-bengaluru-1-to-2-years-061026917134",
+      "slug": "naukri-061026917134",
+      "status_date": "2026-10-17T07:06:07.780834+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 384,
+      "employer": "Infosys",
+      "title": "Java Spring Boot Developer",
+      "requisition_id": "100826014171",
+      "canonical_url": "https://www.naukri.com/job-listings-java-spring-boot-developer-infosys-pune-chennai-bengaluru-2-to-5-years-100826014171",
+      "slug": "naukri-100826014171",
+      "status_date": "2026-10-17T07:00:45.513848+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 245,
+      "employer": "Infosys",
+      "title": "Java Backend Developer | Spring Boot | Microservices",
+      "requisition_id": "290826005826",
+      "canonical_url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-microservices-infosys-hyderabad-pune-bengaluru-2-to-7-years-290826005826",
+      "slug": "naukri-290826005826",
+      "status_date": "2026-10-17T07:00:45.485513+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 383,
+      "employer": "Infosys",
+      "title": "Java Spring Boot Developer",
+      "requisition_id": "180826042980",
+      "canonical_url": "https://www.naukri.com/job-listings-java-spring-boot-developer-infosys-pune-chennai-bengaluru-1-to-2-years-180826042980",
+      "slug": "naukri-180826042980",
+      "status_date": "2026-10-16T11:07:04.040724+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 376,
+      "employer": "Infosys",
+      "title": "Java Aws Developer",
+      "requisition_id": "071026019912",
+      "canonical_url": "https://www.naukri.com/job-listings-java-aws-developer-infosys-hyderabad-pune-bengaluru-2-to-3-years-071026019912",
+      "slug": "naukri-071026019912",
+      "status_date": "2026-10-16T11:00:43.624722+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 355,
+      "employer": "NTT DATA BUSINESS SOLUTIONS",
+      "title": "Software Developer",
+      "requisition_id": "131026049027",
+      "canonical_url": "https://www.naukri.com/job-listings-software-developer-ntt-data-business-solutions-bengaluru-3-to-5-years-131026049027",
+      "slug": "naukri-131026049027",
+      "status_date": "2026-10-14T13:16:40.448003+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 250,
+      "employer": "Newgen",
+      "title": "Backend Java Developer",
+      "requisition_id": "160926009207",
+      "canonical_url": "https://www.naukri.com/job-listings-backend-java-developer-naukri-e-hire-campaign-bengaluru-2-to-4-years-160926009207",
+      "slug": "naukri-160926009207",
+      "status_date": "2026-10-14T13:16:40.396276+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 241,
+      "employer": "Agiliad",
+      "title": "Java Developer /Senior Java Developer",
+      "requisition_id": "280926023134",
+      "canonical_url": "https://www.naukri.com/job-listings-java-developer-senior-java-developer-agiliad-pune-2-to-6-years-280926023134",
+      "slug": "agiliad-java-backend-developer-280926023134",
+      "status_date": "2026-10-14T13:16:40.377565+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 220,
+      "employer": "Infosys",
+      "title": "Java Backend Developer | Spring Boot | Microservices",
+      "requisition_id": "190826038395",
+      "canonical_url": "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-microservices-infosys-pune-chennai-bengaluru-2-to-5-years-190826038395",
+      "slug": "naukri-190826038395",
+      "status_date": "2026-10-14T13:16:40.346457+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 326,
+      "employer": "Infosys",
+      "title": "Java Full Stack Developer",
+      "requisition_id": "100826024093",
+      "canonical_url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-pune-bengaluru-delhi-ncr-2-to-3-years-100826024093",
+      "slug": "naukri-100826024093",
+      "status_date": "2026-10-14T12:31:48.139997+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 365,
+      "employer": "cult fit",
+      "title": "SDE 2 - Backend",
+      "requisition_id": "141026016132",
+      "canonical_url": "https://www.naukri.com/job-listings-sde-2-backend-cult-fit-bengaluru-2-to-4-years-141026016132",
+      "slug": "naukri-141026016132",
+      "status_date": "2026-10-14T07:41:24.332399+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 360,
+      "employer": "Infosys",
+      "title": "Java + Springboot Developer",
+      "requisition_id": "200826029374",
+      "canonical_url": "https://www.naukri.com/job-listings-java-springboot-developer-infosys-pune-chennai-bengaluru-2-to-3-years-200826029374",
+      "slug": "naukri-200826029374",
+      "status_date": "2026-10-14T05:18:19.290133+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 359,
+      "employer": "Infosys",
+      "title": "Java + Springboot Developer",
+      "requisition_id": "200826029266",
+      "canonical_url": "https://www.naukri.com/job-listings-java-springboot-developer-infosys-kolkata-chennai-bengaluru-2-to-3-years-200826029266",
+      "slug": "naukri-200826029266",
+      "status_date": "2026-10-14T05:18:19.260568+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 358,
+      "employer": "Infosys",
+      "title": "Java + Springboot Developer",
+      "requisition_id": "200826029442",
+      "canonical_url": "https://www.naukri.com/job-listings-java-springboot-developer-infosys-hyderabad-chennai-bengaluru-2-to-3-years-200826029442",
+      "slug": "naukri-200826029442",
+      "status_date": "2026-10-14T05:18:19.231632+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 315,
+      "employer": "Infosys",
+      "title": "JAVA Developer-INF (2 - 9) YRS",
+      "requisition_id": "070926029541",
+      "canonical_url": "https://www.naukri.com/job-listings-java-developer-inf-2-9-yrs-infosys-hyderabad-chennai-bengaluru-2-to-7-years-070926029541",
+      "slug": "naukri-070926029541",
+      "status_date": "2026-10-14T04:31:46.715382+00:00",
+      "outcome_label": "Applied",
+      "proof": false
+    },
+    {
+      "id": 342,
+      "employer": "Naukri Assist",
+      "title": "Java Full Stack Developer",
+      "requisition_id": "131026047727",
+      "canonical_url": "https://www.naukri.com/job-listings-java-full-stack-developer-naukri-assist-hyderabad-3-to-10-years-131026047727",
+      "slug": "naukri-131026047727",
+      "status_date": "2026-10-13T19:07:30.765327+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 318,
+      "employer": "Infosys",
+      "title": "Java Full Stack Developer (Angular)(2-3Y)",
+      "requisition_id": "190826009591",
+      "canonical_url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-2-3y-infosys-pune-chennai-bengaluru-2-to-3-years-190826009591",
+      "slug": "naukri-190826009591",
+      "status_date": "2026-10-13T18:51:36.031789+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 329,
+      "employer": "Infosys",
+      "title": "JAVA+Angular Developer - INF (2-15) YRS",
+      "requisition_id": "170926032578",
+      "canonical_url": "https://www.naukri.com/job-listings-java-angular-developer-inf-2-15-yrs-infosys-hyderabad-chennai-bengaluru-2-to-7-years-170926032578",
+      "slug": "naukri-170926032578",
+      "status_date": "2026-10-13T18:49:59.962216+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 344,
+      "employer": "Nexiotech",
+      "title": "Java Full Stack Engineer",
+      "requisition_id": "131026048006",
+      "canonical_url": "https://www.naukri.com/job-listings-java-full-stack-engineer-nexiotech-bengaluru-3-to-6-years-131026048006",
+      "slug": "naukri-131026048006",
+      "status_date": "2026-10-13T18:46:40.135684+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 346,
+      "employer": "Infosys",
+      "title": "Java Full Stack Developer",
+      "requisition_id": "131026048418",
+      "canonical_url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-pune-chennai-bengaluru-2-to-5-years-131026048418",
+      "slug": "naukri-131026048418",
+      "status_date": "2026-10-13T16:52:47.765019+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 339,
+      "employer": "DigiCert",
+      "title": "Software Engineer",
+      "requisition_id": "4470285110",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4470285110/",
+      "slug": "linkedin-4470285110",
+      "status_date": "2026-10-13T14:29:20.619533+00:00",
+      "outcome_label": "Applied \u2014 one-off user experience override",
+      "proof": false
+    },
+    {
+      "id": 309,
+      "employer": "Navi Limited",
+      "title": "SDE II (Backend)",
+      "requisition_id": "081026040485",
+      "canonical_url": "https://www.naukri.com/job-listings-sde-ii-backend-navi-limited-bengaluru-3-to-4-years-081026040485",
+      "slug": "naukri-081026040485",
+      "status_date": "2026-10-13T13:50:26.108548+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 314,
+      "employer": "Infosys",
+      "title": "Java Full Stack Developer(React.js/Angular.js)",
+      "requisition_id": "280926032117",
+      "canonical_url": "https://www.naukri.com/job-listings-java-full-stack-developer-react-js-angular-js-infosys-kolkata-hyderabad-pune-2-to-3-years-280926032117",
+      "slug": "naukri-280926032117",
+      "status_date": "2026-10-13T06:25:08.688876+00:00",
+      "outcome_label": "Applied \u2014 history confirmed; email reconciliation pending",
+      "proof": true
+    },
+    {
+      "id": 266,
+      "employer": "Luxoft",
+      "title": "Java Backend Engineer",
+      "requisition_id": "290926917619",
+      "canonical_url": "https://www.naukri.com/job-listings-java-backend-engineer-luxoft-india-llp-pune-3-to-5-years-290926917619",
+      "slug": "naukri-290926917619",
+      "status_date": "2026-10-13T05:52:06.712501+00:00",
+      "outcome_label": "Applied \u2014 history confirmed",
+      "proof": true
+    },
+    {
+      "id": 202,
+      "employer": "Infosys",
+      "title": "Java Back End Developer | Springboot | Microservices",
+      "requisition_id": "110826000033",
+      "canonical_url": "https://www.naukri.com/job-listings-java-back-end-developer-springboot-microservices-infosys-hyderabad-chennai-bengaluru-3-to-6-years-110826000033",
+      "slug": "infosys-javabackenddeveloperspringbootmi",
+      "status_date": "2026-10-13T05:52:06.706086+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 244,
+      "employer": "Tech Mahindra",
+      "title": "Java Backend Developer",
+      "requisition_id": "070926003879",
+      "canonical_url": "https://www.naukri.com/job-listings-java-backend-developer-naukri-e-hire-campaign-mumbai-1-to-4-years-070926003879",
+      "slug": "naukri-070926003879",
+      "status_date": "2026-09-29T13:51:41.136638+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    },
+    {
+      "id": 203,
+      "employer": "Nxtwave Disruptive Technologies(Hiring for a Client)",
+      "title": "Java Developer",
+      "requisition_id": "250926037784",
+      "canonical_url": "https://www.naukri.com/job-listings-java-developer-nxtwave-disruptive-technologies-hiring-for-a-client-bengaluru-3-to-5-years-250926037784",
+      "slug": "nxtwave-java-developer-250926037784",
+      "status_date": "2026-09-29T01:28:49.781045+00:00",
+      "outcome_label": "Applied",
+      "proof": true
+    }
+  ],
+  "needs_answer": [],
+  "uncertain": [
+    {
+      "id": 372,
+      "employer": "Data Eminence",
+      "title": "Java Software Engineer",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4478450952/",
+      "slug": "linkedin-4478450952",
+      "status_date": "2026-10-14T15:32:14.766935+00:00",
+      "pending_question": null
+    }
+  ],
+  "urgent": [],
+  "mail": {
+    "generated_at": "2026-09-30T03:42:51.543134+00:00",
+    "total": 9,
+    "confidence_counts": {
+      "unmatched": 6,
+      "exact": 1,
+      "ignored": 1,
+      "ambiguous": 1
+    },
+    "urgent": [],
+    "history_gaps": 7,
+    "history_gaps_blocking": 4
+  },
+  "queue": {},
+  "ready": [],
+  "near_misses": [
+    {
+      "employer": "Nila Apps",
+      "title": "AI/LLM Software Engineer",
+      "reasons_json": "[\"Essential requirement lacks exact JD excerpt: tooling\"]"
+    },
+    {
+      "employer": "Infosys",
+      "title": "Java React Js Developer",
+      "reasons_json": "[\"Possible duplicate requisition requires manual resolution\"]"
+    },
+    {
+      "employer": "Infosys",
+      "title": "Java Full Stack Developer",
+      "reasons_json": "[\"Possible duplicate requisition requires manual resolution\"]"
+    },
+    {
+      "employer": "MnC",
+      "title": "Java Back End Developer",
+      "reasons_json": "[\"Experience minimum missing or beyond confirmed profile band\", \"No confirmed evidence for jenkins\", \"Essential evidence coverage below 100%\"]"
+    },
+    {
+      "employer": "Comzent Technologies",
+      "title": "Backend Developer (Spring Boot, Java & Kotlin)",
+      "reasons_json": "[\"No confirmed evidence for other_databases\", \"Essential evidence coverage below 100%\"]"
+    }
+  ],
+  "last_run": {
+    "id": "cd8c8317-a75a-421b-9084-4a54066608ab",
+    "finished_at": "2026-10-18T15:02:49.711317+00:00",
+    "status": "Success",
+    "scheduled": true,
+    "sources": {
+      "naukri": {
+        "status": "Success",
+        "error_kind": null,
+        "checked_at": "2026-10-18T15:00:23.734163+00:00",
+        "pages_checked": 2,
+        "leads": 20,
+        "feed_jobs": 0,
+        "label": "OK"
+      },
+      "linkedin": {
+        "status": "Success",
+        "error_kind": null,
+        "checked_at": "2026-10-18T15:00:40.619010+00:00",
+        "pages_checked": 2,
+        "leads": 9,
+        "feed_jobs": 0,
+        "label": "OK"
+      }
+    },
+    "stage_counts": {
+      "normalized_unique_ats": 0,
+      "selected_for_original_check": 0,
+      "fetched": 29,
+      "unique_portal_leads": 23,
+      "fresh": 0,
+      "unknown_date": 20,
+      "skipped_old": 0,
+      "repeat_skipped": 9,
+      "unique_original_requisitions": 0,
+      "eligible_for_review": 6,
+      "original_jds_reviewed": 0,
+      "original_or_portal_jds_reviewed": 6,
+      "portal_native_verified": 8,
+      "high": 0,
+      "queued_for_resume": 0,
+      "review_queue_added": 6,
+      "portal_originals_matched": 0,
+      "portal_leads_still_needing_original": 2181
+    },
+    "auto_fit": {
+      "considered": 6,
+      "queued": 0,
+      "not_eligible": 6,
+      "blocked": 0,
+      "skipped_unchanged": 15,
+      "results": [
+        {
+          "job_id": 409,
+          "employer": "AI FINANCIAL TEAM LTD",
+          "title": "Software Engineer",
+          "outcome": "not_eligible",
+          "reasons": [
+            "Experience band is not stated in the JD"
+          ]
+        },
+        {
+          "job_id": 396,
+          "employer": "Infosys",
+          "title": "Java React Developer (3-5 yrs) @ Infosys",
+          "outcome": "not_eligible",
+          "reasons": [
+            "backend work is not explicit in the JD body",
+            "Spring/Spring Boot backend development is not established"
+          ]
+        },
+        {
+          "job_id": 397,
+          "employer": "Infosys",
+          "title": "Java React Developer (2-3 yrs) @ Infosys",
+          "outcome": "not_eligible",
+          "reasons": [
+            "backend work is not explicit in the JD body",
+            "Spring/Spring Boot backend development is not established"
+          ]
+        },
+        {
+          "job_id": 408,
+          "employer": "Crossing Hurdles",
+          "title": "Software Developer | Remote",
+          "outcome": "not_eligible",
+          "reasons": [
+            "Experience band is not stated in the JD"
+          ]
+        },
+        {
+          "job_id": 407,
+          "employer": "Echo Initiative by Joveo",
+          "title": "Senior Software Engineer",
+          "outcome": "not_eligible",
+          "reasons": [
+            "Java is not explicit in the JD body",
+            "Spring/Spring Boot backend development is not established"
+          ]
+        },
+        {
+          "job_id": 406,
+          "employer": "Joveo",
+          "title": "Software Engineer (AWS)",
+          "outcome": "not_eligible",
+          "reasons": [
+            "Java is not explicit in the JD body",
+            "Spring/Spring Boot backend development is not established"
+          ]
+        }
+      ]
+    },
+    "naukri_worker": {
+      "enabled": true,
+      "max_submissions_per_run": 10,
+      "max_new_attempts_per_run": 10,
+      "other_portals": "outside_focus_disabled",
+      "capability_reason": "Proof marker valid; independent new-attempt limit 10",
+      "status": "Idle",
+      "candidate_count": 0,
+      "resumable_count": 0,
+      "results": [],
+      "submissions": 0,
+      "blocked_jobs": 0,
+      "provider_stopped": false,
+      "new_attempts_used": 0,
+      "new_claims_created": 0,
+      "existing_attempts_continued": 0,
+      "preflight_repairs_without_claim": 0
+    }
+  },
+  "lane": {
+    "naukri_worker_enabled": true,
+    "global_submissions_enabled": true,
+    "providers": {
+      "naukri": {
+        "manual": true,
+        "scheduled": true,
+        "max": 10,
+        "reason": "Proof marker valid; independent new-attempt limit 10"
+      },
+      "linkedin": {
+        "manual": true,
+        "scheduled": true,
+        "max": 10,
+        "reason": "Exact Easy Apply proof valid; independent new-attempt limit 10"
+      }
+    }
+  }
+}

@@ -1,0 +1,256 @@
+- generic [ref=f2e1]:
+  - generic [ref=f2e3]:
+    - generic [ref=f2e4]:
+      - img "foundit Logo" [ref=f2e6] [cursor=pointer]
+      - generic [ref=f2e8]:
+        - link "Jobs" [ref=f2e11] [cursor=pointer]:
+          - /url: /seeker/dashboard
+        - link "Career Solutions" [ref=f2e14] [cursor=pointer]:
+          - /url: /career-services/boost
+        - link "Prep" [ref=f2e17] [cursor=pointer]:
+          - /url: /career-services/prep
+        - link "Learn" [ref=f2e20] [cursor=pointer]:
+          - /url: /career-services/learn
+        - link "Career Advice" [ref=f2e23] [cursor=pointer]:
+          - /url: /career-advice/
+    - generic [ref=f2e26]:
+      - generic [ref=f2e27] [cursor=pointer]
+      - link [ref=f2e31] [cursor=pointer]:
+        - /url: /web/en/cart
+      - generic [ref=f2e36] [cursor=pointer]:
+        - heading "S" [level=3] [ref=f2e39]
+        - generic [ref=f2e40]: Hi, Seeker
+  - generic [ref=f2e44]:
+    - generic [ref=f2e47]:
+      - generic [ref=f2e48]:
+        - heading "8,00,000+ Jobs In India" [level=1] [ref=f2e49]
+        - generic [ref=f2e50]: Get Hired by Top Companies
+      - generic [ref=f2e54]:
+        - generic [ref=f2e56]:
+          - textbox "Search by Skills, Company or Job Title" [ref=f2e63]
+          - generic: Please enter a job title/role/skill to search
+        - generic [ref=f2e66]:
+          - textbox "Location" [ref=f2e73]
+          - generic: Please enter a job title/role/skill to search
+        - generic [ref=f2e76]:
+          - textbox "Experience" [ref=f2e83]
+          - generic: Please enter a job title/role/skill to search
+        - button "Search" [ref=f2e88] [cursor=pointer]
+    - generic [ref=f2e185]:
+      - heading "Featured Companies" [level=2] [ref=f2e187]
+      - generic [ref=f2e188]:
+        - button "Previous" [ref=f2e189] [cursor=pointer]
+        - button "Next" [ref=f2e192] [cursor=pointer]
+        - generic [ref=f2e197]:
+          - link [ref=f2e199] [cursor=pointer]:
+            - /url: https://www.foundit.in/company/cognizant/index.html
+            - img "Cognizant Technology Solutions India Pvt Ltd jobs" [ref=f2e200]
+          - link [ref=f2e202] [cursor=pointer]:
+            - /url: /company/infosysltd/
+            - img "Infosys Limited jobs" [ref=f2e203]
+          - link [ref=f2e205] [cursor=pointer]:
+            - /url: https://www.foundit.in/company/ltitin/index.html
+            - img "LTIMindtree Limited jobs" [ref=f2e206]
+          - link [ref=f2e208] [cursor=pointer]:
+            - /url: https://www.foundit.in/company/quess/
+            - img "Quess Corp Limited jobs" [ref=f2e209]
+          - link [ref=f2e211] [cursor=pointer]:
+            - /url: /search/xcihealtechpvtinx-jobs?query=xcihealtechpvtinx&queryDerived=true
+            - img "Citiustech Healthcare Technology Private Limited jobs" [ref=f2e212]
+          - link [ref=f2e214] [cursor=pointer]:
+            - /url: https://www.foundit.in/company/cognizant/index.html
+            - img "Cognizant Technology Solutions India Pvt Ltd jobs" [ref=f2e215]
+          - link [ref=f2e217] [cursor=pointer]:
+            - /url: /company/infosysltd/
+            - img "Infosys Limited jobs" [ref=f2e218]
+          - link [ref=f2e220] [cursor=pointer]:
+            - /url: https://www.foundit.in/company/ltitin/index.html
+            - img "LTIMindtree Limited jobs" [ref=f2e221]
+          - link [ref=f2e223] [cursor=pointer]:
+            - /url: https://www.foundit.in/company/quess/
+            - img "Quess Corp Limited jobs" [ref=f2e224]
+          - link [ref=f2e226] [cursor=pointer]:
+            - /url: /search/xcihealtechpvtinx-jobs?query=xcihealtechpvtinx&queryDerived=true
+            - img "Citiustech Healthcare Technology Private Limited jobs" [ref=f2e227]
+          - link [ref=f2e229] [cursor=pointer]:
+            - /url: https://www.foundit.in/company/cognizant/index.html
+            - img "Cognizant Technology Solutions India Pvt Ltd jobs" [ref=f2e230]
+          - link [ref=f2e232] [cursor=pointer]:
+            - /url: /company/infosysltd/
+            - img "Infosys Limited jobs" [ref=f2e233]
+          - link [ref=f2e235] [cursor=pointer]:
+            - /url: https://www.foundit.in/company/ltitin/index.html
+            - img "LTIMindtree Limited jobs" [ref=f2e236]
+          - link [ref=f2e238] [cursor=pointer]:
+            - /url: https://www.foundit.in/company/quess/
+            - img "Quess Corp Limited jobs" [ref=f2e239]
+          - link [ref=f2e241] [cursor=pointer]:
+            - /url: /search/xcihealtechpvtinx-jobs?query=xcihealtechpvtinx&queryDerived=true
+            - img "Citiustech Healthcare Technology Private Limited jobs" [ref=f2e242]
+  - generic [ref=f2e243]:
+    - generic [ref=f2e244]:
+      - generic [ref=f2e245]:
+        - generic [ref=f2e246]: Beware of Scammers
+        - paragraph [ref=f2e250]: We don’t charge money for job offers
+      - link "Know More" [ref=f2e252] [cursor=pointer]:
+        - /url: /info/besafe
+    - contentinfo [ref=f2e255]:
+      - generic [ref=f2e257]:
+        - tablist [ref=f2e259]:
+          - tab "Browse Jobs by" [selected] [ref=f2e260] [cursor=pointer]
+          - tab "Trending Jobs" [ref=f2e261] [cursor=pointer]
+          - tab "Services" [ref=f2e262] [cursor=pointer]
+          - tab "Trending Skills" [ref=f2e263] [cursor=pointer]
+          - tab "Trending Jobs by Role" [ref=f2e264] [cursor=pointer]
+          - tab "Top Companies" [ref=f2e265] [cursor=pointer]
+          - tab "Career Advice" [ref=f2e266] [cursor=pointer]
+          - tab "Jobs by Location" [ref=f2e267] [cursor=pointer]
+          - tab "Career Courses" [ref=f2e268] [cursor=pointer]
+        - tabpanel "Browse Jobs by" [ref=f2e269]:
+          - list [ref=f2e270]:
+            - listitem [ref=f2e271]:
+              - link "Jobs By Skill" [ref=f2e272] [cursor=pointer]:
+                - /url: https://www.foundit.in/search/jobs-by-skill
+            - listitem [ref=f2e273]:
+              - link "Jobs By Education" [ref=f2e274] [cursor=pointer]:
+                - /url: https://www.foundit.in/search/jobs-by-education
+            - listitem [ref=f2e275]:
+              - link "Jobs By Location" [ref=f2e276] [cursor=pointer]:
+                - /url: https://www.foundit.in/search/jobs-by-location
+            - listitem [ref=f2e277]:
+              - link "Jobs By Function" [ref=f2e278] [cursor=pointer]:
+                - /url: https://www.foundit.in/search/jobs-by-function
+            - listitem [ref=f2e279]:
+              - link "Jobs By Industry" [ref=f2e280] [cursor=pointer]:
+                - /url: https://www.foundit.in/search/jobs-by-industry
+            - listitem [ref=f2e281]:
+              - link "Jobs By Title" [ref=f2e282] [cursor=pointer]:
+                - /url: https://www.foundit.in/search/jobs-by-title
+            - listitem [ref=f2e283]:
+              - link "Jobs By Other" [ref=f2e284] [cursor=pointer]:
+                - /url: https://www.foundit.in/search/jobs-by-other
+      - generic [ref=f2e288]:
+        - generic [ref=f2e289]:
+          - generic [ref=f2e290]:
+            - generic [ref=f2e291]: Company Info
+            - generic [ref=f2e292]:
+              - link "company-info" [ref=f2e293] [cursor=pointer]:
+                - /url: https://www.foundit.in/info/about-us
+                - text: About Us
+              - link "company-info" [ref=f2e294] [cursor=pointer]:
+                - /url: https://www.foundit.in/info/feedback
+                - text: Send Feedback
+              - link "company-info" [ref=f2e295] [cursor=pointer]:
+                - /url: https://www.foundit.in/info/sitemap
+                - text: Sitemap
+          - generic [ref=f2e296]:
+            - generic [ref=f2e297]:
+              - generic [ref=f2e298]: Selected Country
+              - combobox "Selected Country" [ref=f2e300]:
+                - option "India" [selected]
+                - option "Gulf"
+                - option "Hong Kong"
+                - option "Singapore"
+                - option "Philippines"
+                - option "Thailand"
+                - option "Vietnam"
+                - option "Indonesia"
+                - option "Malaysia"
+            - generic [ref=f2e301]:
+              - generic [ref=f2e302]: Stay Connected
+              - generic [ref=f2e303]:
+                - link "stay-connected" [ref=f2e304] [cursor=pointer]:
+                  - /url: https://www.facebook.com/founditIN/
+                - link "stay-connected" [ref=f2e306] [cursor=pointer]:
+                  - /url: https://twitter.com/foundit_India
+                - link "stay-connected" [ref=f2e308] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/foundit-jobs/
+                - link "stay-connected" [ref=f2e310] [cursor=pointer]:
+                  - /url: https://www.instagram.com/foundit_india/
+                - link "stay-connected" [ref=f2e312] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@foundit_IN/featured
+          - generic [ref=f2e314]:
+            - generic [ref=f2e315]: 24/7 Support
+            - generic [ref=f2e317]:
+              - generic [ref=f2e318]:
+                - generic [ref=f2e319]: "Toll No:"
+                - link "contact-info" [ref=f2e320] [cursor=pointer]:
+                  - /url: tel:+91 80 6985 7811
+                  - text: +91 80 6985 7811
+              - generic [ref=f2e321]:
+                - generic [ref=f2e322]: "Toll Free No:"
+                - link "contact-info" [ref=f2e323] [cursor=pointer]:
+                  - /url: tel:1800-419-6666
+                  - text: 1800-419-6666
+            - link "mail" [ref=f2e326] [cursor=pointer]:
+              - /url: mailto:info@foundit.in
+              - text: info@foundit.in
+            - link "contact-us" [ref=f2e330] [cursor=pointer]:
+              - /url: https://www.foundit.in/info/contact-us
+              - text: Contact Us
+          - generic [ref=f2e331]:
+            - generic [ref=f2e332]: Download the App
+            - generic [ref=f2e333]:
+              - generic [ref=f2e334]:
+                - link "Get it on Google Play" [ref=f2e335] [cursor=pointer]:
+                  - /url: https://play.google.com/store/apps/details?id=com.monsterindia.seeker.views
+                  - generic [ref=f2e338]:
+                    - generic [ref=f2e339]: Get it on
+                    - generic [ref=f2e340]: Google Play
+                - link "Download on the App Store" [ref=f2e341] [cursor=pointer]:
+                  - /url: https://apps.apple.com/in/app/monster-jobs/id525775161
+                  - generic [ref=f2e344]:
+                    - generic [ref=f2e345]: Download on the
+                    - generic [ref=f2e346]: App Store
+              - generic [ref=f2e347]:
+                - img "foundit app scanner" [ref=f2e348]
+                - generic [ref=f2e349]: Scan to download App
+        - generic [ref=f2e350]:
+          - generic [ref=f2e351]:
+            - generic [ref=f2e352]:
+              - link "legal" [ref=f2e353] [cursor=pointer]:
+                - /url: https://www.foundit.in/info/help
+                - text: Help
+              - text: "|"
+            - generic [ref=f2e354]:
+              - link "legal" [ref=f2e355] [cursor=pointer]:
+                - /url: https://www.foundit.in/info/security-center
+                - text: Security & Fraud
+              - text: "|"
+            - generic [ref=f2e356]:
+              - link "legal" [ref=f2e357] [cursor=pointer]:
+                - /url: https://www.foundit.in/info/privacy
+                - text: Privacy Policy
+              - text: "|"
+            - generic [ref=f2e358]:
+              - link "legal" [ref=f2e359] [cursor=pointer]:
+                - /url: https://www.foundit.in/info/terms-of-use
+                - text: Terms of Use
+              - text: "|"
+            - generic [ref=f2e360]:
+              - link "legal" [ref=f2e361] [cursor=pointer]:
+                - /url: https://www.foundit.in/info/besafe
+                - text: Be Safe
+              - text: "|"
+            - generic [ref=f2e362]:
+              - link "legal" [ref=f2e363] [cursor=pointer]:
+                - /url: https://www.foundit.in/info/complaints
+                - text: Complaints
+              - text: "|"
+            - link "legal" [ref=f2e365] [cursor=pointer]:
+              - /url: https://www.foundit.in/info/beware-of-fraudsters
+              - text: Beware of Fraudsters
+          - generic [ref=f2e366]:
+            - generic [ref=f2e367]: © 2026 foundit
+            - generic [ref=f2e368]: "|"
+            - generic [ref=f2e369]: All rights Reserved
+  - alert [ref=f2e370]
+  - generic [ref=f2e373]:
+    - paragraph [ref=f2e374]:
+      - text: We use cookies to improve your experience. By continuing to browse the site, you agree to our
+      - link "Privacy Policy" [ref=f2e375] [cursor=pointer]:
+        - /url: https://www.foundit.in/info/privacy
+      - text: and
+      - link "Cookie Policy" [ref=f2e376] [cursor=pointer]:
+        - /url: https://www.foundit.in/info/privacy#cookie-heading
+    - button "Okay" [ref=f2e378] [cursor=pointer]

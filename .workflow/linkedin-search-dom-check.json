@@ -1,0 +1,155 @@
+{
+  "health": {
+    "signed_in": true,
+    "verification_required": false
+  },
+  "url": "/jobs/search/",
+  "title": "Java Spring Boot Jobs in India | LinkedIn",
+  "body_characters": 5720,
+  "headings": [
+    "0 notifications total",
+    "Jobs search",
+    "Are these results helpful?",
+    "DevOps Engineer",
+    "",
+    "Assessing your job match"
+  ],
+  "job_links": [
+    {
+      "href": "/jobs/view/4479006203/",
+      "text": "APIGEE Application Engineer\nAPIGEE Application Engineer with verification",
+      "parent_tag": "DIV",
+      "parent_class": "full-width artdeco-entity-lockup__title ember-view"
+    },
+    {
+      "href": "/jobs/view/4479006127/",
+      "text": "Service Engineer\nService Engineer",
+      "parent_tag": "DIV",
+      "parent_class": "full-width artdeco-entity-lockup__title ember-view"
+    },
+    {
+      "href": "/jobs/view/4470285110/",
+      "text": "Software Engineer\nSoftware Engineer with verification",
+      "parent_tag": "DIV",
+      "parent_class": "full-width artdeco-entity-lockup__title ember-view"
+    },
+    {
+      "href": "/jobs/view/4476410162/",
+      "text": "Software Engineer\nSoftware Engineer",
+      "parent_tag": "DIV",
+      "parent_class": "full-width artdeco-entity-lockup__title ember-view"
+    },
+    {
+      "href": "/jobs/view/4476435088/",
+      "text": "Technical Support Engineer\nTechnical Support Engineer with verification",
+      "parent_tag": "DIV",
+      "parent_class": "full-width artdeco-entity-lockup__title ember-view"
+    },
+    {
+      "href": "/jobs/view/4477990592/",
+      "text": "CSV Expert - Immediate Joiner\nCSV Expert - Immediate Joiner",
+      "parent_tag": "DIV",
+      "parent_class": "full-width artdeco-entity-lockup__title ember-view"
+    },
+    {
+      "href": "/jobs/view/4477983939/",
+      "text": "Field Service Engineer\nField Service Engineer",
+      "parent_tag": "DIV",
+      "parent_class": "full-width artdeco-entity-lockup__title ember-view"
+    },
+    {
+      "href": "/jobs/view/4476425920/",
+      "text": "DevOps Engineer",
+      "parent_tag": "H1",
+      "parent_class": "t-24 t-bold inline"
+    },
+    {
+      "href": "/jobs/view/4476425920/",
+      "text": "",
+      "parent_tag": "DIV",
+      "parent_class": "job-details-jobs-unified-top-card__title-container"
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to search",
+      "aria": null
+    },
+    {
+      "text": "Skip to main content",
+      "aria": null
+    },
+    {
+      "text": "Keyboard shortcuts",
+      "aria": null
+    },
+    {
+      "text": "Close jump menu",
+      "aria": null
+    },
+    {
+      "text": "Search",
+      "aria": null
+    },
+    {
+      "text": "For Business ",
+      "aria": null
+    },
+    {
+      "text": "Jobs",
+      "aria": " Filter by: Jobs"
+    },
+    {
+      "text": "Most recent",
+      "aria": "Sort by filter. Most recent filter is currently applied. Clicking this button displays all Sort by filter options."
+    },
+    {
+      "text": "Past week",
+      "aria": "Date posted filter. Past week filter is currently applied. Clicking this button displays all Date posted filter options."
+    },
+    {
+      "text": "Experience level\n2",
+      "aria": "Experience level filter. 2 Experience level filters are applied. Clicking this button displays all Experience level filter options."
+    },
+    {
+      "text": "Easy Apply",
+      "aria": "Easy Apply filter."
+    },
+    {
+      "text": "Company",
+      "aria": "Company filter. Clicking this button displays all Company filter options."
+    },
+    {
+      "text": "Remote",
+      "aria": "Remote filter. Clicking this button displays all Remote filter options."
+    },
+    {
+      "text": "All filters",
+      "aria": "Show all filters. Clicking this button displays all available filter options."
+    },
+    {
+      "text": "Reset",
+      "aria": "Reset applied filters"
+    },
+    {
+      "text": "Jump to active job details",
+      "aria": null
+    },
+    {
+      "text": "Jump to active search result",
+      "aria": null
+    },
+    {
+      "text": "Try AI job search",
+      "aria": null
+    },
+    {
+      "text": "",
+      "aria": "Dismiss APIGEE Application Engineer job"
+    },
+    {
+      "text": "",
+      "aria": "Dismiss Service Engineer job"
+    }
+  ]
+}

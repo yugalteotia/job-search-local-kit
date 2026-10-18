@@ -1,0 +1,292 @@
+{
+  "checked_at": "2026-09-28T15:42:14.802447+00:00",
+  "source": "saved LinkedIn job captures",
+  "jobs_trimmed": 9,
+  "review_queued": 9,
+  "reviewed": 9,
+  "changes": [
+    {
+      "job_id": 192,
+      "employer": "Infor",
+      "old_chars": 19177,
+      "jd_chars": 5500
+    },
+    {
+      "job_id": 193,
+      "employer": "Energy Exemplar",
+      "old_chars": 16162,
+      "jd_chars": 4565
+    },
+    {
+      "job_id": 194,
+      "employer": "Flexiple",
+      "old_chars": 7260,
+      "jd_chars": 2135
+    },
+    {
+      "job_id": 195,
+      "employer": "TantranZm",
+      "old_chars": 7242,
+      "jd_chars": 2129
+    },
+    {
+      "job_id": 196,
+      "employer": "Servify",
+      "old_chars": 7462,
+      "jd_chars": 3580
+    },
+    {
+      "job_id": 197,
+      "employer": "Hawk Sense Business Solutions Pvt Ltd (formerly known as Hawk Sense Security Systems Pvt Ltd)",
+      "old_chars": 5614,
+      "jd_chars": 760
+    },
+    {
+      "job_id": 198,
+      "employer": "Abacus",
+      "old_chars": 7918,
+      "jd_chars": 3360
+    },
+    {
+      "job_id": 199,
+      "employer": "HRM Counsel",
+      "old_chars": 6380,
+      "jd_chars": 2363
+    },
+    {
+      "job_id": 200,
+      "employer": "Meazure Learning",
+      "old_chars": 9213,
+      "jd_chars": 4690
+    }
+  ],
+  "fit_counts": {
+    "High": 0,
+    "Medium": 0,
+    "Low": 8,
+    "Unresolved": 1
+  },
+  "results": [
+    {
+      "job_id": 195,
+      "company": "TantranZm",
+      "role": "Fresher Backend Developer",
+      "location": "India",
+      "direct_url": "https://www.linkedin.com/jobs/view/4471333341/",
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "5f3b91b8f6cca2f6f0852741e24937277ad48db154c8a938673896ca5e7f6a5e",
+      "original_page_checked_at": "2026-09-28T13:21:17.959187+00:00",
+      "reviewed_at": "2026-09-28T15:42:14.746582+00:00",
+      "experience_minimum": 0.0,
+      "evidence": {
+        "location": "India",
+        "experience": "he job Location: India Experience: 0–2 years Employment Type: Full-time About the Role We are looking for a motivated Fresher Backend Developer to join ou",
+        "technology": "Nice to Have Basic experience with Spring Boot, Django, FastAPI, Express.js, or similar frameworks. Familiarity with Docker and cloud pl",
+        "role": null
+      },
+      "reasons": [
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ]
+    },
+    {
+      "job_id": 198,
+      "company": "Abacus",
+      "role": "Software Engineer",
+      "location": "Chennai, Tamil Nadu, India",
+      "direct_url": "https://www.linkedin.com/jobs/view/4470860430/",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "fc1c81ccc81a8d14eed5399a02a0b006dd16716f70a92b88bb5d00f75d96739d",
+      "original_page_checked_at": "2026-09-28T13:21:17.886874+00:00",
+      "reviewed_at": "2026-09-28T15:42:14.752552+00:00",
+      "experience_minimum": 3.0,
+      "evidence": {
+        "location": "Chennai, Tamil Nadu, India",
+        "experience": "r equivalent practical experience. 3–5 years of professional software development experience in a commercial environment. Strong proficiency in .NET C#, A",
+        "technology": null,
+        "role": "the job Job Description Job Title: Software Engineer Overview We are seeking a skilled Software Engineer to join our Software Engineering team. This rol"
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 196,
+      "company": "Servify",
+      "role": "Software Engineer",
+      "location": "Mumbai, Maharashtra, India",
+      "direct_url": "https://www.linkedin.com/jobs/view/4463501030/",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "2fe987d20ffb4524f90833775783bcef055f93e3a5fd699efde001fbcccd21bb",
+      "original_page_checked_at": "2026-09-28T13:21:17.863332+00:00",
+      "reviewed_at": "2026-09-28T15:42:14.758055+00:00",
+      "experience_minimum": 3.0,
+      "evidence": {
+        "location": "Mumbai, Maharashtra, India",
+        "experience": "A minimum of 3-6 years of relevant professional experience Advanced understanding of Functional Programming, OOPS, MVC architecture",
+        "technology": null,
+        "role": "best work. Position Summary: As a Software Engineer, you’ll build next-generation services at Servify, leveraging your backend and full-stack expertise"
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 192,
+      "company": "Infor",
+      "role": "Software Engineer, Senior",
+      "location": "Hyderabad",
+      "direct_url": "https://www.linkedin.com/jobs/view/4470844322/",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "79df0a4ac1c3c63f263245ed1d81813942f68743482dd8a19c0c949f7116f5d8",
+      "original_page_checked_at": "2026-09-28T13:21:17.790028+00:00",
+      "reviewed_at": "2026-09-28T15:42:14.764851+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "Hyderabad",
+        "experience": null,
+        "technology": null,
+        "role": ": Hyderabad Description The Senior Software Engineer is a full-stack individual contributor responsible for designing and building production-ready serv"
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Required experience band is not explicit in the qualification excerpt"
+      ]
+    },
+    {
+      "job_id": 199,
+      "company": "HRM Counsel",
+      "role": "Software Engineer",
+      "location": "India",
+      "direct_url": "https://www.linkedin.com/jobs/view/4472496842/",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "523d66e38949c43a5bef30f08603607c2919a4f517b8f44d3e91587d20d2889b",
+      "original_page_checked_at": "2026-09-28T13:21:17.894312+00:00",
+      "reviewed_at": "2026-09-28T15:42:14.770445+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "India",
+        "experience": null,
+        "technology": null,
+        "role": "e job We are looking for a skilled software engineer who, along with our excellent software development team, will be responsible for working on project"
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ]
+    },
+    {
+      "job_id": 200,
+      "company": "Meazure Learning",
+      "role": "Principal Software Engineer",
+      "location": "India",
+      "direct_url": "https://www.linkedin.com/jobs/view/4468599104/",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "b1940052b6aac6f037bf76c55c559e325f65778831662162e83fd9c9af094a86",
+      "original_page_checked_at": "2026-09-28T13:21:17.902008+00:00",
+      "reviewed_at": "2026-09-28T15:42:14.778566+00:00",
+      "experience_minimum": 10.0,
+      "evidence": {
+        "location": "India",
+        "experience": "field (or equivalent experience). 10+ years of professional software development disciplines and deep technical skills 1+ year in Principal Software Engi",
+        "technology": null,
+        "role": "ive problem solving. The Principal Software Engineer appreciates the complexities of building a product (SAAS) and understands software architecture so"
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience starts at 10 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 193,
+      "company": "Energy Exemplar",
+      "role": "Principal Software Engineer",
+      "location": "4th Floor, WeWork Amanora Crest, Amanora Park Town, Magarpatta, Hadapsar, Pune, Maharashtra 411028Wo",
+      "direct_url": "https://www.linkedin.com/jobs/view/4426604602/",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "ff6a8d14c04e8ad3405b4e1be1d6cd429b43c218b72860eea32177a9dfcc989a",
+      "original_page_checked_at": "2026-09-28T13:21:17.917299+00:00",
+      "reviewed_at": "2026-09-28T15:42:14.784910+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "4th Floor, WeWork Amanora Crest, Amanora Park Town, Magarpatta, Hadapsar, Pune, Maharashtra 411028Wo",
+        "experience": null,
+        "technology": null,
+        "role": "About the PositionReporting to the Software Engineering Manager as a member of the Development team in India, the Software Engineer is responsible for d"
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ]
+    },
+    {
+      "job_id": 194,
+      "company": "Flexiple",
+      "role": "Senior Software Engineer",
+      "location": "Remote (India)",
+      "direct_url": "https://www.linkedin.com/jobs/view/4472714460/",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "4fd956caec8302e1910bf564122842d7d72d120c1b939828f64a9a95771750cd",
+      "original_page_checked_at": "2026-09-28T13:21:17.936219+00:00",
+      "reviewed_at": "2026-09-28T15:42:14.791230+00:00",
+      "experience_minimum": 10.0,
+      "evidence": {
+        "location": "Remote (India)",
+        "experience": "work Ideal Candidate Profile 5 to 10 years building and operating production systems at scale Strong system-design skills, including trade-offs around p",
+        "technology": null,
+        "role": "About the job Senior Software Engineer A US fintech scaling its India team Location: Remote (India) About the Company A US fintech is scal"
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience starts at 10 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 197,
+      "company": "Hawk Sense Business Solutions Pvt Ltd (formerly known as Hawk Sense Security Systems Pvt Ltd)",
+      "role": "Senior Software Engineer",
+      "location": "India",
+      "direct_url": "https://www.linkedin.com/jobs/view/4470828829/",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "7ecca5831f2b02ab7b2d2ebc6d8b9586f1100958036d90920505197674adaf85",
+      "original_page_checked_at": "2026-09-28T13:21:17.881222+00:00",
+      "reviewed_at": "2026-09-28T15:42:14.795888+00:00",
+      "experience_minimum": 6.0,
+      "evidence": {
+        "location": "India",
+        "experience": "st the below criteria: Experience: 6+ years Location: Remote Budget: Up to ₹1.6 LPM Shift: 12 PM – 8 PM IST JD: Key Requirement: The proposed SDE must ha",
+        "technology": null,
+        "role": null
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience starts at 6 years, above the 2.5-year High-fit gate"
+      ]
+    }
+  ]
+}

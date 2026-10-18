@@ -1,0 +1,11 @@
+{
+  "saved_phone_label_supported": true,
+  "confirmed_private_phone_format_valid": true,
+  "synthetic_control_private_value_fill_verified": true,
+  "synthetic_control_private_value_readback_verified": true,
+  "manual_job_4478450952_retry_excluded": true,
+  "browser_started": false,
+  "applications_started": 0,
+  "focused_checks_passed": 5,
+  "shared_synthetic_worker_check_passed": true
+}

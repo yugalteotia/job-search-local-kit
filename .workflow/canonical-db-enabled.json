@@ -1,0 +1,5 @@
+{
+  "enabled_at": "2026-09-28T03:40:44.617674+00:00",
+  "database": ".workflow/jobs.sqlite3",
+  "verification_report": ".workflow/migration/verification.json"
+}

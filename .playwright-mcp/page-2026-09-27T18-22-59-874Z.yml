@@ -1,0 +1,363 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - dialog "Privacy" [ref=e5]:
+      - generic [ref=e7]:
+        - generic [ref=e10]:
+          - text: We use cookies to personalize content and ads, analyze traffic and improve our services. We also use essential cookies to inform employers of clicks to their jobs. You acknowledge that your use of Indeed is subject to our updated
+          - link "Privacy Policy" [ref=e11] [cursor=pointer]:
+            - /url: https://hrtechprivacy.com/brands/indeed#privacypolicy
+          - text: ","
+          - link "Cookie Policy" [ref=e12] [cursor=pointer]:
+            - /url: https://hrtechprivacy.com/brands/indeed#Cookies
+          - text: ", and"
+          - link "Terms" [ref=e13] [cursor=pointer]:
+            - /url: https://www.indeed.com/legal?from=onetrust-banner
+          - text: ", which we encourage you to review."
+        - generic [ref=e15]:
+          - button "Cookies Settings, Opens the preference center dialog" [ref=e16] [cursor=pointer]: Cookies Settings
+          - button "Reject All" [ref=e17] [cursor=pointer]
+          - button "Accept All Cookies" [ref=e18] [cursor=pointer]
+    - navigation "Primary" [ref=e19]:
+      - generic [ref=e21]:
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - button "Skip to main content" [ref=e24] [cursor=pointer]
+            - link "Indeed Home" [ref=e26] [cursor=pointer]:
+              - /url: /?from=gnav-homepage
+            - list [ref=e30]:
+              - listitem [ref=e31]:
+                - link "Home" [ref=e33] [cursor=pointer]:
+                  - /url: https://in.indeed.com/
+              - listitem [ref=e34]:
+                - link "Company reviews" [ref=e36] [cursor=pointer]:
+                  - /url: https://in.indeed.com/companies
+              - listitem [ref=e37]:
+                - link "Salary guide" [ref=e39] [cursor=pointer]:
+                  - /url: https://in.indeed.com/career/salaries
+          - generic [ref=e40]:
+            - list [ref=e41]:
+              - listitem [ref=e42]:
+                - link "My jobs" [ref=e44] [cursor=pointer]:
+                  - /url: https://myjobs.indeed.com?from=gnav-util-homepage&gnavTK=1k3i1m5tj26ps000&tk=1k3i1m5t025eu000&co=IN&hl=en
+              - listitem [ref=e47]:
+                - link "Messages Unread count 0" [ref=e49] [cursor=pointer]:
+                  - /url: https://messages.indeed.com?from=gnav-util-homepage&gnavTK=1k3i1m5tj26ps000&tk=1k3i1m5t025eu000&co=IN&hl=en
+              - listitem [ref=e56]:
+                - link "Notifications Unread count 0" [ref=e58] [cursor=pointer]:
+                  - /url: https://in.indeed.com/notifications?from=gnav-util-homepage&gnavTK=1k3i1m5tj26ps000&tk=1k3i1m5t025eu000&hl=en
+              - listitem [ref=e61]:
+                - button "Account" [ref=e65] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e69]:
+                    - text: "1"
+                    - generic [ref=e70]: new update
+            - link "Employers / Post Job" [ref=e75] [cursor=pointer]:
+              - /url: https://in.indeed.com/hire?co=IN&hl=en
+        - generic [ref=e76]: Start of main content
+  - main [ref=e82]:
+    - search [ref=e87]:
+      - generic [ref=e90]:
+        - generic [ref=e92]:
+          - generic [ref=e93]:
+            - generic [ref=e94]: "Keyword : all jobs"
+            - 'combobox "search: Job title, keywords, or company" [ref=e101]'
+          - separator [ref=e102]:
+            - generic [ref=e103]: "&nbsp;"
+          - generic [ref=e104]:
+            - generic [ref=e105]: Edit location input box label
+            - combobox "Edit location" [ref=e112]
+        - button "Find jobs" [ref=e114] [cursor=pointer]
+    - generic [ref=e117]:
+      - generic [ref=e122]:
+        - generic [ref=e123]:
+          - heading "Welcome, Yugal" [level=1] [ref=e124]
+          - button "₹9,00,000 per year - edit pay preferences" [ref=e127] [cursor=pointer]:
+            - generic [ref=e130]: ₹9L / yr
+        - generic [ref=e132]:
+          - heading "Jobs for you" [level=2] [ref=e138]
+          - list [ref=e143]:
+            - listitem [ref=e144]:
+              - generic [ref=e149]:
+                - heading [level=3] [ref=e151]:
+                  - button "full details of SOFTWARE ENGINEER - MICROSERVICES - VOIS" [pressed] [ref=e152] [cursor=pointer]: SOFTWARE ENGINEER - MICROSERVICES - VOIS
+                - generic [ref=e158]:
+                  - generic [ref=e159]: Vodafone
+                  - generic [ref=e161]: Bengaluru, Karnataka
+                - generic [ref=e162]:
+                  - button "Save job Toggle" [ref=e163] [cursor=pointer]
+                  - button "Not interested" [ref=e166] [cursor=pointer]
+            - listitem [ref=e170]:
+              - generic [ref=e175]:
+                - generic [ref=e176]:
+                  - heading [level=3] [ref=e177]:
+                    - 'button "full details of Application Developer - # 26-22319" [ref=e178] [cursor=pointer]': "Application Developer - # 26-22319"
+                  - generic [ref=e179]: Easily apply
+                - generic [ref=e186]:
+                  - generic [ref=e189]:
+                    - generic [ref=e190]: US Tech Solutions, Inc.
+                    - generic [ref=e192]: Bengaluru, Karnataka
+                  - list [ref=e194]:
+                    - listitem [ref=e195]:
+                      - generic [ref=e196]:
+                        - img "matches your preference" [ref=e198]
+                        - generic [ref=e200]: ₹1,000.00 - ₹1,122.62 an hour
+                    - listitem [ref=e202]:
+                      - generic [ref=e203]:
+                        - img "matches your preference" [ref=e205]
+                        - generic [ref=e207]: Contractual / Temporary
+                - generic [ref=e209]:
+                  - button "Save job Toggle" [ref=e210] [cursor=pointer]
+                  - button "Not interested" [ref=e213] [cursor=pointer]
+            - listitem [ref=e217]:
+              - generic [ref=e222]:
+                - generic [ref=e223]:
+                  - heading [level=3] [ref=e224]:
+                    - button "full details of SpringBoot" [ref=e225] [cursor=pointer]: SpringBoot
+                  - generic [ref=e226]: Easily apply
+                - generic [ref=e233]:
+                  - generic [ref=e236]:
+                    - generic [ref=e237]: IAURO SYSTEMS PRIVATE LIMITED
+                    - generic [ref=e239]: Pune, Maharashtra
+                  - list [ref=e241]:
+                    - listitem [ref=e242]:
+                      - generic [ref=e243]:
+                        - img "matches your preference" [ref=e245]
+                        - generic [ref=e247]: ₹5,00,000 - ₹15,00,000 a year
+                - generic [ref=e249]:
+                  - button "Save job Toggle" [ref=e250] [cursor=pointer]
+                  - button "Not interested" [ref=e253] [cursor=pointer]
+            - listitem [ref=e257]:
+              - generic [ref=e262]:
+                - generic [ref=e263]:
+                  - heading [level=3] [ref=e264]:
+                    - button "full details of Platform Software Engineer" [ref=e265] [cursor=pointer]: Platform Software Engineer
+                  - generic [ref=e266]: Easily apply
+                - generic [ref=e276]:
+                  - generic [ref=e277]: Nexthink
+                  - generic [ref=e279]: Bengaluru, Karnataka
+                - generic [ref=e280]:
+                  - button "Save job Toggle" [ref=e281] [cursor=pointer]
+                  - button "Not interested" [ref=e284] [cursor=pointer]
+            - listitem [ref=e288]:
+              - generic [ref=e293]:
+                - generic [ref=e294]:
+                  - heading [level=3] [ref=e295]:
+                    - button "full details of Senior Software Engineer" [ref=e296] [cursor=pointer]: Senior Software Engineer
+                  - generic [ref=e297]: Easily apply
+                - generic [ref=e304]:
+                  - generic [ref=e307]:
+                    - generic [ref=e308]: PrismHR
+                    - generic [ref=e310]: Noida, Uttar Pradesh
+                  - list [ref=e312]:
+                    - listitem [ref=e313]:
+                      - generic [ref=e314]:
+                        - img "matches your preference" [ref=e316]
+                        - generic [ref=e318]: Full-time
+                - generic [ref=e320]:
+                  - button "Save job Toggle" [ref=e321] [cursor=pointer]
+                  - button "Not interested" [ref=e324] [cursor=pointer]
+            - listitem [ref=e328]:
+              - generic [ref=e333]:
+                - heading [level=3] [ref=e335]:
+                  - button "full details of Software Development Engineer- II" [ref=e336] [cursor=pointer]: Software Development Engineer- II
+                - generic [ref=e339]:
+                  - generic [ref=e342]:
+                    - generic [ref=e343]: BEIING
+                    - generic [ref=e345]: Bengaluru, Karnataka
+                  - list [ref=e347]:
+                    - listitem [ref=e348]:
+                      - generic [ref=e349]:
+                        - img "matches your preference" [ref=e351]
+                        - generic [ref=e353]: ₹16,00,000 - ₹22,00,000 a year
+                - generic [ref=e355]:
+                  - button "Save job Toggle" [ref=e356] [cursor=pointer]
+                  - button "Not interested" [ref=e359] [cursor=pointer]
+            - listitem
+            - listitem [ref=e363]:
+              - generic [ref=e368]:
+                - heading [level=3] [ref=e370]:
+                  - button "full details of Full Stack Developer" [ref=e371] [cursor=pointer]: Full Stack Developer
+                - generic [ref=e374]:
+                  - generic [ref=e377]:
+                    - generic [ref=e378]: Exelink Management Private Limited
+                    - generic [ref=e380]: Bengaluru, Karnataka
+                  - list [ref=e382]:
+                    - listitem [ref=e383]:
+                      - generic [ref=e384]:
+                        - img "matches your preference" [ref=e386]
+                        - generic [ref=e388]: ₹12,00,000 - ₹18,00,000 a year
+                - generic [ref=e390]:
+                  - button "Save job Toggle" [ref=e391] [cursor=pointer]
+                  - button "Not interested" [ref=e394] [cursor=pointer]
+            - listitem [ref=e398]:
+              - generic [ref=e403]:
+                - generic [ref=e404]:
+                  - heading [level=3] [ref=e405]:
+                    - button "full details of Software Engineer - I (NodeJS, Python, Go) - Bengaluru" [ref=e406] [cursor=pointer]: Software Engineer - I (NodeJS, Python, Go) - Bengaluru
+                  - generic [ref=e407]: Easily apply
+                - generic [ref=e414]:
+                  - generic [ref=e417]:
+                    - generic [ref=e418]: CLANX
+                    - generic [ref=e420]: Bengaluru, Karnataka
+                  - list [ref=e422]:
+                    - listitem [ref=e423]:
+                      - generic [ref=e424]:
+                        - img "matches your preference" [ref=e426]
+                        - generic [ref=e428]: ₹20,00,000 - ₹30,00,000 a year
+                    - listitem [ref=e430]:
+                      - generic [ref=e431]:
+                        - img "matches your preference" [ref=e433]
+                        - generic [ref=e435]: Full-time
+                - generic [ref=e437]:
+                  - button "Save job Toggle" [ref=e438] [cursor=pointer]
+                  - button "Not interested" [ref=e441] [cursor=pointer]
+            - listitem [ref=e445]:
+              - generic [ref=e450]:
+                - heading [level=3] [ref=e452]:
+                  - button "full details of Software Engineer, Backend - India" [ref=e453] [cursor=pointer]: Software Engineer, Backend - India
+                - generic [ref=e459]:
+                  - generic [ref=e460]: Ema
+                  - generic [ref=e462]: Bengaluru, Karnataka
+                - generic [ref=e463]:
+                  - button "Save job Toggle" [ref=e464] [cursor=pointer]
+                  - button "Not interested" [ref=e467] [cursor=pointer]
+            - listitem [ref=e471]:
+              - generic [ref=e476]:
+                - heading [level=3] [ref=e478]:
+                  - button "full details of Backend Java Developer" [ref=e479] [cursor=pointer]: Backend Java Developer
+                - generic [ref=e482]:
+                  - generic [ref=e485]:
+                    - generic [ref=e486]: Nuchange Informatics
+                    - generic [ref=e488]: Bengaluru, Karnataka
+                  - list [ref=e490]:
+                    - listitem [ref=e491]:
+                      - generic [ref=e492]:
+                        - img "matches your preference" [ref=e494]
+                        - generic [ref=e496]: ₹6,00,000 - ₹15,00,000 a year
+                - generic [ref=e498]:
+                  - button "Save job Toggle" [ref=e499] [cursor=pointer]
+                  - button "Not interested" [ref=e502] [cursor=pointer]
+            - listitem [ref=e506]:
+              - generic [ref=e511]:
+                - generic [ref=e512]:
+                  - heading [level=3] [ref=e513]:
+                    - button "full details of Full Stack Developer" [ref=e514] [cursor=pointer]: Full Stack Developer
+                  - generic [ref=e515]: Easily apply
+                - generic [ref=e522]:
+                  - generic [ref=e525]:
+                    - generic [ref=e526]: PinnacleU
+                    - generic [ref=e528]: Bengaluru, Karnataka
+                  - list [ref=e530]:
+                    - listitem [ref=e531]:
+                      - generic [ref=e532]:
+                        - img "matches your preference" [ref=e534]
+                        - generic [ref=e536]: ₹14,00,000 - ₹15,00,000 a year
+                - generic [ref=e538]:
+                  - button "Save job Toggle" [ref=e539] [cursor=pointer]
+                  - button "Not interested" [ref=e542] [cursor=pointer]
+          - button "Show more jobs" [ref=e549] [cursor=pointer]
+      - generic [ref=e559]:
+        - generic [ref=e560]:
+          - generic [ref=e562]:
+            - heading "SOFTWARE ENGINEER - MICROSERVICES - VOIS" [level=5] [ref=e564]
+            - generic [ref=e566]:
+              - generic [ref=e567]:
+                - link "Vodafone (opens in a new tab)" [ref=e568] [cursor=pointer]:
+                  - /url: https://in.indeed.com/cmp/Vodafone?campaignid=mobvjcmp&from=mobviewjob&tk=1k3i1m6hdhn15800&fromjk=903f756790f19b44
+                  - text: Vodafone
+                - generic [ref=e572]:
+                  - generic [ref=e573]: ·
+                  - generic "3.8 out of 5 stars" [ref=e576]: "3.8"
+              - generic [ref=e580]: Bengaluru, Karnataka
+            - generic [ref=e581]: Full-time
+          - generic [ref=e584]:
+            - link "Apply on company site" [ref=e588] [cursor=pointer]:
+              - /url: https://in.indeed.com/applystart?jk=903f756790f19b44&from=vj&pos=bottom&mvj=0&jobsearchTk=1k3i1m66f26r3000&spon=0&xkcb=SoDF67M2eyLXHKTC8B0EbzkdCdPP&vjfrom=mobhp_jobfeed_auto&asub=mob&astse=a4fba3ab42ae6703&assa=6647
+            - button "Save job" [ref=e595] [cursor=pointer]
+            - button "Not Interested, SOFTWARE ENGINEER - MICROSERVICES - VOIS" [ref=e599] [cursor=pointer]
+            - button "Share job" [ref=e604] [cursor=pointer]
+        - generic [ref=e611]:
+          - generic [ref=e614]:
+            - generic [ref=e615]:
+              - heading "Job details" [level=4] [ref=e616]
+              - generic [ref=e617]:
+                - text: Here’s how the job details align with your
+                - link "profile (opens in a new window)" [ref=e618] [cursor=pointer]:
+                  - /url: https://profile.indeed.com
+                  - text: profile
+                - text: .
+            - group "Job type" [ref=e620]:
+              - generic [ref=e624]:
+                - heading "Job type" [level=2] [ref=e625]
+                - button "Full-time, matching preference" [ref=e629] [cursor=pointer]:
+                  - generic [ref=e630]: Full-time
+          - generic [ref=e643]:
+            - heading "Full job description" [level=4] [ref=e644]
+            - generic [ref=e647]:
+              - generic [ref=e648]:
+                - heading "Who we are" [level=2] [ref=e650]
+                - generic [ref=e651]: "VOIS (Vodafone Intelligent Solutions) is a strategic arm of Vodafone Group Plc, creating value for customers by delivering intelligent solutions through Talent, Technology & Transformation. As the largest shared services organisation in the global telco industry with 30,000 FTE, our portfolio of next-generation solutions and services are designed in partnership with customers across Vodafone Group, local markets, and partner markets to simplify and drive growth. With our strategic partner Accenture, we work alongside our Vodafone customers, other Telco and tech companies to drive transformation, meet the challenges of our industry and ensure we stay relevant and resilient. This partnership is a unique, industry-first model which brings together the best of in-house and 3rd party capability. We work with customers across 28 countries from 10 VOIS locations: Albania, Egypt, Hungary, India, Romania, Spain, Turkey, UK, Germany, Ireland, and with a network of teams in Czech Republic, Italy, Greece, and Portugal. #VOIS #BeUnrivalled #CreateTheFuture"
+              - generic [ref=e653]:
+                - heading "About this Role" [level=2] [ref=e655]
+                - generic [ref=e656]: We are seeking a skilled and motivated Software Engineer to join our microservices integration team within VOIS India. This role focuses on designing and building scalable, cloud-based integration solutions using modern microservices architecture. The successful candidate will work within a Scrum squad in a SAFe environment to deliver robust, high-quality APIs and services, contributing to the transformation of Vodafone’s integration layer and enhancing seamless data flow across systems.
+              - generic [ref=e658]:
+                - heading "What you will do" [level=2] [ref=e660]
+                - list [ref=e662]:
+                  - listitem [ref=e663]: Develop and maintain microservices within a Scrum/Kanban squad operating in a SAFe framework
+                  - listitem [ref=e664]: Design and build solutions using TIBCO technologies (EMS, BW, Admin)
+                  - listitem [ref=e665]: Develop and enhance RESTful APIs within a microservices architecture
+                  - listitem [ref=e666]: Ensure quality, reliability, and performance of owned services using best practices
+                  - listitem [ref=e667]: Participate in sprint planning, backlog refinement, and delivery of user stories
+                  - listitem [ref=e668]: Apply continuous improvement through learning, collaboration, and feedback
+                  - listitem [ref=e669]: Maintain high standards of code quality, testing (including JUnit), and defect resolution
+                  - listitem [ref=e670]: Support integration across systems using event-driven architecture and messaging tools such as Kafka and RabbitMQ
+              - generic [ref=e671]:
+                - heading "Who you are" [level=2] [ref=e673]
+                - list [ref=e675]:
+                  - listitem [ref=e676]: Experienced in developing applications using TIBCO (EMS, BW, Admin)
+                  - listitem [ref=e677]: Strong knowledge of REST APIs and microservices architecture
+                  - listitem [ref=e678]: Proficient in Java and frameworks such as Spring Boot
+                  - listitem [ref=e679]: Understanding of SOA principles, object-oriented programming, and collections
+                  - listitem [ref=e680]: Experience with data streaming and storage technologies such as Kafka and MongoDB
+                  - listitem [ref=e681]: Familiarity with DevOps tools and practices including Maven, Git, Jenkins, and branching strategies
+                  - listitem [ref=e682]: Exposure to containerisation using Docker and orchestration tools such as Kubernetes
+                  - listitem [ref=e683]: Knowledge of event-driven architecture, Apache Camel, routers and processors
+                  - listitem [ref=e684]: Experience with performance tuning, caching, and monitoring tools such as Splunk, Prometheus, Grafana, or AppDynamics
+                  - listitem [ref=e685]: Strong problem-solving mindset with a passion for learning and improving
+                  - listitem [ref=e686]: Ability to collaborate effectively and contribute to team success
+              - generic [ref=e687]:
+                - heading "Not a Perfect Fit?" [level=2] [ref=e689]
+                - generic [ref=e690]: Concerned you may not meet every requirement? Vodafone is committed to creating an inclusive workplace where everyone can thrive. If you are excited about this role but your experience does not align exactly with every aspect of the job description, you are encouraged to apply. You may be the right candidate for this or another opportunity, and the recruitment team will support you in exploring where your skills fit best.
+              - generic [ref=e692]:
+                - heading "What’s in it for you" [level=2] [ref=e694]
+                - list [ref=e696]:
+                  - listitem [ref=e697]: Opportunity to work on large-scale, cloud-based microservices platforms within a global organisation
+                  - listitem [ref=e698]: Exposure to modern integration patterns and enterprise-grade systems
+                  - listitem [ref=e699]: Collaborative Agile work environment with cross-functional teams
+                  - listitem [ref=e700]: Continuous learning through hands-on experience, certifications, and coaching
+                  - listitem [ref=e701]: Chance to contribute to transformation initiatives impacting millions of customers
+              - generic [ref=e702]:
+                - heading "What skills you will learn" [level=2] [ref=e704]
+                - list [ref=e706]:
+                  - listitem [ref=e707]: Advanced microservices architecture and integration design patterns
+                  - listitem [ref=e708]: Hands-on expertise in TIBCO and enterprise integration frameworks
+                  - listitem [ref=e709]: Cloud-native development and container orchestration (Docker, Kubernetes)
+                  - listitem [ref=e710]: Event-driven architecture using Kafka and messaging platforms
+                  - listitem [ref=e711]: CI/CD practices and DevOps toolchains
+                  - listitem [ref=e712]: Observability and performance monitoring using industry-standard tools
+              - generic [ref=e713]:
+                - heading "VOIS Equal Opportunity Employer Commitment" [level=2] [ref=e715]
+                - generic [ref=e716]: Vodafone recognises and celebrates the value of diversity in building a workforce that reflects the customers and communities it serves. No form of discrimination is tolerated. This includes, but is not limited to, discrimination based on race, colour, age, veteran status, gender identity, gender expression, sexual orientation, pregnancy, maternity or parental status, ethnicity, disability, religion or belief, political affiliation, trade union membership, nationality, citizenship, indigenous status, medical condition, HIV status, neurodiversity, social origin, cultural background, marital or civil partnership status, or socio-economic background.
+              - generic [ref=e718]:
+                - heading "Join Us" [level=2] [ref=e720]
+                - generic [ref=e721]: At Vodafone, we’re working hard to build a better future. A more connected, inclusive and sustainable world. As a dynamic global community, it's our human spirit, together with technology, that empowers us to achieve this. We challenge and innovate in order to connect people, businesses, and communities across the world. Delighting our customers and earning their loyalty drive us, and we experiment, learn fast and get it done, together. With us, you can be truly be yourself and belong, share inspiration, embrace new opportunities, thrive, and make a real difference.
+              - generic [ref=e723]:
+                - heading "Alert" [level=2] [ref=e725]
+                - generic [ref=e726]: "Apply for Vodafone jobs only through the official Vodafone Careers website to avoid job scams and fraud.” #JDEnhancedByTARA"
+              - generic [ref=e728]:
+                - 'heading "Follow us on social media and #StayConnected" [level=2] [ref=e730]'
+                - list [ref=e732]:
+                  - listitem [ref=e733]: "LinkedIn: https://www.linkedin.com/company/vois/"
+                  - listitem [ref=e734]: "Facebook: https://www.facebook.com/voisglobal"
+                  - listitem [ref=e735]: "Instagram: https://www.instagram.com/voisglobal/"
+                  - listitem [ref=e736]: "You can also chat with our employees to learn more about our projects: https://lnkd.in/dpkrcvR2"
+        - button "Is there a problem with this job?" [ref=e739] [cursor=pointer]

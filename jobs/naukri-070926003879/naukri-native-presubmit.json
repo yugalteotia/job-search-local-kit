@@ -1,0 +1,30 @@
+{
+  "job_id": 244,
+  "portal_job_id": "070926003879",
+  "form_url": "https://www.naukri.com/job-listings-java-backend-developer-naukri-e-hire-campaign-mumbai-1-to-4-years-070926003879",
+  "provider": "naukri_native_chat",
+  "signed_in": true,
+  "account_name_matches": true,
+  "exact_listing_id": "070926003879",
+  "profile_resume_filename": "Yugal_Teotia_Java_Backend_Developer.pdf",
+  "profile_resume_sha256": "8f78ea919246357b69744ba578f28e530fd7895790a1e30e48021e71c0a39a99",
+  "profile_verified_at": "2026-09-29T12:47:14.278830+00:00",
+  "listing_checked_at": "2026-09-29T12:47:15.621657+00:00",
+  "history_checked_at": "2026-09-29T12:37:24.691908+00:00",
+  "screening_question": "What is your total work experience?",
+  "screening_answer_confirmed": true,
+  "potential_submit_action": "screening_chat_save",
+  "checks": {
+    "listing_live": true,
+    "not_previously_applied": true,
+    "jd_reviewed": true,
+    "resume_visually_reviewed": true,
+    "exact_resume_selected": true,
+    "answers_confirmed": true,
+    "final_submit_identified": true
+  },
+  "recorded_at": "2026-09-29T12:47:20.749151+00:00",
+  "answer_fact_refs": [
+    "APPLICATION_PROFILE.md: total professional experience, approximately 2+ years overall"
+  ]
+}

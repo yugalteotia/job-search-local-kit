@@ -1,0 +1,665 @@
+{
+  "run_id": "e3724712-f146-4dd7-85da-b311e122bc64",
+  "started_at": "2026-09-28T06:35:47.864713+00:00",
+  "mode": "read_only",
+  "upload_enabled": false,
+  "submission_enabled": false,
+  "scheduled": true,
+  "test": true,
+  "status": "Partial",
+  "sources": {
+    "naukri": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:35:54.620389+00:00",
+      "pages_checked": 1,
+      "leads": 0,
+      "feed_jobs": 0
+    },
+    "linkedin": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:36:04.849040+00:00",
+      "pages_checked": 1,
+      "leads": 7,
+      "feed_jobs": 0
+    },
+    "indeed": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:36:05.532570+00:00",
+      "pages_checked": 1,
+      "leads": 12,
+      "feed_jobs": 0
+    },
+    "foundit": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:36:06.891614+00:00",
+      "pages_checked": 1,
+      "leads": 17,
+      "feed_jobs": 0
+    },
+    "celonis_greenhouse": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:36:06.891836+00:00",
+      "pages_checked": 1,
+      "leads": 0,
+      "feed_jobs": 100,
+      "unique_originals_verified": 14
+    },
+    "cutshort": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:36:11.811055+00:00",
+      "pages_checked": 1,
+      "leads": 30,
+      "feed_jobs": 0
+    },
+    "brillio_lever": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-09-28T06:36:05.532709+00:00",
+      "pages_checked": 3,
+      "leads": 0,
+      "feed_jobs": 210,
+      "unique_originals_verified": 20
+    }
+  },
+  "coverage": {
+    "naukri": [
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Pune",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Spring%20Boot%20software%20engineer&l=Pune&pageNo=1",
+        "checked_at": "2026-09-28T06:35:54.587273+00:00",
+        "status": "Success",
+        "lead_count": 0,
+        "observed_url": "https://www.naukri.com/spring-boot-software-engineer-jobs-in-pune",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "linkedin": [
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Pune",
+        "page": 1,
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Spring%20Boot%20software%20engineer&location=Pune&sortBy=DD&start=0",
+        "checked_at": "2026-09-28T06:36:04.833515+00:00",
+        "status": "Success",
+        "lead_count": 7,
+        "observed_url": "https://www.linkedin.com/jobs/search/",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "indeed": [
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Pune",
+        "page": 1,
+        "url": "https://in.indeed.com/jobs?q=Spring%20Boot%20software%20engineer&l=Pune&sort=date&start=0",
+        "checked_at": "2026-09-28T06:36:05.517010+00:00",
+        "status": "Success",
+        "lead_count": 12,
+        "observed_url": "https://in.indeed.com/jobs",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "foundit": [
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Pune",
+        "page": 1,
+        "url": "https://www.foundit.in/srp/results?query=Spring%20Boot%20software%20engineer&locations=Pune&page=1",
+        "checked_at": "2026-09-28T06:36:06.857052+00:00",
+        "status": "Success",
+        "lead_count": 17,
+        "observed_url": "https://www.foundit.in/srp/results",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "celonis_greenhouse": [
+      {
+        "page": 1,
+        "url": "https://boards-api.greenhouse.io/v1/boards/celonis/jobs?content=true",
+        "items": 100,
+        "total_returned": 253,
+        "checked_at": "2026-09-28T06:36:08.026511+00:00",
+        "status": "Partial"
+      }
+    ],
+    "cutshort": [
+      {
+        "query": "Spring Boot software engineer",
+        "location": "Pune",
+        "page": 1,
+        "url": "https://cutshort.io/jobs/java-jobs?query=Spring%20Boot%20software%20engineer&location=Pune&page=1",
+        "checked_at": "2026-09-28T06:36:11.779291+00:00",
+        "status": "Success",
+        "lead_count": 30,
+        "observed_url": "https://cutshort.io/jobs/java-jobs",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "brillio_lever": [
+      {
+        "page": 1,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=0&limit=100&mode=json",
+        "items": 100,
+        "checked_at": "2026-09-28T06:36:09.629722+00:00",
+        "status": "Success"
+      },
+      {
+        "page": 2,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=100&limit=100&mode=json",
+        "items": 100,
+        "checked_at": "2026-09-28T06:36:13.246617+00:00",
+        "status": "Success"
+      },
+      {
+        "page": 3,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=200&limit=100&mode=json",
+        "items": 13,
+        "checked_at": "2026-09-28T06:36:15.307982+00:00",
+        "status": "Success"
+      }
+    ]
+  },
+  "leads": 376,
+  "unique_original_requisitions_verified": 34,
+  "fit_decisions": {
+    "168": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ],
+      "evidence": {
+        "location": "Chennai, Tamil Nadu, India",
+        "experience": null,
+        "technology": null,
+        "role": null
+      },
+      "jd_sha256": "b4ec4af7f9c8b43a22786ba1f822aef32a60482b50713ed96d4ee4dfa6b0a013"
+    },
+    "169": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ],
+      "evidence": {
+        "location": "Bangalore, Karnataka, India",
+        "experience": null,
+        "technology": null,
+        "role": null
+      },
+      "jd_sha256": "f0dd02f9939850663be9bab146df8a55acfc22bf5d7b05bbe05d16b864ec844a"
+    },
+    "170": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ],
+      "evidence": {
+        "location": "Bangalore, Karnataka, India",
+        "experience": null,
+        "technology": null,
+        "role": null
+      },
+      "jd_sha256": "9a6d6b02a8eca183ff6f3ca14c8dd4deccf4a1eaaaa9da7ddcdcbef69438cf61"
+    },
+    "171": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "172": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "173": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "174": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "175": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "176": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "177": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "178": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "179": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "180": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "181": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "182": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "183": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "184": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "185": {
+      "fit": "Unrated",
+      "eligible": false,
+      "reason": "Exact JD requirement evidence pending"
+    },
+    "154": {
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "mputer Science or a related field. 3-6 years of hands-on software engineering experience. Hands on experience in Java, Spring, Hibernate frameworks. Expos",
+        "technology": "experience. Hands on experience in Java, Spring, Hibernate frameworks. Exposure to geographically distributed work environments. Ability",
+        "role": "Title: Software Engineer - Java, Springboot, SAAS Location: Bangalore, India Celonis is the trusted platform to industrializ"
+      },
+      "jd_sha256": "5b77338eab387200bc0c7b4950ee1facb98d244cb0c01955fa83f8d5d55a190c"
+    },
+    "155": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Required experience starts at 10 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "ineering) or equivalent experience 10+ years of software engineering experience 7+ years of experience as Backend Engineer with strong expertise in buildi",
+        "technology": "microservices based products using Java, Spring framework, JPA, Hibernate is a must. Experience with building data pipelines in Databrick",
+        "role": "Title: Staff Software Engineer - Java, Springboot, SAAS Location: Bangalore, India Celonis is the trusted platform to industrializ"
+      },
+      "jd_sha256": "cec77a5f72367b75893c803fa810a1f135df203ed97a8b98e08d11f12cd9f4bb"
+    },
+    "156": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Required experience starts at 5 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "neering) or equivalent experience. 5+ years of experience (mandatory) as Backend Engineer with strong expertise in building microservices based products",
+        "technology": "microservices based products using Java, Spring framework, JPA, Hibernate is a must. Experience with building data pipelines in Databrick",
+        "role": "Title: Senior Software Engineer - Java, Springboot, SAAS Location: Bangalore, India Celonis is the trusted platform to industrializ"
+      },
+      "jd_sha256": "582e710aa4eb2921618ee506df37c29777647128e20a6662f3541fc80c4ff8ac"
+    },
+    "104": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ],
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": null,
+        "technology": null,
+        "role": null
+      },
+      "jd_sha256": "10847a1ae946ec3ab9a65ffd731847fd55d741de9ba96271acfae55886316ca8"
+    },
+    "23": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ],
+      "evidence": {
+        "location": "Bangalore, Karnataka, India",
+        "experience": null,
+        "technology": null,
+        "role": null
+      },
+      "jd_sha256": "08d4ebf307ecf0c68c710e765a9c1c5226473c30aac67da8bd1731896b292a72"
+    },
+    "59": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ],
+      "evidence": {
+        "location": "Bangalore, Karnataka, India",
+        "experience": null,
+        "technology": null,
+        "role": null
+      },
+      "jd_sha256": "af5f41e870c64a4addaf345530c1131856da56d3d5cd7b35e9e0b3a3ff8d63ff"
+    },
+    "166": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ],
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": null,
+        "technology": null,
+        "role": null
+      },
+      "jd_sha256": "99d2fe6042388b086f6b7cbd73a4252806f9e1bcdac2ad6afcf44e29a2eadc8f"
+    }
+  },
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/e3724712-f146-4dd7-85da-b311e122bc64.json"
+  ],
+  "queue": {},
+  "stage_seconds": {
+    "discovery": 27.44,
+    "original_verification": 5.86,
+    "lead_resolution": 69.4,
+    "fit_review": 0.23
+  },
+  "stage_counts": {
+    "normalized_unique_ats": 310,
+    "selected_for_original_check": 34,
+    "fetched": 376,
+    "unique_portal_leads": 60,
+    "unique_original_requisitions": 34,
+    "eligible_for_review": 34,
+    "original_jds_reviewed": 10,
+    "high": 0,
+    "queued_for_resume": 0,
+    "review_queue_added": 34,
+    "portal_originals_matched": 0,
+    "portal_leads_still_needing_original": 14
+  },
+  "top_reviewed": [
+    {
+      "job_id": 154,
+      "company": "Celonis",
+      "role": "Software Engineer - Java, Springboot, SAAS",
+      "location": "Bangalore, India",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7791275003",
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "review_version": 2,
+      "jd_sha256": "5b77338eab387200bc0c7b4950ee1facb98d244cb0c01955fa83f8d5d55a190c",
+      "original_page_checked_at": "2026-09-28T06:36:16.146285+00:00",
+      "reviewed_at": "2026-09-28T06:37:31.155399+00:00",
+      "experience_minimum": 3.0,
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "mputer Science or a related field. 3-6 years of hands-on software engineering experience. Hands on experience in Java, Spring, Hibernate frameworks. Expos",
+        "technology": "experience. Hands on experience in Java, Spring, Hibernate frameworks. Exposure to geographically distributed work environments. Ability",
+        "role": "Title: Software Engineer - Java, Springboot, SAAS Location: Bangalore, India Celonis is the trusted platform to industrializ"
+      },
+      "reasons": [
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 155,
+      "company": "Celonis",
+      "role": "Staff Software Engineer - Java, Springboot, SAAS",
+      "location": "Bangalore, India",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7791427003",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 2,
+      "jd_sha256": "cec77a5f72367b75893c803fa810a1f135df203ed97a8b98e08d11f12cd9f4bb",
+      "original_page_checked_at": "2026-09-28T06:36:16.227124+00:00",
+      "reviewed_at": "2026-09-28T06:37:31.164107+00:00",
+      "experience_minimum": 10.0,
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "ineering) or equivalent experience 10+ years of software engineering experience 7+ years of experience as Backend Engineer with strong expertise in buildi",
+        "technology": "microservices based products using Java, Spring framework, JPA, Hibernate is a must. Experience with building data pipelines in Databrick",
+        "role": "Title: Staff Software Engineer - Java, Springboot, SAAS Location: Bangalore, India Celonis is the trusted platform to industrializ"
+      },
+      "reasons": [
+        "Required experience starts at 10 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 156,
+      "company": "Celonis",
+      "role": "Senior Software Engineer - Java, Springboot, SAAS",
+      "location": "Bangalore, India",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7791291003",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 2,
+      "jd_sha256": "582e710aa4eb2921618ee506df37c29777647128e20a6662f3541fc80c4ff8ac",
+      "original_page_checked_at": "2026-09-28T06:36:16.494277+00:00",
+      "reviewed_at": "2026-09-28T06:37:31.171642+00:00",
+      "experience_minimum": 5.0,
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "neering) or equivalent experience. 5+ years of experience (mandatory) as Backend Engineer with strong expertise in building microservices based products",
+        "technology": "microservices based products using Java, Spring framework, JPA, Hibernate is a must. Experience with building data pipelines in Databrick",
+        "role": "Title: Senior Software Engineer - Java, Springboot, SAAS Location: Bangalore, India Celonis is the trusted platform to industrializ"
+      },
+      "reasons": [
+        "Required experience starts at 5 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 104,
+      "company": "Celonis",
+      "role": "Customer Support Engineer - Level 1",
+      "location": "Bangalore, India",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/6647315003",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 2,
+      "jd_sha256": "10847a1ae946ec3ab9a65ffd731847fd55d741de9ba96271acfae55886316ca8",
+      "original_page_checked_at": "2026-09-28T06:36:16.608687+00:00",
+      "reviewed_at": "2026-09-28T06:37:31.177658+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": null,
+        "technology": null,
+        "role": null
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ]
+    },
+    {
+      "job_id": 168,
+      "company": "Brillio",
+      "role": "Fullstack Engineer - React  Java - R01527438",
+      "location": "Chennai, Tamil Nadu, India",
+      "direct_url": "https://jobs.lever.co/brillio-2/7fb2ac4a-a088-4c5d-b67d-77834786b729",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 2,
+      "jd_sha256": "b4ec4af7f9c8b43a22786ba1f822aef32a60482b50713ed96d4ee4dfa6b0a013",
+      "original_page_checked_at": "2026-09-28T06:36:18.612377+00:00",
+      "reviewed_at": "2026-09-28T06:37:31.184289+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "Chennai, Tamil Nadu, India",
+        "experience": null,
+        "technology": null,
+        "role": null
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ]
+    }
+  ],
+  "lead_resolution": {
+    "navigation_links_reclassified": 56,
+    "portal_jobs_inspected": 10,
+    "originals_matched": 0,
+    "needs_original": 14,
+    "by_source": {
+      "naukri": {
+        "needs_original": 0,
+        "not_a_job": 3
+      },
+      "linkedin": {
+        "needs_original": 13,
+        "not_a_job": 0
+      },
+      "foundit": {
+        "needs_original": 0,
+        "not_a_job": 16
+      },
+      "indeed": {
+        "needs_original": 1,
+        "not_a_job": 7
+      },
+      "cutshort": {
+        "needs_original": 0,
+        "not_a_job": 30
+      }
+    },
+    "results": [
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4470834532/",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "PrimrIQ"
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4472495164/",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "MyRemoteTeam Inc"
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4471312994/",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "Jobgether"
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4470832544/",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "Synthires"
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4470836362/",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "Ekloud, Inc."
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4471331273/",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "Zetheta Algorithms Private Limited"
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4468592286/",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "Eton Technologies"
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4470830591/",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "Algoworks"
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4472702077/",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "Tavant"
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4468550105/",
+        "status": "NoAllowlistedOriginal",
+        "original_url": null,
+        "employer_label": "Juniper Square"
+      }
+    ]
+  },
+  "review_coverage": {
+    "by_source": {
+      "celonis_greenhouse": 5,
+      "brillio_lever": 5
+    },
+    "by_company": {
+      "Celonis": 5,
+      "Brillio": 5
+    }
+  },
+  "finished_at": "2026-09-28T06:37:31.216719+00:00",
+  "elapsed_seconds": 103.35
+}

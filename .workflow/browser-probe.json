@@ -1,0 +1,19 @@
+{
+  "started_at": "2026-09-27T21:30:09.914380+00:00",
+  "finished_at": "2026-09-27T21:33:09.962002+00:00",
+  "separate_cli": true,
+  "read_only": true,
+  "timeout_seconds": 180,
+  "timed_out": true,
+  "exit_code": -15,
+  "browser_events": [
+    {
+      "tool": "browser_evaluate",
+      "status": "in_progress"
+    }
+  ],
+  "passed": false,
+  "user_observed": "Manual Allow & select dialog appeared; user did not approve. Treat unattended access as failed.",
+  "errors": [],
+  "failure": "Separate CLI exceeded 180-second bound; process group terminated."
+}

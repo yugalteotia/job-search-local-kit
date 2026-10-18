@@ -1,0 +1,84 @@
+{
+  "shard": "portals_a",
+  "searches": [
+    {
+      "source": "Naukri",
+      "query": "java spring boot backend; Pune; minimum experience filter 1 year; last 1 day",
+      "page_url": "https://www.naukri.com/java-spring-boot-backend-jobs-in-pune?experience=1&jobAge=1",
+      "page_number": 1,
+      "sort": "Date selected in page UI; freshness Last 1 day",
+      "checked_at": "2026-09-28T03:01:45Z",
+      "status": "checked; one visible Java software engineering card among three visible cards; no second page offered"
+    },
+    {
+      "source": "Naukri",
+      "query": "java spring boot api; Bangalore; minimum experience filter 1 year; last 1 day",
+      "page_url": "https://www.naukri.com/java-spring-boot-api-jobs-in-bangalore?experience=1&jobAge=1",
+      "page_number": 1,
+      "sort": "Date selected in page UI; freshness Last 1 day",
+      "checked_at": "2026-09-28T03:02:37Z",
+      "status": "checked; eight visible cards, mostly unrelated; no second page inspected"
+    },
+    {
+      "source": "Indeed",
+      "query": "java spring boot backend; Pune; last 1 day",
+      "page_url": "https://in.indeed.com/jobs?q=java+spring+boot+backend&l=Pune%2C+Maharashtra&fromage=1&sort=date",
+      "page_number": 1,
+      "sort": "sort=date URL parameter; last 1 day",
+      "checked_at": "2026-09-28T03:03:02Z",
+      "status": "checked; eight visible job cards; no second page inspected"
+    },
+    {
+      "source": "Indeed",
+      "query": "java spring boot api developer; Bengaluru; last 1 day",
+      "page_url": "https://in.indeed.com/jobs?q=java+spring+boot+api+developer&l=Bengaluru%2C+Karnataka&fromage=1&sort=date",
+      "page_number": 1,
+      "sort": "sort=date URL parameter; last 1 day",
+      "checked_at": "2026-09-28T03:03:22Z",
+      "status": "checked; seven visible job cards; no second page inspected"
+    },
+    {
+      "source": "Naukri",
+      "query": "java spring boot backend 1-3 years; Hyderabad/Secunderabad; last 1 day",
+      "page_url": "https://www.naukri.com/java-spring-boot-backend-1-3-years-jobs-in-hyderabad-secunderabad?jobAge=1",
+      "page_number": 1,
+      "sort": "Date selected in page UI; freshness Last 1 day",
+      "checked_at": "2026-09-28T03:08:05Z",
+      "status": "checked; ten visible cards, none a suitable Java backend development lead; no second page inspected"
+    },
+    {
+      "source": "Indeed",
+      "query": "java spring boot backend \"1-3 years\"; Hyderabad; last 1 day",
+      "page_url": "https://in.indeed.com/jobs?q=java+spring+boot+backend+%221-3+years%22&l=Hyderabad%2C+Telangana&fromage=1&sort=date",
+      "page_number": 1,
+      "sort": "sort=date URL parameter; last 1 day",
+      "checked_at": "2026-09-28T03:08:13Z",
+      "status": "checked; zero result page displayed"
+    }
+  ],
+  "original_requisitions": [
+    {
+      "company": "Qualys",
+      "requisition_id": "R0004942",
+      "original_url": "https://qualys.wd5.myworkdayjobs.com/en-US/Careers/job/Software-Engineer_R0004942",
+      "live_verified": true,
+      "fit": "Medium"
+    },
+    {
+      "company": "Qualys",
+      "requisition_id": "R0004695",
+      "original_url": "https://qualys.wd5.myworkdayjobs.com/Careers/job/Pune/Software-Engineer_R0004695",
+      "live_verified": false,
+      "fit": "unknown"
+    },
+    {
+      "company": "WebEngage",
+      "requisition_id": "ENG00528",
+      "original_url": "https://webengage.sensehq.com/careers/jobs/54222",
+      "live_verified": true,
+      "fit": "Low"
+    }
+  ],
+  "alerts_checked": 0,
+  "blocked_sources": []
+}

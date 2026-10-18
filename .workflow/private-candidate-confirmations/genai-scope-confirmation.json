@@ -1,0 +1,12 @@
+{
+  "confirmed_by_user": true,
+  "confirmed_at": "2026-10-13T19:01:21.199911+00:00",
+  "correction_supersedes_previous_model_integration_claim": true,
+  "built_ai_agents_for_rca_and_code_optimization_at_ideas": true,
+  "ai_integrations_or_model_based_features_claimed": false,
+  "professional_start_month": "2026-01",
+  "professional_end_date": "2026-09-30",
+  "exact_start_day_unknown": true,
+  "conservative_years": "0.66",
+  "derivation": "Latest possible January start day is a bound, not an asserted actual start date; duration ends at confirmed employment end."
+}

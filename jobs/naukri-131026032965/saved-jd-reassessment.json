@@ -1,0 +1,42 @@
+{
+  "role_focus": "End-to-end AI engineering; substantial API/backend integration, with production Python primary and Java working proficiency",
+  "framework_status": "Spring Boot absent, not required; no named replacement application framework is mandatory",
+  "experience_excerpt": "Experience: 3-5 Years",
+  "relevant_excerpts": [
+    "Design and build production-grade AI applications, agents, workflows, APIs, and backend services.",
+    "Strong production coding skills in Python and working proficiency in Java.",
+    "Strong experience designing and building REST APIs and backend services.",
+    "Hands-on experience building LLM applications, RAG systems, and tool-using agents.",
+    "Experience with Docker and cloud platforms such as Azure, AWS, or GCP.",
+    "Working understanding of Kubernetes, CI/CD, logging, monitoring, and secrets/configuration management."
+  ],
+  "confirmed_overlap": [
+    "Professional Java, REST/API and microservices work",
+    "Docker and CI/CD experience; this does not establish cloud/Kubernetes expertise"
+  ],
+  "essential_gaps": [
+    "Required strong production Python coding is not confirmed",
+    "Required hands-on LLM, RAG, tool-using agents and AI evaluation experience is not confirmed",
+    "Required cloud experience and Kubernetes understanding are not confirmed",
+    "Strong enterprise relational SQL depth is not established beyond project/training evidence"
+  ],
+  "decision": "Medium overlap, not an eligible strong Medium; the primary AI/Python and infrastructure essentials are substantial gaps",
+  "spring_boot_absence_is_rejection_reason": false,
+  "title_seniority_is_rejection_reason": false,
+  "job_id": 336,
+  "requisition_id": "131026032965",
+  "reviewed_at": "2026-10-13T11:25:04.582116+00:00",
+  "jd_sha256": "33e8ae25a4cddbe097de3a3c5617aba9d1064b0ce5a586d6d4cd60a781a6284b",
+  "fit": "Medium",
+  "eligible": false,
+  "strong_medium_eligible": false,
+  "queued": false,
+  "searches": 0,
+  "application_attempts": 0,
+  "generated_by": "manual_saved_jd_reassessment",
+  "scope": "Only these two saved exact JDs",
+  "jd_url": "https://www.naukri.com/job-listings-forward-deployed-software-engineer-hack-and-grow-consultancy-bengaluru-3-to-5-years-131026032965",
+  "required_professional_years": 3,
+  "experience_requirement_met": false,
+  "experience_requirement_assessment": "Explicit 3-year minimum is not established by confirmed experience; the approved near-miss policy does not make the requirement met."
+}

@@ -1,0 +1,15 @@
+{
+  "row": 10,
+  "reason": "Authorized partial browser preparation; required answers unconfirmed and resume upload blocked",
+  "changes": {
+    "Resume version": {
+      "before": "Tailored_Resume_v2.pdf — visually approved, hash verified; not uploaded",
+      "after": "Tailored_Resume_v2.pdf — approved/hash verified; upload rejected by Chrome; not attached"
+    },
+    "Next step": {
+      "before": "Blocked: YUGAL TEOTIA signed in, but application redirects to Change User Name and Password. User must complete new username, access code/expired password, new password and confirmation directly in Chrome and click OK; application form not accessed.",
+      "after": "Blocked on About You: confirmed contact/source fields filled in browser; not saved/advanced. Confirm required personal/COI/legal answers directly in portal; manually attach approved v2 PDF (Chrome upload Not allowed). Later pages not inspected. Do not submit."
+    }
+  },
+  "backup": ".workflow/backups/20260927T203457-88ac98d8.xlsx"
+}

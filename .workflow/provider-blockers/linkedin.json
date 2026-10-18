@@ -1,0 +1,19 @@
+{
+  "status": "Resolved",
+  "kind": "suitable_new_candidate_for_live_validation_pending",
+  "job_id": 339,
+  "requisition_id": "4470285110",
+  "question": "No suitable new LinkedIn Easy Apply candidate in the bounded run. Default confirmed-facts live validation remains pending; the DigiCert one-off override must not be reused.",
+  "application_submitted": true,
+  "retry_allowed": false,
+  "recorded_at": "2026-10-13T15:55:04.781340+00:00",
+  "employment_dates_reconciled": true,
+  "experience_rounding_up_forbidden": true,
+  "profile_dates_unchanged": true,
+  "experience_answer_one_off_user_override": true,
+  "worker_bug": false,
+  "validation_checkpoint": ".workflow/linkedin-validation-checkpoint.json",
+  "resolution": "User explicitly authorized DigiCert confirmed submission as technical-path proof and enabled scheduled/manual Easy Apply. The job-specific experience override remains nonreusable; new applications use confirmed facts.",
+  "resolved_at": "2026-10-13T16:02:01.420208+00:00",
+  "enablement_check": ".workflow/two-provider-enablement-check.json"
+}

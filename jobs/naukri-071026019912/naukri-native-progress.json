@@ -1,0 +1,15 @@
+{
+  "attempt_id": "5589b678-b5f0-4629-8b2c-28becdb61d79",
+  "requisition_id": "071026019912",
+  "status": "confirmed",
+  "answered": [],
+  "saves": 0,
+  "pending_question": null,
+  "resumes": 0,
+  "save_in_flight": false,
+  "updated_at": "2026-10-16T11:00:43.612604+00:00",
+  "answers_logged": false,
+  "pending_field": null,
+  "pending_reason": null,
+  "confirmation_path": "jobs/naukri-071026019912/naukri-history-reconciliation-confirmation.json"
+}

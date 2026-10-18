@@ -1,0 +1,18 @@
+{
+  "calendar": "*-*-* 08,12,16,20:30:00 Asia/Kolkata",
+  "timezone": "Asia/Kolkata",
+  "systemd_calendar_verification": "Normalized form: *-*-* 08,12,16,20:30:00 Asia/Kolkata\n    Next elapse: Mon 2026-09-28 08:30:00 IST\n       (in UTC): Mon 2026-09-28 03:00:00 UTC\n       From now: 4h 40min left\n   Iteration #2: Mon 2026-09-28 12:30:00 IST\n       (in UTC): Mon 2026-09-28 07:00:00 UTC\n       From now: 8h left\n   Iteration #3: Mon 2026-09-28 16:30:00 IST\n       (in UTC): Mon 2026-09-28 11:00:00 UTC\n       From now: 12h left\n   Iteration #4: Mon 2026-09-28 20:30:00 IST\n       (in UTC): Mon 2026-09-28 15:00:00 UTC\n       From now: 16h left\n",
+  "status": {
+    "timer": "job-search-daily.timer",
+    "systemd": "NextElapseUSecRealtime=Mon 2026-09-28 08:30:00 IST\nActiveState=active",
+    "timezone": "Asia/Kolkata",
+    "next_four_slots": [
+      "2026-09-28T08:30:00+05:30",
+      "2026-09-28T12:30:00+05:30",
+      "2026-09-28T16:30:00+05:30",
+      "2026-09-28T20:30:00+05:30"
+    ]
+  },
+  "missed_window_minutes": 15,
+  "persistent": false
+}

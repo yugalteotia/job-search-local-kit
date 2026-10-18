@@ -1,0 +1,20 @@
+{
+  "job_id": 376,
+  "requisition_id": "071026019912",
+  "url": "https://www.naukri.com/job-listings-java-aws-developer-infosys-hyderabad-pune-bengaluru-2-to-3-years-071026019912",
+  "question": "Are you available to take an interview on Saturday (Virtual Round)?",
+  "at": "2026-10-16T07:06:38.815610+00:00",
+  "answers_logged": false,
+  "attempt_id": "5589b678-b5f0-4629-8b2c-28becdb61d79",
+  "progress": "jobs/naukri-071026019912/naukri-native-progress.json",
+  "incomplete_evidence": "jobs/naukri-071026019912/naukri-native-incomplete-evidence.json",
+  "answered_count": 0,
+  "generic_resume_restored": true,
+  "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+  "generic_resume_verified_at": "2026-10-16T07:07:26.364188+00:00",
+  "status": "Applied",
+  "confirmation_path": "jobs/naukri-071026019912/naukri-history-reconciliation-confirmation.json",
+  "automatic_reconciliation": true,
+  "new_application_action": false,
+  "saved_answer_replayed": false
+}

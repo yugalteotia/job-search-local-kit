@@ -1,0 +1,49 @@
+{
+  "initial_health": {
+    "signed_in": true,
+    "verification_required": false
+  },
+  "samples": [
+    {
+      "path": "/feed/",
+      "feed_links": 9,
+      "nav": 0,
+      "password_fields": 0,
+      "login_fields": 0,
+      "ready": "complete"
+    },
+    {
+      "path": "/feed/",
+      "feed_links": 9,
+      "nav": 0,
+      "password_fields": 0,
+      "login_fields": 0,
+      "ready": "complete"
+    },
+    {
+      "path": "/feed/",
+      "feed_links": 9,
+      "nav": 0,
+      "password_fields": 0,
+      "login_fields": 0,
+      "ready": "complete"
+    },
+    {
+      "path": "/feed/",
+      "feed_links": 9,
+      "nav": 0,
+      "password_fields": 0,
+      "login_fields": 0,
+      "ready": "complete"
+    },
+    {
+      "path": "/feed/",
+      "feed_links": 9,
+      "nav": 0,
+      "password_fields": 0,
+      "login_fields": 0,
+      "ready": "complete"
+    }
+  ],
+  "checked_at": "2026-10-14T04:33:42.685373+00:00"
+}

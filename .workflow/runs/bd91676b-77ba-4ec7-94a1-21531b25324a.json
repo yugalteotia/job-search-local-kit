@@ -1,0 +1,63 @@
+{
+  "run_id": "bd91676b-77ba-4ec7-94a1-21531b25324a",
+  "started_at": "2026-10-14T04:46:49.006089+00:00",
+  "mode": "read_only",
+  "upload_enabled": false,
+  "submission_enabled": false,
+  "scheduled": true,
+  "test": true,
+  "source_scope": [
+    "linkedin"
+  ],
+  "fresh_only": true,
+  "queue_only": false,
+  "continuation_of": null,
+  "status": "Success",
+  "sources": {
+    "linkedin": {
+      "source": "linkedin",
+      "status": "Success",
+      "session_health": {
+        "signed_in": true,
+        "verification_required": false,
+        "health_samples": [
+          {
+            "path": "/feed/",
+            "feed_links": 9,
+            "password_fields": 0
+          },
+          {
+            "path": "/feed/",
+            "feed_links": 9,
+            "password_fields": 0
+          }
+        ],
+        "launcher": "linkedin_browser.chrome",
+        "profile": "/home/yugal/.local/share/job-search-private/linkedin-direct-playwright/user-data",
+        "read_only": true,
+        "service_workers": "block"
+      },
+      "pages": [],
+      "leads": [],
+      "checked_at": "2026-10-14T04:46:56.824829+00:00"
+    }
+  },
+  "coverage": {},
+  "leads": 0,
+  "unique_original_requisitions_verified": 0,
+  "fit_decisions": {},
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/bd91676b-77ba-4ec7-94a1-21531b25324a.json"
+  ],
+  "queue": {},
+  "stage_seconds": {},
+  "stage_counts": {},
+  "top_reviewed": [],
+  "session_check_only": true,
+  "finished_at": "2026-10-14T04:46:57.562432+00:00"
+}

@@ -1,0 +1,14 @@
+{"seq": 1, "at": "2026-10-18T11:00:00.341507+00:00", "kind": "start", "message": "Run started (timer)"}
+{"seq": 2, "at": "2026-10-18T11:00:00.344371+00:00", "kind": "info", "message": "Read-only application reconciliation: before"}
+{"seq": 3, "at": "2026-10-18T11:00:00.348418+00:00", "kind": "info", "message": "Reconciled existing applications: 0"}
+{"seq": 4, "at": "2026-10-18T11:00:28.587949+00:00", "kind": "info", "message": "Sources checked: naukri=Success, linkedin=Success"}
+{"seq": 5, "at": "2026-10-18T11:00:28.757769+00:00", "kind": "info", "message": "Original employer pages verified: 0 of 0 selected"}
+{"seq": 6, "at": "2026-10-18T11:01:14.823240+00:00", "kind": "info", "message": "Roles reviewed against JD evidence: 4"}
+{"seq": 7, "at": "2026-10-18T11:01:15.014230+00:00", "kind": "info", "message": "Fit review: 0 queued; resumes prepared: 0"}
+{"seq": 8, "at": "2026-10-18T11:01:15.036228+00:00", "kind": "info", "message": "naukri worker: live, max 10"}
+{"seq": 9, "at": "2026-10-18T11:01:15.037011+00:00", "kind": "info", "message": "naukri worker finished: Idle"}
+{"seq": 10, "at": "2026-10-18T11:01:15.037474+00:00", "kind": "info", "message": "linkedin worker: live, max 10"}
+{"seq": 11, "at": "2026-10-18T11:01:15.039381+00:00", "kind": "info", "message": "linkedin worker finished: Idle"}
+{"seq": 12, "at": "2026-10-18T11:01:15.039478+00:00", "kind": "info", "message": "Read-only application reconciliation: after"}
+{"seq": 13, "at": "2026-10-18T11:01:15.043787+00:00", "kind": "info", "message": "Reconciled existing applications: 0"}
+{"seq": 14, "at": "2026-10-18T11:01:15.289857+00:00", "kind": "finish", "message": "Run finished: Success", "status": "Success", "summary": {"errors": 0, "worker": "Idle"}}

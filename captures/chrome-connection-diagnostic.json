@@ -1,0 +1,16 @@
+{
+  "test": "Single read-only Playwright browser_tabs(action=list)",
+  "limit_seconds": 300,
+  "observed_elapsed_seconds": 0,
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "### Result\n- 0: (current) [Welcome](chrome-extension://mmlmfjhmonkocbjadbfplnigmagldckm/connect.html?mcpRelayUrl=ws%3A%2F%2F127.0.0.1%3A38007%2Fextension%2Fa515c133-ecdb-4aba-8112-2f674054f079&client=%7B%22name%22%3A%22codex-mcp-client%22%7D&protocolVersion=2)"
+      }
+    ]
+  },
+  "interpretation": "Test succeeded immediately, listing only the Playwright extension Welcome connection tab. No portal/account access verified. Earlier failure was: timed out awaiting tools/call after 300s. Root cause of earlier timeout is not established. No further browser test or navigation performed.",
+  "submission_enabled": false,
+  "schedule_enabled": false
+}

@@ -1,0 +1,29 @@
+{
+  "full": true,
+  "exact": 0,
+  "company_role": 0,
+  "company_role_observed": 2,
+  "company_role_disambiguated": true,
+  "company_role_other_exact_ids": [
+    "020726005307",
+    "280926032117"
+  ],
+  "server_company_role_rows": [
+    {
+      "job_id": "280926032117",
+      "title": "Java Full Stack Developer(React.js/Angular.js)",
+      "company": "Infosys",
+      "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+    },
+    {
+      "job_id": "020726005307",
+      "title": "Java Full Stack Developer",
+      "company": "Infosys",
+      "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+    }
+  ],
+  "identity_basis": "exact_listing_link",
+  "server_exact_rows": [],
+  "observed_exact_rows_unverified": 0,
+  "at": "2026-10-13T16:51:59.556839+00:00"
+}

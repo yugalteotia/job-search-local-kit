@@ -1,0 +1,17 @@
+{
+  "attempt_id": "d69e7dc1-111f-46ed-9293-a4cdf6e0172f",
+  "requisition_id": "280926032117",
+  "checked_at": "2026-10-13T05:12:58.380353+00:00",
+  "pending_question": "Are you available for a interview?(Virtual)",
+  "completion_count": 0,
+  "workflow_committed": false,
+  "denied_events": 0,
+  "save_in_flight": false,
+  "listing_exact_path": true,
+  "listing_applied": false,
+  "history_full": true,
+  "history_exact": 0,
+  "history_company_role": 0,
+  "answers_logged": false,
+  "safe": true
+}

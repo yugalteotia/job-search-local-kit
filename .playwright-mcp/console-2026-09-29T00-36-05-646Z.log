@@ -1,0 +1,31 @@
+[     131ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     132ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     132ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     132ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     589ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://static.naukimg.com/s/0/0/j/nLoggerJB_v3.4.min.js:0
+[     612ms] ReferenceError: nLogger is not defined
+    at https://www.naukri.com/mnjuser/profile:63:13
+[     610ms] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://static.naukimg.com/s/0/0/j/customElements.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ https://www.naukri.com/mnjuser/profile:209
+[     611ms] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://static.naukimg.com/s/0/0/j/customElements.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ https://www.naukri.com/mnjuser/profile:209
+[     736ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://static.naukimg.com/s/5/105/j/internal_interfaces_v9.min.js:2
+[    1460ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    2079ms] Invariant Violation: Minified React error #37; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=37 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at N (https://static.naukimg.com/s/5/105/j/external_interfaces_v1.min.js:1:9956)
+    at Object._renderNewRootComponent (https://static.naukimg.com/s/5/105/j/external_interfaces_v1.min.js:9:30022)
+    at Object._renderSubtreeIntoContainer (https://static.naukimg.com/s/5/105/j/external_interfaces_v1.min.js:9:31099)
+    at Object.render (https://static.naukimg.com/s/5/105/j/external_interfaces_v1.min.js:9:31227)
+    at e.value (https://static.naukimg.com/s/7/0/j/ni-desktop-naukri-pro-profile-wdgt_v7.min.js:1:28482)
+    at e.value (https://static.naukimg.com/s/7/0/j/ni-desktop-naukri-pro-profile-wdgt_v7.min.js:1:28696)
+    at e.renderWidgetCallback (https://static.naukimg.com/s/7/0/j/naukri-widget_v12.36-modern.min.js:1:88831)
+    at https://static.naukimg.com/s/7/0/j/naukri-widget_v12.36-modern.min.js:1:88348
+[    2080ms] Invariant Violation: Minified React error #37; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=37 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at N (https://static.naukimg.com/s/5/105/j/external_interfaces_v1.min.js:1:9956)
+    at Object._renderNewRootComponent (https://static.naukimg.com/s/5/105/j/external_interfaces_v1.min.js:9:30022)
+    at Object._renderSubtreeIntoContainer (https://static.naukimg.com/s/5/105/j/external_interfaces_v1.min.js:9:31099)
+    at Object.render (https://static.naukimg.com/s/5/105/j/external_interfaces_v1.min.js:9:31227)
+    at e.value (https://static.naukimg.com/s/7/0/j/ni-desktop-dynamic-form-wdgt-react_v0.min.js:1:11677)
+    at e.value (https://static.naukimg.com/s/7/0/j/ni-desktop-dynamic-form-wdgt-react_v0.min.js:1:11584)
+    at e.renderWidgetCallback (https://static.naukimg.com/s/7/0/j/naukri-widget_v12.36-modern.min.js:1:88831)
+    at https://static.naukimg.com/s/7/0/j/naukri-widget_v12.36-modern.min.js:1:88348
+[    2242ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    2314ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/collectorapi/v1/uba/bulk:0

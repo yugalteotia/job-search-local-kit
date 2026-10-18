@@ -1,0 +1,291 @@
+{
+  "job_id": 220,
+  "before": {
+    "path": "/job-listings-java-backend-developer-spring-boot-microservices-infosys-pune-chennai-bengaluru-2-to-5-years-190826038395",
+    "button": {
+      "text": "Apply",
+      "tag": "BUTTON",
+      "type": null,
+      "href": null
+    },
+    "applied": false,
+    "resumeMentions": []
+  },
+  "allowed_show": [
+    {
+      "method": "POST",
+      "host": "www.naukri.com",
+      "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+      "json_shape": {
+        "strJobsarr": "list",
+        "logstr": "str",
+        "flowtype": "str",
+        "crossdomain": "bool",
+        "jquery": "int",
+        "rdxMsgId": "str",
+        "chatBotSDK": "bool",
+        "mandatory_skills": "list",
+        "optional_skills": "list",
+        "applyTypeId": "str",
+        "closebtn": "str",
+        "applySrc": "str",
+        "sid": "str",
+        "mid": "str"
+      },
+      "workflow_flags": {
+        "flowtype": "show",
+        "chatBotSDK": true,
+        "applyTypeId": "107",
+        "applySrc": "----F-0-1---"
+      },
+      "job_count": 1
+    }
+  ],
+  "show_response": [
+    {
+      "status": 200,
+      "shape": {
+        "statusCode": "int",
+        "jobs": "list:1",
+        "userPrefilledData": [
+          "49935052",
+          "49935054",
+          "49935056",
+          "49935058"
+        ],
+        "skippableQuestions": "list:4",
+        "applyRedirectUrl": "str",
+        "ncFlow": "bool",
+        "flowType": "str",
+        "diversity": [
+          "diversityFields",
+          "orderOfConversation"
+        ],
+        "aurusFlow": "bool",
+        "pzero": "bool",
+        "chatbotResponse": [
+          "actionType",
+          "applyData",
+          "controls",
+          "conversation_session_id",
+          "currentConversationName",
+          "currentNode",
+          "currentNodeName",
+          "dataCommitted",
+          "editResponse",
+          "editResponseType",
+          "footer",
+          "input",
+          "isApply",
+          "isLeafNode",
+          "options",
+          "prefilled",
+          "prefilled_value",
+          "progress",
+          "showProgressBar",
+          "speechResponse",
+          "title",
+          "ubaEvent"
+        ]
+      },
+      "flow_flags": {
+        "isApply": true,
+        "isLeafNode": false,
+        "dataCommitted": false,
+        "progress": {
+          "percent1": 0,
+          "percent2": 0,
+          "percent3": 0,
+          "percent4": 0,
+          "percent": 0.0
+        },
+        "actionType": [
+          {
+            "action": "DISABLE_CHATBOX"
+          }
+        ],
+        "currentNodeName": "apply3"
+      }
+    }
+  ],
+  "blocked_mutations": [
+    {
+      "method": "POST",
+      "host": "logs.naukri.com",
+      "path": "/uba"
+    },
+    {
+      "method": "POST",
+      "host": "www.google.com",
+      "path": "/rmkt/collect/854187457/"
+    },
+    {
+      "method": "POST",
+      "host": "www.google.com",
+      "path": "/rmkt/collect/10857553821/"
+    },
+    {
+      "method": "POST",
+      "host": "analytics.google.com",
+      "path": "/g/collect"
+    },
+    {
+      "method": "POST",
+      "host": "www.google.com",
+      "path": "/ccm/collect"
+    },
+    {
+      "method": "POST",
+      "host": "www.google.com",
+      "path": "/measurement/conversion"
+    },
+    {
+      "method": "POST",
+      "host": "analytics.google.com",
+      "path": "/g/collect"
+    },
+    {
+      "method": "POST",
+      "host": "www.google.com",
+      "path": "/measurement/conversion"
+    },
+    {
+      "method": "POST",
+      "host": "analytics.google.com",
+      "path": "/g/collect"
+    },
+    {
+      "method": "POST",
+      "host": "www.google.com",
+      "path": "/g/collect"
+    },
+    {
+      "method": "POST",
+      "host": "www.google.com",
+      "path": "/g/collect"
+    },
+    {
+      "method": "POST",
+      "host": "www.google.com",
+      "path": "/g/collect"
+    },
+    {
+      "method": "POST",
+      "host": "googleads.g.doubleclick.net",
+      "path": "/pagead/viewthroughconversion/854187457/"
+    },
+    {
+      "method": "POST",
+      "host": "www.google.com",
+      "path": "/pagead/1p-conversion/854187457/"
+    },
+    {
+      "method": "POST",
+      "host": "logs.naukri.com",
+      "path": "/uba"
+    }
+  ],
+  "after": {
+    "path": "/job-listings-java-backend-developer-spring-boot-microservices-infosys-pune-chennai-bengaluru-2-to-5-years-190826038395",
+    "title": "Java Backend Developer | Spring Boot | Microservices - Bengaluru,Pune,Chennai - Infosys - 2 to 5 years of experience",
+    "drawer": true,
+    "dialogCount": 0,
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Enter keyword / designation / companies",
+        "labels": [],
+        "value": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "experienceDD",
+        "id": "experienceDD",
+        "placeholder": "Select experience",
+        "labels": [],
+        "value": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Enter location",
+        "labels": [],
+        "value": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "radio-button",
+        "id": "Yes",
+        "placeholder": "",
+        "labels": [
+          "Yes"
+        ],
+        "value": false
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "radio-button",
+        "id": "No",
+        "placeholder": "",
+        "labels": [
+          "No"
+        ],
+        "value": false
+      }
+    ],
+    "buttons": [
+      "2",
+      "2",
+      "Save",
+      "Apply",
+      "Following"
+    ],
+    "resumeMentions": [],
+    "chatPrompts": [
+      "Are you available for a interview?(Virtual)"
+    ],
+    "drawerControls": [
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "id": "Yes",
+        "className": "ssrc__radio",
+        "text": "",
+        "disabled": false
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "id": "No",
+        "className": "ssrc__radio",
+        "text": "",
+        "disabled": false
+      },
+      {
+        "tag": "DIV",
+        "type": null,
+        "id": "sendMsgbtn_container__6fpatyo0hInputBox",
+        "className": "sendMsgbtn_container",
+        "text": "Save",
+        "disabled": false
+      },
+      {
+        "tag": "DIV",
+        "type": null,
+        "id": "",
+        "className": "sendMsg",
+        "text": "Save",
+        "disabled": false
+      }
+    ],
+    "resumeRelatedText": []
+  }
+}

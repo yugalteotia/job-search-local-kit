@@ -1,0 +1,1185 @@
+{
+  "pages": [
+    {
+      "query": "Java Backend Developer",
+      "location": "India",
+      "page": 1,
+      "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "observed_url": "https://www.naukri.com/java-backend-developer-jobs-in-india?jobAge=7&experience=2",
+      "checked_at": "2026-10-13T16:28:14.683462+00:00",
+      "status": "Success",
+      "visible_cards": 20,
+      "lead_count": 20,
+      "filters": {
+        "experience_label": "2",
+        "freshness_label": "Last 7 days",
+        "sort_label": "Date"
+      },
+      "rendered_search": {
+        "keywords": "java backend developer, ",
+        "location": "india, ",
+        "experience": "2 years",
+        "heading": "Java Backend Developer Jobs In India"
+      },
+      "last_search_api_parameters": {
+        "keyword": [
+          "java backend developer"
+        ],
+        "location": [
+          "india"
+        ],
+        "experience": [
+          "2",
+          "2"
+        ],
+        "jobAge": [
+          "7",
+          "7"
+        ],
+        "sort": [
+          "f"
+        ]
+      },
+      "error_kind": null,
+      "extracted_exact_ids": [
+        "131026048594",
+        "120826043718",
+        "131026048044",
+        "131026047663",
+        "080926006952",
+        "131026047308",
+        "131026047288",
+        "170926024687",
+        "131026046083",
+        "131026045824",
+        "131026044388",
+        "131026043435",
+        "131026042270",
+        "131026041499",
+        "131026040074",
+        "131026039795",
+        "131026038329",
+        "131026037104",
+        "131026036885",
+        "131026036420"
+      ],
+      "retained_leads": 2,
+      "card_filter_exclusions": {
+        "no_relevant_title_or_generic_engineering_card_skills": 17,
+        "unrelated_bpo_data_entry_qa_role": 1
+      }
+    },
+    {
+      "query": "Java Spring Boot",
+      "location": "India",
+      "page": 1,
+      "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "observed_url": "https://www.naukri.com/java-spring-boot-jobs-in-india?jobAge=7&experience=3",
+      "checked_at": "2026-10-13T16:28:22.717610+00:00",
+      "status": "Success",
+      "visible_cards": 20,
+      "lead_count": 20,
+      "filters": {
+        "experience_label": "3",
+        "freshness_label": "Last 7 days",
+        "sort_label": "Date"
+      },
+      "rendered_search": {
+        "keywords": "java spring boot, ",
+        "location": "india, ",
+        "experience": "3 years",
+        "heading": "Java Spring Boot Jobs In India"
+      },
+      "last_search_api_parameters": {
+        "keyword": [
+          "java spring boot"
+        ],
+        "location": [
+          "india"
+        ],
+        "experience": [
+          "3",
+          "3"
+        ],
+        "jobAge": [
+          "7",
+          "7"
+        ],
+        "sort": [
+          "f"
+        ]
+      },
+      "error_kind": null,
+      "extracted_exact_ids": [
+        "131026048598",
+        "131026048594",
+        "131026048581",
+        "131026048515",
+        "270426034177",
+        "131026048418",
+        "120826043718",
+        "131026048044",
+        "131026048006",
+        "131026047938",
+        "131026047727",
+        "131026047663",
+        "080926006952",
+        "131026047353",
+        "131026047322",
+        "131026047308",
+        "131026047288",
+        "170926024687",
+        "131026047123",
+        "131026046083"
+      ],
+      "retained_leads": 4,
+      "card_filter_exclusions": {
+        "no_relevant_title_or_generic_engineering_card_skills": 15,
+        "unrelated_bpo_data_entry_qa_role": 1
+      }
+    }
+  ],
+  "cards": [
+    {
+      "title": "Senior Full Stack Developer",
+      "url": "https://www.naukri.com/job-listings-senior-full-stack-developer-skillmint-india-bhilai-raipur-2-to-5-years-131026042270",
+      "portal_job_id": "131026042270",
+      "employer": "Skillmint India",
+      "card_skills": [
+        "Node.js",
+        "Angular",
+        "Fullstack Development",
+        "React.js",
+        "Python",
+        "Postgresql",
+        "Debugging",
+        "SQL Server"
+      ],
+      "card_location": "Bhilai, Raipur",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Senior Full Stack Developer\nSkillmint India\nPosted by Skillmint India\n2-5 Yrs\n2.5-7.5 Lacs PA\nBhilai, Raipur\nDevelop and maintain web applications \u2022 Build front-end interfaces and back-end service...\nNode.jsAngularFullstack DevelopmentReact.jsPythonPostgresqlDebuggingSQL Server\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1"
+    },
+    {
+      "title": "Junior Software Engineer(Social Media Data & AI)",
+      "url": "https://www.naukri.com/job-listings-junior-software-engineer-social-media-data-ai-wissen-infotech-bengaluru-2-to-5-years-131026038329",
+      "portal_job_id": "131026038329",
+      "employer": "Wissen Infotech",
+      "card_skills": [
+        "Docker",
+        "ETL Secondary Skill Set: Azure",
+        "Machine Learning",
+        "Python",
+        "REST APIs",
+        "Machine",
+        "Secondary",
+        "Rest"
+      ],
+      "card_location": "Hybrid - Bengaluru",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Junior Software Engineer(Social Media Data & AI)\nWissen Infotech\n3.6\n736 Reviews\n2-5 Yrs\nHybrid - Bengaluru\n Primary Skill Set: Python, REST APIs, Machine Learning, ETLSecondary Skill Set: Azure,...\nDockerETL Secondary Skill Set: AzureMachine LearningPythonREST APIsMachineSecondaryRest\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1"
+    },
+    {
+      "title": "Java Full Stack Developer",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-pune-chennai-bengaluru-2-to-5-years-131026048418",
+      "portal_job_id": "131026048418",
+      "employer": "Infosys",
+      "card_skills": [
+        "Java",
+        "React.js",
+        "Angular",
+        "Spring Boot",
+        "Java Fullstack",
+        "Microservices"
+      ],
+      "card_location": "Hybrid - Pune, Bengaluru, Chennai",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Java Full Stack Developer\nInfosys\n3.5\n52923 Reviews\n2-5 Yrs\nHybrid - Pune, Bengaluru, Chennai\nRequired Skills. Backend Angular (preferred) or React Kubernetes (preferred)\nJavaReact.jsAngularSpring BootJava FullstackMicroservices\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1"
+    },
+    {
+      "title": "Java Full Stack Engineer",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-engineer-nexiotech-bengaluru-3-to-6-years-131026048006",
+      "portal_job_id": "131026048006",
+      "employer": "Nexiotech",
+      "card_skills": [
+        "Java Servlets",
+        "Spring Boot",
+        "Fullstack Development",
+        "Data Structures and Algorithms",
+        "AWS",
+        "Sonarqube",
+        "Kubernetes Deployment",
+        "SQL"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Java Full Stack Engineer\nNexiotech\n3-6 Yrs\n8-12 Lacs PA\nRemote\nJava, OOP, Spring Boot / Spring Batch, Java servlets, REST APIs, SQL, relational databa...\nJava ServletsSpring BootFullstack DevelopmentData Structures and AlgorithmsAWSSonarqubeKubernetes DeploymentSQL\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1"
+    },
+    {
+      "title": "Java Full Stack Developer",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-naukri-assist-hyderabad-3-to-10-years-131026047727",
+      "portal_job_id": "131026047727",
+      "employer": "Naukri Assist",
+      "card_skills": [
+        "Java",
+        "Artificial Intelligence",
+        "Spring",
+        "Agentic Ai",
+        "generative ai",
+        "Large Language Model",
+        "Clous",
+        "Aiml"
+      ],
+      "card_location": "Hyderabad",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Java Full Stack Developer\nNaukri Assist\n3-10 Yrs\n25-33 Lacs PA\nHyderabad\nExperience working on Microservices architecture design principles for scalability and ...\nJavaArtificial IntelligenceSpringAgentic Aigenerative aiLarge Language ModelClousAiml\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1"
+    },
+    {
+      "title": "Strong Spring Boot | Database | Viman Nagar Pune",
+      "url": "https://www.naukri.com/job-listings-strong-spring-boot-database-viman-nagar-pune-mindnerves-technology-services-pune-3-to-7-years-131026047123",
+      "portal_job_id": "131026047123",
+      "employer": "Mindnerves Technology Services",
+      "card_skills": [
+        "Java",
+        "Database Design",
+        "Spring Boot",
+        "Microservices",
+        "SQL",
+        "DBMS",
+        "Design",
+        "Spring"
+      ],
+      "card_location": "Pune(Viman Nagar)",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Strong Spring Boot | Database | Viman Nagar Pune\nMindnerves Technology Services\n3.9\n93 Reviews\n3-7 Yrs\n6-11 Lacs PA\nPune(Viman Nagar)\nWe are looking for strong Java Spring boot Developer with good knowledge working with S...\nJavaDatabase DesignSpring BootMicroservicesSQLDBMSDesignSpring\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1"
+    }
+  ],
+  "raw_cards": [
+    {
+      "title": "Engineer, Membrane development",
+      "url": "https://www.naukri.com/job-listings-engineer-membrane-development-ohmium-operations-private-limited-bengaluru-2-to-4-years-131026048594",
+      "portal_job_id": "131026048594",
+      "employer": "Ohmium",
+      "card_skills": [
+        "C",
+        "RPG",
+        "Process Engineering",
+        "JSON",
+        "HTML",
+        "Chemical Engineering",
+        "Solid",
+        "Engineering"
+      ],
+      "card_location": "Bengaluru",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Engineer, Membrane development\nOhmium\n3.5\n223 Reviews\n2-4 Yrs\nBengaluru\nWorking knowledge of PFSA ionomer chemistry: EW, side-chain structure, . phase-separate...\nCRPGProcess EngineeringJSONHTMLChemical EngineeringSolidEngineering\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Php Developer",
+      "url": "https://www.naukri.com/job-listings-php-developer-eteam-noida-2-to-5-years-120826043718",
+      "portal_job_id": "120826043718",
+      "employer": "eTeam Inc",
+      "card_skills": [
+        "Core PHP",
+        "Fullstack Development",
+        "MySQL",
+        "PHP Development",
+        "PHP",
+        "MySQL Database",
+        "SQL database",
+        "Core"
+      ],
+      "card_location": "Hybrid - Noida",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Php Developer\neTeam Inc\nPosted by Eteam\n2-5 Yrs\n3-8 Lacs PA\nHybrid - Noida\nExperience: 2+ Years Job Type: Full-time. About the Role. We are looking for a hands-o...\nCore PHPFullstack DevelopmentMySQLPHP DevelopmentPHPMySQL DatabaseSQL databaseCore\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Junior/Associate Engineer",
+      "url": "https://www.naukri.com/job-listings-junior-associate-engineer-nexiotech-bengaluru-0-to-3-years-131026048044",
+      "portal_job_id": "131026048044",
+      "employer": "Nexiotech",
+      "card_skills": [
+        "Java Servlets",
+        "Fullstack Development",
+        "Rest API Services",
+        "Spring Boot",
+        "AWS",
+        "CI CD Pipeline",
+        "GIT",
+        "Javascript"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Junior/Associate Engineer\nNexiotech\n0-3 Yrs\n3-5 Lacs PA\nRemote\nJava, OOP, Spring Boot / Spring Batch, Java servlets, REST APIs, SQL, relational databa...\nJava ServletsFullstack DevelopmentRest API ServicesSpring BootAWSCI CD PipelineGITJavascript\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "High Performance Computing Administrator",
+      "url": "https://www.naukri.com/job-listings-high-performance-computing-administrator-iiitdm-kurnool-kurnool-2-to-7-years-131026047663",
+      "portal_job_id": "131026047663",
+      "employer": "Iiitdm Kurnool",
+      "card_skills": [
+        "Linux Server Administration",
+        "Redhat Linux",
+        "English",
+        "Linux Server",
+        "Linux System Administration",
+        "Computation",
+        "Administration",
+        "Linux System"
+      ],
+      "card_location": "Kurnool",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "High Performance Computing Administrator\nIiitdm Kurnool\n4.5\n5 Reviews\n2-7 Yrs\n5.4 Lacs PA\nKurnool\nPlease see our website www.iiitk.ac.in and apply as specified - HPC adminstrator recrui...\nLinux Server AdministrationRedhat LinuxEnglishLinux ServerLinux System AdministrationComputationAdministrationLinux System\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "REACT JS + NODE JS -INF (2-9) YRS",
+      "url": "https://www.naukri.com/job-listings-react-js-node-js-inf-2-9-yrs-infosys-hyderabad-chennai-bengaluru-2-to-7-years-080926006952",
+      "portal_job_id": "080926006952",
+      "employer": "Infosys",
+      "card_skills": [
+        "Node.js",
+        "React.js",
+        "Node",
+        "React Native",
+        "Javascript",
+        "Native"
+      ],
+      "card_location": "Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "REACT JS + NODE JS -INF (2-9) YRS\nInfosys\n3.5\n52923 Reviews\n2-7 Yrs\nBengaluru, Hyderabad, Chennai\n Full Stack Developer (React JS & Node JS)Job SummaryWe are seeking a talented and pass...\nNode.jsReact.jsNodeReact NativeJavascriptNative\nPrefers women\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Vulnerability Management and Penetration testing- Consultant, AM",
+      "url": "https://www.naukri.com/job-listings-vulnerability-management-and-penetration-testing-consultant-am-deloitte-shared-services-india-bengaluru-2-to-7-years-131026047308",
+      "portal_job_id": "131026047308",
+      "employer": "Deloitte Shared Services India",
+      "card_skills": [
+        "AI",
+        "WIZ",
+        "Vulnerability Management",
+        "VMDR",
+        "Penetration testing",
+        "Acunetix",
+        "Appscan Standard",
+        "Tenable WAS"
+      ],
+      "card_location": "Bengaluru",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Vulnerability Management and Penetration testing- Consultant, AM\nDeloitte Shared Services India\n3.6\n25994 Reviews\n2-7 Yrs\nBengaluru\nPreferred Certifications OSCP (Offensive Security Certified Professional) CISSP (Prefe...\nAIWIZVulnerability ManagementVMDRPenetration testingAcunetixAppscan StandardTenable WAS\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Linux Administrator",
+      "url": "https://www.naukri.com/job-listings-linux-administrator-clover-infotech-mumbai-2-to-5-years-131026047288",
+      "portal_job_id": "131026047288",
+      "employer": "Clover Infotech",
+      "card_skills": [
+        "Redhat Linux",
+        "Linux System Administration",
+        "Linux administration",
+        "Administration",
+        "System",
+        "Linux",
+        "System administration",
+        "Linux System"
+      ],
+      "card_location": "Mumbai",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Linux Administrator\nClover Infotech\n3.3\n1858 Reviews\n2-5 Yrs\n3-4.5 Lacs PA\nMumbai\nHi TeamLooking for Linux Administrator for Mumbai location.Exp : 2yrs to 5yrsNP: Immedi...\nRedhat LinuxLinux System AdministrationLinux administrationAdministrationSystemLinuxSystem administrationLinux System\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Oracle PL/SQL Developer",
+      "url": "https://www.naukri.com/job-listings-oracle-pl-sql-developer-sg-india-bengaluru-2-to-5-years-170926024687",
+      "portal_job_id": "170926024687",
+      "employer": "SG Lottery India",
+      "card_skills": [
+        "Database Scripting",
+        "Oracle Database",
+        "SQL",
+        "PLSQL Oracle",
+        "Oracle Forms",
+        "Query Optimization",
+        "Index Optimization",
+        "SQL Development"
+      ],
+      "card_location": "Hybrid - Bengaluru",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Oracle PL/SQL Developer\nSG Lottery India\n3.6\n177 Reviews\n2-5 Yrs\nHybrid - Bengaluru\nPerform data validation, data migration, and data correction activities as required Bac...\nDatabase ScriptingOracle DatabaseSQLPLSQL OracleOracle FormsQuery OptimizationIndex OptimizationSQL Development\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Business Analyst",
+      "url": "https://www.naukri.com/job-listings-business-analyst-telecomatics-technologies-coimbatore-2-to-3-years-131026046083",
+      "portal_job_id": "131026046083",
+      "employer": "Telecomatics Technologies",
+      "card_skills": [
+        "Business Process Modelling",
+        "Gap Analysis",
+        "User Story Creation",
+        "Requirement Gathering & Analysis",
+        "Stakeholder Management",
+        "Change Management",
+        "Agile/Scrum Methodology",
+        "UAT Coordination"
+      ],
+      "card_location": "Coimbatore(Saibaba Colony )",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Business Analyst\nTelecomatics Technologies\n3.8\n6 Reviews\n2-3 Yrs\n3.6-4.8 Lacs PA\nCoimbatore(Saibaba Colony )\nSeeking BA with expertise in requirement gathering, user stories, BRD/FRD/SRS, stakehol...\nBusiness Process ModellingGap AnalysisUser Story CreationRequirement Gathering & AnalysisStakeholder ManagementChange ManagementAgile/Scrum MethodologyUAT Coordination\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Senior React JS Developer",
+      "url": "https://www.naukri.com/job-listings-senior-react-js-developer-solace-infotech-nashik-pune-2-to-4-years-131026045824",
+      "portal_job_id": "131026045824",
+      "employer": "Solace Infotech",
+      "card_skills": [
+        "Redux",
+        "React.js",
+        "TypeScript",
+        "Javascript",
+        "Nextjs",
+        "Senior",
+        "Development"
+      ],
+      "card_location": "Pune, Nashik",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Senior React JS Developer\nSolace Infotech\n3.4\n33 Reviews\n2-4 Yrs\nPune, Nashik\nStrong knowledge of JavaScript (ES6+), HTML5, and CSS3 Experience with React Hooks, Red...\nReduxReact.jsTypeScriptJavascriptNextjsSeniorDevelopment\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Dot Net Developer",
+      "url": "https://www.naukri.com/job-listings-dot-net-developer-msc-technology-ambattur-chennai-2-to-4-years-131026044388",
+      "portal_job_id": "131026044388",
+      "employer": "MSC Technology",
+      "card_skills": [
+        "C#",
+        "Web API",
+        "ASP.NET Core",
+        "Microservices",
+        "Microsoft SQL",
+        "Azure Service Bus",
+        "Azure API Management",
+        "Azure Functions"
+      ],
+      "card_location": "Ambattur, Chennai",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Dot Net Developer\nMSC Technology\n3.9\n217 Reviews\n2-4 Yrs\n3-7.5 Lacs PA\nAmbattur, Chennai\nDot Net Developer (C#.Net / .Net Core / Web API / MS-SQL)Experience: - 2 to 4 yearsJob ...\nC#Web APIASP.NET CoreMicroservicesMicrosoft SQLAzure Service BusAzure API ManagementAzure Functions\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Application Support Engineer",
+      "url": "https://www.naukri.com/job-listings-application-support-engineer-dipole-tech-innovations-opc-jamnagar-1-to-3-years-131026043435",
+      "portal_job_id": "131026043435",
+      "employer": "Dipole Tech Innovations Opc",
+      "card_skills": [
+        "Application Support",
+        "CSS",
+        "NET Framework 4.0/4.5",
+        "Windows Server",
+        "Node.js",
+        "HTML",
+        "Apache",
+        "SSL"
+      ],
+      "card_location": "Jamnagar",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Application Support Engineer\nDipole Tech Innovations Opc\n1.9\n3 Reviews\n1-3 Yrs\n4.2-5.4 Lacs PA\nJamnagar\nHIRINGSoftware/Application Support Enginee /Experience: 3/4 Y Education: B.Tech/B.E.(IT...\nApplication SupportCSSNET Framework 4.0/4.5Windows ServerNode.jsHTMLApacheSSL\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Senior Full Stack Developer",
+      "url": "https://www.naukri.com/job-listings-senior-full-stack-developer-skillmint-india-bhilai-raipur-2-to-5-years-131026042270",
+      "portal_job_id": "131026042270",
+      "employer": "Skillmint India",
+      "card_skills": [
+        "Node.js",
+        "Angular",
+        "Fullstack Development",
+        "React.js",
+        "Python",
+        "Postgresql",
+        "Debugging",
+        "SQL Server"
+      ],
+      "card_location": "Bhilai, Raipur",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Senior Full Stack Developer\nSkillmint India\nPosted by Skillmint India\n2-5 Yrs\n2.5-7.5 Lacs PA\nBhilai, Raipur\nDevelop and maintain web applications \u2022 Build front-end interfaces and back-end service...\nNode.jsAngularFullstack DevelopmentReact.jsPythonPostgresqlDebuggingSQL Server\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": null
+    },
+    {
+      "title": "Service Support Associate",
+      "url": "https://www.naukri.com/job-listings-service-support-associate-subscribeit-solutions-bengaluru-1-to-3-years-131026041499",
+      "portal_job_id": "131026041499",
+      "employer": "All Blue Infotech",
+      "card_skills": [
+        "L2 Production Support",
+        "Linux",
+        "SQL",
+        "Production support",
+        "Production",
+        "L2"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Service Support Associate\nAll Blue Infotech\n3.6\n33 Reviews\n1-3 Yrs\nRemote\n Responsibilities Perform Web application support and L2 Level analysis and defect fixe...\nL2 Production SupportLinuxSQLProduction supportProductionL2\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Frontend Developer (AngularJS / Angular)",
+      "url": "https://www.naukri.com/job-listings-frontend-developer-angularjs-angular-tokn-labs-pune-2-to-6-years-131026040074",
+      "portal_job_id": "131026040074",
+      "employer": "Tokn Labs",
+      "card_skills": [
+        "Angularjs",
+        "Angular",
+        "TypeScript",
+        "CSS",
+        "GIT",
+        "Rest API Services",
+        "Javascript",
+        "Rxjs"
+      ],
+      "card_location": "Pune",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Frontend Developer (AngularJS / Angular)\nTokn Labs\n2-6 Yrs\nPune\n Job Title: Frontend Developer (AngularJS / Angular)Company: Tokn Labs Private LimitedL...\nAngularjsAngularTypeScriptCSSGITRest API ServicesJavascriptRxjs\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "L1 Production Support Engineer (24X7 shifting)",
+      "url": "https://www.naukri.com/job-listings-l1-production-support-engineer-24x7-shifting-luxoft-hyderabad-2-to-4-years-131026039795",
+      "portal_job_id": "131026039795",
+      "employer": "Luxoft",
+      "card_skills": [
+        "L2 Production Support",
+        "Application Support",
+        "Production Support",
+        "SQL",
+        "UNIX",
+        "L1 Support",
+        "Linux",
+        "Banking Sector"
+      ],
+      "card_location": "Hyderabad",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "L1 Production Support Engineer (24X7 shifting)\nLuxoft\n3.6\n902 Reviews\n2-4 Yrs\nHyderabad\nYou are expected to work in extended hours (shifts & weekends) on a need basisPreferred...\nL2 Production SupportApplication SupportProduction SupportSQLUNIXL1 SupportLinuxBanking Sector\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Junior Software Engineer(Social Media Data & AI)",
+      "url": "https://www.naukri.com/job-listings-junior-software-engineer-social-media-data-ai-wissen-infotech-bengaluru-2-to-5-years-131026038329",
+      "portal_job_id": "131026038329",
+      "employer": "Wissen Infotech",
+      "card_skills": [
+        "Docker",
+        "ETL Secondary Skill Set: Azure",
+        "Machine Learning",
+        "Python",
+        "REST APIs",
+        "Machine",
+        "Secondary",
+        "Rest"
+      ],
+      "card_location": "Hybrid - Bengaluru",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Junior Software Engineer(Social Media Data & AI)\nWissen Infotech\n3.6\n736 Reviews\n2-5 Yrs\nHybrid - Bengaluru\n Primary Skill Set: Python, REST APIs, Machine Learning, ETLSecondary Skill Set: Azure,...\nDockerETL Secondary Skill Set: AzureMachine LearningPythonREST APIsMachineSecondaryRest\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": null
+    },
+    {
+      "title": "React Native Mobile Application Developer",
+      "url": "https://www.naukri.com/job-listings-react-native-mobile-application-developer-sise-technology-kolkata-2-to-4-years-131026037104",
+      "portal_job_id": "131026037104",
+      "employer": "Sise Technology",
+      "card_skills": [
+        "Push Notification",
+        "Firebase",
+        "React Native Apps",
+        "React API",
+        "Android Studio",
+        "APK/AAB",
+        "Debugging",
+        "Razorpay"
+      ],
+      "card_location": "Kolkata(Sector 1 Salt Lake)",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "React Native Mobile Application Developer\nSise Technology\n2.4\n2 Reviews\n2-4 Yrs\n3.6-5.4 Lacs PA\nKolkata(Sector 1 Salt Lake)\nResponsibilities:We are seeking a React Native App Developer. The candidate must be fro...\nPush NotificationFirebaseReact Native AppsReact APIAndroid StudioAPK/AABDebuggingRazorpay\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Junior MERN Stack Developer",
+      "url": "https://www.naukri.com/job-listings-junior-mern-stack-developer-sengar-consultancy-noida-1-to-3-years-131026036885",
+      "portal_job_id": "131026036885",
+      "employer": "Sengar Consultancy",
+      "card_skills": [
+        "Mern Stack",
+        "Restful Web API Development",
+        "Java",
+        "CSS",
+        "Development",
+        "Javascript",
+        "Node.js",
+        "MongoDB"
+      ],
+      "card_location": "Noida(Sector 62)",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Junior MERN Stack Developer\nSengar Consultancy\n4.1\n12 Reviews\n1-3 Yrs\n3-6 Lacs PA\nNoida(Sector 62)\nJob Description: Junior MERN Stack DeveloperCompany: Sengar Consultancy Private Limited...\nMern StackRestful Web API DevelopmentJavaCSSDevelopmentJavascriptNode.jsMongoDB\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "AI/ML Engineer with Knowledge of Front End",
+      "url": "https://www.naukri.com/job-listings-ai-ml-engineer-with-knowledge-of-front-end-visioapps-technology-gurugram-0-to-4-years-131026036420",
+      "portal_job_id": "131026036420",
+      "employer": "Visioapps Technology",
+      "card_skills": [
+        "Machine Learning",
+        "Javascript",
+        "Cordova",
+        "ML",
+        "Machine",
+        "End",
+        "Artificial Intelligence",
+        "Front end"
+      ],
+      "card_location": "Gurugram",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "AI/ML Engineer with Knowledge of Front End\nVisioapps Technology\n4.2\n12 Reviews\n0-4 Yrs\nGurugram\nPreference Optimization (DPO, PPO)\nMachine LearningJavascriptCordovaMLMachineEndArtificial IntelligenceFront end\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Freelance Developer",
+      "url": "https://www.naukri.com/job-listings-freelance-developer-glamlooks-in-bengaluru-0-to-5-years-131026048598",
+      "portal_job_id": "131026048598",
+      "employer": "GlamLooks.in",
+      "card_skills": [
+        "Computer Science",
+        "Development",
+        "Java",
+        "C++",
+        "Coding",
+        "Software Engineering",
+        "Remote",
+        "Freelancing"
+      ],
+      "card_location": "Bengaluru",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Freelance Developer\nGlamLooks.in\n0-5 Yrs\n1.8-3 Lacs PA\nBengaluru\nRemote freelance CS role.500 per dayMinimum- 5 daily question - 100 per question (No li...\nComputer ScienceDevelopmentJavaC++CodingSoftware EngineeringRemoteFreelancing\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Engineer, Membrane development",
+      "url": "https://www.naukri.com/job-listings-engineer-membrane-development-ohmium-operations-private-limited-bengaluru-2-to-4-years-131026048594",
+      "portal_job_id": "131026048594",
+      "employer": "Ohmium",
+      "card_skills": [
+        "C",
+        "RPG",
+        "Process Engineering",
+        "JSON",
+        "HTML",
+        "Chemical Engineering",
+        "Solid",
+        "Engineering"
+      ],
+      "card_location": "Bengaluru",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Engineer, Membrane development\nOhmium\n3.5\n223 Reviews\n2-4 Yrs\nBengaluru\nWorking knowledge of PFSA ionomer chemistry: EW, side-chain structure, . phase-separate...\nCRPGProcess EngineeringJSONHTMLChemical EngineeringSolidEngineering\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Salesforce Commerce Cloud Full stack",
+      "url": "https://www.naukri.com/job-listings-salesforce-commerce-cloud-full-stack-infosys-hyderabad-chennai-bengaluru-3-to-8-years-131026048581",
+      "portal_job_id": "131026048581",
+      "employer": "Infosys",
+      "card_skills": [
+        "Sfra",
+        "SFCC",
+        "Javascript",
+        "React.js",
+        "Salesforce",
+        "Demandware",
+        "SFDC",
+        "Cloud"
+      ],
+      "card_location": "Hybrid - Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Salesforce Commerce Cloud Full stack\nInfosys\n3.5\n52923 Reviews\n3-8 Yrs\nHybrid - Bengaluru, Hyderabad, Chennai\nReact.js (preferred for headless implementations) Docker (Preferred) Preferred Skills\nSfraSFCCJavascriptReact.jsSalesforceDemandwareSFDCCloud\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Software Engineer-2",
+      "url": "https://www.naukri.com/job-listings-software-engineer-2-tekion-bengaluru-3-to-4-years-131026048515",
+      "portal_job_id": "131026048515",
+      "employer": "Tekion",
+      "card_skills": [
+        "Mono Repo",
+        "Platform Architecture",
+        "Javascript",
+        "React.js",
+        "Webpack",
+        "CI CD Pipeline",
+        "Ci/Cd",
+        "Continuous Integration"
+      ],
+      "card_location": "Bengaluru",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Software Engineer-2\nTekion\n4.0\n583 Reviews\n3-4 Yrs\n20-35 Lacs PA\nBengaluru\nBachelors in computer science or relevant fields experience. 4+ years of relevant exper...\nMono RepoPlatform ArchitectureJavascriptReact.jsWebpackCI CD PipelineCi/CdContinuous Integration\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Automation Testing_Hyderabad",
+      "url": "https://www.naukri.com/job-listings-automation-testing-hyderabad-infosys-hyderabad-chennai-bengaluru-3-to-8-years-270426034177",
+      "portal_job_id": "270426034177",
+      "employer": "Infosys",
+      "card_skills": [
+        "Salesforce Testing",
+        "Java Selenium",
+        "Selenium Automation",
+        "Software testing",
+        "Salesforce",
+        "Selenium",
+        "Java",
+        "Automation"
+      ],
+      "card_location": "Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Automation Testing_Hyderabad\nInfosys\n3.5\n52923 Reviews\n3-8 Yrs\nBengaluru, Hyderabad, Chennai\nMinimum Qualifications: . Bachelors degree in BTech, BCA, BE, or BScPreferred Qualifica...\nSalesforce TestingJava SeleniumSelenium AutomationSoftware testingSalesforceSeleniumJavaAutomation\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Java Full Stack Developer",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-pune-chennai-bengaluru-2-to-5-years-131026048418",
+      "portal_job_id": "131026048418",
+      "employer": "Infosys",
+      "card_skills": [
+        "Java",
+        "React.js",
+        "Angular",
+        "Spring Boot",
+        "Java Fullstack",
+        "Microservices"
+      ],
+      "card_location": "Hybrid - Pune, Bengaluru, Chennai",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Java Full Stack Developer\nInfosys\n3.5\n52923 Reviews\n2-5 Yrs\nHybrid - Pune, Bengaluru, Chennai\nRequired Skills. Backend Angular (preferred) or React Kubernetes (preferred)\nJavaReact.jsAngularSpring BootJava FullstackMicroservices\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": null
+    },
+    {
+      "title": "Php Developer",
+      "url": "https://www.naukri.com/job-listings-php-developer-eteam-noida-2-to-5-years-120826043718",
+      "portal_job_id": "120826043718",
+      "employer": "eTeam Inc",
+      "card_skills": [
+        "Core PHP",
+        "Fullstack Development",
+        "MySQL",
+        "PHP Development",
+        "PHP",
+        "MySQL Database",
+        "SQL database",
+        "Core"
+      ],
+      "card_location": "Hybrid - Noida",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Php Developer\neTeam Inc\nPosted by Eteam\n2-5 Yrs\n3-8 Lacs PA\nHybrid - Noida\nExperience: 2+ Years Job Type: Full-time. About the Role. We are looking for a hands-o...\nCore PHPFullstack DevelopmentMySQLPHP DevelopmentPHPMySQL DatabaseSQL databaseCore\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Junior/Associate Engineer",
+      "url": "https://www.naukri.com/job-listings-junior-associate-engineer-nexiotech-bengaluru-0-to-3-years-131026048044",
+      "portal_job_id": "131026048044",
+      "employer": "Nexiotech",
+      "card_skills": [
+        "Java Servlets",
+        "Fullstack Development",
+        "Rest API Services",
+        "Spring Boot",
+        "AWS",
+        "CI CD Pipeline",
+        "GIT",
+        "Javascript"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Junior/Associate Engineer\nNexiotech\n0-3 Yrs\n3-5 Lacs PA\nRemote\nJava, OOP, Spring Boot / Spring Batch, Java servlets, REST APIs, SQL, relational databa...\nJava ServletsFullstack DevelopmentRest API ServicesSpring BootAWSCI CD PipelineGITJavascript\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Java Full Stack Engineer",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-engineer-nexiotech-bengaluru-3-to-6-years-131026048006",
+      "portal_job_id": "131026048006",
+      "employer": "Nexiotech",
+      "card_skills": [
+        "Java Servlets",
+        "Spring Boot",
+        "Fullstack Development",
+        "Data Structures and Algorithms",
+        "AWS",
+        "Sonarqube",
+        "Kubernetes Deployment",
+        "SQL"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Java Full Stack Engineer\nNexiotech\n3-6 Yrs\n8-12 Lacs PA\nRemote\nJava, OOP, Spring Boot / Spring Batch, Java servlets, REST APIs, SQL, relational databa...\nJava ServletsSpring BootFullstack DevelopmentData Structures and AlgorithmsAWSSonarqubeKubernetes DeploymentSQL\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": null
+    },
+    {
+      "title": "Fullstack Engineer at A FinTech Company",
+      "url": "https://www.naukri.com/job-listings-fullstack-engineer-at-a-fintech-company-talentzo-delhi-bengaluru-3-to-6-years-131026047938",
+      "portal_job_id": "131026047938",
+      "employer": "Talentzo Delhi",
+      "card_skills": [
+        "Node.js",
+        "Javascript",
+        "Python",
+        "Full Stack",
+        "Fintech",
+        "Company"
+      ],
+      "card_location": "Remote",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Fullstack Engineer at A FinTech Company\nTalentzo Delhi\nPosted by Talentzo Delhi\n3-6 Yrs\n20-35 Lacs PA\nRemote\nPreferred candidate profile Python experience is a plusExperience in full-stack develop...\nNode.jsJavascriptPythonFull StackFintechCompany\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Java Full Stack Developer",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-naukri-assist-hyderabad-3-to-10-years-131026047727",
+      "portal_job_id": "131026047727",
+      "employer": "Naukri Assist",
+      "card_skills": [
+        "Java",
+        "Artificial Intelligence",
+        "Spring",
+        "Agentic Ai",
+        "generative ai",
+        "Large Language Model",
+        "Clous",
+        "Aiml"
+      ],
+      "card_location": "Hyderabad",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Java Full Stack Developer\nNaukri Assist\n3-10 Yrs\n25-33 Lacs PA\nHyderabad\nExperience working on Microservices architecture design principles for scalability and ...\nJavaArtificial IntelligenceSpringAgentic Aigenerative aiLarge Language ModelClousAiml\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": null
+    },
+    {
+      "title": "High Performance Computing Administrator",
+      "url": "https://www.naukri.com/job-listings-high-performance-computing-administrator-iiitdm-kurnool-kurnool-2-to-7-years-131026047663",
+      "portal_job_id": "131026047663",
+      "employer": "Iiitdm Kurnool",
+      "card_skills": [
+        "Linux Server Administration",
+        "Redhat Linux",
+        "English",
+        "Linux Server",
+        "Linux System Administration",
+        "Computation",
+        "Administration",
+        "Linux System"
+      ],
+      "card_location": "Kurnool",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "High Performance Computing Administrator\nIiitdm Kurnool\n4.5\n5 Reviews\n2-7 Yrs\n5.4 Lacs PA\nKurnool\nPlease see our website www.iiitk.ac.in and apply as specified - HPC adminstrator recrui...\nLinux Server AdministrationRedhat LinuxEnglishLinux ServerLinux System AdministrationComputationAdministrationLinux System\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "REACT JS + NODE JS -INF (2-9) YRS",
+      "url": "https://www.naukri.com/job-listings-react-js-node-js-inf-2-9-yrs-infosys-hyderabad-chennai-bengaluru-2-to-7-years-080926006952",
+      "portal_job_id": "080926006952",
+      "employer": "Infosys",
+      "card_skills": [
+        "Node.js",
+        "React.js",
+        "Node",
+        "React Native",
+        "Javascript",
+        "Native"
+      ],
+      "card_location": "Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "REACT JS + NODE JS -INF (2-9) YRS\nInfosys\n3.5\n52923 Reviews\n2-7 Yrs\nBengaluru, Hyderabad, Chennai\n Full Stack Developer (React JS & Node JS)Job SummaryWe are seeking a talented and pass...\nNode.jsReact.jsNodeReact NativeJavascriptNative\nPrefers women\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Blue Yonder Workforce Management Engineer",
+      "url": "https://www.naukri.com/job-listings-blue-yonder-workforce-management-engineer-trigent-software-hyderabad-3-to-5-years-131026047353",
+      "portal_job_id": "131026047353",
+      "employer": "Trigent Software",
+      "card_skills": [
+        "BlueYonder Workforce Management",
+        "Workforce Management",
+        "Blueyonder",
+        "Blue Yonder WFM",
+        "SDLC",
+        "BY WFM",
+        "Blue Yonder Consultant",
+        "Agile"
+      ],
+      "card_location": "Hyderabad",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Blue Yonder Workforce Management Engineer\nTrigent Software\nPosted by Trigent Software\n3-5 Yrs\n12-20 Lacs PA\nHyderabad\nEducation: 15 years of full-time education requiredRequired Skills: . Strong experience...\nBlueYonder Workforce ManagementWorkforce ManagementBlueyonderBlue Yonder WFMSDLCBY WFMBlue Yonder ConsultantAgile\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "NBBL- Network and Infra (Datacenter Experienced)",
+      "url": "https://www.naukri.com/job-listings-nbbl-network-and-infra-datacenter-experienced-national-payments-corporation-of-india-npci-hyderabad-chennai-mumbai-all-areas-3-to-7-years-131026047322",
+      "portal_job_id": "131026047322",
+      "employer": "National Payments Corporation of India (NPCI)",
+      "card_skills": [
+        "server",
+        "security",
+        "Terraform",
+        "Datacenter Network",
+        "linux",
+        "Networking",
+        "Routing",
+        "Router"
+      ],
+      "card_location": "Mumbai (All Areas), Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "NBBL- Network and Infra (Datacenter Experienced)\nNational Payments Corporation of India (NPCI)\n3.9\n1091 Reviews\n3-7 Yrs\nMumbai (All Areas), Hyderabad, Chennai\nCandidate must have 4 / 5 years of experience in the role of 24X365 Production Support ...\nserversecurityTerraformDatacenter NetworklinuxNetworkingRoutingRouter\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Vulnerability Management and Penetration testing- Consultant, AM",
+      "url": "https://www.naukri.com/job-listings-vulnerability-management-and-penetration-testing-consultant-am-deloitte-shared-services-india-bengaluru-2-to-7-years-131026047308",
+      "portal_job_id": "131026047308",
+      "employer": "Deloitte Shared Services India",
+      "card_skills": [
+        "AI",
+        "WIZ",
+        "Vulnerability Management",
+        "VMDR",
+        "Penetration testing",
+        "Acunetix",
+        "Appscan Standard",
+        "Tenable WAS"
+      ],
+      "card_location": "Bengaluru",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Vulnerability Management and Penetration testing- Consultant, AM\nDeloitte Shared Services India\n3.6\n25994 Reviews\n2-7 Yrs\nBengaluru\nPreferred Certifications OSCP (Offensive Security Certified Professional) CISSP (Prefe...\nAIWIZVulnerability ManagementVMDRPenetration testingAcunetixAppscan StandardTenable WAS\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "title": "Linux Administrator",
+      "url": "https://www.naukri.com/job-listings-linux-administrator-clover-infotech-mumbai-2-to-5-years-131026047288",
+      "portal_job_id": "131026047288",
+      "employer": "Clover Infotech",
+      "card_skills": [
+        "Redhat Linux",
+        "Linux System Administration",
+        "Linux administration",
+        "Administration",
+        "System",
+        "Linux",
+        "System administration",
+        "Linux System"
+      ],
+      "card_location": "Mumbai",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Linux Administrator\nClover Infotech\n3.3\n1858 Reviews\n2-5 Yrs\n3-4.5 Lacs PA\nMumbai\nHi TeamLooking for Linux Administrator for Mumbai location.Exp : 2yrs to 5yrsNP: Immedi...\nRedhat LinuxLinux System AdministrationLinux administrationAdministrationSystemLinuxSystem administrationLinux System\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Oracle PL/SQL Developer",
+      "url": "https://www.naukri.com/job-listings-oracle-pl-sql-developer-sg-india-bengaluru-2-to-5-years-170926024687",
+      "portal_job_id": "170926024687",
+      "employer": "SG Lottery India",
+      "card_skills": [
+        "Database Scripting",
+        "Oracle Database",
+        "SQL",
+        "PLSQL Oracle",
+        "Oracle Forms",
+        "Query Optimization",
+        "Index Optimization",
+        "SQL Development"
+      ],
+      "card_location": "Hybrid - Bengaluru",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Oracle PL/SQL Developer\nSG Lottery India\n3.6\n177 Reviews\n2-5 Yrs\nHybrid - Bengaluru\nPerform data validation, data migration, and data correction activities as required Bac...\nDatabase ScriptingOracle DatabaseSQLPLSQL OracleOracle FormsQuery OptimizationIndex OptimizationSQL Development\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "title": "Strong Spring Boot | Database | Viman Nagar Pune",
+      "url": "https://www.naukri.com/job-listings-strong-spring-boot-database-viman-nagar-pune-mindnerves-technology-services-pune-3-to-7-years-131026047123",
+      "portal_job_id": "131026047123",
+      "employer": "Mindnerves Technology Services",
+      "card_skills": [
+        "Java",
+        "Database Design",
+        "Spring Boot",
+        "Microservices",
+        "SQL",
+        "DBMS",
+        "Design",
+        "Spring"
+      ],
+      "card_location": "Pune(Viman Nagar)",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Strong Spring Boot | Database | Viman Nagar Pune\nMindnerves Technology Services\n3.9\n93 Reviews\n3-7 Yrs\n6-11 Lacs PA\nPune(Viman Nagar)\nWe are looking for strong Java Spring boot Developer with good knowledge working with S...\nJavaDatabase DesignSpring BootMicroservicesSQLDBMSDesignSpring\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": null
+    },
+    {
+      "title": "Business Analyst",
+      "url": "https://www.naukri.com/job-listings-business-analyst-telecomatics-technologies-coimbatore-2-to-3-years-131026046083",
+      "portal_job_id": "131026046083",
+      "employer": "Telecomatics Technologies",
+      "card_skills": [
+        "Business Process Modelling",
+        "Gap Analysis",
+        "User Story Creation",
+        "Requirement Gathering & Analysis",
+        "Stakeholder Management",
+        "Change Management",
+        "Agile/Scrum Methodology",
+        "UAT Coordination"
+      ],
+      "card_location": "Coimbatore(Saibaba Colony )",
+      "posted_at": null,
+      "posted_text": null,
+      "card_excerpt": "Business Analyst\nTelecomatics Technologies\n3.8\n6 Reviews\n2-3 Yrs\n3.6-4.8 Lacs PA\nCoimbatore(Saibaba Colony )\nSeeking BA with expertise in requirement gathering, user stories, BRD/FRD/SRS, stakehol...\nBusiness Process ModellingGap AnalysisUser Story CreationRequirement Gathering & AnalysisStakeholder ManagementChange ManagementAgile/Scrum MethodologyUAT Coordination\nFew hours ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=India&pageNo=1",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    }
+  ]
+}

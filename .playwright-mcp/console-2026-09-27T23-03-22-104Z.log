@@ -1,0 +1,18 @@
+[     128ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     128ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     128ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     128ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     128ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://in.indeed.com/jobs?q=java+spring+boot&l=India&sort=date:0
+[     414ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://t.indeed.com/signals/v1/log?signalAppId=cloudflare-static-pages&from=cloudflare-static-pages--captcha:0
+[     524ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://in.indeed.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a41e242bbbdb94dd:0
+[     524ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://in.indeed.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a41e242bbbdb94dd:0
+[     564ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://in.indeed.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a41e242bbbdb94dd:0
+[     590ms] [WARNING] No available adapters. @ https://in.indeed.com/jobs?q=java+spring+boot&l=India&sort=date:0
+[     963ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     963ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     963ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     963ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    1208ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/ceent/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:0
+[    1208ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/ceent/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:0
+[    1243ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/ceent/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:0
+[    1278ms] [WARNING] No available adapters. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/ceent/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:0

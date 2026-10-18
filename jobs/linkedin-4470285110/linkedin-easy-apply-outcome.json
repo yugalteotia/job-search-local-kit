@@ -1,0 +1,153 @@
+{
+  "job_id": 339,
+  "requisition_id": "4470285110",
+  "status": "Applied",
+  "attempt_id": "ecba38ff-14f5-4824-95c7-b058a651c86d",
+  "submit_clicked": true,
+  "visible_questions": [
+    {
+      "question": "Follow DigiCert to stay up to date with their page.",
+      "type": "checkbox",
+      "required": false
+    }
+  ],
+  "user_completed_fields_reviewed": 1,
+  "active_control": "Follow DigiCert to stay up to date with their page.",
+  "autocomplete_controls": [
+    {
+      "tag": "DIV",
+      "role": null,
+      "classes": "artdeco-entity-lockup__metadata ember-view",
+      "india": true
+    },
+    {
+      "tag": "DIV",
+      "role": "option",
+      "classes": "basic-typeahead__selectable\n        \n        \n        ",
+      "india": true
+    },
+    {
+      "tag": "DIV",
+      "role": null,
+      "classes": "search-typeahead-v2__hit search-typeahead-v2__hit--autocomplete",
+      "india": true
+    },
+    {
+      "tag": "SPAN",
+      "role": null,
+      "classes": "search-typeahead-v2__hit-info display-flex flex-column",
+      "india": true
+    },
+    {
+      "tag": "SPAN",
+      "role": null,
+      "classes": "search-typeahead-v2__hit-text t-14 t-black t-bold",
+      "india": true
+    },
+    {
+      "tag": "DIV",
+      "role": "option",
+      "classes": "basic-typeahead__selectable\n        \n        \n        ",
+      "india": true
+    },
+    {
+      "tag": "DIV",
+      "role": null,
+      "classes": "search-typeahead-v2__hit search-typeahead-v2__hit--autocomplete",
+      "india": true
+    },
+    {
+      "tag": "SPAN",
+      "role": null,
+      "classes": "search-typeahead-v2__hit-info display-flex flex-column",
+      "india": true
+    },
+    {
+      "tag": "SPAN",
+      "role": null,
+      "classes": "search-typeahead-v2__hit-text t-14 t-black t-bold",
+      "india": true
+    },
+    {
+      "tag": "DIV",
+      "role": "option",
+      "classes": "basic-typeahead__selectable\n        \n        \n        ",
+      "india": true
+    },
+    {
+      "tag": "DIV",
+      "role": null,
+      "classes": "search-typeahead-v2__hit search-typeahead-v2__hit--autocomplete",
+      "india": true
+    },
+    {
+      "tag": "SPAN",
+      "role": null,
+      "classes": "search-typeahead-v2__hit-info display-flex flex-column",
+      "india": true
+    },
+    {
+      "tag": "SPAN",
+      "role": null,
+      "classes": "search-typeahead-v2__hit-text t-14 t-black t-bold",
+      "india": true
+    },
+    {
+      "tag": "DIV",
+      "role": "option",
+      "classes": "basic-typeahead__selectable\n        \n        \n        ",
+      "india": true
+    },
+    {
+      "tag": "DIV",
+      "role": null,
+      "classes": "search-typeahead-v2__hit search-typeahead-v2__hit--autocomplete",
+      "india": true
+    },
+    {
+      "tag": "SPAN",
+      "role": null,
+      "classes": "search-typeahead-v2__hit-info display-flex flex-column",
+      "india": true
+    },
+    {
+      "tag": "SPAN",
+      "role": null,
+      "classes": "search-typeahead-v2__hit-text t-14 t-black t-bold",
+      "india": true
+    },
+    {
+      "tag": "DIV",
+      "role": "option",
+      "classes": "basic-typeahead__selectable\n        \n        \n        ",
+      "india": true
+    },
+    {
+      "tag": "DIV",
+      "role": null,
+      "classes": "search-typeahead-v2__hit search-typeahead-v2__hit--autocomplete",
+      "india": true
+    },
+    {
+      "tag": "SPAN",
+      "role": null,
+      "classes": "search-typeahead-v2__hit-info display-flex flex-column",
+      "india": true
+    },
+    {
+      "tag": "SPAN",
+      "role": null,
+      "classes": "search-typeahead-v2__hit-text t-14 t-black t-bold",
+      "india": true
+    }
+  ],
+  "autocomplete_input": {
+    "role": "combobox",
+    "autocomplete": "list",
+    "expanded": "true",
+    "controls": "triggered-expanded-ember358",
+    "owns": "triggered-expanded-ember358"
+  },
+  "step_action": "next_or_review",
+  "confirmation_path": "jobs/linkedin-4470285110/linkedin-easy-apply-confirmation.json"
+}

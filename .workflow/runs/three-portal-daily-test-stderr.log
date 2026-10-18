@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "/home/yugal/Documents/job-search/job-search-local-kit/workflow", line 6, in <module>
+    main()
+  File "/home/yugal/Documents/job-search/job-search-local-kit/tools/workflow.py", line 697, in main
+    print(json.dumps(pipeline_v2.run(test=args.test,scheduled=args.scheduled,max_seconds=args.max_seconds,
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yugal/Documents/job-search/job-search-local-kit/tools/pipeline_v2.py", line 65, in run
+    return _locked(config,test,scheduled,max_seconds,page_cap,query_cap,sources,review_limit,fresh_only)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yugal/Documents/job-search/job-search-local-kit/tools/pipeline_v2.py", line 204, in _locked
+    result['portal_native']=portal_native.verify_leads(db,native_leads,
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yugal/Documents/job-search/job-search-local-kit/tools/portal_native.py", line 139, in verify_leads
+    job_id,created=job_db.create_job(db,record)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yugal/Documents/job-search/job-search-local-kit/tools/job_db.py", line 325, in create_job
+    cur=db.execute('''INSERT INTO jobs(employer_key,requisition_key,employer,title,requisition_id,canonical_url,slug,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: UNIQUE constraint failed: jobs.slug

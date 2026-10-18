@@ -1,0 +1,20 @@
+[     191ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     191ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     191ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     191ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     449ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://static.naukimg.com/s/0/0/j/nLoggerJB_v3.4.min.js:0
+[     456ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.naukri.com/akam/13/692cdacd:0
+[     464ms] ReferenceError: nLogger is not defined
+    at https://www.naukri.com/mnjuser/profile:63:13
+[     462ms] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://static.naukimg.com/s/0/0/j/customElements.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ https://www.naukri.com/mnjuser/profile:209
+[     463ms] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://static.naukimg.com/s/0/0/j/customElements.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ https://www.naukri.com/mnjuser/profile:209
+[     598ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://static.naukimg.com/s/5/105/j/internal_interfaces_v9.min.js:2
+[    1088ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1623ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/collectorapi/v1/uba/bulk:0
+[    1715ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/uba:0
+[    1773ms] Error: Minified React error #299; visit https://reactjs.org/docs/error-decoder.html?invariant=299 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at t.createRoot (https://static.naukimg.com/s/7/0/j/vendors~dynamic_form_widget.0201f74a.min.js:1:145181)
+    at https://static.naukimg.com/s/7/0/j/vendors~dynamic_form_widget.0201f74a.min.js:1:204867
+    at HTMLDocument.<anonymous> (https://static.naukimg.com/s/7/0/j/vendors~dynamic_form_widget.0201f74a.min.js:1:205057)
+    at https://static.naukimg.com/s/7/0/j/ni-desktop-dynamic-form-wdgt-react_v0.min.js:1:8711
+[    1774ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://logs.naukri.com/collectorapi/v1/uba/bulk:0

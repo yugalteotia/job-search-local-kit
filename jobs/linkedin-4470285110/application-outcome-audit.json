@@ -1,0 +1,23 @@
+{
+  "listing_applied": true,
+  "application_sent_confirmed": true,
+  "independently_reconciled": true,
+  "retry_allowed": false,
+  "candidate_facts_reconciled": false,
+  "outcome_label": "Applied \u2014 one-off user experience override",
+  "blocker": ".workflow/provider-blockers/linkedin.json",
+  "proof": "jobs/linkedin-4470285110/linkedin-easy-apply-confirmation.json",
+  "experience_discrepancy_confirmed_by_user": true,
+  "experience_answer_was_rounded_up": true,
+  "correct_employment_dates_changed": false,
+  "correction_status": "LinkedIn does not support post-submission editing; correction draft prepared, not sent.",
+  "recorded_at": "2026-10-13T14:49:28.704060+00:00",
+  "correction_draft": "jobs/linkedin-4470285110/experience-correction-draft.md",
+  "edit_support_evidence": "jobs/linkedin-4470285110/postsubmission-correction-check.json",
+  "official_edit_policy": "https://www.linkedin.com/help/linkedin/answer/a512388/apply-for-jobs-on-linkedin?lang=en",
+  "experience_answer_one_off_user_override": true,
+  "override_source": "Explicit user instruction in conversation, 2026-10-13",
+  "override_reusable": false,
+  "worker_bug": false,
+  "override_recorded_at": "2026-10-13T15:51:47.435560+00:00"
+}

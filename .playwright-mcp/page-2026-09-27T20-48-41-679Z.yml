@@ -1,0 +1,186 @@
+- generic [active] [ref=f3e1]:
+  - link "Go to the main content section." [ref=f3e2] [cursor=pointer]:
+    - /url: "#mainContent"
+  - text:     
+  - generic [ref=f3e3]:
+    - generic [ref=f3e8]:
+      - generic:
+        - textbox [ref=f3e9]
+        - button ""
+      - generic [ref=f3e11]:
+        - link [ref=f3e13] [cursor=pointer]:
+          - /url: https://careers.unitedhealthgroup.com/
+          - img "UHG Logo" [ref=f3e14]
+        - generic [ref=f3e15]:
+          - list [ref=f3e17]:
+            - listitem [ref=f3e18]:
+              - link "My Profile" [ref=f3e19] [cursor=pointer]:
+                - /url: https://uhg.taleo.net/careersection/10000/profile.ftl?lang=en
+            - listitem [ref=f3e20]:
+              - link "Join Our Talent Community" [ref=f3e21] [cursor=pointer]:
+                - /url: https://www.unitedhealthgroup.com/careers/en/hiring-process/join-our-talent-community.html
+            - listitem [ref=f3e22]:
+              - link "My Dashboard" [ref=f3e23] [cursor=pointer]:
+                - /url: https://uhg.taleo.net/careersection/10000/mysubmissions.ftl?lang=en
+          - list [ref=f3e25]:
+            - listitem [ref=f3e26]:
+              - link "Work Here" [ref=f3e27] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/work.html
+            - listitem [ref=f3e28]:
+              - link "Our Culture" [ref=f3e29] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/culture.html
+            - listitem [ref=f3e30]:
+              - link "Hiring Process & Guidance" [ref=f3e31] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/hiring-process.html
+            - listitem [ref=f3e32]:
+              - link "Early Careers" [ref=f3e33] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/early-careers.html
+            - listitem [ref=f3e34]:
+              - link "Blog" [ref=f3e35] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/blog.html
+    - generic [ref=f3e36]: Improve the lives of others while Caring. Connecting. Growing together.
+    - generic [ref=f3e40]:
+      - generic [ref=f3e42]:
+        - generic [ref=f3e43]:
+          - generic [ref=f3e44]: YUGAL TEOTIA, you are signed in.
+          - generic [aria-hidden] [ref=f3e47]: "|"
+          - link "Sign Out" [ref=f3e49] [cursor=pointer]:
+            - /url: "#"
+        - list [ref=f3e50]:
+          - listitem [ref=f3e51]:
+            - generic:
+              - link "Go to the section":
+                - /url: "#"
+          - listitem [ref=f3e52]:
+            - link "My Dashboard" [ref=f3e53] [cursor=pointer]:
+              - /url: "#"
+      - generic [ref=f3e54]:
+        - generic [ref=f3e55]:
+          - generic [ref=f3e56]:
+            - text: "Applying for:"
+            - 'link "Software Engineer - Java Fullstack (Job Number: 2388999)" [ref=f3e59] [cursor=pointer]':
+              - /url: "#"
+            - generic [ref=f3e60] [cursor=pointer]
+          - table [ref=f3e62]:
+            - rowgroup [ref=f3e63]:
+              - row [ref=f3e64]:
+                - cell [ref=f3e65]:
+                  - list [ref=f3e69]:
+                    - group "Section allowing navigation through the pages of the job submission flow" [ref=f3e70]:
+                      - listitem [ref=f3e73]:
+                        - generic [ref=f3e74]: Attachments
+                      - listitem [ref=f3e79]:
+                        - link "About You" [ref=f3e83] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f3e86]:
+                        - generic [ref=f3e87]: Education and Experience
+                      - listitem [ref=f3e92]:
+                        - generic [ref=f3e93]: Job Profile Questions
+                      - listitem [ref=f3e98]:
+                        - generic [ref=f3e99]: eSignature
+                      - listitem [ref=f3e104]:
+                        - generic [ref=f3e105]: Review and Submit
+        - generic [ref=f3e110]:
+          - link "Beginning of the main content section." [ref=f3e111] [cursor=pointer]:
+            - /url: "#"
+          - table [ref=f3e112]:
+            - rowgroup [ref=f3e113]:
+              - row [ref=f3e114]:
+                - 'cell "Attachments You may attach up to 5 documents (e.g.: cover letter, references, certifications, transcripts, etc.). Each file must not exceed 1024 kilobytes. Select the file to attach Comments about the file 39261341 Attach Also, please indicate which of the attached documents is your Resume / CV." [ref=f3e115]':
+                  - heading "Attachments" [level=1] [ref=f3e116]
+                  - generic [ref=f3e120]:
+                    - heading [level=2]
+                    - paragraph [ref=f3e124]:
+                      - generic [ref=f3e125]: "You may attach up to 5 documents (e.g.: cover letter, references, certifications, transcripts, etc.). Each file must not exceed 1024 kilobytes."
+                    - table [ref=f3e129]:
+                      - rowgroup [ref=f3e130]:
+                        - row [ref=f3e131]:
+                          - cell [ref=f3e132]:
+                            - generic [ref=f3e133]:
+                              - generic [ref=f3e134]: Select the file to attach
+                              - button "Select the file to attach" [ref=f3e135]
+                              - generic [ref=f3e136]: Comments about the file
+                              - textbox "Comments about the file" [ref=f3e137]: "39261341"
+                              - button "Attach" [ref=f3e138] [cursor=pointer]
+                          - cell
+                    - table "Also, please indicate which of the attached documents is your Resume / CV." [ref=f3e140]:
+                      - caption [ref=f3e141]:
+                        - generic [ref=f3e142]: Also, please indicate which of the attached documents is your Resume / CV.
+                      - rowgroup [ref=f3e151]:
+                        - row [ref=f3e152]:
+                          - columnheader "Relevant Files" [ref=f3e153]
+                          - columnheader "Resume / CV" [ref=f3e156]
+                          - columnheader "File Name" [ref=f3e159]
+                          - columnheader "Date" [ref=f3e162]
+                          - columnheader "Comments" [ref=f3e165]
+                          - columnheader "Actions" [ref=f3e168]
+                      - rowgroup [ref=f3e171]:
+                        - row [ref=f3e172]:
+                          - cell [ref=f3e173]:
+                            - 'checkbox "Select the file: Tailored_Resume_v2.pdf" [checked] [ref=f3e174]'
+                          - cell [ref=f3e175]:
+                            - checkbox "Document is a resume / CV" [ref=f3e176]
+                          - cell [ref=f3e177]:
+                            - link "Tailored_Resume_v2.pdf" [ref=f3e178] [cursor=pointer]:
+                              - /url: /careersection/viewAttachedFile.jss?attachmentNo=52822786&portalCode=10780&candidateNo=39261341&applicationNo=77365054
+                          - cell "9/28/26" [ref=f3e180]
+                          - cell "39261341" [ref=f3e183]
+                          - cell [ref=f3e186]:
+                            - link "Delete" [ref=f3e187] [cursor=pointer]:
+                              - /url: "#"
+        - generic [ref=f3e192]:
+          - button "Save and Continue" [ref=f3e193] [cursor=pointer]
+          - button "Save as Draft" [ref=f3e194] [cursor=pointer]
+          - button "Quit" [ref=f3e195] [cursor=pointer]
+    - generic [ref=f3e197]:
+      - generic [ref=f3e200]:
+        - generic [ref=f3e201]:
+          - list [ref=f3e203]:
+            - listitem [ref=f3e204]:
+              - link "" [ref=f3e205] [cursor=pointer]:
+                - /url: http://facebook.com/uhgcareers
+            - listitem [ref=f3e207]:
+              - link "" [ref=f3e208] [cursor=pointer]:
+                - /url: https://www.instagram.com/uhgcareers/
+            - listitem [ref=f3e210]:
+              - link "" [ref=f3e211] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/1720
+            - listitem [ref=f3e213]:
+              - link [ref=f3e214] [cursor=pointer]:
+                - /url: http://twitter.com/uhgcareers
+                - img "Twitter" [ref=f3e215]
+            - listitem [ref=f3e216]:
+              - link "" [ref=f3e217] [cursor=pointer]:
+                - /url: http://www.youtube.com/user/uhgcareers
+            - listitem [ref=f3e219]:
+              - link "" [ref=f3e220] [cursor=pointer]:
+                - /url: http://www.glassdoor.com/Overview/Working-at-UnitedHealth-Group-EI_IE1991.11,29.htm
+            - listitem [ref=f3e222]:
+              - link "" [ref=f3e223] [cursor=pointer]:
+                - /url: https://careers.unitedhealthgroup.com/blog
+          - generic [ref=f3e225]:
+            - link "Social Responsibility" [ref=f3e228] [cursor=pointer]:
+              - /url: "#popup1"
+            - link "Fraudulent Activity" [ref=f3e231] [cursor=pointer]:
+              - /url: "#popup2"
+        - generic [ref=f3e232]:
+          - paragraph [ref=f3e233]:
+            - link "Privacy Policy" [ref=f3e234] [cursor=pointer]:
+              - /url: https://www.unitedhealthgroup.com/privacy.html
+            - link "Family & Medical Leave Act (PDF)" [ref=f3e235] [cursor=pointer]:
+              - /url: http://www.dol.gov/whd/regs/compliance/posters/fmlaen.pdf
+            - link "Equal Employment Law Poster (PDF)" [ref=f3e236] [cursor=pointer]:
+              - /url: http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf
+            - link "Pay Transparency Employee Polygraph Protection Act (PDF)" [ref=f3e237] [cursor=pointer]:
+              - /url: https://cdn-static.findly.com/wp-content/uploads/sites/1288/2020/10/PayTransparencySupplementNondiscrimRev2017.pdf
+            - link "E-Verify Participation Poster" [ref=f3e238] [cursor=pointer]:
+              - /url: https://cdn-static.findly.com/wp-content/uploads/sites/1288/2020/10/E-Verify_Participation_Poster.pdf
+            - link "Immigrant and Employee Right to Work Poster" [ref=f3e239] [cursor=pointer]:
+              - /url: https://careers.unitedhealthgroup.com/-/media/9EB3C61FAAD54205BCE70F65D03E6628.ashx
+          - paragraph [ref=f3e240]: © 2023 UnitedHealth Group, All rights reserved.
+          - paragraph [ref=f3e241]: UnitedHealth Group is committed to working with and providing reasonable accommodations to individuals with physical and mental disabilities. If you need special assistance or accommodation for any part of the application process, please call 1-866-566-8715 to be connected to Recruitment Services. Recruitment Services hours of operation are 7 a.m. to 7 p.m. CT, Monday through Friday.
+          - paragraph [ref=f3e242]: UnitedHealth Group is a registered service mark of UnitedHealth Group, Inc. The UnitedHealth Group name with the dimensional logo, as well as the dimensional logo alone, are both service marks for the UnitedHealth Group, Inc.
+          - paragraph [ref=f3e243]: "Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law."
+          - paragraph [ref=f3e244]: UnitedHealth Group is a drug-free workplace. Candidates are required to pass a drug test before beginning employment.
+      - link "Top" [ref=f3e245] [cursor=pointer]:
+        - /url: "#"

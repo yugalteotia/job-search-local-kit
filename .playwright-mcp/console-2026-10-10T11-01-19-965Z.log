@@ -1,0 +1,20 @@
+[       9ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://s.indeed.com/com.snowplowanalytics.snowplow/tp2:0
+[      73ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[      73ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[      73ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[      73ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[      73ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[      73ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://in.indeed.com/jobs?q=Spring%20Boot%20software%20engineer&l=Hyderabad&sort=date&start=25:0
+[     337ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://t.indeed.com/signals/v1/log?signalAppId=cloudflare-static-pages&from=cloudflare-static-pages--captcha:0
+[     440ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://in.indeed.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a48520600b310eea:1
+[     440ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://in.indeed.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a48520600b310eea:1
+[     471ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://in.indeed.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a48520600b310eea:1
+[     492ms] [WARNING] No available adapters. @ https://in.indeed.com/jobs?q=Spring%20Boot%20software%20engineer&l=Hyderabad&sort=date&start=25:0
+[     789ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     789ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     789ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     789ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     789ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    1021ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/j5kd6/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:0
+[    1021ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/j5kd6/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:0
+[    1053ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/j5kd6/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:0

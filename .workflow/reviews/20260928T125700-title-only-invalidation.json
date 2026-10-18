@@ -1,0 +1,25 @@
+{
+  "candidates_found": 1,
+  "checked": 1,
+  "verified_substantive": 0,
+  "failed_or_unresolved": 1,
+  "results": [
+    {
+      "job_id": 189,
+      "company": "Brillio",
+      "role": "Senior Software Development Engineer - R01568499",
+      "direct_url": "https://jobs.lever.co/brillio-2/58d975db-1d26-4ecb-92de-66bbc3666320",
+      "requisition_id": "58d975db-1d26-4ecb-92de-66bbc3666320",
+      "provider": "lever",
+      "verified": false,
+      "status": "LiveTitleOnly",
+      "checked_at": "2026-09-28T12:54:09.604886+00:00",
+      "url": "https://jobs.lever.co/brillio-2/58d975db-1d26-4ecb-92de-66bbc3666320",
+      "title": "Senior Software Development Engineer - R01568499",
+      "error_kind": "live_page_has_no_substantive_duties_and_qualifications",
+      "visible_chars": 207,
+      "updated_from_original": false,
+      "failure_reason": "live_page_has_no_substantive_duties_and_qualifications"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "job_id": 266,
+  "requisition_id": "290926917619",
+  "listing": {
+    "exact_path": true,
+    "apply_count": 1,
+    "applied": false,
+    "pending": false
+  },
+  "history": {
+    "full": true,
+    "exact": 0,
+    "company_role": 0,
+    "at": "2026-10-13T04:45:35.957927+00:00"
+  },
+  "at": "2026-10-13T04:45:35.957945+00:00",
+  "answers_sent": 0,
+  "application_completion_sent": false,
+  "generic_resume_restored": true,
+  "status": "NoQuestionVisible",
+  "question": null,
+  "options": [],
+  "editor_count": 0,
+  "save_label": ""
+}

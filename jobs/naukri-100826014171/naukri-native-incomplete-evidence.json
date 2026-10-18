@@ -1,0 +1,17 @@
+{
+  "attempt_id": "00c06e36-e7e0-4be4-981a-a96cbc352e63",
+  "requisition_id": "100826014171",
+  "checked_at": "2026-10-16T11:05:18.850144+00:00",
+  "pending_question": "How many years of experience do you have in Angularjs?",
+  "completion_count": 0,
+  "workflow_committed": false,
+  "denied_events": 0,
+  "save_in_flight": false,
+  "listing_exact_path": true,
+  "listing_applied": false,
+  "history_full": true,
+  "history_exact": 0,
+  "history_company_role": 0,
+  "answers_logged": false,
+  "safe": true
+}

@@ -1,0 +1,43 @@
+{
+  "job_id": 346,
+  "requisition_id": "131026048418",
+  "attempt_id": "0ba15281-58d3-4408-9a7c-e15acf32af6b",
+  "saves": 0,
+  "status": "Applied",
+  "stage": "confirmation_check",
+  "confirmation_path": "jobs/naukri-131026048418/naukri-native-confirmation.json",
+  "answers_logged": false,
+  "network_guard": {
+    "job_id": "131026048418",
+    "phase": "claimed",
+    "show_count": 1,
+    "answer_count": 0,
+    "save_arm_count": 0,
+    "followup_status_count": 0,
+    "post_completion_status_count": 0,
+    "completion_count": 0,
+    "reopen_count": 0,
+    "workflow_committed": false,
+    "events": [
+      {
+        "at": "2026-10-13T16:52:09.029749+00:00",
+        "elapsed_ms": 132,
+        "job_id": "131026048418",
+        "phase": "show_sent",
+        "method": "POST",
+        "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+        "flowtype": "show",
+        "allowed": true,
+        "reason": "exact_job_show",
+        "response_status": 200,
+        "response_elapsed_ms": 254,
+        "response_metadata": {
+          "job_id_match": true
+        }
+      }
+    ]
+  },
+  "generic_resume_restored": true,
+  "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+  "generic_resume_verified_at": "2026-10-13T16:52:55.871475+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "requisition_id": "081026040485",
+  "listing": {
+    "exact_path": true,
+    "apply_count": 0,
+    "applied": true,
+    "pending": false
+  },
+  "history": {
+    "full": true,
+    "exact": 0,
+    "company_role": 1,
+    "observed_exact_rows_unverified": 0,
+    "at": "2026-10-13T13:35:47.535108+00:00"
+  },
+  "positive_history_match": false,
+  "application_actions": 0
+}

@@ -1,0 +1,11 @@
+{
+  "requisition_id": "110826000033",
+  "url": "https://www.naukri.com/job-listings-java-back-end-developer-springboot-microservices-infosys-hyderabad-chennai-bengaluru-3-to-6-years-110826000033",
+  "captured_at": "2026-10-13T05:36:53.282770+00:00",
+  "exact_listing_applied": true,
+  "confirmation_text": "Applied displayed on the exact Naukri listing",
+  "workflow_worker_proven": false,
+  "source_observation": "naukri-current-listing.json",
+  "application_origin": "previously applied; observed before any inspection Apply action",
+  "role_resume_verified_for_application": null
+}

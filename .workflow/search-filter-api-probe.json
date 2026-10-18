@@ -1,0 +1,92 @@
+{
+  "url": "https://www.naukri.com/java-spring-boot-backend-jobs-in-india?jobAge=7&experience=2",
+  "search_requests": [
+    {
+      "path": "/jobapi/v3/search",
+      "params": {
+        "searchType": [
+          "adv"
+        ],
+        "location": [
+          "india"
+        ],
+        "keyword": [
+          "java spring boot backend"
+        ]
+      }
+    },
+    {
+      "path": "/jobapi/v3/search",
+      "params": {
+        "searchType": [
+          "adv"
+        ],
+        "location": [
+          "india"
+        ],
+        "keyword": [
+          "java spring boot backend"
+        ],
+        "sort": [
+          "p"
+        ],
+        "jobAge": [
+          "7",
+          "7"
+        ]
+      }
+    },
+    {
+      "path": "/jobapi/v3/search",
+      "params": {
+        "searchType": [
+          "adv"
+        ],
+        "location": [
+          "india"
+        ],
+        "keyword": [
+          "java spring boot backend"
+        ],
+        "sort": [
+          "f"
+        ],
+        "jobAge": [
+          "7",
+          "7"
+        ]
+      }
+    },
+    {
+      "path": "/jobapi/v3/search",
+      "params": {
+        "searchType": [
+          "adv"
+        ],
+        "location": [
+          "india"
+        ],
+        "keyword": [
+          "java spring boot backend"
+        ],
+        "sort": [
+          "f"
+        ],
+        "jobAge": [
+          "7",
+          "7"
+        ],
+        "experience": [
+          "2",
+          "2"
+        ]
+      }
+    }
+  ],
+  "search_fields": {
+    "keywords": "java spring boot backend, ",
+    "location": "india, ",
+    "experience": "2 years",
+    "heading": "Java Spring Boot Backend Jobs In India"
+  }
+}

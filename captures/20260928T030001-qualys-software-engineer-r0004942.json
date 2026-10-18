@@ -1,0 +1,76 @@
+{
+  "company": "Qualys",
+  "role": "Software Engineer",
+  "job_id": "R0004942",
+  "slug": "qualys-software-engineer-r0004942",
+  "url": "https://qualys.wd5.myworkdayjobs.com/en-US/Careers/job/Software-Engineer_R0004942",
+  "direct_application_url": "https://qualys.wd5.myworkdayjobs.com/en-US/Careers/job/Software-Engineer_R0004942",
+  "source": "Original Qualys Workday page, live browser check; Naukri lead",
+  "checked_at": "2026-09-28T03:05:30Z",
+  "posted_date": null,
+  "location": "Pune, India",
+  "original_verified": true,
+  "live": true,
+  "india": true,
+  "development_role": true,
+  "fit_checks": {
+    "java_spring_backend": {
+      "verified": true,
+      "evidence": "Original JD requires 2\u20135 years enterprise Java, REST and microservice development; IDeaS has Java/Spring Boot REST and gRPC work."
+    },
+    "experience_band": {
+      "verified": true,
+      "evidence": "Original JD says 2\u20135 years; IDeaS professional Java backend is just under 2 years from 14 Oct 2024 to 30 Sep 2026, so lower bound is borderline and not rounded up."
+    },
+    "india_location": {
+      "verified": true,
+      "evidence": "Original Workday page lists Pune; candidate is in Pune."
+    }
+  },
+  "jd": "Live original Workday page: Software Engineer, R0004942, Pune, full time, posted 2 days ago as displayed on 28 Sep 2026. Responsibilities: distributed scalable containerized microservices, quality design/code, build QA automation frameworks, application stability, engineering production issue monitoring and live troubleshooting, hot fixes. Qualifications: 2\u20135 years enterprise Java design/development; QA automation; application development and automation; relational databases Oracle and/or NoSQL Cassandra; professional indexing Elasticsearch and caching Redis/Memcached; data structures/algorithms; REST web applications; communication. Desired: security/compliance domain, Kafka and Docker/Kubernetes/Helm. Source URL is a reliable reference to the original JD.",
+  "rationale": "Pune Java/REST overlap, but professional Elasticsearch and caching experience is required and absent; QA automation depth is also unclear. The 2-year Java minimum is borderline by exact employment dates. Medium only.",
+  "requirements": [
+    {
+      "name": "Enterprise Java and REST APIs",
+      "required": true,
+      "basis": "work",
+      "master_bullet": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "2\u20135 years enterprise Java development",
+      "required": true,
+      "basis": "gap",
+      "evidence": "IDeaS 14 Oct 2024\u201330 Sep 2026 is just under two years of professional Java; PG-DAC is training."
+    },
+    {
+      "name": "QA automation design and build",
+      "required": true,
+      "basis": "gap",
+      "evidence": "JUnit, Mockito and contract tests are evidenced, but QA automation framework design/build is not."
+    },
+    {
+      "name": "Oracle or NoSQL database",
+      "required": true,
+      "basis": "work",
+      "master_bullet": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "Professional Elasticsearch indexing and Redis/Memcached caching",
+      "required": true,
+      "basis": "gap",
+      "evidence": "No production Elasticsearch or Redis/Memcached demonstrated."
+    },
+    {
+      "name": "CS or engineering degree",
+      "required": true,
+      "basis": "education",
+      "evidence": "B.Tech CSE, AKTU 2020\u20132023."
+    }
+  ]
+}

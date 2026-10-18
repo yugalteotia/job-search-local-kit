@@ -1,0 +1,23 @@
+{
+  "job_id": 383,
+  "requisition_id": "180826042980",
+  "form_url": "https://www.naukri.com/job-listings-java-spring-boot-developer-infosys-pune-chennai-bengaluru-1-to-2-years-180826042980",
+  "provider": "naukri_native_chat",
+  "signed_in": true,
+  "account_name_matches": true,
+  "resume_filename": "Yugal_Teotia_Java_Spring_Boot_Developer.pdf",
+  "resume_sha256": "9565f2fa830eaa57a0f71ca3a507bae2ea0d7b605722ae9003aafbe4e6d78a44",
+  "final_action": "native_apply_open",
+  "visible_required_fields": 0,
+  "answers_logged": false,
+  "checks": {
+    "live": true,
+    "unapplied": true,
+    "fit": true,
+    "resume_visual": true,
+    "resume_selected": true,
+    "answers_confirmed": true,
+    "unique_apply": true
+  },
+  "created_at": "2026-10-16T11:06:20.423346+00:00"
+}

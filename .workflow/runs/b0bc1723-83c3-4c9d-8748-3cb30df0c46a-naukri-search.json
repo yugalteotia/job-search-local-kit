@@ -1,0 +1,165 @@
+{
+  "pages": [
+    {
+      "query": "Java Backend Developer",
+      "location": "Delhi NCR",
+      "page": 1,
+      "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=Delhi%20NCR&pageNo=1",
+      "observed_url": "https://www.naukri.com/java-backend-developer-jobs-in-delhi-ncr?jobAge=7&experience=2",
+      "checked_at": "2026-10-13T05:00:05.557690+00:00",
+      "status": "Success",
+      "visible_cards": 20,
+      "lead_count": 20,
+      "filters": {
+        "experience_label": "2",
+        "freshness_label": "Last 7 days",
+        "sort_label": "Date"
+      },
+      "error_kind": null
+    },
+    {
+      "query": "Java Spring Boot",
+      "location": "Mumbai",
+      "page": 1,
+      "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot&l=Mumbai&pageNo=1",
+      "observed_url": "https://www.naukri.com/java-spring-boot-jobs-in-mumbai?jobAge=7&experience=2",
+      "checked_at": "2026-10-13T05:00:12.689266+00:00",
+      "status": "Success",
+      "visible_cards": 20,
+      "lead_count": 20,
+      "filters": {
+        "experience_label": "2",
+        "freshness_label": "Last 7 days",
+        "sort_label": "Date"
+      },
+      "error_kind": null
+    },
+    {
+      "query": "Java Spring Boot backend",
+      "location": "Chennai",
+      "page": 1,
+      "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=Chennai&pageNo=1",
+      "observed_url": "https://www.naukri.com/java-spring-boot-backend-jobs-in-chennai?jobAge=7&experience=2",
+      "checked_at": "2026-10-13T05:00:20.129931+00:00",
+      "status": "Success",
+      "visible_cards": 20,
+      "lead_count": 20,
+      "filters": {
+        "experience_label": "2",
+        "freshness_label": "Last 7 days",
+        "sort_label": "Date"
+      },
+      "error_kind": null
+    }
+  ],
+  "cards": [
+    {
+      "title": "Java Developer",
+      "url": "https://www.naukri.com/job-listings-java-developer-codepanda-academy-noida-gurugram-delhi-ncr-0-to-4-years-090724010334",
+      "portal_job_id": "090724010334",
+      "employer": "Codepanda Academy",
+      "card_location": "Noida, Gurugram, Delhi / NCR",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Java Developer\nCodepanda Academy\n4.6\n6 Reviews\n0-4 Yrs\n4-7 Lacs PA\nNoida, Gurugram, Delhi / NCR\nPreferred candidate profile . FRESHERS CAN ALSO APPLY\nJava DevelopmentJAVACSSSpring Boot FrameworkmymangoSQLspring\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Backend%20Developer&l=Delhi%20NCR&pageNo=1"
+    },
+    {
+      "title": "Java React Developer",
+      "url": "https://www.naukri.com/job-listings-java-react-developer-infosys-pune-chennai-bengaluru-2-to-6-years-240826012293",
+      "portal_job_id": "240826012293",
+      "employer": "Infosys",
+      "card_location": "Hybrid - Pune, Bengaluru, Chennai",
+      "posted_at": null,
+      "posted_text": "Just now",
+      "card_excerpt": "Java React Developer\nInfosys\n3.5\n52907 Reviews\n2-6 Yrs\nHybrid - Pune, Bengaluru, Chennai\nBachelor of Engineering, BTech, BCA, BSc, ME, MTech, MSc, MCAExperience with both exter...\nJavaReactCore JavaReact DeveloperReactive ProgrammingArchitecturePostgresqlAutomated Testing\nPrefers women\nJust now\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=Chennai&pageNo=1"
+    },
+    {
+      "title": "Back End Sales Support",
+      "url": "https://www.naukri.com/job-listings-back-end-sales-support-adduco-india-chennai-2-to-4-years-121026031610",
+      "portal_job_id": "121026031610",
+      "employer": "Industrial Products",
+      "card_location": "Chennai",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Back End Sales Support\nIndustrial Products\nPosted by Adduco India\n2-4 Yrs\nChennai\nRole & responsibilities Department: Sales & MarketingLocation: ChennaiJob Summary:To pr...\nSales CoordinationQuotationSalesSales ReportSales SupportKey Account MgmtIndustrial EquipmentSales Support / Presales\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=Chennai&pageNo=1"
+    },
+    {
+      "title": "Java Full Stack Developer (Angular/React)(2-3 Years)",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-react-2-3-years-infosys-pune-chennai-bengaluru-2-to-3-years-060826033871",
+      "portal_job_id": "060826033871",
+      "employer": "Infosys",
+      "card_location": "Hybrid - Pune, Bengaluru, Chennai",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Java Full Stack Developer (Angular/React)(2-3 Years)\nInfosys\n3.5\n52907 Reviews\n2-3 Yrs\n1-5 Lacs PA\nHybrid - Pune, Bengaluru, Chennai\nand build POCs You will create requirement specifications from the business needs, defi...\nAngularjsJava FullstackJavaSpring BootReact.jsAngularBootAngular React\nPrefers women\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=Chennai&pageNo=1"
+    },
+    {
+      "title": "Java Full Stack Developer (Angular)(2-3Y)",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-2-3y-infosys-pune-chennai-bengaluru-2-to-3-years-190826009591",
+      "portal_job_id": "190826009591",
+      "employer": "Infosys",
+      "card_location": "Hybrid - Pune, Bengaluru, Chennai",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Java Full Stack Developer (Angular)(2-3Y)\nInfosys\n3.5\n52907 Reviews\n2-3 Yrs\nHybrid - Pune, Bengaluru, Chennai\nEmployment Type: Full-time . Job Summary . We are seeking a skilled Java Full Stack Dev...\nJava FullstackAngularJavaAngularjsSpring BootBootBootstrapFull Stack\nPrefers women\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=Chennai&pageNo=1"
+    },
+    {
+      "title": "JAVA Springboot Microservices -INF (2-9)YRS",
+      "url": "https://www.naukri.com/job-listings-java-springboot-microservices-inf-2-9-yrs-infosys-hyderabad-chennai-bengaluru-2-to-7-years-200826033407",
+      "portal_job_id": "200826033407",
+      "employer": "Infosys",
+      "card_location": "Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "JAVA Springboot Microservices -INF (2-9)YRS\nInfosys\n3.5\n52907 Reviews\n2-7 Yrs\nBengaluru, Hyderabad, Chennai\nThere is a huge requirement for Java Developer . Technical and Professional Requiremen...\nJavaSpring BootMicroservicesJava DevelopmentSpring MicroservicesJava Spring BootDevelopmentSpring\nPrefers women\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=Chennai&pageNo=1"
+    },
+    {
+      "title": "JAVA Developer-INF (2 - 9) YRS",
+      "url": "https://www.naukri.com/job-listings-java-developer-inf-2-9-yrs-infosys-hyderabad-chennai-bengaluru-2-to-7-years-070926029541",
+      "portal_job_id": "070926029541",
+      "employer": "Infosys",
+      "card_location": "Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "JAVA Developer-INF (2 - 9) YRS\nInfosys\n3.5\n52907 Reviews\n2-7 Yrs\nBengaluru, Hyderabad, Chennai\nPreferred Skills: Technology->Java->Springboot ->MICROSERVICES . .\nJavaSpring BootJava FullstackMicroservicesFull StackSpringBoot\nPrefers women\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=Chennai&pageNo=1"
+    },
+    {
+      "title": "Java Full Stack Developer (React js)_ (2-3 Years)",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-react-js-2-3-years-infosys-hyderabad-chennai-bengaluru-2-to-3-years-190826009541",
+      "portal_job_id": "190826009541",
+      "employer": "Infosys",
+      "card_location": "Hybrid - Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Java Full Stack Developer (React js)_ (2-3 Years)\nInfosys\n3.5\n52907 Reviews\n2-3 Yrs\nHybrid - Bengaluru, Hyderabad, Chennai\nand build POCs You will create requirement specifications from the business needs, defi...\nJava FullstackReact.jsReacts JsJavaSpring BootFull StackDevelopmentStack\nPrefers women\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=Chennai&pageNo=1"
+    },
+    {
+      "title": "Java Full Stack Developer(Angular/React)(2-3 years)",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-angular-react-2-3-years-infosys-hyderabad-chennai-bengaluru-2-to-3-years-030826024220",
+      "portal_job_id": "030826024220",
+      "employer": "Infosys",
+      "card_location": "Hybrid - Bengaluru, Hyderabad, Chennai",
+      "posted_at": null,
+      "posted_text": "1 day ago",
+      "card_excerpt": "Java Full Stack Developer(Angular/React)(2-3 years)\nInfosys\n3.5\n52907 Reviews\n2-3 Yrs\nHybrid - Bengaluru, Hyderabad, Chennai\nThere is a huge requirement for Java Fullstack and these skills are mandatory (Java, Sp...\nJavaSpring BootReact.jsAngularBootAngular ReactBootstrapFull Stack\nPrefers women\n1 day ago\nSave",
+      "source": "naukri",
+      "search_page_url": "https://www.naukri.com/java-jobs-in-india?k=Java%20Spring%20Boot%20backend&l=Chennai&pageNo=1"
+    }
+  ]
+}

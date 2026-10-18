@@ -1,0 +1,214 @@
+{
+  "mode": "read_only",
+  "queued_for_review": 6,
+  "reviewed": 5,
+  "by_source": {
+    "brillio_lever": 5
+  },
+  "by_company": {
+    "Brillio": 5
+  },
+  "high": 0,
+  "queued_for_resume": 0,
+  "selection_coverage": {
+    "verified_live_postings": 174,
+    "with_requisition_and_https_url": 174,
+    "india_location": 77,
+    "target_engineering_title": 10,
+    "substantive_original_jd": 9,
+    "reviewable": 9,
+    "excluded": {
+      "missing_identity": 0,
+      "location_not_india": 97,
+      "title_outside_target": 67,
+      "no_substantive_jd": 1
+    }
+  },
+  "pending_after_run": 1,
+  "roles": [
+    {
+      "job_id": 168,
+      "company": "Brillio",
+      "role": "Fullstack Engineer - React  Java - R01527438",
+      "location": "Chennai, Tamil Nadu, India",
+      "direct_url": "https://jobs.lever.co/brillio-2/7fb2ac4a-a088-4c5d-b67d-77834786b729",
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "3fced13c12f4ed52d81279834f48587d860397ff24b48b4397bdc3408009e882",
+      "original_page_checked_at": "2026-09-28T12:29:58.657054+00:00",
+      "reviewed_at": "2026-09-28T12:38:18.519635+00:00",
+      "experience_minimum": 4.0,
+      "evidence": {
+        "location": "Chennai, Tamil Nadu, India",
+        "experience": "gineer - React Java with more than 4 years of experience \\n Know what it’s like to work and grow at Brillio: Click here",
+        "technology": "r year. Fullstack Engineer - React Java \\n Primary Skills CI/CD Pipeline, CSS3, Docker, Hibernate, HTML5, Java, MySQL, Oracle RDBMS, React JS, Spring Boot, Spring Core, JavaScript Special",
+        "role": null
+      },
+      "reasons": [
+        "Required experience starts at 4 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 186,
+      "company": "Brillio",
+      "role": "Senior Software Development Engineer - R01556437",
+      "location": "Hyderabad, Andhra Pradesh, India",
+      "direct_url": "https://jobs.lever.co/brillio-2/664eda55-501d-4b61-a0d5-863d56b75f34",
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "b730284a8d8d2ff6e20ca0f6df1708e185de306db3b5fea007cb25bce75bdc50",
+      "original_page_checked_at": "2026-09-28T12:29:59.146737+00:00",
+      "reviewed_at": "2026-09-28T12:38:18.524188+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "Hyderabad, Andhra Pradesh, India",
+        "experience": null,
+        "technology": "larJS, JavaScript, CSS3, React JS, Java, Hibernate, Oracle RDBMS, Docker, Spring Core, Spring Boot, HTML5, MySQL Job requirements Overview W",
+        "role": null
+      },
+      "reasons": [
+        "Required experience band is not explicit in the qualification excerpt",
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ]
+    },
+    {
+      "job_id": 188,
+      "company": "Brillio",
+      "role": "Senior Software Development Engineer - R01566591",
+      "location": "Bangalore, Karnataka, India",
+      "direct_url": "https://jobs.lever.co/brillio-2/a17e95d9-72c1-41ac-bca9-07db0b1be413",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "89f5fa9386794b636b8b99895c9f865ec94ab1689ecdc177556260daefe2dc90",
+      "original_page_checked_at": "2026-09-28T12:30:00.060006+00:00",
+      "reviewed_at": "2026-09-28T12:38:18.530318+00:00",
+      "experience_minimum": 3.0,
+      "evidence": {
+        "location": "Bangalore, Karnataka, India",
+        "experience": "ements AS400 Developer Experience: 3–5 years Department: Digital Engineering Employment Type: Full-time Role Overview We are looking for an experienced AS",
+        "technology": null,
+        "role": null
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 191,
+      "company": "Brillio",
+      "role": "Senior Software Development Engineer - R01569776",
+      "location": "Bangalore, Karnataka, India",
+      "direct_url": "https://jobs.lever.co/brillio-2/1bb179e1-05dc-4b61-841b-bd7a75820ee3",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "87554e1488a5e6608530a11a8c3f88d3eb3cab876cfa4de4be9a20ef009779ca",
+      "original_page_checked_at": "2026-09-28T12:30:01.524905+00:00",
+      "reviewed_at": "2026-09-28T12:38:18.536272+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "Bangalore, Karnataka, India",
+        "experience": null,
+        "technology": null,
+        "role": "r Science, Information Technology, Software Engineering, or a closely related discipline Microsoft Certified: Azure AI Engineer Associate Certification"
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ]
+    },
+    {
+      "job_id": 190,
+      "company": "Brillio",
+      "role": "Senior Software Development Engineer - R01569774",
+      "location": "Bangalore, Karnataka, India",
+      "direct_url": "https://jobs.lever.co/brillio-2/00d2c483-8e88-47a1-893f-31c513bc0991",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "fe11945d31950d73ceb65a5d3c087bcb2786ffceefa85bda2f5ef7afe4adb231",
+      "original_page_checked_at": "2026-09-28T12:30:01.069227+00:00",
+      "reviewed_at": "2026-09-28T12:38:18.541154+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "Bangalore, Karnataka, India",
+        "experience": null,
+        "technology": null,
+        "role": "r Science, Information Technology, Software Engineering, or a closely related discipline 2. Microsoft Certified: Azure Developer Associate or equivalent"
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ]
+    }
+  ],
+  "top_hard_filtered": [
+    {
+      "job_id": 104,
+      "company": "Celonis",
+      "role": "Customer Support Engineer - Level 1",
+      "source": "celonis_greenhouse",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/6647315003",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Primary role title is outside Java/Spring backend target",
+        "Title does not indicate a target software engineering role"
+      ]
+    },
+    {
+      "job_id": 174,
+      "company": "Brillio",
+      "role": "Tech Specialist, Cloud Engineering - R01571253",
+      "source": "brillio_lever",
+      "direct_url": "https://jobs.lever.co/brillio-2/82ef6d95-46e7-4713-afd9-3dd47f2bc971",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Original posting has no substantive duties or qualification text",
+        "Title does not indicate a target software engineering role"
+      ]
+    },
+    {
+      "job_id": 173,
+      "company": "Brillio",
+      "role": "Tech Specialist, Cloud Engineering - R01570953",
+      "source": "brillio_lever",
+      "direct_url": "https://jobs.lever.co/brillio-2/f4a971e3-151f-4c04-88cc-37658f85ed68",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Original posting has no substantive duties or qualification text",
+        "Title does not indicate a target software engineering role"
+      ]
+    },
+    {
+      "job_id": 172,
+      "company": "Brillio",
+      "role": "Snowflake Developer - R01568220",
+      "source": "brillio_lever",
+      "direct_url": "https://jobs.lever.co/brillio-2/c5f8817d-bf3d-413c-8650-7779412cd495",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Original posting has no substantive duties or qualification text",
+        "Primary role title is outside Java/Spring backend target",
+        "Title does not indicate a target software engineering role"
+      ]
+    },
+    {
+      "job_id": 166,
+      "company": "Celonis",
+      "role": "Manager, Value Engineering",
+      "source": "celonis_greenhouse",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7635358003",
+      "stage": "Hard filtered",
+      "reasons": [
+        "Primary role title is outside Java/Spring backend target",
+        "Title does not indicate a target software engineering role"
+      ]
+    }
+  ]
+}

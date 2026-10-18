@@ -1,0 +1,35 @@
+{
+  "status": "Complete",
+  "phase": "after",
+  "providers": {
+    "naukri": {
+      "status": "NoPending",
+      "pending": 0
+    },
+    "linkedin": {
+      "status": "Blocked",
+      "pending": 1,
+      "history": {
+        "full": false,
+        "account_verified": true,
+        "history_filter_verified": false,
+        "rows_by_id": {},
+        "loaded_rows": 0,
+        "expected_total": null,
+        "load_sweeps": [
+          {
+            "filter_verified": false,
+            "total": null,
+            "jobs": [],
+            "next_enabled": false,
+            "path": "/jobs-tracker/"
+          }
+        ],
+        "blocker": "linkedin_complete_applied_history_not_verified"
+      }
+    }
+  },
+  "confirmed": [],
+  "new_claims": 0,
+  "notifications": []
+}

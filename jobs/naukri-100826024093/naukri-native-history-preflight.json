@@ -1,0 +1,152 @@
+{
+  "full": true,
+  "exact": 0,
+  "loaded_rows": 277,
+  "expected_total": 277,
+  "load_sweeps": [
+    {
+      "rows": 10,
+      "total": 277,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 20,
+      "total": 277,
+      "exact": 0,
+      "company_role": 1,
+      "more": true
+    },
+    {
+      "rows": 40,
+      "total": 277,
+      "exact": 0,
+      "company_role": 2,
+      "more": true
+    },
+    {
+      "rows": 60,
+      "total": 277,
+      "exact": 0,
+      "company_role": 3,
+      "more": true
+    },
+    {
+      "rows": 80,
+      "total": 277,
+      "exact": 0,
+      "company_role": 3,
+      "more": true
+    },
+    {
+      "rows": 100,
+      "total": 277,
+      "exact": 0,
+      "company_role": 3,
+      "more": true
+    },
+    {
+      "rows": 120,
+      "total": 277,
+      "exact": 0,
+      "company_role": 3,
+      "more": true
+    },
+    {
+      "rows": 140,
+      "total": 277,
+      "exact": 0,
+      "company_role": 3,
+      "more": true
+    },
+    {
+      "rows": 160,
+      "total": 277,
+      "exact": 0,
+      "company_role": 3,
+      "more": true
+    },
+    {
+      "rows": 180,
+      "total": 277,
+      "exact": 0,
+      "company_role": 3,
+      "more": true
+    },
+    {
+      "rows": 200,
+      "total": 277,
+      "exact": 0,
+      "company_role": 3,
+      "more": true
+    },
+    {
+      "rows": 220,
+      "total": 277,
+      "exact": 0,
+      "company_role": 3,
+      "more": true
+    },
+    {
+      "rows": 240,
+      "total": 277,
+      "exact": 0,
+      "company_role": 4,
+      "more": true
+    },
+    {
+      "rows": 260,
+      "total": 277,
+      "exact": 0,
+      "company_role": 4,
+      "more": true
+    },
+    {
+      "rows": 277,
+      "total": 277,
+      "exact": 0,
+      "company_role": 4,
+      "more": false
+    }
+  ],
+  "company_role": 0,
+  "company_role_observed": 4,
+  "company_role_disambiguated": true,
+  "company_role_other_exact_ids": [
+    "020726005307",
+    "131026048418",
+    "190826009591",
+    "280926032117"
+  ],
+  "server_company_role_rows": [
+    {
+      "job_id": "190826009591",
+      "title": "Java Full Stack Developer (Angular)(2-3Y)",
+      "company": "Infosys",
+      "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+    },
+    {
+      "job_id": "131026048418",
+      "title": "Java Full Stack Developer",
+      "company": "Infosys",
+      "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+    },
+    {
+      "job_id": "280926032117",
+      "title": "Java Full Stack Developer(React.js/Angular.js)",
+      "company": "Infosys",
+      "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+    },
+    {
+      "job_id": "020726005307",
+      "title": "Java Full Stack Developer",
+      "company": "Infosys",
+      "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+    }
+  ],
+  "identity_basis": "exact_listing_link",
+  "server_exact_rows": [],
+  "observed_exact_rows_unverified": 0,
+  "at": "2026-10-14T11:01:17.405622+00:00"
+}

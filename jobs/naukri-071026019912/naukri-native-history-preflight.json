@@ -1,0 +1,132 @@
+{
+  "full": true,
+  "exact": 0,
+  "loaded_rows": 298,
+  "expected_total": 298,
+  "load_sweeps": [
+    {
+      "rows": 10,
+      "total": 298,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 20,
+      "total": 298,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 40,
+      "total": 298,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 60,
+      "total": 298,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 80,
+      "total": 298,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 100,
+      "total": 298,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 120,
+      "total": 298,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 140,
+      "total": 298,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 160,
+      "total": 298,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 180,
+      "total": 298,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 200,
+      "total": 298,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 220,
+      "total": 298,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 240,
+      "total": 298,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 260,
+      "total": 298,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 280,
+      "total": 298,
+      "exact": 0,
+      "company_role": 0,
+      "more": true
+    },
+    {
+      "rows": 298,
+      "total": 298,
+      "exact": 0,
+      "company_role": 0,
+      "more": false
+    }
+  ],
+  "company_role": 0,
+  "company_role_observed": 0,
+  "company_role_disambiguated": false,
+  "company_role_other_exact_ids": [],
+  "server_company_role_rows": [],
+  "identity_basis": "exact_listing_link",
+  "server_exact_rows": [],
+  "exact_rows_by_id": {
+    "071026019912": []
+  },
+  "observed_exact_rows_unverified": 0,
+  "at": "2026-10-16T07:06:25.928387+00:00"
+}

@@ -1,0 +1,4 @@
+{"time": "2026-09-28T15:46:12.151155+00:00", "event": "welcome_tab_created", "tab_id": 0, "owner": "3f027663-d51f-4320-a87e-e341464f29b4", "verified_by": "relay_port_owned_by_this_mcp_process"}
+{"time": "2026-09-28T15:46:12.738696+00:00", "event": "tab_closed", "tab_id": 1, "owner": "542f09c7-cfcd-47da-b5c1-594db607dd6c"}
+{"time": "2026-09-28T15:46:12.777523+00:00", "event": "welcome_tab_closed", "tab_id": 0, "owner": "542f09c7-cfcd-47da-b5c1-594db607dd6c", "automatic": true}
+{"time": "2026-09-28T15:46:12.779510+00:00", "event": "tab_lifecycle_summary", "created": 2, "reused": 0, "closed": 2, "job_tabs_created": 1, "job_tabs_closed": 1, "welcome_tabs_created": 1, "welcome_tabs_closed": 1, "remaining_job_tabs": 0, "remaining_welcome_tabs": 0, "remaining_automation_tabs": 0, "remaining_tab_ids": [], "owner": "542f09c7-cfcd-47da-b5c1-594db607dd6c", "automatic_cleanup": true}

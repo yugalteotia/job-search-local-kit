@@ -1,0 +1,32 @@
+{
+  "mode": "read_only",
+  "source": "foundit",
+  "search_pages": [
+    {
+      "query": "Java backend API",
+      "location": "Bengaluru",
+      "page": 1,
+      "url": "https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Bengaluru&page=1",
+      "checked_at": "2026-09-28T16:46:45.029009+00:00",
+      "status": "Success",
+      "error_kind": null,
+      "visible_cards": 1,
+      "body_characters": 9343,
+      "render_checks": 2,
+      "lead_count": 1,
+      "card_ids": [
+        "62831352"
+      ],
+      "unresolved_cards": [],
+      "observed_url": "https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Bengaluru&page=1",
+      "sort": "Configured newest route where available"
+    }
+  ],
+  "lead_count": 1,
+  "status": "Partial",
+  "error_kind": null,
+  "elapsed_seconds": 16.86,
+  "forms_opened": 0,
+  "uploads": 0,
+  "submissions": 0
+}

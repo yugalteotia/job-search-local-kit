@@ -1,0 +1,17 @@
+{
+  "approved_by": "user",
+  "approved_at": "2026-10-13T06:18:24.654090+00:00",
+  "job_id": 314,
+  "requisition_id": "280926032117",
+  "attempt_id": "d69e7dc1-111f-46ed-9293-a4cdf6e0172f",
+  "resume_sha256": "1fa69f6da3d80a8818eb8e74636c86d794516071bfe8d5a288b1d3879c91513e",
+  "max_continuations": 1,
+  "no_answer_replay": true,
+  "protected_requisitions": [
+    "190826038395",
+    "280926023134",
+    "160926009207"
+  ],
+  "resolved_at": "2026-10-13T06:26:37.594211+00:00",
+  "resolution": "Already Applied; reconciled without any continuation action"
+}

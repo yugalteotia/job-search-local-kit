@@ -1,0 +1,11 @@
+{
+  "requisition_id": "290926917619",
+  "url": "https://www.naukri.com/job-listings-java-backend-engineer-luxoft-india-llp-pune-3-to-5-years-290926917619",
+  "captured_at": "2026-10-13T05:36:54.658041+00:00",
+  "exact_listing_applied": true,
+  "confirmation_text": "Applied displayed on the exact Naukri listing",
+  "workflow_worker_proven": false,
+  "source_observation": "naukri-current-listing.json",
+  "application_origin": "native Apply opened during handoff inspection; observed later",
+  "role_resume_verified_for_application": false
+}

@@ -1,0 +1,67 @@
+{
+  "status": "visually_clean",
+  "pdf": "Yugal_Teotia_Java_Backend_Developer.pdf",
+  "pdf_sha256": "782a2ce8c41bd2f2e1860a9b673d9ab82aebc35340b1dcbd5168266aa494ad82",
+  "png": "resume_visual_200dpi.png",
+  "png_sha256": "43ebd917e512deeba950403062697600982040b486cfd64ddc3590eee8fd58e0",
+  "pages": 1,
+  "page_points": [
+    595.2756,
+    841.8898
+  ],
+  "png_pixels": [
+    1654,
+    2339
+  ],
+  "embedded_fonts": [
+    "/AAAAAA+LiberationSans-Bold",
+    "/AAAAAA+LiberationSans"
+  ],
+  "links": [
+    {
+      "uri": "tel:+919560369538",
+      "rect": [
+        236.4317,
+        770.4898,
+        306.5132,
+        781.6498
+      ]
+    },
+    {
+      "uri": "mailto:teotia.yugal@gmail.com",
+      "rect": [
+        314.0967,
+        770.4898,
+        413.4814,
+        781.6498
+      ]
+    },
+    {
+      "uri": "https://www.linkedin.com/in/yugalteotia/",
+      "rect": [
+        261.7933,
+        757.9898,
+        296.9544,
+        769.1498
+      ]
+    },
+    {
+      "uri": "https://github.com/yugalteotia",
+      "rect": [
+        304.5379,
+        757.9898,
+        333.4823,
+        769.1498
+      ]
+    }
+  ],
+  "checks": {
+    "letters": true,
+    "links": true,
+    "margins": true,
+    "bullets": true
+  },
+  "inspection": "Full actual 200 DPI PNG inspected at original resolution; clear letters and baseline spacing, no collisions, clean indented bullets and margins; contact link labels readable and targets verified",
+  "checked_at": "2026-09-29T10:03:02.050576+00:00",
+  "spec_sha256": "fc2254c658dc96fab3a4d387922bc539f9d92f3f4cd6c70ab8ec1e385074c027"
+}

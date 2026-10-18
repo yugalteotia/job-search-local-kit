@@ -1,0 +1,159 @@
+{
+  "job_id": 244,
+  "requisition_id": "070926003879",
+  "url": "https://www.naukri.com/job-listings-java-backend-developer-naukri-e-hire-campaign-mumbai-1-to-4-years-070926003879",
+  "started_at": "2026-09-29T12:37:38.268258+00:00",
+  "attempt_id": null,
+  "submission_attempted": false,
+  "final_submit_clicked": false,
+  "form_opened": true,
+  "chat": {
+    "drawer_visible": true,
+    "prompts": [
+      "Hi YUGAL TEOTIA, thank you for showing interest. Kindly answer all the recruiter's questions to successfully apply for the job.",
+      "What is your total work experience?"
+    ],
+    "fields": [
+      {
+        "index": 0,
+        "type": "div",
+        "required": false,
+        "filled": false,
+        "label": ""
+      }
+    ],
+    "radio_options": [],
+    "save_controls": [
+      {
+        "label": "Save",
+        "disabled": false,
+        "class": "sendMsgbtn_container"
+      }
+    ],
+    "nodes": [
+      {
+        "tag": "DIV",
+        "cls": "botMsg msg ",
+        "text": "Hi YUGAL TEOTIA, thank you for showing interest. Kindly answer all the recruiter's questions to successfully apply for the job.",
+        "placeholder": "",
+        "required": false,
+        "aria": ""
+      },
+      {
+        "tag": "DIV",
+        "cls": "botMsg msg ",
+        "text": "What is your total work experience?",
+        "placeholder": "",
+        "required": false,
+        "aria": ""
+      },
+      {
+        "tag": "DIV",
+        "cls": "textArea",
+        "text": "",
+        "placeholder": "",
+        "required": false,
+        "aria": ""
+      },
+      {
+        "tag": "DIV",
+        "cls": "sendMsgbtn_container",
+        "text": "Save",
+        "placeholder": "",
+        "required": false,
+        "aria": ""
+      }
+    ],
+    "thank_you": false,
+    "visible_resume_names": []
+  },
+  "network_guard": {
+    "job_id": "070926003879",
+    "phase": "chat_ready",
+    "show_count": 1,
+    "answer_count": 0,
+    "save_arm_count": 0,
+    "followup_status_count": 0,
+    "post_completion_status_count": 0,
+    "completion_count": 0,
+    "workflow_committed": false,
+    "events": [
+      {
+        "at": "2026-09-29T12:37:50.661360+00:00",
+        "elapsed_ms": 172,
+        "job_id": "070926003879",
+        "phase": "show_sent",
+        "method": "POST",
+        "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+        "flowtype": "show",
+        "allowed": true,
+        "reason": "exact_job_show",
+        "response_status": 200,
+        "response_elapsed_ms": 472,
+        "response_metadata": {
+          "isApply": true,
+          "isLeafNode": false,
+          "dataCommitted": false,
+          "job_id_match": true,
+          "currentNodeName": "apply0"
+        }
+      }
+    ]
+  },
+  "signed_in": true,
+  "account_name_matches": true,
+  "profile_before": "Yugal_Teotia_CV.pdf",
+  "role_upload": {
+    "at": "2026-09-29T12:37:49.077863+00:00",
+    "before": "Yugal_Teotia_CV.pdf",
+    "after": "Yugal_Teotia_Java_Backend_Developer.pdf",
+    "pdf_sha256": "8f78ea919246357b69744ba578f28e530fd7895790a1e30e48021e71c0a39a99",
+    "response_statuses": [
+      {
+        "status": 200,
+        "endpoint": "profile_resume_upload"
+      }
+    ]
+  },
+  "profile_verified_at": "2026-09-29T12:37:49.077863+00:00",
+  "listing_before": {
+    "exact_path": true,
+    "title": "Java Backend Developer - Mumbai - Naukri E Hire Campaign - 1 to 4 years of experience",
+    "apply_visible": true,
+    "applied_button": false,
+    "applied_status": false,
+    "pending": false
+  },
+  "listing_checked_at": "2026-09-29T12:37:50.489085+00:00",
+  "network_responses": [
+    {
+      "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+      "status": 200,
+      "flowtype": "show",
+      "reason": "exact_job_show",
+      "response_metadata": {
+        "isApply": true,
+        "isLeafNode": false,
+        "dataCommitted": false,
+        "job_id_match": true,
+        "currentNodeName": "apply0"
+      }
+    }
+  ],
+  "inspected_at": "2026-09-29T12:37:55.871320+00:00",
+  "inspection_only": true,
+  "generic_restore": {
+    "at": "2026-09-29T12:38:03.572765+00:00",
+    "before": "Yugal_Teotia_Java_Backend_Developer.pdf",
+    "after": "Yugal_Teotia_CV.pdf",
+    "pdf_sha256": "9a1322fc3058108d66aa74ef8c23b6b4027a3d341feedb029eb45b135906cb17",
+    "response_statuses": [
+      {
+        "status": 200,
+        "endpoint": "profile_resume_upload"
+      }
+    ]
+  },
+  "generic_restored_verified": true,
+  "finished_at": "2026-09-29T12:38:03.575819+00:00"
+}

@@ -1,0 +1,72 @@
+{
+  "recorded_at": "2026-10-13T16:19:41.492216+00:00",
+  "infosys": {
+    "job_id": 346,
+    "employer": "Infosys",
+    "title": "Java Full Stack Developer",
+    "outcome": "queued",
+    "fit": "Medium",
+    "strong_medium": true,
+    "notes": {
+      "other_gaps": [
+        "other_databases",
+        "cloud_generic",
+        "iac_devops",
+        "azure",
+        "jenkins",
+        "aws",
+        "gcp"
+      ],
+      "unverified_fundamentals": [
+        "troubleshoot"
+      ]
+    }
+  },
+  "live_checks": {
+    "selected": 1,
+    "verified": 1,
+    "unverified": 0,
+    "verified_job_ids": [
+      346
+    ],
+    "results": [
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-pune-chennai-bengaluru-2-to-5-years-131026048418",
+        "portal_job_id": "131026048418",
+        "title": "Java Full Stack Developer",
+        "employer": "Infosys",
+        "location": "Pune, Bengaluru, Chennai",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 2182,
+        "experience_evidence": "2 - 5 years",
+        "apply_visible": true,
+        "database_job_id": 346,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": [],
+          "compared_by_exact_id": 3
+        },
+        "render_checks": 1,
+        "card_sha256": null,
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      }
+    ],
+    "selection_skips": []
+  },
+  "hrm": {
+    "job_id": 347,
+    "employer": "HRM Counsel",
+    "title": "Software Engineer",
+    "outcome": "not_eligible",
+    "reasons": [
+      "Required experience starts at 5 years"
+    ]
+  },
+  "locked_attempts_unchanged": true,
+  "new_application_attempts": 0,
+  "broad_search_started": false
+}

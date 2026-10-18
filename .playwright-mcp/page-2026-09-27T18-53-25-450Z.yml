@@ -1,0 +1,193 @@
+- generic [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "Redwood Software Logo" [ref=e5]
+      - generic [ref=e6]:
+        - link "Back to jobs" [ref=e7] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/redwoodsoftware
+        - generic [ref=e11]:
+          - generic [ref=e12]:
+            - heading "Associate Software Engineer" [level=1] [ref=e13]
+            - generic [ref=e14]: Hyderabad, Telangana, India
+          - button "Apply" [ref=e18] [cursor=pointer]
+        - generic [ref=e19]:
+          - generic [ref=e20]:
+            - paragraph [ref=e21]:
+              - strong [ref=e22]:
+                - emphasis [ref=e23]: OUR MISSION
+            - paragraph [ref=e24]:
+              - strong [ref=e25]:
+                - emphasis [ref=e26]: At Redwood, we empower our customers with lights-out automation for their mission-critical business processes.
+            - paragraph [ref=e27]:
+              - strong [ref=e28]:
+                - emphasis [ref=e29]: ABOUT US
+            - paragraph [ref=e30]: Redwood Software is the leading orchestration platform for the autonomous enterprise, driving business transformation at the lowest total cost of ownership. Redwood empowers organizations to intelligently automate and orchestrate mission-critical business and IT processes across complex ERP, hybrid cloud, data and emerging agentic AI systems. Through its SaaS-first automation fabric—with AI embedded across the automation lifecycle—Redwood accelerates the path to autonomous operations. Backed by 30 years of experience and trusted by more than 50% of the Fortune 50, Redwood helps organizations unlock human potential to focus on innovation, growth and what’s next.
+            - paragraph [ref=e31]:
+              - strong [ref=e32]: CORE VALUES
+            - paragraph [ref=e33]: One Team. One Redwood
+            - paragraph [ref=e34]: Make Your Own Weather
+            - paragraph [ref=e35]: Obsess over Customer Success
+            - paragraph [ref=e36]: Work the Problem
+            - paragraph [ref=e37]: Be Curious
+            - paragraph [ref=e38]: Own the Outcome
+            - paragraph [ref=e39]: Respect Each Other
+            - paragraph [ref=e40]:
+              - strong [ref=e41]:
+                - emphasis [ref=e42]: YOUR IMPACT
+            - paragraph [ref=e43]:
+              - text: We are looking for a
+              - strong [ref=e44]: Software Engineer, Platform & Integrations
+              - text: . Working closely with senior and lead engineers, you will design, develop, and maintain high-quality features that power enterprise data exchange for more than 1,000 customers worldwide.
+            - paragraph [ref=e45]: This is an incredible opportunity to deepen your expertise in cloud-native architectures, enterprise security, and modern DevOps practices in a fast-growing product environment.
+            - list [ref=e46]:
+              - listitem [ref=e47]:
+                - paragraph [ref=e48]: "Feature Development & Design: Write clean, maintainable, and well-tested code using Java and Spring Boot to deliver scalable backend services and microservices."
+              - listitem [ref=e49]:
+                - paragraph [ref=e50]: "Platform Reliability: Contribute to enhancing the monitoring, logging, and observability of our core platform to ensure high availability and performance."
+              - listitem [ref=e51]:
+                - paragraph [ref=e52]: "Security & Compliance: Implement secure coding practices to safeguard data exchange and maintain compliance across our cloud infrastructure."
+              - listitem [ref=e53]:
+                - paragraph [ref=e54]: "Collaborative Execution: Work within an agile team, collaborating closely with QA, Product, and fellow engineers to deliver high-quality software sprints on time."
+              - listitem [ref=e55]:
+                - paragraph [ref=e56]: "Innovation & Curiosity: Stay curious about emerging technologies—including cloud native optimizations and AI/ML concepts—and help explore ways to apply them to our product."
+            - paragraph [ref=e57]:
+              - strong [ref=e58]:
+                - emphasis [ref=e59]: YOUR EXPERIENCE
+            - list [ref=e60]:
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]: "Education: Bachelor’s degree in Computer Science, Engineering, or a related field."
+              - listitem [ref=e63]:
+                - paragraph [ref=e64]: "Product Experience: 2+ years of professional software engineering experience, ideally within a product-driven company."
+              - listitem [ref=e65]:
+                - paragraph [ref=e66]: "Core Tech Stack: Strong foundation in Java, Spring Boot, and REST API development, with a solid understanding of object-oriented programming (OOP) and design patterns."
+              - listitem [ref=e67]:
+                - paragraph [ref=e68]: "Database Systems: Proficiency in SQL and relational database management, such as PostgreSQL or MySQL"
+              - listitem [ref=e69]:
+                - paragraph [ref=e70]: "Cloud & DevOps Familiarity: Practical exposure to cloud platforms (AWS preferred) and standard CI/CD deployment pipelines. Experience with Docker or Kubernetes/EKS is a strong plus."
+              - listitem [ref=e71]:
+                - paragraph [ref=e72]: "Engineering Best Practices: Proven track record of writing automated tests (unit, integration) and participating in constructive code reviews."
+              - listitem [ref=e73]:
+                - paragraph [ref=e74]: "Protocols & Integrations: Familiarity with standard networking or file transfer protocols (e.g., SFTP, HTTP, AS2) is highly desirable."
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]: "Soft Skills: Strong problem-solving abilities, excellent communication skills, and a desire to learn from senior engineering peers."
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]: "Agile Mindset: Experience working within Agile/Scrum development methodologies."
+          - generic [ref=e82]:
+            - paragraph [ref=e83]:
+              - emphasis [ref=e84]: If you like growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!
+            - paragraph [ref=e85]
+            - paragraph [ref=e86]:
+              - strong [ref=e87]: THE LEGAL BIT
+              - text: Redwood is an equal opportunity employer. Redwood prohibits unlawful discrimination based on race, colour, religion, sex, gender identity, marital or veteran status, age, national origin, ancestry, citizenship, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member), sexual orientation, pregnancy or any other consideration made unlawful by regional or local laws. We also prohibit discrimination based on a perception that anyone has any of those characteristics or is associated with a person who has or is perceived as having any of those characteristics. All such discrimination is unlawful and will have a zero tolerance policy applied to it.
+            - paragraph [ref=e88]: Redwood will comply with all local data protection laws, including GDPR when it comes to the handling and processing of personal data. Should you wish for us to remove your personal data from our recruitment database, please email us directly at Privacy@Redwood.com
+        - generic [ref=e92]:
+          - paragraph [ref=e93]: Create a Job Alert
+          - paragraph [ref=e94]: Interested in building your career at Redwood Software? Get future opportunities sent straight to your email.
+          - button "Create alert" [ref=e95] [cursor=pointer]
+      - separator [ref=e96]
+      - generic [ref=e97]:
+        - generic [ref=e98]:
+          - generic [ref=e99]:
+            - heading "Apply for this job" [level=2] [ref=e101]
+            - generic [ref=e102]:
+              - paragraph [ref=e104]: "*"
+              - paragraph [ref=e105]: indicates a required field
+          - button "Autofill my application" [ref=e108] [cursor=pointer]
+        - generic [ref=e109]:
+          - generic [ref=e110]:
+            - generic [ref=e113]:
+              - generic [ref=e114]: First Name*
+              - textbox "First Name" [ref=e115]
+            - generic [ref=e118]:
+              - generic [ref=e119]: Last Name*
+              - textbox "Last Name" [ref=e120]
+            - generic [ref=e123]:
+              - generic [ref=e124]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e125]
+            - generic [ref=e128]:
+              - generic [ref=e129]: Email*
+              - textbox "Email" [ref=e130]
+            - group "Phone" [ref=e132]:
+              - generic [ref=e136]:
+                - generic [ref=e137]: Country*
+                - generic [ref=e138]:
+                  - log [ref=e140]
+                  - generic [ref=e142]:
+                    - combobox "Country" [ref=e145]
+                    - button "Toggle flyout" [ref=e147] [cursor=pointer]
+                  - textbox [aria-hidden]
+              - generic [ref=e152]:
+                - generic [ref=e153]: Phone*
+                - textbox "Phone" [ref=e154]
+            - generic [ref=e155]:
+              - generic [ref=e157]:
+                - generic [ref=e158]: Location (City)*
+                - generic [ref=e159]:
+                  - log [ref=e161]
+                  - combobox "Location (City)" [ref=e166]
+                  - textbox [aria-hidden]
+              - button "Locate me" [ref=e167] [cursor=pointer]
+            - group "Resume/CV*" [ref=e169]:
+              - generic [ref=e172]:
+                - generic [ref=e174]:
+                  - button "Attach" [ref=e175] [cursor=pointer]
+                  - generic [ref=e176]: Attach
+                  - button "Attach" [ref=e177]
+                - button "Dropbox" [ref=e179] [cursor=pointer]
+                - button "Google Drive" [ref=e181] [cursor=pointer]
+                - generic [ref=e183]:
+                  - button "Enter manually" [ref=e184] [cursor=pointer]
+                  - generic [ref=e185]: Enter manually
+                - paragraph [ref=e186]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e187]:
+            - separator [ref=e188]
+            - generic [ref=e191]:
+              - generic [ref=e192]: Are you legally permitted to work in the country where the job is located?*
+              - generic [ref=e193]:
+                - log [ref=e195]
+                - generic [ref=e197]:
+                  - generic [ref=e198]:
+                    - generic [ref=e199]: Select...
+                    - combobox "Are you legally permitted to work in the country where the job is located?" [ref=e201]
+                  - button "Toggle flyout" [ref=e203] [cursor=pointer]
+                - textbox [aria-hidden]
+            - generic [ref=e208]:
+              - generic [ref=e209]: If you answered "Yes" to the previous question. Please choose the answer below which most accurately fits your situation.
+              - generic [ref=e210]:
+                - log [ref=e212]
+                - generic [ref=e214]:
+                  - generic [ref=e215]:
+                    - generic [ref=e216]: Select...
+                    - combobox "If you answered \"Yes\" to the previous question. Please choose the answer below which most accurately fits your situation." [ref=e218]
+                  - button "Toggle flyout" [ref=e220] [cursor=pointer]
+            - generic [ref=e225]:
+              - generic [ref=e226]: Will you now or in the future require Visa Sponsorship?
+              - generic [ref=e227]:
+                - log [ref=e229]
+                - generic [ref=e231]:
+                  - generic [ref=e232]:
+                    - generic [ref=e233]: Select...
+                    - combobox "Will you now or in the future require Visa Sponsorship?" [ref=e235]
+                  - button "Toggle flyout" [ref=e237] [cursor=pointer]
+            - generic [ref=e242]:
+              - generic [ref=e243]: Please enter your current city, state (or province), and country.
+              - textbox "Please enter your current city, state (or province), and country." [ref=e244]
+            - generic [ref=e247]:
+              - generic [ref=e248]: What is your desired start date?
+              - textbox "What is your desired start date?" [ref=e249]
+            - generic [ref=e252]:
+              - generic [ref=e253]: What is your desired annual salary?
+              - textbox "What is your desired annual salary?" [ref=e254]
+            - generic [ref=e257]:
+              - generic [ref=e258]: Please provide any additional information about your responses above.
+              - textbox "Please provide any additional information about your responses above." [ref=e259]
+            - generic [ref=e262]:
+              - generic [ref=e263]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e264]
+          - button "Submit application" [ref=e266] [cursor=pointer]
+  - contentinfo [ref=e267]:
+    - generic [ref=e268]:
+      - paragraph [ref=e269]: Powered by
+      - link [ref=e270] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e271]

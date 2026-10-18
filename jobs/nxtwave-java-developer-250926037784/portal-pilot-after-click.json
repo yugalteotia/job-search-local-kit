@@ -1,0 +1,36 @@
+{
+  "requisition_id": "250926037784",
+  "captured_at": "2026-09-29T00:44:22.325316+00:00",
+  "profile_filename_before": [
+    "Yugal_Teotia_Java_Developer.pdf"
+  ],
+  "url_before": "https://www.naukri.com/job-listings-java-developer-nxtwave-disruptive-technologies-hiring-for-a-client-bengaluru-3-to-5-years-250926037784",
+  "click_error": null,
+  "after": {
+    "host": "www.naukri.com",
+    "path": "/job-listings-java-developer-nxtwave-disruptive-technologies-hiring-for-a-client-bengaluru-3-to-5-years-250926037784",
+    "title": "Java Developer - Bengaluru - Nxtwave Disruptive Technologies(Hiring for a Client) - 3 to 5 years of experience",
+    "visibleText": [
+      "Applicants: 100+",
+      "Apply",
+      "Experienced in Core Java, Spring Boot, Microservices, REST/SOAP Web Services, Hibernate/JPA",
+      "Design, develop, test, deploy, and maintain Java backend applications; develop REST/SOAP APIs; participate in SDLC; troubleshoot and optimize performance",
+      "Early Applicant",
+      "Work Experience",
+      "Strong experience in Core Java, J2EE, Spring Boot, and Microservices.",
+      "Hands-on experience with REST/SOAP Web Services and API development.",
+      "Experience with Hibernate/JPA and ORM concepts.",
+      "Experience with Maven/Gradle, Git, and CI/CD tools such as Jenkins/GitHub Pipelines.",
+      "Experience working with IntelliJ IDEA or Eclipse.",
+      "Understanding of cloud-based, SaaS, or PaaS applications is preferred.",
+      "Design, develop, test, deploy, and maintain Java-based backend applications.",
+      "Develop scalable and reliable applications using Java, Spring Boot, and Microservices.",
+      "Optimize application performance, security, scalability, and stability.",
+      "Apply on the go"
+    ],
+    "dialogs": [],
+    "buttons": [
+      "Apply"
+    ]
+  }
+}

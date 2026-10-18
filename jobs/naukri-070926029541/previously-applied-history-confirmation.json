@@ -1,0 +1,66 @@
+{
+  "requisition_id": "070926029541",
+  "url": "https://www.naukri.com/job-listings-java-developer-inf-2-9-yrs-infosys-hyderabad-chennai-bengaluru-2-to-7-years-070926029541",
+  "captured_at": "2026-10-14T03:01:32.069610+00:00",
+  "workflow_worker_proven": false,
+  "previously_applied": true,
+  "no_application_action": true,
+  "resume_used": "Unknown; not established by history",
+  "exact_history_id_match": true,
+  "history_full": true,
+  "history_identity": {
+    "basis": "server_history_exact_job_id",
+    "server_rows": [
+      {
+        "job_id": "070926029541",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "JAVA Developer-INF (2 - 9) YRS",
+        "company": "Infosys",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "modifiedDate": "2026-10-13 22:23:08",
+            "statusValue": "Applied",
+            "dateTime": "2026-10-13 22:23:08"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "modifiedDate": "2026-10-13 22:23:08",
+            "statusValue": "Application Sent",
+            "dateTime": "2026-10-13 22:23:08"
+          }
+        ]
+      },
+      {
+        "job_id": "070926029541",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "JAVA Developer-INF (2 - 9) YRS",
+        "company": "Infosys",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "modifiedDate": "2026-10-13 22:23:08",
+            "statusValue": "Applied",
+            "dateTime": "2026-10-13 22:23:08"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "modifiedDate": "2026-10-13 22:23:08",
+            "statusValue": "Application Sent",
+            "dateTime": "2026-10-13 22:23:08"
+          }
+        ]
+      }
+    ]
+  },
+  "source_path": "jobs/naukri-070926029541/naukri-native-history-preflight.json",
+  "source_sha256": "ef120032efc63f605be0270e71a036fbe333431c2324da60410762599b785e39"
+}

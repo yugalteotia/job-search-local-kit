@@ -1,0 +1,25 @@
+{
+  "job_id": 381,
+  "requisition_id": "290826005830",
+  "form_url": "https://www.naukri.com/job-listings-java-full-stack-developer-react-js-infosys-kolkata-hyderabad-pune-2-to-7-years-290826005830",
+  "provider": "naukri_native_chat",
+  "signed_in": true,
+  "account_name_matches": true,
+  "resume_filename": "Yugal_Teotia_Java_Full_Stack_Developer.pdf",
+  "resume_sha256": "0b6162ac190903c5aa60ae24b849d72c8f1b1f6e97067d237b729b6ddcfab8ba",
+  "final_action": "screening_chat_save",
+  "checks": {
+    "live": true,
+    "unapplied": true,
+    "fit": true,
+    "resume_visual": true,
+    "resume_selected": true,
+    "answers_confirmed": true,
+    "unique_apply": true
+  },
+  "facts_used": [
+    "virtual_interview_availability"
+  ],
+  "answers_logged": false,
+  "created_at": "2026-10-16T07:03:00.334699+00:00"
+}

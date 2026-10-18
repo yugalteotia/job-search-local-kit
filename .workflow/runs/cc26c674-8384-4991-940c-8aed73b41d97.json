@@ -1,0 +1,337 @@
+{
+  "run_id": "cc26c674-8384-4991-940c-8aed73b41d97",
+  "started_at": "2026-09-28T09:00:02.002180+00:00",
+  "mode": "read_only",
+  "upload_enabled": false,
+  "submission_enabled": false,
+  "scheduled": false,
+  "test": true,
+  "status": "Partial",
+  "sources": {
+    "naukri": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T09:00:08.990604+00:00",
+      "pages_checked": 1,
+      "leads": 0,
+      "feed_jobs": 0
+    },
+    "indeed": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T09:00:16.623214+00:00",
+      "pages_checked": 1,
+      "leads": 12,
+      "feed_jobs": 0
+    },
+    "linkedin": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T09:00:17.059107+00:00",
+      "pages_checked": 1,
+      "leads": 6,
+      "feed_jobs": 0
+    },
+    "foundit": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T09:00:18.972602+00:00",
+      "pages_checked": 1,
+      "leads": 17,
+      "feed_jobs": 0
+    },
+    "celonis_greenhouse": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T09:00:18.972763+00:00",
+      "pages_checked": 1,
+      "leads": 0,
+      "feed_jobs": 100,
+      "unique_originals_verified": 5
+    },
+    "cutshort": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-28T09:00:22.601086+00:00",
+      "pages_checked": 1,
+      "leads": 30,
+      "feed_jobs": 0
+    },
+    "brillio_lever": {
+      "status": "Success",
+      "error_kind": null,
+      "checked_at": "2026-09-28T09:00:17.059255+00:00",
+      "pages_checked": 3,
+      "leads": 0,
+      "feed_jobs": 208,
+      "unique_originals_verified": 7
+    }
+  },
+  "coverage": {
+    "naukri": [
+      {
+        "query": "Java backend API",
+        "location": "Hyderabad",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20backend%20API&l=Hyderabad&pageNo=1",
+        "checked_at": "2026-09-28T09:00:08.840663+00:00",
+        "status": "Success",
+        "lead_count": 0,
+        "observed_url": "https://www.naukri.com/java-jobs-in-india",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "indeed": [
+      {
+        "query": "Java backend API",
+        "location": "Hyderabad",
+        "page": 1,
+        "url": "https://in.indeed.com/jobs?q=Java%20backend%20API&l=Hyderabad&sort=date&start=0",
+        "checked_at": "2026-09-28T09:00:16.520515+00:00",
+        "status": "Success",
+        "lead_count": 12,
+        "observed_url": "https://in.indeed.com/jobs",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "linkedin": [
+      {
+        "query": "Java backend API",
+        "location": "Hyderabad",
+        "page": 1,
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20backend%20API&location=Hyderabad&sortBy=DD&start=0",
+        "checked_at": "2026-09-28T09:00:16.842341+00:00",
+        "status": "Success",
+        "lead_count": 6,
+        "observed_url": "https://www.linkedin.com/jobs/search/",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "foundit": [
+      {
+        "query": "Java backend API",
+        "location": "Hyderabad",
+        "page": 1,
+        "url": "https://www.foundit.in/srp/results?query=Java%20backend%20API&locations=Hyderabad&page=1",
+        "checked_at": "2026-09-28T09:00:18.856185+00:00",
+        "status": "Success",
+        "lead_count": 17,
+        "observed_url": "https://www.foundit.in/srp/results",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "celonis_greenhouse": [
+      {
+        "page": 1,
+        "url": "https://boards-api.greenhouse.io/v1/boards/celonis/jobs?content=true",
+        "items": 100,
+        "total_returned": 253,
+        "checked_at": "2026-09-28T09:00:19.852663+00:00",
+        "status": "Partial"
+      }
+    ],
+    "cutshort": [
+      {
+        "query": "Java backend API",
+        "location": "Hyderabad",
+        "page": 1,
+        "url": "https://cutshort.io/jobs/java-jobs?query=Java%20backend%20API&location=Hyderabad&page=1",
+        "checked_at": "2026-09-28T09:00:22.402012+00:00",
+        "status": "Success",
+        "lead_count": 30,
+        "observed_url": "https://cutshort.io/jobs/java-jobs",
+        "sort": "Configured newest route where available"
+      }
+    ],
+    "brillio_lever": [
+      {
+        "page": 1,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=0&limit=100&mode=json",
+        "items": 100,
+        "checked_at": "2026-09-28T09:00:28.655765+00:00",
+        "status": "Success"
+      },
+      {
+        "page": 2,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=100&limit=100&mode=json",
+        "items": 100,
+        "checked_at": "2026-09-28T09:00:40.294161+00:00",
+        "status": "Success"
+      },
+      {
+        "page": 3,
+        "url": "https://api.lever.co/v0/postings/brillio-2?skip=200&limit=100&mode=json",
+        "items": 11,
+        "checked_at": "2026-09-28T09:00:42.262853+00:00",
+        "status": "Success"
+      }
+    ]
+  },
+  "leads": 373,
+  "unique_original_requisitions_verified": 12,
+  "fit_decisions": {},
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/cc26c674-8384-4991-940c-8aed73b41d97.json"
+  ],
+  "queue": {},
+  "stage_seconds": {
+    "discovery": 40.25,
+    "original_verification": 2.68,
+    "lead_resolution": 61.66,
+    "fit_review": 0.22
+  },
+  "stage_counts": {
+    "normalized_unique_ats": 308,
+    "selected_for_original_check": 12,
+    "fetched": 373,
+    "unique_portal_leads": 60,
+    "unique_original_requisitions": 12,
+    "eligible_for_review": 5,
+    "original_jds_reviewed": 0,
+    "high": 0,
+    "queued_for_resume": 0,
+    "review_queue_added": 0,
+    "portal_originals_matched": 0,
+    "portal_leads_still_needing_original": 85
+  },
+  "top_reviewed": [],
+  "lead_resolution": {
+    "navigation_links_reclassified": 65,
+    "portal_jobs_inspected": 10,
+    "originals_matched": 0,
+    "needs_original": 85,
+    "by_source": {
+      "naukri": {
+        "needs_original": 0,
+        "not_a_job": 3
+      },
+      "linkedin": {
+        "needs_original": 79,
+        "not_a_job": 0
+      },
+      "foundit": {
+        "needs_original": 0,
+        "not_a_job": 16
+      },
+      "indeed": {
+        "needs_original": 6,
+        "not_a_job": 16
+      },
+      "cutshort": {
+        "needs_original": 0,
+        "not_a_job": 30
+      }
+    },
+    "results": [
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4472703097/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4470841402/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4472700210/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4472701171/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4470833694/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4472481982/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4470834604/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4471320628/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4471316811/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      },
+      {
+        "source": "linkedin",
+        "portal_url": "https://www.linkedin.com/jobs/view/4471311934/",
+        "status": "Unavailable",
+        "original_url": null,
+        "employer_label": null
+      }
+    ]
+  },
+  "review_coverage": {
+    "by_source": {},
+    "by_company": {}
+  },
+  "tab_lifecycle": {
+    "created": 15,
+    "closed": 15,
+    "remaining_automation_tabs": 0,
+    "reused": 0,
+    "uncertain_ids": [],
+    "recorded_ids": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "log_paths": [
+      ".workflow/runs/cc26c674-8384-4991-940c-8aed73b41d97-tabs.jsonl",
+      ".workflow/runs/cc26c674-8384-4991-940c-8aed73b41d97-tabs-helper.jsonl"
+    ]
+  },
+  "finished_at": "2026-09-28T09:01:47.153603+00:00",
+  "elapsed_seconds": 105.15
+}

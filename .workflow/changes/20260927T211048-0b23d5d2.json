@@ -1,0 +1,11 @@
+{
+  "row": 10,
+  "reason": "Confirmed answers recorded; credential-independent corrections saved; final certification handoff",
+  "changes": {
+    "Next step": {
+      "before": "Blocked pending single required-answer batch (required-answer-batch.md). At eSignature, not signed/submitted. User authorized submission of Optum 2388999 after confirmed answers. Scheduling remains disabled.",
+      "after": "Blocked pending final batch: NIC government-internship Yes classification, complete eSignature acceptance and no-payment attestation. Compensation/leaving corrections saved; no signature/submission. Scheduling disabled."
+    }
+  },
+  "backup": ".workflow/backups/20260927T211048-0b23d5d2.xlsx"
+}

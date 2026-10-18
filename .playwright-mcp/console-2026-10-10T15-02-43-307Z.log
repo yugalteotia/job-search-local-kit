@@ -1,0 +1,144 @@
+[      82ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[      82ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[      82ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[      82ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[      82ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[     611ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920:0
+[    1219ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://o97850.ingest.sentry.io/api/6722445/envelope/?sentry_key=0fa1e82141414716956803bf500a99a4&sentry_version=7&sentry_client=sentry.javascript.nextjs%2F7.80.0:0
+[    1560ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lh (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:46301)
+    at i (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:121158)
+    at oO (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:99111)
+    at <anonymous> (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98978)
+    at oF (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98985)
+    at oS (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:94024)
+    at x (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1372)
+    at T (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1902)
+[    1563ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lh (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:46301)
+    at i (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:121158)
+    at oO (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:99111)
+    at <anonymous> (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98978)
+    at oF (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98985)
+    at oS (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:94024)
+    at x (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1372)
+    at T (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1902)
+[    1568ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lh (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:46301)
+    at i (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:121158)
+    at oO (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:99111)
+    at <anonymous> (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98978)
+    at oF (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98985)
+    at oS (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:94024)
+    at x (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1372)
+    at T (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1902)
+[    1571ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lh (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:46301)
+    at i (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:121158)
+    at oO (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:99111)
+    at <anonymous> (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98978)
+    at oF (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98985)
+    at oS (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:94024)
+    at x (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1372)
+    at T (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1902)
+[    1574ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lh (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:46301)
+    at i (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:121158)
+    at oO (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:99111)
+    at <anonymous> (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98978)
+    at oF (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98985)
+    at oS (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:94024)
+    at x (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1372)
+    at T (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1902)
+[    1576ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lh (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:46301)
+    at i (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:121158)
+    at oO (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:99111)
+    at <anonymous> (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98978)
+    at oF (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98985)
+    at oS (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:94024)
+    at x (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1372)
+    at T (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1902)
+[    1578ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lh (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:46301)
+    at i (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:121158)
+    at oO (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:99111)
+    at <anonymous> (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98978)
+    at oF (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98985)
+    at oS (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:94024)
+    at x (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1372)
+    at T (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1902)
+[    1579ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lh (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:46301)
+    at i (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:121158)
+    at oO (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:99111)
+    at <anonymous> (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98978)
+    at oF (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98985)
+    at oS (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:94024)
+    at x (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1372)
+    at T (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1902)
+[    1585ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lh (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:46301)
+    at i (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:121158)
+    at oO (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:99111)
+    at <anonymous> (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98978)
+    at oF (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98985)
+    at oS (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:94024)
+    at x (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1372)
+    at T (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1902)
+[    1588ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lh (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:46301)
+    at i (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:121158)
+    at oO (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:99111)
+    at <anonymous> (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98978)
+    at oF (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98985)
+    at oS (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:94024)
+    at x (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1372)
+    at T (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1902)
+[    1592ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lh (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:46301)
+    at i (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:121158)
+    at oO (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:99111)
+    at <anonymous> (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98978)
+    at oF (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98985)
+    at oS (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:94024)
+    at x (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1372)
+    at T (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1902)
+[    1594ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lh (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:46301)
+    at i (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:121158)
+    at oO (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:99111)
+    at <anonymous> (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98978)
+    at oF (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98985)
+    at oS (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:94024)
+    at x (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1372)
+    at T (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1902)
+[    1596ms] Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lh (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:46301)
+    at i (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:121158)
+    at oO (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:99111)
+    at <anonymous> (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98978)
+    at oF (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98985)
+    at oS (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:94024)
+    at x (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1372)
+    at T (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1902)
+[    1597ms] Uncaught Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at i (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:120827)
+    at oO (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:99111)
+    at <anonymous> (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98978)
+    at oF (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:98985)
+    at ox (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:95737)
+    at oS (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:8:94292)
+    at x (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1372)
+    at T (https://cdnv2.cutshort.io/_next/static/chunks/framework-debea9580d3b2095.js:32:1902)
+[    1579ms] [LOG] [Track] Unauth page loaded {cs_fe_uuid: 403bf11a-c44d-403e-9ad9-20b74a606353, is_on_mobile_device: false, current_url: https://cutshort.io/job/Java-developer-Hyderabad-B…-Chennai-Pune-VY-SYSTEMS-PRIVATE-LIMITED-aTflrGP9, track_event_time: Sat Oct 10 2026 20:32:44 GMT+0530 (India Standard Time), user_agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36…KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36} @ https://cdnv2.cutshort.io/_next/static/chunks/pages/_app-c249f696ba246fea.js:31
+[    2196ms] [LOG] Service Worker registration successful with scope:  https://cutshort.io/ @ https://cdnv2.cutshort.io/_next/static/chunks/pages/_app-c249f696ba246fea.js:31
+[    2854ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    2854ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    2854ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    2855ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    2855ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    3493ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/8lx0b/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0
+[    3494ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/8lx0b/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0
+[    3573ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/8lx0b/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0
+[    3645ms] [WARNING] No available adapters. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/8lx0b/0x4AAAAAAAIHogFqfiXHRB04/auto/fbE/new/normal?lang=auto:0

@@ -1,0 +1,65 @@
+{
+  "requisition_id": "280926023134",
+  "job_url": "https://www.naukri.com/job-listings-java-developer-senior-java-developer-agiliad-pune-2-to-6-years-280926023134",
+  "started_at": "2026-09-29T10:03:57.467013+00:00",
+  "form_opened": true,
+  "screening_answers_sent": 0,
+  "save_clicked": false,
+  "submission_attempted": false,
+  "role_upload": {
+    "at": "2026-09-29T10:04:08.086270+00:00",
+    "before": "Yugal_Teotia_CV.pdf",
+    "after": "Yugal_Teotia_Java_Backend_Developer.pdf",
+    "pdf_sha256": "782a2ce8c41bd2f2e1860a9b673d9ab82aebc35340b1dcbd5168266aa494ad82",
+    "response_statuses": [
+      {
+        "path": "/cloudgateway-mynaukri/resman-aggregator-services/v0/users/self/profiles/7cb124b61d07cca5b819d1f1298276bd7432cb89a97f3944f79fd6c296adc7b6/advResume",
+        "status": 200
+      }
+    ]
+  },
+  "question_texts": [
+    "How many years of experience do you have in Backend?"
+  ],
+  "yes_option_visible": false,
+  "visible_upload_inputs": 0,
+  "visible_resume_names": [],
+  "save_control_count": 1,
+  "network_guard": {
+    "job_id": "280926023134",
+    "phase": "chat_ready",
+    "show_count": 1,
+    "answer_count": 0,
+    "completion_count": 0,
+    "events": [
+      {
+        "at": "2026-09-29T10:04:09.384243+00:00",
+        "elapsed_ms": 93,
+        "job_id": "280926023134",
+        "phase": "show_sent",
+        "method": "POST",
+        "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+        "flowtype": "show",
+        "allowed": true,
+        "reason": "exact_job_show",
+        "response_status": 200,
+        "response_elapsed_ms": 373
+      }
+    ]
+  },
+  "inspected_at": "2026-09-29T10:04:11.201331+00:00",
+  "generic_restore": {
+    "at": "2026-09-29T10:04:18.683430+00:00",
+    "before": "Yugal_Teotia_Java_Backend_Developer.pdf",
+    "after": "Yugal_Teotia_CV.pdf",
+    "pdf_sha256": "9a1322fc3058108d66aa74ef8c23b6b4027a3d341feedb029eb45b135906cb17",
+    "response_statuses": [
+      {
+        "path": "/cloudgateway-mynaukri/resman-aggregator-services/v0/users/self/profiles/7cb124b61d07cca5b819d1f1298276bd7432cb89a97f3944f79fd6c296adc7b6/advResume",
+        "status": 200
+      }
+    ]
+  },
+  "generic_restored_verified": true,
+  "finished_at": "2026-09-29T10:04:18.686184+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "status": "verified",
+  "provider": "naukri_portal_native",
+  "job_id": 402,
+  "requisition_id": "210826932489",
+  "attempt_id": "94e49615-95e5-414c-b1a9-d4af098ae9ec",
+  "proof_path": "jobs/naukri-210826932489/naukri-native-confirmation.json",
+  "proof_sha256": "e49b2f1f1e29fce1f674d3a515fb5e12dacea41c2e46639456e93a3b33b94863",
+  "role_resume_sha256": "26298ff297a9045fe83849680730f8f3d7f5a00d187a7c6e00fc667b8f4a9e16",
+  "application_confirmed": true,
+  "generic_resume_restored": true,
+  "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+  "independently_reconciled": true,
+  "confirmation_basis": [
+    "fully_loaded_applied_history_exact_job_id"
+  ],
+  "verified_at": "2026-10-18T07:03:57.643464+00:00",
+  "unattended_scheduled_success_proven": false
+}

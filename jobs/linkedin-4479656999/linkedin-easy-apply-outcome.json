@@ -1,0 +1,41 @@
+{
+  "job_id": 388,
+  "requisition_id": "4479656999",
+  "status": "Applied",
+  "attempt_id": "0e796b4f-8a5d-4563-84f3-053903f8d3e1",
+  "submit_clicked": true,
+  "visible_questions": [
+    {
+      "question": "Email",
+      "type": "select-one",
+      "required": true
+    },
+    {
+      "question": "Phone country code",
+      "type": "select-one",
+      "required": true
+    },
+    {
+      "question": "Phone",
+      "type": "text",
+      "required": true
+    },
+    {
+      "question": "Deselect resume Yugal_Teotia_Resume.pdf",
+      "type": "radio",
+      "required": false
+    },
+    {
+      "question": "Select resume Yugal_Teotia_Software_Engineer.pdf",
+      "type": "radio",
+      "required": false
+    },
+    {
+      "question": "Follow Saatvik Agro to stay up to date with their page.",
+      "type": "checkbox",
+      "required": false
+    }
+  ],
+  "active_control": "Follow Saatvik Agro to stay up to date with their page.",
+  "confirmation_path": "jobs/linkedin-4479656999/linkedin-easy-apply-confirmation.json"
+}

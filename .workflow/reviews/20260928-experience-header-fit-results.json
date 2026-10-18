@@ -1,0 +1,130 @@
+{
+  "evidence_path": ".workflow/reviews/20260928-experience-header-recheck.json",
+  "updated_job_ids": [
+    201,
+    203,
+    206,
+    213,
+    214
+  ],
+  "review_queue_added": 5,
+  "reviewed": [
+    {
+      "job_id": 203,
+      "company": "Nxtwave Disruptive Technologies(Hiring for a Client)",
+      "role": "Java Developer",
+      "location": "Bengaluru",
+      "direct_url": "https://www.naukri.com/job-listings-java-developer-nxtwave-disruptive-technologies-hiring-for-a-client-bengaluru-3-to-5-years-250926037784",
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "301cde9e2ee9e974a7f3904bcd6b1b4150115ac60bc2211814eb9061a49b46e3",
+      "original_page_checked_at": "2026-09-28T16:40:52.017250+00:00",
+      "reviewed_at": "2026-09-28T16:41:19.956681+00:00",
+      "experience_minimum": 3.0,
+      "evidence": {
+        "location": "Bengaluru",
+        "experience": "Experience: 3 - 5 years Location: Bengaluru Job highlights Experienced in Core Java, Spring Boot, Microservices, REST/SOAP Web Servic",
+        "technology": "Job highlights Experienced in Core Java, Spring Boot, Microservices, REST/SOAP Web Services, Hibernate/JPA Design, develop, test, deploy, and",
+        "role": null
+      },
+      "reasons": [
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 201,
+      "company": "Wissen Technology",
+      "role": "Java Backend Developer",
+      "location": "Bengaluru (Bangalore)",
+      "direct_url": "https://cutshort.io/job/Java-Backend-Developer-Bengaluru-Bangalore-Wissen-Technology-GQawk6gn",
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "85b75ed32ebdad35b22c2d19f3b5d441638cdd74ef604f339b7cb52ec52d6acf",
+      "original_page_checked_at": "2026-09-28T16:40:52.017250+00:00",
+      "reviewed_at": "2026-09-28T16:41:19.962378+00:00",
+      "experience_minimum": 4.0,
+      "evidence": {
+        "location": "Bengaluru (Bangalore)",
+        "experience": "Experience: 4 - 7 years Location: Bengaluru (Bangalore) Skills Java Spring Boot Microservices Design patterns Spring Hibernate (Java)",
+        "technology": "tion: Bengaluru (Bangalore) Skills Java Spring Boot Microservices Design patterns Spring Hibernate (Java) Data Structures Algorithms Problem",
+        "role": null
+      },
+      "reasons": [
+        "Required experience starts at 4 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 214,
+      "company": "MNC",
+      "role": "Java Full stack Developer",
+      "location": "Hyderabad, Bengaluru (Bangalore)",
+      "direct_url": "https://cutshort.io/job/Java-Full-stack-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-lmc3dPde",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "3599908b7ab1bcc3c71b3476b5ddd314d8e4078a54cc4a31e7f48d0d1a8c4fc7",
+      "original_page_checked_at": "2026-09-28T16:40:52.017250+00:00",
+      "reviewed_at": "2026-09-28T16:41:19.966846+00:00",
+      "experience_minimum": 5.0,
+      "evidence": {
+        "location": "Hyderabad, Bengaluru (Bangalore)",
+        "experience": "Experience: 5 - 12 years Location: Hyderabad, Bengaluru (Bangalore) Skills Java Spring Boot Microservices Angular (2+) React.js Job De",
+        "technology": "abad, Bengaluru (Bangalore) Skills Java Spring Boot Microservices Angular (2+) React.js Job Description We are looking for a Java Full Stack",
+        "role": null
+      },
+      "reasons": [
+        "Required experience starts at 5 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 206,
+      "company": "Gravity Engineering Services Pvt Ltd",
+      "role": "Senior Java Software Engineer",
+      "location": "Bengaluru (Bangalore)",
+      "direct_url": "https://cutshort.io/job/Senior-Java-Software-Engineer-Bengaluru-Bangalore-Gravity-Engineering-Services-Pvt-Ltd-lZM4cE6C",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "693514c99a40fd14ad500b00ef85e8fc45bedf8b2031d8c447c4c4488319e745",
+      "original_page_checked_at": "2026-09-28T16:40:52.017250+00:00",
+      "reviewed_at": "2026-09-28T16:41:19.972677+00:00",
+      "experience_minimum": 5.0,
+      "evidence": {
+        "location": "Bengaluru (Bangalore)",
+        "experience": "Experience: 5 - 8 years Location: Bengaluru (Bangalore) Skills Java Spring Boot Spring Cloud Microservices Kafka Prompt engineering C",
+        "technology": "tion: Bengaluru (Bangalore) Skills Java Spring Boot Spring Cloud Microservices Kafka Prompt engineering Caching GenAI Integration Apache Kafk",
+        "role": "GenAI) We are looking for a Senior Software Engineer who will be driving architectural direction, multi-team initiatives, and the development of highly"
+      },
+      "reasons": [
+        "Required experience starts at 5 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 213,
+      "company": "Treosoft IT",
+      "role": "Senior Java Developer",
+      "location": "Hyderabad",
+      "direct_url": "https://cutshort.io/job/Senior-Java-Developer-Hyderabad-Treosoft-IT-q5a3NNrL",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "38076dddbbe610670265d756f2ebf65d7b32c226ea16069529ab25d7b0c9e22d",
+      "original_page_checked_at": "2026-09-28T16:40:52.017250+00:00",
+      "reviewed_at": "2026-09-28T16:41:19.977561+00:00",
+      "experience_minimum": 8.0,
+      "evidence": {
+        "location": "Hyderabad",
+        "experience": "Experience: 8 - 12 years Location: Hyderabad Skills Spring Boot Java Microservices AWS Lambda API DynamoDB Kubernetes Docker Amazon SQ",
+        "technology": "2 years Location: Hyderabad Skills Spring Boot Java Microservices AWS Lambda API DynamoDB Kubernetes Docker Amazon SQS Job Description:",
+        "role": null
+      },
+      "reasons": [
+        "Required experience starts at 8 years, above the 2.5-year High-fit gate"
+      ]
+    }
+  ],
+  "high": 0,
+  "queued_for_resume": 0
+}

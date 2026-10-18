@@ -1,0 +1,29 @@
+{
+  "checked_at": "2026-10-13T16:01:15.870972+00:00",
+  "kind": "no-submit configuration and proof-gate regression checks",
+  "checks": {
+    "naukri_manual_enabled": true,
+    "naukri_scheduled_enabled": true,
+    "naukri_dry_run_submission_disabled": true,
+    "naukri_exact_proof_valid": true,
+    "naukri_one_new_application_limit": true,
+    "linkedin_manual_enabled": true,
+    "linkedin_scheduled_enabled": true,
+    "linkedin_dry_run_submission_disabled": true,
+    "linkedin_exact_proof_valid": true,
+    "linkedin_one_new_application_limit": true,
+    "both_workers_apply_ready": true,
+    "external_sources_disabled": true,
+    "one_off_experience_not_reusable": true,
+    "reusable_override_invalidates_technical_exception": true,
+    "exception_requires_explicit_user_authorization": true,
+    "rounding_up_rejected": true,
+    "integer_controls_use_completed_years": true,
+    "dry_run_cannot_open_application": true,
+    "manual_uses_shared_dry_run_entrypoint": true
+  },
+  "browser_started": false,
+  "search_started": false,
+  "application_started": false,
+  "submission_actions": 0
+}

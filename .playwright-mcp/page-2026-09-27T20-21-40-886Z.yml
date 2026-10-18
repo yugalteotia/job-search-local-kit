@@ -1,0 +1,22 @@
+- generic [ref=f1e12]:
+  - generic [ref=f1e13]:
+    - generic [ref=f1e14]: Settings
+    - generic [ref=f1e15]: Lets you easily control the communication you receive through Naukri, change your associated email or mobile number, deactivate your Naukri account and manage the job recommendations by specifying your desired career profile.
+  - generic [ref=f1e17]:
+    - list [ref=f1e21]:
+      - listitem [ref=f1e22]: Communication and Privacy
+      - listitem [ref=f1e23]: Account
+      - listitem [ref=f1e24]: Job Preferences
+      - listitem [ref=f1e25]: Block Companies
+    - generic [ref=f1e29]:
+      - generic [ref=f1e31]:
+        - generic [ref=f1e32]: Block Companies
+        - generic [ref=f1e33]: Recruiters from companies blocked by you will not be able to see your profile on Naukri.
+      - generic:
+        - generic [ref=f1e34]:
+          - textbox "Search companies you want to block" [ref=f1e41]
+          - generic [ref=f1e42]: Profiles are hidden from current companies by default so that they don’t know when candidates search for a job.
+        - generic [ref=f1e44]:
+          - link "CANCEL" [ref=f1e45] [cursor=pointer]:
+            - /url: javascript:void(0)
+          - button "Save" [ref=f1e46] [cursor=pointer]

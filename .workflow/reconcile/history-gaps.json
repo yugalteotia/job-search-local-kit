@@ -1,0 +1,72 @@
+[
+  {
+    "schema": 2,
+    "message_id": "vois:Track your VOIS Careers application",
+    "employer_key": "vois",
+    "subject": "Track your VOIS Careers application",
+    "date": "2026-09-26",
+    "role": null,
+    "requisition_id": null,
+    "scope": "employer_only"
+  },
+  {
+    "schema": 2,
+    "message_id": "mphasis:Your application to Java Software Engineer at Mphasis",
+    "employer_key": "mphasis",
+    "subject": "Your application to Java Software Engineer at Mphasis",
+    "date": "2026-09-27",
+    "role": "Java Software Engineer",
+    "requisition_id": null,
+    "scope": "role"
+  },
+  {
+    "schema": 2,
+    "message_id": "gctechnologiespvtltd:Your application was sent to GC Technologies Pvt Ltd",
+    "employer_key": "gctechnologiespvtltd",
+    "subject": "Your application was sent to GC Technologies Pvt Ltd",
+    "date": "2026-09-27",
+    "role": null,
+    "requisition_id": null,
+    "scope": "employer_only"
+  },
+  {
+    "schema": 2,
+    "message_id": "siemens:Thanks for your application",
+    "employer_key": "siemens",
+    "subject": "Thanks for your application",
+    "date": "2026-09-25",
+    "role": null,
+    "requisition_id": null,
+    "scope": "employer_only"
+  },
+  {
+    "schema": 2,
+    "message_id": "praxasai:Your application to Senior Software Engineer at Praxas AI",
+    "employer_key": "praxasai",
+    "subject": "Your application to Senior Software Engineer at Praxas AI",
+    "date": "2026-09-27",
+    "role": "Senior Software Engineer",
+    "requisition_id": null,
+    "scope": "role"
+  },
+  {
+    "schema": 2,
+    "message_id": "techdoquest:Your application to Java Backend Developer at TechDoQuest",
+    "employer_key": "techdoquest",
+    "subject": "Your application to Java Backend Developer at TechDoQuest",
+    "date": "2026-09-27",
+    "role": "Java Backend Developer",
+    "requisition_id": null,
+    "scope": "role"
+  },
+  {
+    "schema": 2,
+    "message_id": "tataconsultancyservices:Your application to Java Developer at Tata Consultancy Services",
+    "employer_key": "tataconsultancyservices",
+    "subject": "Your application to Java Developer at Tata Consultancy Services",
+    "date": "2026-09-27",
+    "role": "Java Developer",
+    "requisition_id": null,
+    "scope": "role"
+  }
+]

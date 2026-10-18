@@ -1,0 +1,391 @@
+{
+  "run_id": "b7adc188-5ada-4035-a9e3-a197c68039b8",
+  "started_at": "2026-09-29T09:02:43.607985+00:00",
+  "mode": "read_only",
+  "upload_enabled": false,
+  "submission_enabled": false,
+  "scheduled": false,
+  "test": true,
+  "source_scope": [
+    "naukri"
+  ],
+  "fresh_only": true,
+  "status": "Partial",
+  "sources": {
+    "naukri": {
+      "status": "Partial",
+      "error_kind": null,
+      "checked_at": "2026-09-29T09:02:51.999500+00:00",
+      "pages_checked": 1,
+      "leads": 20,
+      "feed_jobs": 0
+    }
+  },
+  "coverage": {
+    "naukri": [
+      {
+        "query": "Java backend API",
+        "location": "Bengaluru",
+        "page": 1,
+        "url": "https://www.naukri.com/java-jobs-in-india?k=Java%20backend%20API&l=Bengaluru&pageNo=1",
+        "checked_at": "2026-09-29T09:02:51.826276+00:00",
+        "status": "Success",
+        "error_kind": null,
+        "visible_cards": 20,
+        "body_characters": 9198,
+        "render_checks": 2,
+        "lead_count": 20,
+        "card_ids": [
+          "110826000033",
+          "070926033587",
+          "180926020236",
+          "110926024667",
+          "250926916487",
+          "240926034442",
+          "270726503544",
+          "110626501361",
+          "030926921972",
+          "301225505709",
+          "260826503298",
+          "250826031494",
+          "090726504525",
+          "170926004998",
+          "120824502365",
+          "120824502364",
+          "120824502363",
+          "081124501951",
+          "300826003471",
+          "010926019602"
+        ],
+        "unresolved_cards": [],
+        "observed_url": "https://www.naukri.com/java-backend-api-jobs-in-bengaluru",
+        "sort": "Configured newest route where available"
+      }
+    ]
+  },
+  "leads": 20,
+  "unique_original_requisitions_verified": 0,
+  "fit_decisions": {
+    "240": {
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "reasons": [
+        "Required experience starts at 9 years, above the 2.5-year High-fit gate"
+      ],
+      "evidence": {
+        "location": "Bengaluru, Hyderabad, Chennai",
+        "experience": "ru, Hyderabad, Chennai Experience: 9 - 14 years Job highlights 9-15 years experience with Java, Spring Boot, Microservices, Angular, React, and Kafka Design,",
+        "technology": "hlights 9-15 years experience with Java, Spring Boot, Microservices, Angular, React, and Kafka Design, develop, and maintain scalable enterpri",
+        "role": null
+      },
+      "jd_sha256": "631f88e2e3bd66eebcca84d6a3e0f5c5a2e207128f1242a39030da7a6444cafd"
+    }
+  },
+  "resumes": [],
+  "forms": [],
+  "submissions": [],
+  "blockers": [],
+  "errors": [],
+  "evidence_paths": [
+    ".workflow/runs/b7adc188-5ada-4035-a9e3-a197c68039b8.json"
+  ],
+  "queue": {},
+  "stage_seconds": {
+    "discovery": 8.38,
+    "original_verification": 0.0,
+    "lead_resolution": 9.91,
+    "fit_review": 0.01
+  },
+  "stage_counts": {
+    "normalized_unique_ats": 0,
+    "selected_for_original_check": 0,
+    "fetched": 20,
+    "unique_portal_leads": 20,
+    "fresh": 0,
+    "unknown_date": 6,
+    "skipped_old": 0,
+    "repeat_skipped": 14,
+    "unique_original_requisitions": 0,
+    "eligible_for_review": 1,
+    "original_jds_reviewed": 0,
+    "original_or_portal_jds_reviewed": 1,
+    "portal_native_verified": 1,
+    "high": 0,
+    "queued_for_resume": 0,
+    "review_queue_added": 1,
+    "portal_originals_matched": 0,
+    "portal_leads_still_needing_original": 323
+  },
+  "top_reviewed": [
+    {
+      "job_id": 240,
+      "company": "Infosys",
+      "role": "Java Full Stack Developer",
+      "location": "Bengaluru, Hyderabad, Chennai",
+      "direct_url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-hyderabad-chennai-bengaluru-9-to-14-years-300826003471",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "631f88e2e3bd66eebcca84d6a3e0f5c5a2e207128f1242a39030da7a6444cafd",
+      "original_page_checked_at": "2026-09-29T09:03:01.993947+00:00",
+      "reviewed_at": "2026-09-29T09:03:02.040342+00:00",
+      "experience_minimum": 9.0,
+      "evidence": {
+        "location": "Bengaluru, Hyderabad, Chennai",
+        "experience": "ru, Hyderabad, Chennai Experience: 9 - 14 years Job highlights 9-15 years experience with Java, Spring Boot, Microservices, Angular, React, and Kafka Design,",
+        "technology": "hlights 9-15 years experience with Java, Spring Boot, Microservices, Angular, React, and Kafka Design, develop, and maintain scalable enterpri",
+        "role": null
+      },
+      "reasons": [
+        "Required experience starts at 9 years, above the 2.5-year High-fit gate"
+      ]
+    }
+  ],
+  "freshness": {
+    "policy": {
+      "routine_review_hours": 24,
+      "sweep_overlap_minutes": 90,
+      "unknown_date_details_per_run": 30,
+      "transient_retry_hours": 6,
+      "pending_application_recheck_hours": 6
+    },
+    "counts": {
+      "fresh": 0,
+      "recent": 0,
+      "unknown_date": 6,
+      "skipped_old": 0,
+      "repeat_skipped": 14,
+      "history_skipped": 0,
+      "unknown_date_deferred": 0
+    },
+    "detail_candidates": 6,
+    "skips": [
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-back-end-developer-springboot-microservices-infosys-hyderabad-chennai-bengaluru-3-to-6-years-110826000033",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-j2ee-backend-developer-lead-consult-asia-bengaluru-5-to-10-years-250926916487",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-aviintech-business-solutions-bengaluru-5-to-10-years-090726504525",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-3-to-20-years-integel-institute-of-technology-tamil-nadu-hyderabad-chennai-bengaluru-3-to-8-years-110926024667",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-5-to-20-years-integel-institute-of-technology-tamil-nadu-hyderabad-chennai-bengaluru-5-to-10-years-170926004998",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-developer-photon-hyderabad-chennai-bengaluru-5-to-7-years-180926020236",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-fullstack-developer-careernet-chennai-bengaluru-4-to-8-years-240926034442",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-developer-p-r-glolinks-consulting-private-limited-bengaluru-5-to-10-years-270726503544",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-developer-purple-drive-technologies-private-limited-bengaluru-6-to-8-years-110626501361",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-vservice-it-solutions-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-7-to-8-years-120824502363",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-with-kafka-vservice-it-solutions-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-8-to-12-years-120824502365",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-with-kafka-vservice-it-solutions-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-7-to-8-years-120824502364",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-aws-java-react-js-fullstack-6-yrs-sp-staffing-pune-chennai-bengaluru-6-to-10-years-070926033587",
+        "reason": "unchanged_already_reviewed"
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-aws-java-react-js-fullstack-5-yrs-sp-staffing-chennai-bengaluru-5-to-10-years-250826031494",
+        "reason": "unchanged_already_reviewed"
+      }
+    ]
+  },
+  "portal_native": {
+    "selected": 2,
+    "verified": 1,
+    "unverified": 1,
+    "verified_job_ids": [
+      240
+    ],
+    "results": [
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-5-to-30-years-integel-institute-of-technology-tamil-nadu-hyderabad-chennai-bengaluru-5-to-8-years-010926019602",
+        "portal_job_id": "010926019602",
+        "title": "Java Backend Developer - 5 To 30 years",
+        "employer": "CONFIDENTIAL",
+        "location": "Bengaluru, Hyderabad, Chennai",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "substantive_duties_and_qualifications_not_visible"
+        ],
+        "jd_characters": 1759,
+        "experience_evidence": "30 years",
+        "apply_visible": true,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 2,
+        "card_sha256": "1daa156f808af515710457c0577dd06875fb1007892a597e9c82728a60eaab73",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-hyderabad-chennai-bengaluru-9-to-14-years-300826003471",
+        "portal_job_id": "300826003471",
+        "title": "Java Full Stack Developer",
+        "employer": "Infosys",
+        "location": "Bengaluru, Hyderabad, Chennai",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 3460,
+        "experience_evidence": "9 - 14 years",
+        "apply_visible": true,
+        "database_job_id": 240,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": []
+        },
+        "render_checks": 2,
+        "card_sha256": "6444be2f9b6e39dd320ce274591ac18b61e66ef65c6ac70cbc7326b5bd523ed5",
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      }
+    ]
+  },
+  "lead_resolution": {
+    "navigation_links_reclassified": 82,
+    "missing_ats_jd_refresh": {
+      "checked": 0,
+      "results": []
+    },
+    "direct_provider_coverage": {},
+    "direct_employer_coverage": {},
+    "portal_employer_coverage": {},
+    "target_title_failures_in_batch": 0,
+    "portal_jobs_inspected": 0,
+    "originals_matched": 0,
+    "substantive_originals_verified": 0,
+    "live_title_only": 0,
+    "direct_check_failures": 0,
+    "needs_original": 323,
+    "title_relevant_unresolved": 179,
+    "by_source": {
+      "naukri": {
+        "needs_original": 174,
+        "not_a_job": 3
+      },
+      "linkedin": {
+        "needs_original": 121,
+        "not_a_job": 2
+      },
+      "foundit": {
+        "needs_original": 0,
+        "not_a_job": 17
+      },
+      "indeed": {
+        "needs_original": 0,
+        "not_a_job": 30
+      },
+      "cutshort": {
+        "needs_original": 28,
+        "not_a_job": 30
+      }
+    },
+    "results": []
+  },
+  "linked_portal_native": null,
+  "review_coverage": {
+    "by_source": {
+      "naukri_portal_native": 1
+    },
+    "by_company": {
+      "Infosys": 1
+    }
+  },
+  "staging": {
+    "path": ".workflow/staging.json",
+    "resume_review_ready": 0,
+    "needs_jd_evidence_review": 0
+  },
+  "blocker_alerts": [],
+  "tab_lifecycle": {
+    "created": 6,
+    "closed": 6,
+    "remaining_automation_tabs": 0,
+    "job_tabs_created": 3,
+    "job_tabs_closed": 3,
+    "welcome_tabs_created": 3,
+    "welcome_tabs_closed": 3,
+    "remaining_job_tabs": 0,
+    "remaining_welcome_tabs": 0,
+    "reused": 0,
+    "uncertain_ids": [],
+    "recorded_ids": [
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 1,
+        "kind": "job"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      },
+      {
+        "id": 0,
+        "kind": "welcome"
+      }
+    ],
+    "log_paths": [
+      ".workflow/runs/b7adc188-5ada-4035-a9e3-a197c68039b8-tabs.jsonl",
+      ".workflow/runs/b7adc188-5ada-4035-a9e3-a197c68039b8-tabs-helper.jsonl"
+    ]
+  },
+  "finished_at": "2026-09-29T09:03:02.048254+00:00",
+  "elapsed_seconds": 18.44
+}

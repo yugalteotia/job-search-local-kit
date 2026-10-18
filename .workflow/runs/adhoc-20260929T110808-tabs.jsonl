@@ -1,0 +1,7 @@
+{"time": "2026-09-29T11:08:08.034682+00:00", "event": "tab_closed", "tab_id": 1, "owner": "bdf27901-e91e-4f58-897c-f1e1380d8683"}
+{"time": "2026-09-29T11:08:08.046995+00:00", "event": "tab_closed", "tab_id": 1, "owner": "961b800f-4bb7-4a3d-b187-35950aef79df"}
+{"time": "2026-09-29T11:08:08.097586+00:00", "event": "welcome_tab_closed", "tab_id": 0, "owner": "bdf27901-e91e-4f58-897c-f1e1380d8683", "automatic": true}
+{"time": "2026-09-29T11:08:08.102654+00:00", "event": "tab_lifecycle_summary", "created": 2, "reused": 0, "closed": 2, "job_tabs_created": 1, "job_tabs_closed": 1, "welcome_tabs_created": 1, "welcome_tabs_closed": 1, "remaining_job_tabs": 0, "remaining_welcome_tabs": 0, "remaining_automation_tabs": 0, "remaining_tab_ids": [], "owner": "bdf27901-e91e-4f58-897c-f1e1380d8683", "automatic_cleanup": true}
+{"time": "2026-09-29T11:08:08.124357+00:00", "event": "welcome_tab_closed", "tab_id": 0, "owner": "961b800f-4bb7-4a3d-b187-35950aef79df", "automatic": true}
+{"time": "2026-09-29T11:08:08.126418+00:00", "event": "tab_lifecycle_summary", "created": 2, "reused": 0, "closed": 2, "job_tabs_created": 1, "job_tabs_closed": 1, "welcome_tabs_created": 1, "welcome_tabs_closed": 1, "remaining_job_tabs": 0, "remaining_welcome_tabs": 0, "remaining_automation_tabs": 0, "remaining_tab_ids": [], "owner": "961b800f-4bb7-4a3d-b187-35950aef79df", "automatic_cleanup": true}
+{"time": "2026-09-29T11:08:08.710038+00:00", "event": "tab_created", "tab_id": 1, "owner": "ac239184-f3cb-4ea2-8a2a-f7f74c4cf2fb"}

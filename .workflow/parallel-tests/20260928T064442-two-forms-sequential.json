@@ -1,0 +1,58 @@
+{
+  "test": "2 local form preparation(s), no submission",
+  "sequential": true,
+  "flows": [
+    {
+      "worker": 1,
+      "job_id": "TEST-REQ-1",
+      "expected_url": "http://127.0.0.1:45809/form/1",
+      "expected_resume": "Test_Resume_1.pdf",
+      "observed": {
+        "url": null,
+        "job": null,
+        "resume": null,
+        "submitted": null
+      },
+      "fields_isolated": true,
+      "resume_isolated": false,
+      "isolated": false,
+      "click_error": null,
+      "upload_error": "browser_file_upload returned allowed error: ### error\nfilechooser.setfiles: protocol error (dom.setfileinputfiles): {\"code\":-32000,\"message\":\"not allowed\"}\n### ran playwright code\n```js\nawait filechooser.setfiles([\"[redacted]\"])\n```\n### modal state\n- [file chooser]: can be handled by browser_file_upload",
+      "final_read_error": "RuntimeError: browser_evaluate returned chooser error: ### error\nerror: tool \"browser_evaluate\" does not handle the modal state.\n### modal state\n- [file chooser]: can be handled by browser_file_upload",
+      "seconds": 3.85,
+      "field_checks": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "worker": 2,
+      "job_id": "TEST-REQ-2",
+      "expected_url": "http://127.0.0.1:45809/form/2",
+      "expected_resume": "Test_Resume_2.pdf",
+      "observed": {
+        "url": null,
+        "job": null,
+        "resume": null,
+        "submitted": null
+      },
+      "fields_isolated": true,
+      "resume_isolated": false,
+      "isolated": false,
+      "click_error": null,
+      "upload_error": "browser_file_upload returned allowed error: ### error\nfilechooser.setfiles: protocol error (dom.setfileinputfiles): {\"code\":-32000,\"message\":\"not allowed\"}\n### ran playwright code\n```js\nawait filechooser.setfiles([\"[redacted]\"])\n```\n### modal state\n- [file chooser]: can be handled by browser_file_upload",
+      "final_read_error": "RuntimeError: browser_evaluate returned chooser error: ### error\nerror: tool \"browser_evaluate\" does not handle the modal state.\n### modal state\n- [file chooser]: can be handled by browser_file_upload",
+      "seconds": 3.68,
+      "field_checks": [
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  ],
+  "passed": false,
+  "evidence": ".workflow/parallel-tests/20260928T064442-two-forms-sequential.json"
+}

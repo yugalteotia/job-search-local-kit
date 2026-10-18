@@ -1,0 +1,17 @@
+[     143ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     143ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     143ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     143ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     143ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[     143ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://in.indeed.com/jobs?q=Spring%20Boot%20software%20engineer&l=Hyderabad&sort=date&start=0:0
+[     558ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://t.indeed.com/signals/v1/log?signalAppId=cloudflare-static-pages&from=cloudflare-static-pages--captcha:0
+[     724ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://in.indeed.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a4642a39bbb87b2f:1
+[     725ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://in.indeed.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a4642a39bbb87b2f:1
+[     776ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://in.indeed.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a4642a39bbb87b2f:1
+[     832ms] [WARNING] No available adapters. @ https://in.indeed.com/jobs?q=Spring%20Boot%20software%20engineer&l=Hyderabad&sort=date&start=0:0
+[    1305ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[    1305ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[    1305ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[    1305ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[    1305ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'browsing-topics'. @ :0
+[    1522ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://t.indeed.com/signals/v1/log?signalAppId=cloudflare-static-pages&from=cloudflare-static-pages--captcha:0

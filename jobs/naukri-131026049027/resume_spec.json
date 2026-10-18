@@ -1,0 +1,94 @@
+{
+  "summary": "Backend-focused Software Engineer with nearly two years of professional Java experience building Spring Boot services, microservices, and REST/gRPC APIs. Experienced with MongoDB, automated tests, GitHub Actions workflows, and limited production deployment exposure to AWS ECS/Fargate. SQL, MySQL, JPA and Hibernate experience is from PG-DAC training and a personal project.",
+  "skills": [
+    {
+      "label": "Languages",
+      "items": "Java, JavaScript, TypeScript, Kotlin"
+    },
+    {
+      "label": "Frontend & mobile",
+      "items": "Ember.js, React.js, Jetpack Compose, HTML/CSS"
+    },
+    {
+      "label": "Backend",
+      "items": "Spring Boot, Spring Security, REST APIs, gRPC, Protocol Buffers, Microservices"
+    },
+    {
+      "label": "Data (production)",
+      "items": "MongoDB, Mongock/Mongobee"
+    },
+    {
+      "label": "Data (project/training)",
+      "items": "MySQL, Spring Data JPA, Hibernate, Flyway"
+    },
+    {
+      "label": "Engineering tools",
+      "items": "Git, Gradle, Maven, GitHub Actions, Docker, Linux, JUnit, Mockito"
+    },
+    {
+      "label": "CI/CD and cloud deployment",
+      "items": "GitHub Actions build/test/deployment workflows; deployed services through the available UI to AWS ECS/Fargate (limited production exposure; no AWS infrastructure design or administration)"
+    },
+    {
+      "label": "AI-assisted development",
+      "items": "GitHub Copilot, prompt engineering, agent workflows, RCA, debugging, scenario generation"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "org": "IDeaS - A SAS Company",
+      "location": "Pune, India",
+      "dates": "Oct 2024 – Sep 2026",
+      "bullets": [
+        "Upgraded a microservice application across 20 Java modules from Spring Boot 2.6 to Spring Boot 3.5, redesigning security configuration for Spring Security 6, migrating Jakarta APIs, and upgrading five generated API-client modules.",
+        "Designed and implemented REST and gRPC APIs for cross-product communication, with pagination, filtering, audit information, and backward-compatible Protocol Buffer contracts validated through contract-style tests.",
+        "Built Ember.js/TypeScript configuration and reporting workflows with reusable multiselect components, input validation, and conditional rendering; consolidated logic and removed redundant service calls.",
+        "Implemented concurrency controls for long-running jobs using centralized mutation guards and dedicated status APIs; connected backend state to progress tracking and conflict handling in the frontend.",
+        "Optimized MongoDB data access using targeted indexes, bulk reads, and batched audit retrieval; developed migration logic to transform and upsert legacy records."
+      ]
+    },
+    {
+      "title": "Application Developer",
+      "org": "Data Nova India Pvt. Ltd.",
+      "location": "Noida, India",
+      "dates": "Feb 2023 – May 2023",
+      "bullets": [
+        "Developed ERP mobile application modules using MVVM, separating user interfaces from presentation and application logic."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "UNITY - Peer-to-Peer Music Sync",
+      "note": "Functional prototype",
+      "stack": "Kotlin, Jetpack Compose, Media3 ExoPlayer, Coroutines, TCP/UDP",
+      "bullets": [
+        "Designed the architecture and protocol for a local-network Android music session with leader/follower control, device discovery, pairing-code joining, and synchronized queues.",
+        "Used iterative AI-assisted development to implement TCP commands, UDP playback synchronization, local media discovery, and MediaSession controls; reviewed and refined generated code against the intended design."
+      ]
+    },
+    {
+      "title": "Store REST API",
+      "note": "In progress",
+      "stack": "Spring Boot, Spring Data JPA, MySQL, Flyway, OpenAPI",
+      "bullets": [
+        "Implemented cart-management REST APIs with controller/service/repository separation, DTO mapping, request validation, exception handling, database migrations, and Swagger/OpenAPI documentation."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "PG Diploma in Advanced Computing (PG-DAC)",
+      "dates": "Mar 2024 – Aug 2024",
+      "org": "C-DAC, Pune",
+      "location": ""
+    },
+    {
+      "title": "B.Tech in Computer Science & Engineering",
+      "dates": "2020 – 2023",
+      "org": "Dr. A.P.J. Abdul Kalam Technical University",
+      "location": ""
+    }
+  ]
+}

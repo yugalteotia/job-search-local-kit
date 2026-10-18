@@ -1,0 +1,11 @@
+[     328ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     328ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     328ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     328ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     802ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.naukri.com/akam/13/712652f:0
+[    1066ms] [LOG] searchParams null @ https://static.naukimg.com/s/9/105/_next/static/chunks/app/layout-e21cae22cb919beb.js:0
+[    1153ms] [LOG] searchParams null @ https://static.naukimg.com/s/9/105/_next/static/chunks/app/layout-e21cae22cb919beb.js:0
+[    1198ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://static.naukimg.com/s/0/0/j/nLoggerJB_v3.4.min.js:0
+[    1258ms] [LOG] searchParams null @ https://static.naukimg.com/s/9/105/_next/static/chunks/app/layout-e21cae22cb919beb.js:0
+[    1275ms] [LOG] searchParams null @ https://static.naukimg.com/s/9/105/_next/static/chunks/app/layout-e21cae22cb919beb.js:0
+[    1382ms] [LOG] searchParams null @ https://static.naukimg.com/s/9/105/_next/static/chunks/app/layout-e21cae22cb919beb.js:0

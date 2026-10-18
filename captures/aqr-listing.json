@@ -1,0 +1,67 @@
+{
+  "company": "AQR India",
+  "role": "Engineering - Portfolio Analytics - Java Developer - Associate",
+  "job_id": "7546807",
+  "slug": "aqr-java-associate-7546807",
+  "url": "https://job-boards.greenhouse.io/india/jobs/7546807",
+  "source": "Original employer Greenhouse ATS via Playwright",
+  "checked_at": "2026-09-27T18:54:00Z",
+  "posted_date": null,
+  "location": "Bengaluru, India",
+  "original_verified": true,
+  "live": true,
+  "india": true,
+  "development_role": true,
+  "jd": "Back to jobs\nEngineering - Portfolio Analytics - Java Developer - Associate\nBengaluru\nApply\n\n \n\nAbout AQR Capital Management\n\nAQR is a global investment management firm built at the intersection of financial theory and practical application. We strive to deliver superior, long-term results for our clients by seeking to filter out market noise to identify and isolate what matters most, and by developing ideas that stand up to rigorous testing. Underpinning this philosophy is an unrelenting commitment to excellence in technology — powering our insights and analysis. This unique combination has made us leaders in alternative and traditional strategies since 1998.\n\nAQR takes a systematic, research-driven approach, applying quantitative tools to process fundamental information and manage risk. Our clients include institutional investors, such as pension funds, insurance companies, endowments, foundations and sovereign wealth funds, as well as financial advisors.\n\n \n\nTechnology is central to AQR’s success. As a Software Engineer in Portfolio Implementation, you will work on mission-critical systems that turn investment ideas into reality. Partnering closely with researchers and portfolio managers, you will design and build proprietary tools that support quantitative strategy research and systematic investing at scale. \n\nYour Role :\n\nAs a Software Engineer in Portfolio Implementation, you will design, build, and extend systems that sit at the core of AQR’s investment process, including: \n\nPortfolio Implementation platforms that consume research outputs, perform constrained optimizations, and generate orders \nCloud-based microservices engineered to run reliably and efficiently at scale \nParticipate in architectural design discussions for high-performance, high-volume, highly available systems, gaining experience with trade-offs across performance, flexibility, and maintainability \nBespoke technology solutions tailored to specific asset classes and evolving research needs \nCollaboration with a global team of researchers, portfolio managers and engineers for successful product delivery \n\nWhat You’ll Bring :\n\nDegree in Computer Science or a related technical field \n2+ years of professional programming experience with strong proficiency in Java \nPython experience is a strong plus, particularly for research integration and tooling \nStrong software design skills and the ability to translate design concepts into high-quality, maintainable code \nExcellent analytical thinking and problem-solving abilities \nClear and effective communication skills \nInterest in financial markets and the investment process \nExperience operating microservice-based architectures and building scalable, distributed systems, using technologies such as Java, Elasticsearch, Redis, RabbitMQ / AMQ, and relational databases (e.g., PostgreSQL, MS SQL Server) \nStrong engineering best practices, including attention to code quality, peer code reviews (PRs), automated testing, and test coverage \nExperience operating, tuning, and profiling high-performance systems in production environments \nExperience with observability and monitoring platforms (e.g., New Relic) is a strong plus \n\nWho You Are :\n\nTake strong ownership of your work, with the drive to see initiatives through from idea to completion \nComfortable leading change, overcoming obstacles, and navigating ambiguity to deliver results \nNaturally collaborative, thoughtful, and effective in a team-oriented environment \nHard-working, curious, and eager to learn in a fast-paced setting \nCommitted to intellectual integrity, transparency, and openness \n\n \n\n \n\n \n\n",
+  "rationale": "Java/API overlap; required distributed-system technology depth and production tuning are not sufficiently demonstrated.",
+  "requirements": [
+    {
+      "name": "Java programming",
+      "required": true,
+      "basis": "work",
+      "master_bullet": [
+        0,
+        3
+      ]
+    },
+    {
+      "name": "2+ years professional programming",
+      "required": true,
+      "basis": "profile",
+      "evidence": "Master month-only employment dates total roughly 2 years 2–3 months"
+    },
+    {
+      "name": "CS degree",
+      "required": true,
+      "basis": "education",
+      "evidence": "Master B.Tech CSE"
+    },
+    {
+      "name": "Design / code review / tests",
+      "required": true,
+      "basis": "work",
+      "master_bullet": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Elasticsearch/Redis/RabbitMQ relational distributed stack",
+      "required": true,
+      "basis": "gap",
+      "evidence": "Not demonstrated by master; MySQL project only"
+    },
+    {
+      "name": "Production high-performance tuning/profiling",
+      "required": true,
+      "basis": "gap",
+      "evidence": "MongoDB optimizations demonstrated, high-performance profiling not established"
+    },
+    {
+      "name": "Financial markets interest",
+      "required": true,
+      "basis": "gap",
+      "evidence": "No confirmed preference supplied"
+    }
+  ]
+}

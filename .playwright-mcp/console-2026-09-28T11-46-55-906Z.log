@@ -1,0 +1,56 @@
+[     289ms] [LOG] TTI - Time to Interactive: 15.198 seconds @ https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:5
+[     315ms] [LOG] FCP - First Contentful Paint: 15.252 seconds @ https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:5
+[     657ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[     657ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'private-aggregation'. @ :0
+[     657ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'join-ad-interest-group'. @ :0
+[     657ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'run-ad-auction'. @ :0
+[     871ms] [WARNING] A preload for 'https://media.foundit.in/trex/search/public/fonts/fonticonssrp.woff?001' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:7905
+[     899ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://s.go-mpulse.net/boomerang/2PT3Q-JAT3X-EBX46-NT4FH-M8PHW:0
+[     914ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://media.foundit.in/trex/public/theme_3/dist/js/userTracking.js?v=20260924130943:0
+[    1033ms] [LOG] Cookie Banner Error:  TypeError: Cannot set properties of null (setting 'onclick')
+    at https://media.foundit.in/dpdpa-banners/dpdpa-script.js:684:126
+    at https://media.foundit.in/dpdpa-banners/dpdpa-script.js:684:403 @ https://media.foundit.in/dpdpa-banners/dpdpa-script.js:683
+[    1347ms] [ERROR] TypeError: Cannot read properties of undefined (reading 'fullPath')
+    at o.data (https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:6:141363)
+    at https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:17:30015
+    at https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:17:30075
+    at Kn (https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:17:30251)
+    at o._init (https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:17:42020)
+    at new o (https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:17:46961)
+    at https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:17:32969
+    at init (https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:17:33000)
+    at https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:17:67550
+    at p (https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:17:67826) @ https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:16
+[    1415ms] [LOG] Updated TTI Calculation @ https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:5
+[    1415ms] [WARNING] The PerformanceObserver does not support buffered flag with the entryTypes argument. @ https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:5
+[    1955ms] [LOG] FCP - First Contentful Paint: 0.832 seconds @ https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:5
+[    2090ms] [LOG] TTI - Time to Interactive: 1.831 seconds @ https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:5
+[    2184ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://s.go-mpulse.net/boomerang/2PT3Q-JAT3X-EBX46-NT4FH-M8PHW:0
+[    3376ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:67
+[    3377ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:67
+[    3461ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:67
+[    3611ms] [LOG] LCP - Largest Contentful Paint: 2.128 seconds @ https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:5
+[    3629ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:67
+[    3631ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:67
+[    3731ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:67
+[    3765ms] [WARNING] The PerformanceObserver does not support buffered flag with the entryTypes argument. @ https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:5
+[    3769ms] [WARNING] A preload for 'https://media.foundit.in/trex/search/public/fonts/fonticonssrp.woff?001' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ https://www.foundit.in/TxnL1A/1CUqu/S_17f/NnAd/9p5hktV8SV8bmcw1/XiUsWQ/F2Y/NLA8_VlA:0
+[    3966ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:67
+[    3967ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:67
+[    4060ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:67
+[    4220ms] [WARNING] A preload for 'https://media.foundit.in/trex/search/public/fonts/fonticonssrp.woff?001' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ https://media.foundit.in/trex/search/public/js/profile-inspection-apop.js?ver=20260924130943:5
+[    4326ms] [WARNING] A preload for 'https://media.foundit.in/trex/search/public/fonts/fonticonssrp.woff?001' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:0
+[    4467ms] [WARNING] A preload for 'https://media.foundit.in/trex/search/public/fonts/fonticonssrp.woff?001' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ https://media.foundit.in/trex/public/theme_3/dist/js/header.js?ver=20260924130943:24
+[    4640ms] [WARNING] A preload for 'https://media.foundit.in/trex/search/public/fonts/fonticonssrp.woff?001' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:0
+[    4742ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://js-agent.newrelic.com/nr-spa-1130.min.js:0
+[    4777ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:67
+[    4778ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:67
+[    4847ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:67
+[    4943ms] [LOG] CLS - Cumulative Layout Shift: 0.02802871720999446 @ https://media.foundit.in/trex/search/public/js/srp-v3.js?ver=20250325195535:5
+[    4979ms] [LOG] [ERROR registration]:  TypeError: Failed to register a ServiceWorker for scope ('https://www.foundit.in/trex/public/theme_3/src/js/') with script ('https://www.foundit.in/trex/public/theme_3/src/js/service-worker.js'): ServiceWorker script evaluation failed @ https://media.foundit.in/trex/public/theme_3/dist/js/header.js?ver=20260924130943:24
+[    5863ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:67
+[    5864ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:67
+[    5973ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:67
+[    6570ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:67
+[    6571ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:67
+[    6664ms] [ERROR] Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. @ https://www.foundit.in/srp/results?query=Java%20Spring%20Boot%20backend&locations=Pune&page=1:67

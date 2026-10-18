@@ -1,0 +1,34 @@
+{
+  "original_evidence": ".workflow/runs/4ac3d719-053d-4f8e-889c-9d110b264b72-linkedin-session-health.json",
+  "original_classification": "linkedin_login_or_verification_required",
+  "corrected_classification": "linkedin_selector_or_render_failure",
+  "authentication_failure_proven": false,
+  "verification_wall_proven": false,
+  "sample_states": [
+    "selector_or_render_failure",
+    "selector_or_render_failure",
+    "selector_or_render_failure",
+    "selector_or_render_failure",
+    "selector_or_render_failure",
+    "selector_or_render_failure",
+    "selector_or_render_failure",
+    "selector_or_render_failure",
+    "selector_or_render_failure",
+    "selector_or_render_failure",
+    "selector_or_render_failure",
+    "selector_or_render_failure"
+  ],
+  "raw_body_or_credentials_recorded": false,
+  "read_only_validation_run": ".workflow/runs/c3f4a2db-295f-4b81-9b4b-9caa79ac6919.json",
+  "current_session_state": "authenticated",
+  "focused_no_submit_checks_passed": 7,
+  "no_applications_or_searches_started": true,
+  "strict_authenticated_control_kinds": [
+    [
+      "messaging_link"
+    ],
+    [
+      "messaging_link"
+    ]
+  ]
+}

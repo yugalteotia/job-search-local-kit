@@ -1,0 +1,46 @@
+{
+  "role_focus": "Ownership of full-stack mobile/web financial products, including Android releases, frontend and backend",
+  "framework_status": "Spring Boot absent and not required; Java is an allowed backend language, not an additional Node.js/Python/PHP requirement",
+  "experience_excerpt": "Experience: 3+ years in full-stack mobile, web, and backend software development.",
+  "relevant_excerpts": [
+    "Experience: 3+ years in full-stack mobile, web, and backend software development. Fintech/Lending experience is a strong plus.",
+    "Mobile: Proficiency in Flutter, React Native, or Native Android (Kotlin/Java) with state management, REST integration, and low-end phone optimization.",
+    "Web: Hands-on experience with React, Next.js, HTML, CSS, JavaScript/TypeScript.",
+    "Backend: Experience in Node.js, Python, Java, or PHP; strong REST API design, authentication (JWT, OTP), and DB management (MySQL/PostgreSQL/MongoDB).",
+    "Release & Quality: Manage builds, versioning, Google Play Store releases, crash reporting, and API documentation.",
+    "Preferred: Knowledge of UPI AutoPay, payment gateways, DigiLocker, and Indian data protection standards (DPDP Act / RBI guidelines)."
+  ],
+  "confirmed_overlap": [
+    "Professional Java, REST APIs and MongoDB; Java satisfies the backend-language alternative",
+    "TypeScript work and basic React/Kotlin project knowledge, without claiming native mobile delivery"
+  ],
+  "essential_gaps": [
+    "Required mobile proficiency including state management and low-end phone optimization is not confirmed; basic Kotlin does not establish native Android delivery",
+    "Required hands-on Next.js is not confirmed",
+    "Ownership of Google Play releases and mobile crash reporting is not confirmed"
+  ],
+  "experience_assessment": "Explicit 3+ years specifically in full-stack mobile/web/backend. Confirmed IDeaS duration is 23 completed months / 1.96 years; exact overall total is unknown. This is a near-miss below the 4-year exclusion threshold, not a claimed experience match; approved strong Medium still requires all essential skills.",
+  "optional_not_blocking": [
+    "Fintech/lending is a strong plus",
+    "UPI/payment gateway/DigiLocker knowledge is preferred"
+  ],
+  "decision": "Medium overlap, not an eligible strong Medium; mobile/web ownership gaps remain independently of the Senior title",
+  "spring_boot_absence_is_rejection_reason": false,
+  "title_seniority_is_rejection_reason": false,
+  "job_id": 335,
+  "requisition_id": "131026034128",
+  "reviewed_at": "2026-10-13T11:25:04.599620+00:00",
+  "jd_sha256": "290ca9a0d4ae9c1ababfabf67fa60043ba147f702ccf4e41aaefad46f6590add",
+  "fit": "Medium",
+  "eligible": false,
+  "strong_medium_eligible": false,
+  "queued": false,
+  "searches": 0,
+  "application_attempts": 0,
+  "generated_by": "manual_saved_jd_reassessment",
+  "scope": "Only these two saved exact JDs",
+  "jd_url": "https://www.naukri.com/job-listings-senior-software-developer-mobile-web-backend-fintech-bisani-brothers-lucknow-mumbai-all-areas-3-to-4-years-131026034128",
+  "required_professional_years": 3,
+  "experience_requirement_met": false,
+  "experience_requirement_assessment": "Explicit 3-year minimum is not established by confirmed experience; the approved near-miss policy does not make the requirement met."
+}

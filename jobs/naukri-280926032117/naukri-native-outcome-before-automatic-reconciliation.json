@@ -1,0 +1,15 @@
+{
+  "job_id": 314,
+  "requisition_id": "280926032117",
+  "attempt_id": "d69e7dc1-111f-46ed-9293-a4cdf6e0172f",
+  "saves": 1,
+  "status": "Applied",
+  "stage": "applied_history_check",
+  "confirmation_path": "jobs/naukri-280926032117/naukri-native-confirmation.json",
+  "delayed_confirmation": true,
+  "new_application_action": false,
+  "generic_resume_restored": true,
+  "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+  "generic_resume_verified_at": "2026-10-13T06:25:08.678655+00:00",
+  "answers_logged": false
+}

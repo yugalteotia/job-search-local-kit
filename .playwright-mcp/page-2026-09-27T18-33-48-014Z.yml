@@ -1,0 +1,675 @@
+- generic [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#gnav-header-end"
+  - main [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - dialog "Privacy" [ref=e8]:
+          - generic [ref=e10]:
+            - generic [ref=e13]:
+              - text: We use cookies to personalize content and ads, analyze traffic and improve our services. We also use essential cookies to inform employers of clicks to their jobs. You acknowledge that your use of Indeed is subject to our updated
+              - link "Privacy Policy" [ref=e14] [cursor=pointer]:
+                - /url: https://hrtechprivacy.com/brands/indeed#privacypolicy
+              - text: ","
+              - link "Cookie Policy" [ref=e15] [cursor=pointer]:
+                - /url: https://hrtechprivacy.com/brands/indeed#Cookies
+              - text: ", and"
+              - link "Terms" [ref=e16] [cursor=pointer]:
+                - /url: https://www.indeed.com/legal?from=onetrust-banner
+              - text: ", which we encourage you to review."
+            - generic [ref=e18]:
+              - button "Cookies Settings, Opens the preference center dialog" [ref=e19] [cursor=pointer]: Cookies Settings
+              - button "Reject All" [ref=e20] [cursor=pointer]
+              - button "Accept All Cookies" [ref=e21] [cursor=pointer]
+        - navigation "Primary" [ref=e22]:
+          - generic [ref=e24]:
+            - generic [ref=e25]:
+              - generic [ref=e26]:
+                - button "Skip to main content" [ref=e27] [cursor=pointer]
+                - link "Indeed Home" [ref=e29] [cursor=pointer]:
+                  - /url: /?from=gnav-jobsearch--indeedmobile
+                - list [ref=e33]:
+                  - listitem [ref=e34]:
+                    - link "Home" [ref=e36] [cursor=pointer]:
+                      - /url: https://in.indeed.com/
+                  - listitem [ref=e37]:
+                    - link "Company reviews" [ref=e39] [cursor=pointer]:
+                      - /url: https://in.indeed.com/companies
+                  - listitem [ref=e40]:
+                    - link "Salary guide" [ref=e42] [cursor=pointer]:
+                      - /url: https://in.indeed.com/career/salaries
+              - generic [ref=e43]:
+                - list [ref=e44]:
+                  - listitem [ref=e45]:
+                    - link "My jobs" [ref=e47] [cursor=pointer]:
+                      - /url: https://myjobs.indeed.com?from=gnav-util-jobsearch--indeedmobile&gnavTK=1k3i29va326ps002&tk=1k3i29uv1hn15800&co=IN&hl=en
+                  - listitem [ref=e50]:
+                    - link "Messages Unread count 0" [ref=e52] [cursor=pointer]:
+                      - /url: https://messages.indeed.com?from=gnav-util-jobsearch--indeedmobile&gnavTK=1k3i29va326ps002&tk=1k3i29uv1hn15800&co=IN&hl=en
+                  - listitem [ref=e59]:
+                    - link "Notifications Unread count 0" [ref=e61] [cursor=pointer]:
+                      - /url: https://in.indeed.com/notifications?from=gnav-util-jobsearch--indeedmobile&gnavTK=1k3i29va326ps002&tk=1k3i29uv1hn15800&hl=en
+                  - listitem [ref=e64]:
+                    - button "Account" [ref=e68] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=e72]:
+                        - text: "1"
+                        - generic [ref=e73]: new update
+                - link "Employers / Post Job" [ref=e78] [cursor=pointer]:
+                  - /url: https://in.indeed.com/hire?co=IN&hl=en
+            - generic [ref=e79]: Start of main content
+      - generic [ref=e81]:
+        - search [ref=e86]:
+          - generic [ref=e89]:
+            - generic [ref=e91]:
+              - generic [ref=e92]:
+                - generic [ref=e93]: "Keyword : all jobs"
+                - generic [ref=e96]:
+                  - 'combobox "search: Job title, keywords, or company" [ref=e100]': java spring boot
+                  - button "Clear what input" [ref=e102] [cursor=pointer]
+              - separator [ref=e105]:
+                - generic [ref=e106]: "&nbsp;"
+              - generic [ref=e107]:
+                - generic [ref=e108]: Edit location input box label
+                - generic [ref=e111]:
+                  - combobox "Edit location" [ref=e115]: India
+                  - button "Clear location input" [ref=e117] [cursor=pointer]
+            - button "Find jobs" [ref=e121] [cursor=pointer]
+          - list [ref=e124]:
+            - button "Pay filter" [ref=e126] [cursor=pointer]: Pay
+            - button "Remote filter" [ref=e128] [cursor=pointer]: Remote
+            - button "Job type filter" [ref=e130] [cursor=pointer]: Job type
+            - button "Education level filter" [ref=e132] [cursor=pointer]: Education level
+            - button "Industry filter" [ref=e134] [cursor=pointer]: Industry
+            - button "Date posted filter" [ref=e136] [cursor=pointer]: Date posted
+        - generic [ref=e142]:
+          - generic [ref=e143]:
+            - generic [ref=e144]:
+              - generic [ref=e145]:
+                - heading "java spring boot jobs in India" [level=1] [ref=e146]
+                - button "More information about job results" [ref=e149] [cursor=pointer]:
+                  - img "More information about job results" [ref=e150]
+              - generic [ref=e154]:
+                - generic [ref=e155]: "Sort by:"
+                - generic [ref=e156]: relevance - date
+            - list [ref=e160]:
+              - listitem
+              - listitem [ref=e161]:
+                - generic [ref=e166]:
+                  - heading [level=3] [ref=e168]:
+                    - button "full details of Java Programmer – Spring Boot & Microservices" [ref=e169] [cursor=pointer]: Java Programmer – Spring Boot & Microservices
+                  - generic [ref=e175]:
+                    - generic [ref=e176]: CredibleSoft
+                    - generic [ref=e178]: Remote
+                  - generic [ref=e180]:
+                    - button "Save job Toggle" [ref=e181] [cursor=pointer]
+                    - button "Not interested" [ref=e184] [cursor=pointer]
+              - listitem [ref=e188]:
+                - generic [ref=e193]:
+                  - generic [ref=e194]:
+                    - heading [level=3] [ref=e195]:
+                      - button "full details of Computer Faculty knowing Java , Python programming language" [ref=e196] [cursor=pointer]: Computer Faculty knowing Java , Python programming language
+                    - generic [ref=e198]:
+                      - generic [ref=e199]: Easily apply
+                      - generic [ref=e202]: Urgently hiring
+                  - generic [ref=e205]:
+                    - generic [ref=e207]:
+                      - generic [ref=e210]:
+                        - generic [ref=e211]: GLOBAL IQ COMPUTER EDUCATION CENTER
+                        - generic [ref=e213]: Nagerbazar, Kolkata, West Bengal
+                      - list [ref=e215]:
+                        - listitem [ref=e216]:
+                          - generic [ref=e217]: From ₹15,000 a month
+                        - listitem [ref=e220]:
+                          - generic [ref=e221]:
+                            - img "matches your preference" [ref=e223]
+                            - generic [ref=e225]: Full-time
+                        - listitem [ref=e227]:
+                          - generic [ref=e228]: Leave encashment
+                    - generic [ref=e231]: 1 hire made in past 30 days
+                  - generic [ref=e236]:
+                    - button "Save job Toggle" [ref=e237] [cursor=pointer]
+                    - button "Not interested" [ref=e240] [cursor=pointer]
+              - listitem [ref=e244]:
+                - generic [ref=e249]:
+                  - generic [ref=e250]:
+                    - heading [level=3] [ref=e251]:
+                      - button "full details of MCA" [ref=e252] [cursor=pointer]: MCA
+                    - generic [ref=e254]:
+                      - generic [ref=e255]: Easily apply
+                      - generic [ref=e258]: Urgently hiring
+                  - generic [ref=e263]:
+                    - generic [ref=e268]:
+                      - generic [ref=e269]: ICRI
+                      - generic [ref=e271]: Mumbai, Maharashtra
+                    - list [ref=e273]:
+                      - listitem [ref=e274]:
+                        - generic [ref=e275]: ₹9,538.02 - ₹34,369.69 a month
+                      - listitem [ref=e278]:
+                        - generic [ref=e279]:
+                          - img "matches your preference" [ref=e281]
+                          - generic [ref=e284]:
+                            - text: Full-time
+                            - generic [ref=e285]: "+1"
+                      - listitem [ref=e286]:
+                        - generic [ref=e287]: 4 hours per week
+                      - listitem [ref=e290]:
+                        - generic [ref=e291]: Flexible schedule
+                  - generic [ref=e294]:
+                    - button "Save job Toggle" [ref=e295] [cursor=pointer]
+                    - button "Not interested" [ref=e298] [cursor=pointer]
+              - listitem [ref=e302]:
+                - generic [ref=e307]:
+                  - generic [ref=e308]:
+                    - heading [level=3] [ref=e309]:
+                      - button "full details of Java Developer - AI Trainer" [ref=e310] [cursor=pointer]: Java Developer - AI Trainer
+                    - generic [ref=e311]: Easily apply
+                  - generic [ref=e318]:
+                    - generic [ref=e321]:
+                      - generic [ref=e322]: DataAnnotation
+                      - generic [ref=e324]: Remote in Bengaluru, Karnataka
+                    - list [ref=e326]:
+                      - listitem [ref=e327]:
+                        - generic [ref=e328]: ₹50 - ₹100 an hour
+                      - listitem [ref=e331]:
+                        - generic [ref=e332]:
+                          - img "matches your preference" [ref=e334]
+                          - generic [ref=e337]:
+                            - text: Full-time
+                            - generic [ref=e338]: "+1"
+                      - listitem [ref=e339]:
+                        - generic [ref=e340]: Work from home
+                      - listitem [ref=e343]:
+                        - generic [ref=e344]: Flexible schedule
+                  - link "View similar jobs with this employer" [ref=e347] [cursor=pointer]:
+                    - /url: /addlLoc/redirect?tk=1k3i29uv1hn15800&jk=3325b9f2e2e7a9a8&dest=%2Fjobs%3Fq%3Djava%2Bspring%2Bboot%26nl%3D%26l%3DIndia%26radius%3D25%26grpKey%3D8gcFdG5mZWy4D7qkqTyqEBsKCW5vcm10aXRsZRoOamF2YSBkZXZlbG9wZXI%253D
+                  - generic [ref=e348]:
+                    - button "Save job Toggle" [ref=e349] [cursor=pointer]
+                    - button "Not interested" [ref=e352] [cursor=pointer]
+              - listitem [ref=e356]:
+                - generic [ref=e361]:
+                  - generic [ref=e362]:
+                    - heading [level=3] [ref=e363]:
+                      - button "full details of Senior Software Engineer - AI Trainer" [ref=e364] [cursor=pointer]: Senior Software Engineer - AI Trainer
+                    - generic [ref=e365]: Easily apply
+                  - generic [ref=e372]:
+                    - generic [ref=e375]:
+                      - generic [ref=e376]: DataAnnotation
+                      - generic [ref=e378]: Remote in Bengaluru, Karnataka
+                    - list [ref=e380]:
+                      - listitem [ref=e381]:
+                        - generic [ref=e382]: ₹50 - ₹100 an hour
+                      - listitem [ref=e385]:
+                        - generic [ref=e386]:
+                          - img "matches your preference" [ref=e388]
+                          - generic [ref=e391]:
+                            - text: Full-time
+                            - generic [ref=e392]: "+1"
+                      - listitem [ref=e393]:
+                        - generic [ref=e394]: Work from home
+                      - listitem [ref=e397]:
+                        - generic [ref=e398]: Flexible schedule
+                  - link "View similar jobs with this employer" [ref=e401] [cursor=pointer]:
+                    - /url: /addlLoc/redirect?tk=1k3i29uv1hn15800&jk=2fe2dfe2cd26b5a9&dest=%2Fjobs%3Fq%3Djava%2Bspring%2Bboot%26nl%3D%26l%3DIndia%26radius%3D25%26grpKey%3D8gcFdG5mZWy4D7qkqTyqECUKCW5vcm10aXRsZRoYc2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVy
+                  - generic [ref=e402]:
+                    - button "Save job Toggle" [ref=e403] [cursor=pointer]
+                    - button "Not interested" [ref=e406] [cursor=pointer]
+              - listitem
+              - listitem [ref=e410]:
+                - generic [ref=e415]:
+                  - generic [ref=e416]:
+                    - heading [level=3] [ref=e417]:
+                      - button "full details of Senior Software Developer - AI Trainer" [ref=e418] [cursor=pointer]: Senior Software Developer - AI Trainer
+                    - generic [ref=e419]: Easily apply
+                  - generic [ref=e426]:
+                    - generic [ref=e429]:
+                      - generic [ref=e430]: DataAnnotation
+                      - generic [ref=e432]: Remote in Bengaluru, Karnataka
+                    - list [ref=e434]:
+                      - listitem [ref=e435]:
+                        - generic [ref=e436]: ₹50 - ₹100 an hour
+                      - listitem [ref=e439]:
+                        - generic [ref=e440]:
+                          - img "matches your preference" [ref=e442]
+                          - generic [ref=e445]:
+                            - text: Full-time
+                            - generic [ref=e446]: "+1"
+                      - listitem [ref=e447]:
+                        - generic [ref=e448]: Work from home
+                      - listitem [ref=e451]:
+                        - generic [ref=e452]: Flexible schedule
+                  - link "View similar jobs with this employer" [ref=e455] [cursor=pointer]:
+                    - /url: /addlLoc/redirect?tk=1k3i29uv1hn15800&jk=b88a7080c81761c2&dest=%2Fjobs%3Fq%3Djava%2Bspring%2Bboot%26nl%3D%26l%3DIndia%26radius%3D25%26grpKey%3D8gcFdG5mZWy4D7qkqTyqECUKCW5vcm10aXRsZRoYc2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVy
+                  - generic [ref=e456]:
+                    - button "Save job Toggle" [ref=e457] [cursor=pointer]
+                    - button "Not interested" [ref=e460] [cursor=pointer]
+              - listitem [ref=e464]:
+                - generic [ref=e469]:
+                  - generic [ref=e470]:
+                    - heading [level=3] [ref=e471]:
+                      - button "full details of Java Developer - AI Trainer" [ref=e472] [cursor=pointer]: Java Developer - AI Trainer
+                    - generic [ref=e473]: Easily apply
+                  - generic [ref=e480]:
+                    - generic [ref=e483]:
+                      - generic [ref=e484]: DataAnnotation
+                      - generic [ref=e486]: Remote in Mumbai, Maharashtra
+                    - list [ref=e488]:
+                      - listitem [ref=e489]:
+                        - generic [ref=e490]: ₹50 - ₹100 an hour
+                      - listitem [ref=e493]:
+                        - generic [ref=e494]:
+                          - img "matches your preference" [ref=e496]
+                          - generic [ref=e499]:
+                            - text: Full-time
+                            - generic [ref=e500]: "+1"
+                      - listitem [ref=e501]:
+                        - generic [ref=e502]: Work from home
+                      - listitem [ref=e505]:
+                        - generic [ref=e506]: Flexible schedule
+                  - link "View similar jobs with this employer" [ref=e509] [cursor=pointer]:
+                    - /url: /addlLoc/redirect?tk=1k3i29uv1hn15800&jk=0648fb7356122daa&dest=%2Fjobs%3Fq%3Djava%2Bspring%2Bboot%26nl%3D%26l%3DIndia%26radius%3D25%26grpKey%3D8gcFdG5mZWy4D7qkqTyqEBsKCW5vcm10aXRsZRoOamF2YSBkZXZlbG9wZXI%253D
+                  - generic [ref=e510]:
+                    - button "Save job Toggle" [ref=e511] [cursor=pointer]
+                    - button "Not interested" [ref=e514] [cursor=pointer]
+              - listitem [ref=e518]:
+                - generic [ref=e523]:
+                  - generic [ref=e524]:
+                    - heading [level=3] [ref=e525]:
+                      - button "full details of Full Stack Engineer - AI Trainer" [ref=e526] [cursor=pointer]: Full Stack Engineer - AI Trainer
+                    - generic [ref=e527]: Easily apply
+                  - generic [ref=e534]:
+                    - generic [ref=e537]:
+                      - generic [ref=e538]: DataAnnotation
+                      - generic [ref=e540]: Remote in Bengaluru, Karnataka
+                    - list [ref=e542]:
+                      - listitem [ref=e543]:
+                        - generic [ref=e544]: ₹50 - ₹100 an hour
+                      - listitem [ref=e547]:
+                        - generic [ref=e548]:
+                          - img "matches your preference" [ref=e550]
+                          - generic [ref=e553]:
+                            - text: Full-time
+                            - generic [ref=e554]: "+1"
+                      - listitem [ref=e555]:
+                        - generic [ref=e556]: Work from home
+                      - listitem [ref=e559]:
+                        - generic [ref=e560]: Flexible schedule
+                  - link "View similar jobs with this employer" [ref=e563] [cursor=pointer]:
+                    - /url: /addlLoc/redirect?tk=1k3i29uv1hn15800&jk=1694517312c0d1f0&dest=%2Fjobs%3Fq%3Djava%2Bspring%2Bboot%26nl%3D%26l%3DIndia%26radius%3D25%26grpKey%3D8gcFdG5mZWy4D7qkqTyqECEKCW5vcm10aXRsZRoUZnVsbCBzdGFjayBkZXZlbG9wZXI%253D
+                  - generic [ref=e564]:
+                    - button "Save job Toggle" [ref=e565] [cursor=pointer]
+                    - button "Not interested" [ref=e568] [cursor=pointer]
+              - listitem
+              - listitem [ref=e572]:
+                - generic [ref=e577]:
+                  - generic [ref=e578]:
+                    - heading [level=3] [ref=e579]:
+                      - button "full details of Java Developer - AI Trainer" [ref=e580] [cursor=pointer]: Java Developer - AI Trainer
+                    - generic [ref=e581]: Easily apply
+                  - generic [ref=e588]:
+                    - generic [ref=e591]:
+                      - generic [ref=e592]: DataAnnotation
+                      - generic [ref=e594]: Remote in Chennai, Tamil Nadu
+                    - list [ref=e596]:
+                      - listitem [ref=e597]:
+                        - generic [ref=e598]: ₹50 - ₹100 an hour
+                      - listitem [ref=e601]:
+                        - generic [ref=e602]:
+                          - img "matches your preference" [ref=e604]
+                          - generic [ref=e607]:
+                            - text: Full-time
+                            - generic [ref=e608]: "+1"
+                      - listitem [ref=e609]:
+                        - generic [ref=e610]: Work from home
+                      - listitem [ref=e613]:
+                        - generic [ref=e614]: Flexible schedule
+                  - link "View similar jobs with this employer" [ref=e617] [cursor=pointer]:
+                    - /url: /addlLoc/redirect?tk=1k3i29uv1hn15800&jk=a2f43eb57ce86e64&dest=%2Fjobs%3Fq%3Djava%2Bspring%2Bboot%26nl%3D%26l%3DIndia%26radius%3D25%26grpKey%3D8gcFdG5mZWy4D7qkqTyqEBsKCW5vcm10aXRsZRoOamF2YSBkZXZlbG9wZXI%253D
+                  - generic [ref=e618]:
+                    - button "Save job Toggle" [ref=e619] [cursor=pointer]
+                    - button "Not interested" [ref=e622] [cursor=pointer]
+              - listitem [ref=e626]:
+                - generic [ref=e631]:
+                  - generic [ref=e632]:
+                    - heading [level=3] [ref=e633]:
+                      - button "full details of Backend Engineer - AI Trainer" [ref=e634] [cursor=pointer]: Backend Engineer - AI Trainer
+                    - generic [ref=e635]: Easily apply
+                  - generic [ref=e642]:
+                    - generic [ref=e645]:
+                      - generic [ref=e646]: DataAnnotation
+                      - generic [ref=e648]: Remote in Bengaluru, Karnataka
+                    - list [ref=e650]:
+                      - listitem [ref=e651]:
+                        - generic [ref=e652]: ₹50 - ₹100 an hour
+                      - listitem [ref=e655]:
+                        - generic [ref=e656]:
+                          - img "matches your preference" [ref=e658]
+                          - generic [ref=e661]:
+                            - text: Full-time
+                            - generic [ref=e662]: "+1"
+                      - listitem [ref=e663]:
+                        - generic [ref=e664]: Work from home
+                      - listitem [ref=e667]:
+                        - generic [ref=e668]: Flexible schedule
+                  - link "View similar jobs with this employer" [ref=e671] [cursor=pointer]:
+                    - /url: /addlLoc/redirect?tk=1k3i29uv1hn15800&jk=cd6bf1b4dbbb2d18&dest=%2Fjobs%3Fq%3Djava%2Bspring%2Bboot%26nl%3D%26l%3DIndia%26radius%3D25%26grpKey%3D8gcFdG5mZWy4D7qkqTyqEB8KCW5vcm10aXRsZRoSYmFjayBlbmQgZGV2ZWxvcGVy
+                  - generic [ref=e672]:
+                    - button "Save job Toggle" [ref=e673] [cursor=pointer]
+                    - button "Not interested" [ref=e676] [cursor=pointer]
+              - listitem
+              - listitem [ref=e680]:
+                - generic [ref=e685]:
+                  - generic [ref=e686]:
+                    - heading [level=3] [ref=e687]:
+                      - button "full details of Java Developer - AI Trainer" [ref=e688] [cursor=pointer]: Java Developer - AI Trainer
+                    - generic [ref=e689]: Easily apply
+                  - generic [ref=e696]:
+                    - generic [ref=e699]:
+                      - generic [ref=e700]: DataAnnotation
+                      - generic [ref=e702]: Remote in Kolkata, West Bengal
+                    - list [ref=e704]:
+                      - listitem [ref=e705]:
+                        - generic [ref=e706]: ₹50 - ₹100 an hour
+                      - listitem [ref=e709]:
+                        - generic [ref=e710]:
+                          - img "matches your preference" [ref=e712]
+                          - generic [ref=e715]:
+                            - text: Full-time
+                            - generic [ref=e716]: "+1"
+                      - listitem [ref=e717]:
+                        - generic [ref=e718]: Work from home
+                      - listitem [ref=e721]:
+                        - generic [ref=e722]: Flexible schedule
+                  - link "View similar jobs with this employer" [ref=e725] [cursor=pointer]:
+                    - /url: /addlLoc/redirect?tk=1k3i29uv1hn15800&jk=c943782cd546b725&dest=%2Fjobs%3Fq%3Djava%2Bspring%2Bboot%26nl%3D%26l%3DIndia%26radius%3D25%26grpKey%3D8gcFdG5mZWy4D7qkqTyqEBsKCW5vcm10aXRsZRoOamF2YSBkZXZlbG9wZXI%253D
+                  - generic [ref=e726]:
+                    - button "Save job Toggle" [ref=e727] [cursor=pointer]
+                    - button "Not interested" [ref=e730] [cursor=pointer]
+              - listitem [ref=e734]:
+                - generic [ref=e739]:
+                  - generic [ref=e740]:
+                    - heading [level=3] [ref=e741]:
+                      - button "full details of Senior Software Engineer - AI Trainer" [ref=e742] [cursor=pointer]: Senior Software Engineer - AI Trainer
+                    - generic [ref=e743]: Easily apply
+                  - generic [ref=e750]:
+                    - generic [ref=e753]:
+                      - generic [ref=e754]: DataAnnotation
+                      - generic [ref=e756]: Remote in Jaipur, Rajasthan
+                    - list [ref=e758]:
+                      - listitem [ref=e759]:
+                        - generic [ref=e760]: ₹50 - ₹100 an hour
+                      - listitem [ref=e763]:
+                        - generic [ref=e764]:
+                          - img "matches your preference" [ref=e766]
+                          - generic [ref=e769]:
+                            - text: Full-time
+                            - generic [ref=e770]: "+1"
+                      - listitem [ref=e771]:
+                        - generic [ref=e772]: Work from home
+                      - listitem [ref=e775]:
+                        - generic [ref=e776]: Flexible schedule
+                  - link "View similar jobs with this employer" [ref=e779] [cursor=pointer]:
+                    - /url: /addlLoc/redirect?tk=1k3i29uv1hn15800&jk=d5ac78b9e48ccc1f&dest=%2Fjobs%3Fq%3Djava%2Bspring%2Bboot%26nl%3D%26l%3DIndia%26radius%3D25%26grpKey%3D8gcFdG5mZWy4D7qkqTyqECUKCW5vcm10aXRsZRoYc2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVy
+                  - generic [ref=e780]:
+                    - button "Save job Toggle" [ref=e781] [cursor=pointer]
+                    - button "Not interested" [ref=e784] [cursor=pointer]
+              - listitem [ref=e788]:
+                - generic [ref=e793]:
+                  - generic [ref=e794]:
+                    - heading [level=3] [ref=e795]:
+                      - button "full details of Senior Software Engineer - AI Trainer" [ref=e796] [cursor=pointer]: Senior Software Engineer - AI Trainer
+                    - generic [ref=e797]: Easily apply
+                  - generic [ref=e804]:
+                    - generic [ref=e807]:
+                      - generic [ref=e808]: DataAnnotation
+                      - generic [ref=e810]: Remote in Chennai, Tamil Nadu
+                    - list [ref=e812]:
+                      - listitem [ref=e813]:
+                        - generic [ref=e814]: ₹50 - ₹100 an hour
+                      - listitem [ref=e817]:
+                        - generic [ref=e818]:
+                          - img "matches your preference" [ref=e820]
+                          - generic [ref=e823]:
+                            - text: Full-time
+                            - generic [ref=e824]: "+1"
+                      - listitem [ref=e825]:
+                        - generic [ref=e826]: Work from home
+                      - listitem [ref=e829]:
+                        - generic [ref=e830]: Flexible schedule
+                  - link "View similar jobs with this employer" [ref=e833] [cursor=pointer]:
+                    - /url: /addlLoc/redirect?tk=1k3i29uv1hn15800&jk=4879b2137f3e4963&dest=%2Fjobs%3Fq%3Djava%2Bspring%2Bboot%26nl%3D%26l%3DIndia%26radius%3D25%26grpKey%3D8gcFdG5mZWy4D7qkqTyqECUKCW5vcm10aXRsZRoYc2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVy
+                  - generic [ref=e834]:
+                    - button "Save job Toggle" [ref=e835] [cursor=pointer]
+                    - button "Not interested" [ref=e838] [cursor=pointer]
+              - listitem [ref=e842]:
+                - generic [ref=e847]:
+                  - generic [ref=e848]:
+                    - heading [level=3] [ref=e849]:
+                      - button "full details of Senior Software Developer - AI Trainer" [ref=e850] [cursor=pointer]: Senior Software Developer - AI Trainer
+                    - generic [ref=e851]: Easily apply
+                  - generic [ref=e858]:
+                    - generic [ref=e861]:
+                      - generic [ref=e862]: DataAnnotation
+                      - generic [ref=e864]: Remote in Chennai, Tamil Nadu
+                    - list [ref=e866]:
+                      - listitem [ref=e867]:
+                        - generic [ref=e868]: ₹50 - ₹100 an hour
+                      - listitem [ref=e871]:
+                        - generic [ref=e872]:
+                          - img "matches your preference" [ref=e874]
+                          - generic [ref=e877]:
+                            - text: Full-time
+                            - generic [ref=e878]: "+1"
+                      - listitem [ref=e879]:
+                        - generic [ref=e880]: Work from home
+                      - listitem [ref=e883]:
+                        - generic [ref=e884]: Flexible schedule
+                  - link "View similar jobs with this employer" [ref=e887] [cursor=pointer]:
+                    - /url: /addlLoc/redirect?tk=1k3i29uv1hn15800&jk=22a08e57ea9cc3ba&dest=%2Fjobs%3Fq%3Djava%2Bspring%2Bboot%26nl%3D%26l%3DIndia%26radius%3D25%26grpKey%3D8gcFdG5mZWy4D7qkqTyqECUKCW5vcm10aXRsZRoYc2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVy
+                  - generic [ref=e888]:
+                    - button "Save job Toggle" [ref=e889] [cursor=pointer]
+                    - button "Not interested" [ref=e892] [cursor=pointer]
+              - listitem [ref=e896]:
+                - generic [ref=e901]:
+                  - generic [ref=e902]:
+                    - heading [level=3] [ref=e903]:
+                      - button "full details of Senior Software Developer - AI Trainer" [ref=e904] [cursor=pointer]: Senior Software Developer - AI Trainer
+                    - generic [ref=e905]: Easily apply
+                  - generic [ref=e912]:
+                    - generic [ref=e915]:
+                      - generic [ref=e916]: DataAnnotation
+                      - generic [ref=e918]: Remote in Mumbai, Maharashtra
+                    - list [ref=e920]:
+                      - listitem [ref=e921]:
+                        - generic [ref=e922]: ₹50 - ₹100 an hour
+                      - listitem [ref=e925]:
+                        - generic [ref=e926]:
+                          - img "matches your preference" [ref=e928]
+                          - generic [ref=e931]:
+                            - text: Full-time
+                            - generic [ref=e932]: "+1"
+                      - listitem [ref=e933]:
+                        - generic [ref=e934]: Work from home
+                      - listitem [ref=e937]:
+                        - generic [ref=e938]: Flexible schedule
+                  - link "View similar jobs with this employer" [ref=e941] [cursor=pointer]:
+                    - /url: /addlLoc/redirect?tk=1k3i29uv1hn15800&jk=9cf5c729536f8f69&dest=%2Fjobs%3Fq%3Djava%2Bspring%2Bboot%26nl%3D%26l%3DIndia%26radius%3D25%26grpKey%3D8gcFdG5mZWy4D7qkqTyqECUKCW5vcm10aXRsZRoYc2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVy
+                  - generic [ref=e942]:
+                    - button "Save job Toggle" [ref=e943] [cursor=pointer]
+                    - button "Not interested" [ref=e946] [cursor=pointer]
+              - listitem
+            - group "Overall, how relevant are these jobs?" [ref=e958]:
+              - generic [ref=e960]:
+                - generic [ref=e962]:
+                  - radio [ref=e963] [cursor=pointer]
+                  - generic [ref=e969]: Not at all
+                - generic [ref=e971]:
+                  - radio [ref=e972] [cursor=pointer]
+                  - generic [ref=e978]: Slightly
+                - generic [ref=e980]:
+                  - radio [ref=e981] [cursor=pointer]
+                  - generic [ref=e987]: Somewhat
+                - generic [ref=e989]:
+                  - radio [ref=e990] [cursor=pointer]
+                  - generic [ref=e996]: Very
+                - generic [ref=e998]:
+                  - radio [ref=e999] [cursor=pointer]
+                  - generic [ref=e1005]: Extremely
+            - navigation "pagination" [ref=e1006]:
+              - list [ref=e1007]:
+                - listitem [ref=e1008]:
+                  - link "1" [ref=e1009] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e1010]:
+                  - link "2" [ref=e1011] [cursor=pointer]:
+                    - /url: /jobs?q=java+spring+boot&l=India&radius=25&start=10
+                - listitem [ref=e1012]:
+                  - link "3" [ref=e1013] [cursor=pointer]:
+                    - /url: /jobs?q=java+spring+boot&l=India&radius=25&start=20
+                - listitem [ref=e1014]:
+                  - link "4" [ref=e1015] [cursor=pointer]:
+                    - /url: /jobs?q=java+spring+boot&l=India&radius=25&start=30
+                - listitem [ref=e1016]:
+                  - link "5" [ref=e1017] [cursor=pointer]:
+                    - /url: /jobs?q=java+spring+boot&l=India&radius=25&start=40
+                - listitem [ref=e1018]:
+                  - link "Next Page" [ref=e1019] [cursor=pointer]:
+                    - /url: /jobs?q=java+spring+boot&l=India&radius=25&start=10
+            - generic [ref=e1025]:
+              - heading "Be the first to see new java spring boot jobs in India" [level=2] [ref=e1027]
+              - generic [ref=e1030]:
+                - generic [ref=e1032]:
+                  - generic [ref=e1033]: Email address
+                  - textbox "Email address" [ref=e1035]: teotia.yugal@gmail.com
+                - button "Activate" [ref=e1037] [cursor=pointer]
+              - paragraph [ref=e1040]:
+                - text: By creating a job alert, you agree to our
+                - link "Terms (opens in a new tab)" [ref=e1041] [cursor=pointer]:
+                  - /url: /legal?hl=en
+                  - text: Terms
+                - text: . You can change your consent settings at any time by unsubscribing or as detailed in our terms.
+            - generic [ref=e1045]:
+              - heading "People also searched:" [level=3] [ref=e1046]
+              - list [ref=e1047]:
+                - listitem [ref=e1048]:
+                  - link "java developer" [ref=e1049] [cursor=pointer]:
+                    - /url: /q-java-developer-jobs.html
+                - listitem [ref=e1052]:
+                  - link "spring boot" [ref=e1053] [cursor=pointer]:
+                    - /url: /q-spring-boot-jobs.html
+                - listitem [ref=e1056]:
+                  - link "java developer fresher" [ref=e1057] [cursor=pointer]:
+                    - /url: /q-java-developer-fresher-jobs.html
+                - listitem [ref=e1060]:
+                  - link "java" [ref=e1061] [cursor=pointer]:
+                    - /url: /q-java-jobs.html
+                - listitem [ref=e1064]:
+                  - link "spring boot developer" [ref=e1065] [cursor=pointer]:
+                    - /url: /q-spring-boot-developer-jobs.html
+                - listitem [ref=e1068]:
+                  - link "java fresher" [ref=e1069] [cursor=pointer]:
+                    - /url: /q-java-fresher-jobs.html
+                - listitem [ref=e1072]:
+                  - link "fresher java developer" [ref=e1073] [cursor=pointer]:
+                    - /url: /q-fresher-java-developer-jobs.html
+                - listitem [ref=e1076]:
+                  - link "java full stack developer" [ref=e1077] [cursor=pointer]:
+                    - /url: /q-java-full-stack-developer-jobs.html
+                - listitem [ref=e1080]:
+                  - link "fresher" [ref=e1081] [cursor=pointer]:
+                    - /url: /q-fresher-jobs.html
+                - listitem [ref=e1084]:
+                  - link "freshers job vacancy" [ref=e1085] [cursor=pointer]:
+                    - /url: /q-freshers-job-vacancy-jobs.html
+          - generic [ref=e1094]:
+            - generic [ref=e1095]:
+              - generic [ref=e1097]:
+                - heading "Java Programmer – Spring Boot & Microservices" [level=5] [ref=e1099]
+                - generic [ref=e1101]:
+                  - link "CredibleSoft (opens in a new tab)" [ref=e1103] [cursor=pointer]:
+                    - /url: https://in.indeed.com/cmp/Crediblesoft-Technology-Solutions?campaignid=mobvjcmp&from=mobviewjob&tk=1k3i29vavhn15800&fromjk=784986774c19540f
+                    - text: CredibleSoft
+                  - generic [ref=e1107]: Remote
+              - generic [ref=e1108]:
+                - link "Apply on company site" [ref=e1112] [cursor=pointer]:
+                  - /url: https://in.indeed.com/applystart?jk=784986774c19540f&from=vj&pos=bottom&mvj=0&jobsearchTk=1k3i29uv1hn15800&spon=0&xkcb=SoDs67M2eyMoMhz7sx0LbzkdCdPP&vjfrom=tp-semfirstjob&asub=mob&astse=8462edb9dfdfbe19&assa=4627
+                - button "Save job" [ref=e1119] [cursor=pointer]
+                - button "Not Interested, Java Programmer – Spring Boot & Microservices" [ref=e1123] [cursor=pointer]
+                - button "Share job" [ref=e1128] [cursor=pointer]
+            - generic [ref=e1135]:
+              - generic [ref=e1138]:
+                - generic [ref=e1139]:
+                  - heading "Benefits" [level=4] [ref=e1140]
+                  - generic [ref=e1141]: Pulled from the full job description
+                - generic [ref=e1142]: Work from home
+              - generic [ref=e1150]:
+                - heading "Full job description" [level=4] [ref=e1151]
+                - generic [ref=e1153]:
+                  - heading "Java Programmer – Spring Boot & Microservices (3–8 Years)" [level=2] [ref=e1154]
+                  - paragraph [ref=e1155]: We are looking for Java Programmers with Spring Boot and Microservices experience who are smart, write intelligent code, and can hit the ground running. You will be a part of a dynamic software development team responsible for all aspects of the development cycle, from requirement gathering to design, development, testing, and deployment.
+                  - paragraph [ref=e1157]: "Location: Chennai, Bangalore (or Work from Home, Remotely) Experience Required: Java Programmers with 3-8 years of experience"
+                  - heading "Key Responsibilities" [level=3] [ref=e1158]
+                  - list [ref=e1159]:
+                    - listitem [ref=e1160]:
+                      - list [ref=e1162]:
+                        - listitem [ref=e1163]: Develop and maintain RESTful services
+                        - listitem [ref=e1164]: Build scalable microservices-based systems
+                        - listitem [ref=e1165]: Optimize application performance
+                        - listitem [ref=e1166]: Participate in architecture discussions
+                  - heading "Requirements" [level=3] [ref=e1167]
+                  - list [ref=e1168]:
+                    - listitem [ref=e1169]:
+                      - list [ref=e1171]:
+                        - listitem [ref=e1172]: Strong Java (JDK 8+) experience
+                        - listitem [ref=e1173]: Spring Boot expertise
+                        - listitem [ref=e1174]: Microservices and cloud deployment experience
+                        - listitem [ref=e1175]: Experience with relational databases and Git
+            - button "Is there a problem with this job?" [ref=e1178] [cursor=pointer]
+      - contentinfo [ref=e1192]:
+        - generic [ref=e1193]:
+          - list [ref=e1194]:
+            - listitem [ref=e1195]:
+              - link "Career advice" [ref=e1197] [cursor=pointer]:
+                - /url: https://in.indeed.com/career-advice
+            - listitem [ref=e1198]:
+              - link "Browse jobs" [ref=e1200] [cursor=pointer]:
+                - /url: https://in.indeed.com/browsejobs
+            - listitem [ref=e1201]:
+              - link "Browse companies" [ref=e1203] [cursor=pointer]:
+                - /url: https://in.indeed.com/companies/browse-companies
+            - listitem [ref=e1204]:
+              - link "Salaries" [ref=e1206] [cursor=pointer]:
+                - /url: https://in.indeed.com/career/salaries
+            - listitem [ref=e1207]:
+              - link "Indeed Events" [ref=e1209] [cursor=pointer]:
+                - /url: https://www.indeedevents.com/en-in/
+            - listitem [ref=e1210]:
+              - link "Work at Indeed" [ref=e1212] [cursor=pointer]:
+                - /url: https://in.indeed.com/cmp/Indeed/about
+            - listitem [ref=e1213]:
+              - link "Countries" [ref=e1215] [cursor=pointer]:
+                - /url: https://in.indeed.com/countries
+            - listitem [ref=e1216]:
+              - link "About" [ref=e1218] [cursor=pointer]:
+                - /url: https://in.indeed.com/about
+            - listitem [ref=e1219]:
+              - link "Help" [ref=e1221] [cursor=pointer]:
+                - /url: https://in.indeed.com/help/job-seekers?hl=en&co=in
+            - listitem [ref=e1222]:
+              - link "ESG at Indeed" [ref=e1224] [cursor=pointer]:
+                - /url: https://in.indeed.com/esg?from=gnav-jobsearch--indeedmobile
+            - listitem [ref=e1225]:
+              - link "Guidelines for safe job search" [ref=e1227] [cursor=pointer]:
+                - /url: https://support.indeed.com/hc/en-in/articles/216354123-Guidelines-for-Safe-Job-Search
+          - list [ref=e1228]:
+            - listitem [ref=e1229]: © 2026 Indeed
+            - listitem [ref=e1230]:
+              - link "Accessibility at Indeed" [ref=e1232] [cursor=pointer]:
+                - /url: https://in.indeed.com/esg/accessibility?hl=en
+            - listitem [ref=e1233]:
+              - link "Privacy Centre and Ad Choices" [ref=e1235] [cursor=pointer]:
+                - /url: https://hrtechprivacy.com/brands/indeed#privacypolicy
+            - listitem [ref=e1236]:
+              - link "Terms" [ref=e1238] [cursor=pointer]:
+                - /url: https://in.indeed.com/legal?hl=en
+          - list:
+            - listitem

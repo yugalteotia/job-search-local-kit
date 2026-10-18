@@ -1,0 +1,55 @@
+{
+  "row": 13,
+  "reason": "listing ingested",
+  "changes": {
+    "Company": {
+      "before": null,
+      "after": "AQR India"
+    },
+    "Role": {
+      "before": null,
+      "after": "Engineering - Portfolio Analytics - Java Developer - Associate"
+    },
+    "Job ID": {
+      "before": null,
+      "after": "7546807"
+    },
+    "Direct link": {
+      "before": null,
+      "after": "https://job-boards.greenhouse.io/india/jobs/7546807"
+    },
+    "Source": {
+      "before": null,
+      "after": "Original employer Greenhouse ATS via Playwright"
+    },
+    "Location": {
+      "before": null,
+      "after": "Bengaluru, India"
+    },
+    "Verified date": {
+      "before": null,
+      "after": "2026-09-27T18:54:00Z"
+    },
+    "Fit": {
+      "before": null,
+      "after": "Medium"
+    },
+    "Fit rationale": {
+      "before": null,
+      "after": "Java/API overlap; required distributed-system technology depth and production tuning are not sufficiently demonstrated. Required evidence coverage: 57%."
+    },
+    "Key gaps": {
+      "before": null,
+      "after": "Elasticsearch/Redis/RabbitMQ relational distributed stack; Production high-performance tuning/profiling; Financial markets interest"
+    },
+    "Status": {
+      "before": null,
+      "after": "Shortlisted"
+    },
+    "Next step": {
+      "before": null,
+      "after": "Resolve gaps / verify original before preparation"
+    }
+  },
+  "backup": ".workflow/backups/20260927T190437-03f0c51d.xlsx"
+}

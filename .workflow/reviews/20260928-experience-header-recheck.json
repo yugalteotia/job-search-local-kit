@@ -1,0 +1,69 @@
+{
+  "reason": "one-time missing experience-header evidence recheck",
+  "at": "2026-09-28T16:40:52.017250+00:00",
+  "forms_opened": 0,
+  "uploads": 0,
+  "submissions": 0,
+  "results": [
+    {
+      "job_id": 201,
+      "source": "cutshort",
+      "url": "https://cutshort.io/job/Java-Backend-Developer-Bengaluru-Bangalore-Wissen-Technology-GQawk6gn",
+      "title": "Java Backend Developer",
+      "experience_header": "4 - 7 years",
+      "location_header": "Bengaluru (Bangalore)",
+      "jd_characters": 1275,
+      "apply_visible": true,
+      "render_checks": 1,
+      "error": null
+    },
+    {
+      "job_id": 203,
+      "source": "naukri",
+      "url": "https://www.naukri.com/job-listings-java-developer-nxtwave-disruptive-technologies-hiring-for-a-client-bengaluru-3-to-5-years-250926037784",
+      "title": "Java Developer",
+      "experience_header": "3 - 5 years",
+      "location_header": "Bengaluru",
+      "jd_characters": 2583,
+      "apply_visible": true,
+      "render_checks": 2,
+      "error": null
+    },
+    {
+      "job_id": 206,
+      "source": "cutshort",
+      "url": "https://cutshort.io/job/Senior-Java-Software-Engineer-Bengaluru-Bangalore-Gravity-Engineering-Services-Pvt-Ltd-lZM4cE6C",
+      "title": "Senior Java Software Engineer",
+      "experience_header": "5 - 8 years",
+      "location_header": "Bengaluru (Bangalore)",
+      "jd_characters": 5083,
+      "apply_visible": true,
+      "render_checks": 1,
+      "error": null
+    },
+    {
+      "job_id": 213,
+      "source": "cutshort",
+      "url": "https://cutshort.io/job/Senior-Java-Developer-Hyderabad-Treosoft-IT-q5a3NNrL",
+      "title": "Senior Java Developer",
+      "experience_header": "8 - 12 years",
+      "location_header": "Hyderabad",
+      "jd_characters": 1218,
+      "apply_visible": true,
+      "render_checks": 1,
+      "error": null
+    },
+    {
+      "job_id": 214,
+      "source": "cutshort",
+      "url": "https://cutshort.io/job/Java-Full-stack-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-lmc3dPde",
+      "title": "Java Full stack Developer",
+      "experience_header": "5 - 12 years",
+      "location_header": "Hyderabad, Bengaluru (Bangalore)",
+      "jd_characters": 1073,
+      "apply_visible": true,
+      "render_checks": 1,
+      "error": null
+    }
+  ]
+}

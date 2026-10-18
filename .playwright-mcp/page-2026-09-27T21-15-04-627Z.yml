@@ -1,0 +1,1431 @@
+- generic [ref=f21e1]:
+  - link "Go to the main content section." [ref=f21e2] [cursor=pointer]:
+    - /url: "#mainContent"
+  - text:     
+  - generic [ref=f21e3]:
+    - generic [ref=f21e8]:
+      - generic:
+        - textbox [ref=f21e9]
+        - button ""
+      - generic [ref=f21e11]:
+        - link [ref=f21e13] [cursor=pointer]:
+          - /url: https://careers.unitedhealthgroup.com/
+          - img "UHG Logo" [ref=f21e14]
+        - generic [ref=f21e15]:
+          - list [ref=f21e17]:
+            - listitem [ref=f21e18]:
+              - link "My Profile" [ref=f21e19] [cursor=pointer]:
+                - /url: https://uhg.taleo.net/careersection/10000/profile.ftl?lang=en
+            - listitem [ref=f21e20]:
+              - link "Join Our Talent Community" [ref=f21e21] [cursor=pointer]:
+                - /url: https://www.unitedhealthgroup.com/careers/en/hiring-process/join-our-talent-community.html
+            - listitem [ref=f21e22]:
+              - link "My Dashboard" [ref=f21e23] [cursor=pointer]:
+                - /url: https://uhg.taleo.net/careersection/10000/mysubmissions.ftl?lang=en
+          - list [ref=f21e25]:
+            - listitem [ref=f21e26]:
+              - link "Work Here" [ref=f21e27] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/work.html
+            - listitem [ref=f21e28]:
+              - link "Our Culture" [ref=f21e29] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/culture.html
+            - listitem [ref=f21e30]:
+              - link "Hiring Process & Guidance" [ref=f21e31] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/hiring-process.html
+            - listitem [ref=f21e32]:
+              - link "Early Careers" [ref=f21e33] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/early-careers.html
+            - listitem [ref=f21e34]:
+              - link "Blog" [ref=f21e35] [cursor=pointer]:
+                - /url: https://unitedhealthgroup.com/careers/en/blog.html
+    - generic [ref=f21e36]: Improve the lives of others while Caring. Connecting. Growing together.
+    - generic [ref=f21e40]:
+      - generic [ref=f21e42]:
+        - generic [ref=f21e43]:
+          - generic [ref=f21e44]: YUGAL TEOTIA, you are signed in.
+          - generic [aria-hidden] [ref=f21e47]: "|"
+          - link "Sign Out" [ref=f21e49] [cursor=pointer]:
+            - /url: "#"
+        - list [ref=f21e50]:
+          - listitem [ref=f21e51]:
+            - generic:
+              - link "Go to the section":
+                - /url: "#"
+          - listitem [ref=f21e52]:
+            - link "My Dashboard" [ref=f21e53] [cursor=pointer]:
+              - /url: "#"
+      - generic [ref=f21e54]:
+        - generic [ref=f21e55]:
+          - generic [ref=f21e56]:
+            - text: "Applying for:"
+            - 'link "Software Engineer - Java Fullstack (Job Number: 2388999)" [ref=f21e59] [cursor=pointer]':
+              - /url: "#"
+            - generic [ref=f21e60] [cursor=pointer]
+          - table [ref=f21e62]:
+            - rowgroup [ref=f21e63]:
+              - row [ref=f21e64]:
+                - cell [ref=f21e65]:
+                  - list [ref=f21e69]:
+                    - group "Section allowing navigation through the pages of the job submission flow" [ref=f21e70]:
+                      - listitem [ref=f21e73]:
+                        - link "Attachments" [ref=f21e77] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f21e80]:
+                        - link "About You" [ref=f21e84] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f21e87]:
+                        - generic [ref=f21e88]: Education and Experience
+                      - listitem [ref=f21e93]:
+                        - link "Job Profile Questions" [ref=f21e97] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f21e100]:
+                        - link "eSignature" [ref=f21e104] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f21e107]:
+                        - generic [ref=f21e108]: Review and Submit
+        - generic:
+          - link "Beginning of the main content section." [ref=f21e113] [cursor=pointer]:
+            - /url: "#"
+          - table:
+            - rowgroup:
+              - row "Education and Experience Mandatory fields are marked with an asterisk. . Required Education Summary Please list your highest level of education below Education Highest Level Education Highest Level Work Experience Summary List the work experiences below, starting with the most recent one. All applicants should provide at least one work experience entry and/or the last five years of experience. Freshers may enter “NA” Work Experience 1 Work Experience 2 Add Work Experience":
+                - cell "Education and Experience Mandatory fields are marked with an asterisk. . Required Education Summary Please list your highest level of education below Education Highest Level Education Highest Level Work Experience Summary List the work experiences below, starting with the most recent one. All applicants should provide at least one work experience entry and/or the last five years of experience. Freshers may enter “NA” Work Experience 1 Work Experience 2 Add Work Experience" [ref=f21e114]:
+                  - heading "Education and Experience" [level=1] [ref=f21e115]
+                  - generic [ref=f21e119]:
+                    - text: Mandatory fields are marked with an asterisk.
+                    - generic "This field is mandatory" [ref=f21e123]:
+                      - generic [ref=f21e124]: .
+                      - generic [ref=f21e125]: Required
+                  - generic [ref=f21e126]:
+                    - link [ref=f21e127]:
+                      - /url: "#"
+                      - heading "Education Summary" [level=2] [ref=f21e128]
+                    - paragraph [ref=f21e133]: Please list your highest level of education below
+                    - group [ref=f21e136]:
+                      - link [ref=f21e138]:
+                        - /url: "#"
+                        - heading "Education Highest Level" [level=2] [ref=f21e140]
+                      - generic [ref=f21e143]:
+                        - group [ref=f21e145]:
+                          - generic "The field Name of Educational Institution is mandatory." [ref=f21e147]:
+                            - text: Name of Educational Institution
+                            - generic [ref=f21e150]: .
+                            - generic [ref=f21e151]: Required
+                          - group [ref=f21e153]:
+                            - textbox "Name of Educational Institution . Required" [ref=f21e155]: Centre for Development of Advanced Computing
+                        - generic [ref=f21e156]:
+                          - group [ref=f21e157]:
+                            - generic "The field Area of Study is mandatory." [ref=f21e159]:
+                              - text: Area of Study
+                              - generic [ref=f21e160]: Limit answer to 50 characters
+                              - generic [ref=f21e162]: .
+                              - generic [ref=f21e163]: Required
+                            - group [ref=f21e165]:
+                              - textbox "Area of Study Limit answer to 50 characters . Required" [ref=f21e167]: ADVANCED COMPUTING
+                          - generic [ref=f21e168]: Limit answer to 50 characters
+                        - generic [ref=f21e169]:
+                          - generic "The field Education Level is mandatory." [ref=f21e170]:
+                            - text: Education Level
+                            - generic [ref=f21e173]: .
+                            - generic [ref=f21e174]: Required
+                          - combobox "Education Level . Required" [ref=f21e175]:
+                            - option "Not Specified"
+                            - option "None"
+                            - option "Other"
+                            - option "High School Diploma/GED"
+                            - option "Technical Diploma" [selected]
+                            - option "Associate's Degree/College Diploma"
+                            - option "Non-Degree Program"
+                            - option "Bachelor's Degree"
+                            - option "Master's Degree"
+                            - option "Doctorate Degree"
+                        - generic [ref=f21e176]:
+                          - generic "The field Education Level Completed? is mandatory." [ref=f21e177]:
+                            - text: Education Level Completed?
+                            - generic [ref=f21e180]: .
+                            - generic [ref=f21e181]: Required
+                          - combobox "Education Level Completed? . Required" [ref=f21e182]:
+                            - option "Not Specified"
+                            - option "Yes" [selected]
+                            - option "No"
+                            - option "In Process"
+                        - generic [ref=f21e183]:
+                          - generic "The field Degree/Diploma/Certificate is mandatory." [ref=f21e184]:
+                            - text: Degree/Diploma/Certificate
+                            - generic [ref=f21e187]: .
+                            - generic [ref=f21e188]: Required
+                          - combobox "Degree/Diploma/Certificate . Required" [ref=f21e189]:
+                            - option "Not Specified"
+                            - option "Associate of Applied Science"
+                            - option "Associate of Arts"
+                            - option "Associate of Business Admin"
+                            - option "Associate of Engineering"
+                            - option "Associate of Nursing Degree"
+                            - option "Associate of Science"
+                            - option "Bachelor of Arts"
+                            - option "Bachelor of Business Admin"
+                            - option "Bachelor of Engineering"
+                            - option "Bachelor of Fine Arts"
+                            - option "Bachelor of Nursing Degree"
+                            - option "Bachelor of Science"
+                            - option "Bachelor of Science in Nursing"
+                            - option "Bachelor of Science - Law"
+                            - option "Bachelor of Theology"
+                            - option "BS Animal Husbandry"
+                            - option "Certificate"
+                            - option "Doctor of Business Admin"
+                            - option "Doctor of Chiropractic"
+                            - option "Doctor of Education"
+                            - option "Doctor of Engineering"
+                            - option "Doctor of Medicine"
+                            - option "Doctor of Optometry"
+                            - option "Doctor of Pharmacy"
+                            - option "Doctor of Philosophy"
+                            - option "Doctor of Physical Therapy"
+                            - option "Doctor of Science"
+                            - option "General Cert-Secondary Educatn"
+                            - option "High School Graduate"
+                            - option "Juris Doctor"
+                            - option "Magister Artium"
+                            - option "Master of Arts"
+                            - option "Master of Business Admin"
+                            - option "Master of Civil Engineering"
+                            - option "Master of Divinity"
+                            - option "Master of Education"
+                            - option "Master of Electrical Enginrg"
+                            - option "Master of Engineering"
+                            - option "Master of Fine Arts"
+                            - option "Master of Mechanical Enginrg"
+                            - option "Master of Science"
+                            - option "Master of Science - Law"
+                            - option "Master of Social Work"
+                            - option "Master of Theology"
+                            - option "Other Degree" [selected]
+                        - group "Start Date" [ref=f21e191]:
+                          - generic [ref=f21e198]:
+                            - generic [ref=f21e199]: Month
+                            - combobox "Month" [ref=f21e200]:
+                              - option "Month"
+                              - option "Jan"
+                              - option "Feb"
+                              - option "Mar" [selected]
+                              - option "Apr"
+                              - option "May"
+                              - option "Jun"
+                              - option "Jul"
+                              - option "Aug"
+                              - option "Sep"
+                              - option "Oct"
+                              - option "Nov"
+                              - option "Dec"
+                          - generic [ref=f21e201]:
+                            - generic [ref=f21e202]: Year
+                            - combobox "Year" [ref=f21e203]:
+                              - option "Year"
+                              - option "2049"
+                              - option "2048"
+                              - option "2047"
+                              - option "2046"
+                              - option "2045"
+                              - option "2044"
+                              - option "2043"
+                              - option "2042"
+                              - option "2041"
+                              - option "2040"
+                              - option "2039"
+                              - option "2038"
+                              - option "2037"
+                              - option "2036"
+                              - option "2035"
+                              - option "2034"
+                              - option "2033"
+                              - option "2032"
+                              - option "2031"
+                              - option "2030"
+                              - option "2029"
+                              - option "2028"
+                              - option "2027"
+                              - option "2026"
+                              - option "2025"
+                              - option "2024" [selected]
+                              - option "2023"
+                              - option "2022"
+                              - option "2021"
+                              - option "2020"
+                              - option "2019"
+                              - option "2018"
+                              - option "2017"
+                              - option "2016"
+                              - option "2015"
+                              - option "2014"
+                              - option "2013"
+                              - option "2012"
+                              - option "2011"
+                              - option "2010"
+                              - option "2009"
+                              - option "2008"
+                              - option "2007"
+                              - option "2006"
+                              - option "2005"
+                              - option "2004"
+                              - option "2003"
+                              - option "2002"
+                              - option "2001"
+                              - option "2000"
+                              - option "1999"
+                              - option "1998"
+                              - option "1997"
+                              - option "1996"
+                              - option "1995"
+                              - option "1994"
+                              - option "1993"
+                              - option "1992"
+                              - option "1991"
+                              - option "1990"
+                              - option "1989"
+                              - option "1988"
+                              - option "1987"
+                              - option "1986"
+                              - option "1985"
+                              - option "1984"
+                              - option "1983"
+                              - option "1982"
+                              - option "1981"
+                              - option "1980"
+                              - option "1979"
+                              - option "1978"
+                              - option "1977"
+                              - option "1976"
+                              - option "1975"
+                              - option "1974"
+                              - option "1973"
+                              - option "1972"
+                              - option "1971"
+                              - option "1970"
+                              - option "1969"
+                              - option "1968"
+                              - option "1967"
+                              - option "1966"
+                              - option "1965"
+                              - option "1964"
+                              - option "1963"
+                              - option "1962"
+                              - option "1961"
+                              - option "1960"
+                              - option "1959"
+                              - option "1958"
+                              - option "1957"
+                              - option "1956"
+                              - option "1955"
+                              - option "1954"
+                              - option "1953"
+                              - option "1952"
+                              - option "1951"
+                              - option "1950"
+                        - group "Graduation Date" [ref=f21e205]:
+                          - generic [ref=f21e212]:
+                            - generic [ref=f21e213]: Month
+                            - combobox "Month" [ref=f21e214]:
+                              - option "Month"
+                              - option "Jan"
+                              - option "Feb"
+                              - option "Mar"
+                              - option "Apr"
+                              - option "May"
+                              - option "Jun"
+                              - option "Jul"
+                              - option "Aug" [selected]
+                              - option "Sep"
+                              - option "Oct"
+                              - option "Nov"
+                              - option "Dec"
+                          - generic [ref=f21e215]:
+                            - generic [ref=f21e216]: Year
+                            - combobox "Year" [ref=f21e217]:
+                              - option "Year"
+                              - option "2049"
+                              - option "2048"
+                              - option "2047"
+                              - option "2046"
+                              - option "2045"
+                              - option "2044"
+                              - option "2043"
+                              - option "2042"
+                              - option "2041"
+                              - option "2040"
+                              - option "2039"
+                              - option "2038"
+                              - option "2037"
+                              - option "2036"
+                              - option "2035"
+                              - option "2034"
+                              - option "2033"
+                              - option "2032"
+                              - option "2031"
+                              - option "2030"
+                              - option "2029"
+                              - option "2028"
+                              - option "2027"
+                              - option "2026"
+                              - option "2025"
+                              - option "2024" [selected]
+                              - option "2023"
+                              - option "2022"
+                              - option "2021"
+                              - option "2020"
+                              - option "2019"
+                              - option "2018"
+                              - option "2017"
+                              - option "2016"
+                              - option "2015"
+                              - option "2014"
+                              - option "2013"
+                              - option "2012"
+                              - option "2011"
+                              - option "2010"
+                              - option "2009"
+                              - option "2008"
+                              - option "2007"
+                              - option "2006"
+                              - option "2005"
+                              - option "2004"
+                              - option "2003"
+                              - option "2002"
+                              - option "2001"
+                              - option "2000"
+                              - option "1999"
+                              - option "1998"
+                              - option "1997"
+                              - option "1996"
+                              - option "1995"
+                              - option "1994"
+                              - option "1993"
+                              - option "1992"
+                              - option "1991"
+                              - option "1990"
+                              - option "1989"
+                              - option "1988"
+                              - option "1987"
+                              - option "1986"
+                              - option "1985"
+                              - option "1984"
+                              - option "1983"
+                              - option "1982"
+                              - option "1981"
+                              - option "1980"
+                              - option "1979"
+                              - option "1978"
+                              - option "1977"
+                              - option "1976"
+                              - option "1975"
+                              - option "1974"
+                              - option "1973"
+                              - option "1972"
+                              - option "1971"
+                              - option "1970"
+                              - option "1969"
+                              - option "1968"
+                              - option "1967"
+                              - option "1966"
+                              - option "1965"
+                              - option "1964"
+                              - option "1963"
+                              - option "1962"
+                              - option "1961"
+                              - option "1960"
+                              - option "1959"
+                              - option "1958"
+                              - option "1957"
+                              - option "1956"
+                              - option "1955"
+                              - option "1954"
+                              - option "1953"
+                              - option "1952"
+                              - option "1951"
+                              - option "1950"
+                      - generic:
+                        - 'link "Remove this education from the list: Education Highest Level"':
+                          - /url: "#"
+                          - generic [ref=f21e218] [cursor=pointer]
+                      - link "Move Down" [ref=f21e220] [cursor=pointer]:
+                        - /url: "#"
+                    - group [ref=f21e223]:
+                      - link [ref=f21e225]:
+                        - /url: "#"
+                        - heading "Education Highest Level" [level=2] [ref=f21e227]
+                      - generic [ref=f21e230]:
+                        - group [ref=f21e232]:
+                          - generic "The field Name of Educational Institution is mandatory." [ref=f21e234]:
+                            - text: Name of Educational Institution
+                            - generic [ref=f21e237]: .
+                            - generic [ref=f21e238]: Required
+                          - group [ref=f21e240]:
+                            - textbox "Name of Educational Institution . Required" [ref=f21e242]: Dr.A.P.J. Abdul Kalam Technical University
+                        - generic [ref=f21e243]:
+                          - group [ref=f21e244]:
+                            - generic "The field Area of Study is mandatory." [ref=f21e246]:
+                              - text: Area of Study
+                              - generic [ref=f21e247]: Limit answer to 50 characters
+                              - generic [ref=f21e249]: .
+                              - generic [ref=f21e250]: Required
+                            - group [ref=f21e252]:
+                              - textbox "Area of Study Limit answer to 50 characters . Required" [ref=f21e254]: COMPUTER SCIENCE & ENGINEERING
+                          - generic [ref=f21e255]: Limit answer to 50 characters
+                        - generic [ref=f21e256]:
+                          - generic "The field Education Level is mandatory." [ref=f21e257]:
+                            - text: Education Level
+                            - generic [ref=f21e260]: .
+                            - generic [ref=f21e261]: Required
+                          - combobox "Education Level . Required" [ref=f21e262]:
+                            - option "Not Specified"
+                            - option "None"
+                            - option "Other"
+                            - option "High School Diploma/GED"
+                            - option "Technical Diploma"
+                            - option "Associate's Degree/College Diploma"
+                            - option "Non-Degree Program"
+                            - option "Bachelor's Degree" [selected]
+                            - option "Master's Degree"
+                            - option "Doctorate Degree"
+                        - generic [ref=f21e263]:
+                          - generic "The field Education Level Completed? is mandatory." [ref=f21e264]:
+                            - text: Education Level Completed?
+                            - generic [ref=f21e267]: .
+                            - generic [ref=f21e268]: Required
+                          - combobox "Education Level Completed? . Required" [ref=f21e269]:
+                            - option "Not Specified"
+                            - option "Yes" [selected]
+                            - option "No"
+                            - option "In Process"
+                        - generic [ref=f21e270]:
+                          - generic "The field Degree/Diploma/Certificate is mandatory." [ref=f21e271]:
+                            - text: Degree/Diploma/Certificate
+                            - generic [ref=f21e274]: .
+                            - generic [ref=f21e275]: Required
+                          - combobox "Degree/Diploma/Certificate . Required" [ref=f21e276]:
+                            - option "Not Specified"
+                            - option "Associate of Applied Science"
+                            - option "Associate of Arts"
+                            - option "Associate of Business Admin"
+                            - option "Associate of Engineering"
+                            - option "Associate of Nursing Degree"
+                            - option "Associate of Science"
+                            - option "Bachelor of Arts"
+                            - option "Bachelor of Business Admin"
+                            - option "Bachelor of Engineering" [selected]
+                            - option "Bachelor of Fine Arts"
+                            - option "Bachelor of Nursing Degree"
+                            - option "Bachelor of Science"
+                            - option "Bachelor of Science in Nursing"
+                            - option "Bachelor of Science - Law"
+                            - option "Bachelor of Theology"
+                            - option "BS Animal Husbandry"
+                            - option "Certificate"
+                            - option "Doctor of Business Admin"
+                            - option "Doctor of Chiropractic"
+                            - option "Doctor of Education"
+                            - option "Doctor of Engineering"
+                            - option "Doctor of Medicine"
+                            - option "Doctor of Optometry"
+                            - option "Doctor of Pharmacy"
+                            - option "Doctor of Philosophy"
+                            - option "Doctor of Physical Therapy"
+                            - option "Doctor of Science"
+                            - option "General Cert-Secondary Educatn"
+                            - option "High School Graduate"
+                            - option "Juris Doctor"
+                            - option "Magister Artium"
+                            - option "Master of Arts"
+                            - option "Master of Business Admin"
+                            - option "Master of Civil Engineering"
+                            - option "Master of Divinity"
+                            - option "Master of Education"
+                            - option "Master of Electrical Enginrg"
+                            - option "Master of Engineering"
+                            - option "Master of Fine Arts"
+                            - option "Master of Mechanical Enginrg"
+                            - option "Master of Science"
+                            - option "Master of Science - Law"
+                            - option "Master of Social Work"
+                            - option "Master of Theology"
+                            - option "Other Degree"
+                        - group "Start Date" [ref=f21e278]:
+                          - generic [ref=f21e285]:
+                            - generic [ref=f21e286]: Month
+                            - combobox "Month" [ref=f21e287]:
+                              - option "Month" [selected]
+                              - option "Jan"
+                              - option "Feb"
+                              - option "Mar"
+                              - option "Apr"
+                              - option "May"
+                              - option "Jun"
+                              - option "Jul"
+                              - option "Aug"
+                              - option "Sep"
+                              - option "Oct"
+                              - option "Nov"
+                              - option "Dec"
+                          - generic [ref=f21e288]:
+                            - generic [ref=f21e289]: Year
+                            - combobox "Year" [ref=f21e290]:
+                              - option "Year" [selected]
+                              - option "2049"
+                              - option "2048"
+                              - option "2047"
+                              - option "2046"
+                              - option "2045"
+                              - option "2044"
+                              - option "2043"
+                              - option "2042"
+                              - option "2041"
+                              - option "2040"
+                              - option "2039"
+                              - option "2038"
+                              - option "2037"
+                              - option "2036"
+                              - option "2035"
+                              - option "2034"
+                              - option "2033"
+                              - option "2032"
+                              - option "2031"
+                              - option "2030"
+                              - option "2029"
+                              - option "2028"
+                              - option "2027"
+                              - option "2026"
+                              - option "2025"
+                              - option "2024"
+                              - option "2023"
+                              - option "2022"
+                              - option "2021"
+                              - option "2020"
+                              - option "2019"
+                              - option "2018"
+                              - option "2017"
+                              - option "2016"
+                              - option "2015"
+                              - option "2014"
+                              - option "2013"
+                              - option "2012"
+                              - option "2011"
+                              - option "2010"
+                              - option "2009"
+                              - option "2008"
+                              - option "2007"
+                              - option "2006"
+                              - option "2005"
+                              - option "2004"
+                              - option "2003"
+                              - option "2002"
+                              - option "2001"
+                              - option "2000"
+                              - option "1999"
+                              - option "1998"
+                              - option "1997"
+                              - option "1996"
+                              - option "1995"
+                              - option "1994"
+                              - option "1993"
+                              - option "1992"
+                              - option "1991"
+                              - option "1990"
+                              - option "1989"
+                              - option "1988"
+                              - option "1987"
+                              - option "1986"
+                              - option "1985"
+                              - option "1984"
+                              - option "1983"
+                              - option "1982"
+                              - option "1981"
+                              - option "1980"
+                              - option "1979"
+                              - option "1978"
+                              - option "1977"
+                              - option "1976"
+                              - option "1975"
+                              - option "1974"
+                              - option "1973"
+                              - option "1972"
+                              - option "1971"
+                              - option "1970"
+                              - option "1969"
+                              - option "1968"
+                              - option "1967"
+                              - option "1966"
+                              - option "1965"
+                              - option "1964"
+                              - option "1963"
+                              - option "1962"
+                              - option "1961"
+                              - option "1960"
+                              - option "1959"
+                              - option "1958"
+                              - option "1957"
+                              - option "1956"
+                              - option "1955"
+                              - option "1954"
+                              - option "1953"
+                              - option "1952"
+                              - option "1951"
+                              - option "1950"
+                        - group "Graduation Date" [ref=f21e292]:
+                          - generic [ref=f21e299]:
+                            - generic [ref=f21e300]: Month
+                            - combobox "Month" [ref=f21e301]:
+                              - option "Month" [selected]
+                              - option "Jan"
+                              - option "Feb"
+                              - option "Mar"
+                              - option "Apr"
+                              - option "May"
+                              - option "Jun"
+                              - option "Jul"
+                              - option "Aug"
+                              - option "Sep"
+                              - option "Oct"
+                              - option "Nov"
+                              - option "Dec"
+                          - generic [ref=f21e302]:
+                            - generic [ref=f21e303]: Year
+                            - combobox "Year" [ref=f21e304]:
+                              - option "Year" [selected]
+                              - option "2049"
+                              - option "2048"
+                              - option "2047"
+                              - option "2046"
+                              - option "2045"
+                              - option "2044"
+                              - option "2043"
+                              - option "2042"
+                              - option "2041"
+                              - option "2040"
+                              - option "2039"
+                              - option "2038"
+                              - option "2037"
+                              - option "2036"
+                              - option "2035"
+                              - option "2034"
+                              - option "2033"
+                              - option "2032"
+                              - option "2031"
+                              - option "2030"
+                              - option "2029"
+                              - option "2028"
+                              - option "2027"
+                              - option "2026"
+                              - option "2025"
+                              - option "2024"
+                              - option "2023"
+                              - option "2022"
+                              - option "2021"
+                              - option "2020"
+                              - option "2019"
+                              - option "2018"
+                              - option "2017"
+                              - option "2016"
+                              - option "2015"
+                              - option "2014"
+                              - option "2013"
+                              - option "2012"
+                              - option "2011"
+                              - option "2010"
+                              - option "2009"
+                              - option "2008"
+                              - option "2007"
+                              - option "2006"
+                              - option "2005"
+                              - option "2004"
+                              - option "2003"
+                              - option "2002"
+                              - option "2001"
+                              - option "2000"
+                              - option "1999"
+                              - option "1998"
+                              - option "1997"
+                              - option "1996"
+                              - option "1995"
+                              - option "1994"
+                              - option "1993"
+                              - option "1992"
+                              - option "1991"
+                              - option "1990"
+                              - option "1989"
+                              - option "1988"
+                              - option "1987"
+                              - option "1986"
+                              - option "1985"
+                              - option "1984"
+                              - option "1983"
+                              - option "1982"
+                              - option "1981"
+                              - option "1980"
+                              - option "1979"
+                              - option "1978"
+                              - option "1977"
+                              - option "1976"
+                              - option "1975"
+                              - option "1974"
+                              - option "1973"
+                              - option "1972"
+                              - option "1971"
+                              - option "1970"
+                              - option "1969"
+                              - option "1968"
+                              - option "1967"
+                              - option "1966"
+                              - option "1965"
+                              - option "1964"
+                              - option "1963"
+                              - option "1962"
+                              - option "1961"
+                              - option "1960"
+                              - option "1959"
+                              - option "1958"
+                              - option "1957"
+                              - option "1956"
+                              - option "1955"
+                              - option "1954"
+                              - option "1953"
+                              - option "1952"
+                              - option "1951"
+                              - option "1950"
+                      - generic:
+                        - 'link "Remove this education from the list: Education Highest Level"':
+                          - /url: "#"
+                          - generic [ref=f21e305] [cursor=pointer]
+                      - link "Move Up" [ref=f21e307] [cursor=pointer]:
+                        - /url: "#"
+                    - generic:
+                      - link "Add an education to the list":
+                        - /url: "#"
+                        - generic [ref=f21e310] [cursor=pointer]
+                  - generic [ref=f21e311]:
+                    - link [ref=f21e312]:
+                      - /url: "#"
+                      - heading "Work Experience Summary" [level=2] [ref=f21e313]
+                    - paragraph [ref=f21e318]: List the work experiences below, starting with the most recent one. All applicants should provide at least one work experience entry and/or the last five years of experience. Freshers may enter “NA”
+                    - group [ref=f21e321]:
+                      - link [ref=f21e323]:
+                        - /url: "#"
+                        - heading "Work Experience 1" [level=2] [ref=f21e325]
+                      - generic [ref=f21e328]:
+                        - generic [ref=f21e329]:
+                          - checkbox "Current Job" [checked] [ref=f21e330]
+                          - generic [ref=f21e331]: Current Job
+                        - group [ref=f21e335]:
+                          - generic "The field Employer is mandatory." [ref=f21e337]:
+                            - text: Employer
+                            - generic [ref=f21e340]: .
+                            - generic [ref=f21e341]: Required
+                          - group [ref=f21e343]:
+                            - textbox "Employer . Required" [ref=f21e345]: IDeaS - A SAS Company
+                        - group [ref=f21e347]:
+                          - generic "The field Job Title is mandatory." [ref=f21e349]:
+                            - text: Job Title
+                            - generic [ref=f21e352]: .
+                            - generic [ref=f21e353]: Required
+                          - group [ref=f21e355]:
+                            - textbox "Job Title . Required" [ref=f21e357]: Software Engineer
+                        - group "Start Date . Required" [ref=f21e359]:
+                          - generic "The field Start Date is mandatory." [ref=f21e363]:
+                            - text: Start Date
+                            - generic [ref=f21e366]: .
+                            - generic [ref=f21e367]: Required
+                          - generic [ref=f21e368]:
+                            - generic [ref=f21e369]: Month
+                            - combobox "Month" [ref=f21e370]:
+                              - option "Month"
+                              - option "Jan"
+                              - option "Feb"
+                              - option "Mar"
+                              - option "Apr"
+                              - option "May"
+                              - option "Jun"
+                              - option "Jul"
+                              - option "Aug"
+                              - option "Sep"
+                              - option "Oct" [selected]
+                              - option "Nov"
+                              - option "Dec"
+                          - generic [ref=f21e371]:
+                            - generic [ref=f21e372]: Year
+                            - combobox "Year" [ref=f21e373]:
+                              - option "Year"
+                              - option "2049"
+                              - option "2048"
+                              - option "2047"
+                              - option "2046"
+                              - option "2045"
+                              - option "2044"
+                              - option "2043"
+                              - option "2042"
+                              - option "2041"
+                              - option "2040"
+                              - option "2039"
+                              - option "2038"
+                              - option "2037"
+                              - option "2036"
+                              - option "2035"
+                              - option "2034"
+                              - option "2033"
+                              - option "2032"
+                              - option "2031"
+                              - option "2030"
+                              - option "2029"
+                              - option "2028"
+                              - option "2027"
+                              - option "2026"
+                              - option "2025"
+                              - option "2024" [selected]
+                              - option "2023"
+                              - option "2022"
+                              - option "2021"
+                              - option "2020"
+                              - option "2019"
+                              - option "2018"
+                              - option "2017"
+                              - option "2016"
+                              - option "2015"
+                              - option "2014"
+                              - option "2013"
+                              - option "2012"
+                              - option "2011"
+                              - option "2010"
+                              - option "2009"
+                              - option "2008"
+                              - option "2007"
+                              - option "2006"
+                              - option "2005"
+                              - option "2004"
+                              - option "2003"
+                              - option "2002"
+                              - option "2001"
+                              - option "2000"
+                              - option "1999"
+                              - option "1998"
+                              - option "1997"
+                              - option "1996"
+                              - option "1995"
+                              - option "1994"
+                              - option "1993"
+                              - option "1992"
+                              - option "1991"
+                              - option "1990"
+                              - option "1989"
+                              - option "1988"
+                              - option "1987"
+                              - option "1986"
+                              - option "1985"
+                              - option "1984"
+                              - option "1983"
+                              - option "1982"
+                              - option "1981"
+                              - option "1980"
+                              - option "1979"
+                              - option "1978"
+                              - option "1977"
+                              - option "1976"
+                              - option "1975"
+                              - option "1974"
+                              - option "1973"
+                              - option "1972"
+                              - option "1971"
+                              - option "1970"
+                              - option "1969"
+                              - option "1968"
+                              - option "1967"
+                              - option "1966"
+                              - option "1965"
+                              - option "1964"
+                              - option "1963"
+                              - option "1962"
+                              - option "1961"
+                              - option "1960"
+                              - option "1959"
+                              - option "1958"
+                              - option "1957"
+                              - option "1956"
+                              - option "1955"
+                              - option "1954"
+                              - option "1953"
+                              - option "1952"
+                              - option "1951"
+                              - option "1950"
+                        - option "Month" [selected]
+                        - option "Jan"
+                        - option "Feb"
+                        - option "Mar"
+                        - option "Apr"
+                        - option "May"
+                        - option "Jun"
+                        - option "Jul"
+                        - option "Aug"
+                        - option "Sep"
+                        - option "Oct"
+                        - option "Nov"
+                        - option "Dec"
+                        - option "Year" [selected]
+                        - option "2049"
+                        - option "2048"
+                        - option "2047"
+                        - option "2046"
+                        - option "2045"
+                        - option "2044"
+                        - option "2043"
+                        - option "2042"
+                        - option "2041"
+                        - option "2040"
+                        - option "2039"
+                        - option "2038"
+                        - option "2037"
+                        - option "2036"
+                        - option "2035"
+                        - option "2034"
+                        - option "2033"
+                        - option "2032"
+                        - option "2031"
+                        - option "2030"
+                        - option "2029"
+                        - option "2028"
+                        - option "2027"
+                        - option "2026"
+                        - option "2025"
+                        - option "2024"
+                        - option "2023"
+                        - option "2022"
+                        - option "2021"
+                        - option "2020"
+                        - option "2019"
+                        - option "2018"
+                        - option "2017"
+                        - option "2016"
+                        - option "2015"
+                        - option "2014"
+                        - option "2013"
+                        - option "2012"
+                        - option "2011"
+                        - option "2010"
+                        - option "2009"
+                        - option "2008"
+                        - option "2007"
+                        - option "2006"
+                        - option "2005"
+                        - option "2004"
+                        - option "2003"
+                        - option "2002"
+                        - option "2001"
+                        - option "2000"
+                        - option "1999"
+                        - option "1998"
+                        - option "1997"
+                        - option "1996"
+                        - option "1995"
+                        - option "1994"
+                        - option "1993"
+                        - option "1992"
+                        - option "1991"
+                        - option "1990"
+                        - option "1989"
+                        - option "1988"
+                        - option "1987"
+                        - option "1986"
+                        - option "1985"
+                        - option "1984"
+                        - option "1983"
+                        - option "1982"
+                        - option "1981"
+                        - option "1980"
+                        - option "1979"
+                        - option "1978"
+                        - option "1977"
+                        - option "1976"
+                        - option "1975"
+                        - option "1974"
+                        - option "1973"
+                        - option "1972"
+                        - option "1971"
+                        - option "1970"
+                        - option "1969"
+                        - option "1968"
+                        - option "1967"
+                        - option "1966"
+                        - option "1965"
+                        - option "1964"
+                        - option "1963"
+                        - option "1962"
+                        - option "1961"
+                        - option "1960"
+                        - option "1959"
+                        - option "1958"
+                        - option "1957"
+                        - option "1956"
+                        - option "1955"
+                        - option "1954"
+                        - option "1953"
+                        - option "1952"
+                        - option "1951"
+                        - option "1950"
+                        - generic [ref=f21e374]:
+                          - generic "The field Current/Ending Salary is mandatory." [ref=f21e375]:
+                            - text: Current/Ending Salary
+                            - generic [ref=f21e378]: .
+                            - generic [ref=f21e379]: Required
+                          - textbox "Current/Ending Salary . Required" [ref=f21e380]: "1000000"
+                        - generic [ref=f21e381]:
+                          - generic "The field Reason for Leaving is mandatory." [ref=f21e382]:
+                            - text: Reason for Leaving
+                            - generic [ref=f21e385]: .
+                            - generic [ref=f21e386]: Required
+                          - textbox "Reason for Leaving . Required" [ref=f21e387]: Role ends 30 Sep 2026; seeking backend software engineering focused on services and APIs.
+                      - generic:
+                        - link:
+                          - /url: "#"
+                          - generic [ref=f21e388] [cursor=pointer]
+                      - link "Move Down" [ref=f21e390] [cursor=pointer]:
+                        - /url: "#"
+                    - group [ref=f21e393]:
+                      - link [ref=f21e395]:
+                        - /url: "#"
+                        - heading "Work Experience 2" [level=2] [ref=f21e397]
+                      - generic [ref=f21e400]:
+                        - generic [ref=f21e401]:
+                          - checkbox "Current Job" [ref=f21e402]
+                          - generic [ref=f21e403]: Current Job
+                        - group [ref=f21e407]:
+                          - generic "The field Employer is mandatory." [ref=f21e409]:
+                            - text: Employer
+                            - generic [ref=f21e412]: .
+                            - generic [ref=f21e413]: Required
+                          - group [ref=f21e415]:
+                            - textbox "Employer . Required" [ref=f21e417]: Data Nova India Pvt. Ltd.
+                        - group [ref=f21e419]:
+                          - generic "The field Job Title is mandatory." [ref=f21e421]:
+                            - text: Job Title
+                            - generic [ref=f21e424]: .
+                            - generic [ref=f21e425]: Required
+                          - group [ref=f21e427]:
+                            - textbox "Job Title . Required" [ref=f21e429]: Application Developer
+                        - group "Start Date . Required" [ref=f21e431]:
+                          - generic "The field Start Date is mandatory." [ref=f21e435]:
+                            - text: Start Date
+                            - generic [ref=f21e438]: .
+                            - generic [ref=f21e439]: Required
+                          - generic [ref=f21e440]:
+                            - generic [ref=f21e441]: Month
+                            - combobox "Month" [ref=f21e442]:
+                              - option "Month"
+                              - option "Jan"
+                              - option "Feb" [selected]
+                              - option "Mar"
+                              - option "Apr"
+                              - option "May"
+                              - option "Jun"
+                              - option "Jul"
+                              - option "Aug"
+                              - option "Sep"
+                              - option "Oct"
+                              - option "Nov"
+                              - option "Dec"
+                          - generic [ref=f21e443]:
+                            - generic [ref=f21e444]: Year
+                            - combobox "Year" [ref=f21e445]:
+                              - option "Year"
+                              - option "2049"
+                              - option "2048"
+                              - option "2047"
+                              - option "2046"
+                              - option "2045"
+                              - option "2044"
+                              - option "2043"
+                              - option "2042"
+                              - option "2041"
+                              - option "2040"
+                              - option "2039"
+                              - option "2038"
+                              - option "2037"
+                              - option "2036"
+                              - option "2035"
+                              - option "2034"
+                              - option "2033"
+                              - option "2032"
+                              - option "2031"
+                              - option "2030"
+                              - option "2029"
+                              - option "2028"
+                              - option "2027"
+                              - option "2026"
+                              - option "2025"
+                              - option "2024"
+                              - option "2023" [selected]
+                              - option "2022"
+                              - option "2021"
+                              - option "2020"
+                              - option "2019"
+                              - option "2018"
+                              - option "2017"
+                              - option "2016"
+                              - option "2015"
+                              - option "2014"
+                              - option "2013"
+                              - option "2012"
+                              - option "2011"
+                              - option "2010"
+                              - option "2009"
+                              - option "2008"
+                              - option "2007"
+                              - option "2006"
+                              - option "2005"
+                              - option "2004"
+                              - option "2003"
+                              - option "2002"
+                              - option "2001"
+                              - option "2000"
+                              - option "1999"
+                              - option "1998"
+                              - option "1997"
+                              - option "1996"
+                              - option "1995"
+                              - option "1994"
+                              - option "1993"
+                              - option "1992"
+                              - option "1991"
+                              - option "1990"
+                              - option "1989"
+                              - option "1988"
+                              - option "1987"
+                              - option "1986"
+                              - option "1985"
+                              - option "1984"
+                              - option "1983"
+                              - option "1982"
+                              - option "1981"
+                              - option "1980"
+                              - option "1979"
+                              - option "1978"
+                              - option "1977"
+                              - option "1976"
+                              - option "1975"
+                              - option "1974"
+                              - option "1973"
+                              - option "1972"
+                              - option "1971"
+                              - option "1970"
+                              - option "1969"
+                              - option "1968"
+                              - option "1967"
+                              - option "1966"
+                              - option "1965"
+                              - option "1964"
+                              - option "1963"
+                              - option "1962"
+                              - option "1961"
+                              - option "1960"
+                              - option "1959"
+                              - option "1958"
+                              - option "1957"
+                              - option "1956"
+                              - option "1955"
+                              - option "1954"
+                              - option "1953"
+                              - option "1952"
+                              - option "1951"
+                              - option "1950"
+                        - group "End Date" [ref=f21e447]:
+                          - generic [ref=f21e454]:
+                            - generic [ref=f21e455]: Month
+                            - combobox "Month" [ref=f21e456]:
+                              - option "Month"
+                              - option "Jan"
+                              - option "Feb"
+                              - option "Mar"
+                              - option "Apr"
+                              - option "May" [selected]
+                              - option "Jun"
+                              - option "Jul"
+                              - option "Aug"
+                              - option "Sep"
+                              - option "Oct"
+                              - option "Nov"
+                              - option "Dec"
+                          - generic [ref=f21e457]:
+                            - generic [ref=f21e458]: Year
+                            - combobox "Year" [ref=f21e459]:
+                              - option "Year"
+                              - option "2049"
+                              - option "2048"
+                              - option "2047"
+                              - option "2046"
+                              - option "2045"
+                              - option "2044"
+                              - option "2043"
+                              - option "2042"
+                              - option "2041"
+                              - option "2040"
+                              - option "2039"
+                              - option "2038"
+                              - option "2037"
+                              - option "2036"
+                              - option "2035"
+                              - option "2034"
+                              - option "2033"
+                              - option "2032"
+                              - option "2031"
+                              - option "2030"
+                              - option "2029"
+                              - option "2028"
+                              - option "2027"
+                              - option "2026"
+                              - option "2025"
+                              - option "2024"
+                              - option "2023" [selected]
+                              - option "2022"
+                              - option "2021"
+                              - option "2020"
+                              - option "2019"
+                              - option "2018"
+                              - option "2017"
+                              - option "2016"
+                              - option "2015"
+                              - option "2014"
+                              - option "2013"
+                              - option "2012"
+                              - option "2011"
+                              - option "2010"
+                              - option "2009"
+                              - option "2008"
+                              - option "2007"
+                              - option "2006"
+                              - option "2005"
+                              - option "2004"
+                              - option "2003"
+                              - option "2002"
+                              - option "2001"
+                              - option "2000"
+                              - option "1999"
+                              - option "1998"
+                              - option "1997"
+                              - option "1996"
+                              - option "1995"
+                              - option "1994"
+                              - option "1993"
+                              - option "1992"
+                              - option "1991"
+                              - option "1990"
+                              - option "1989"
+                              - option "1988"
+                              - option "1987"
+                              - option "1986"
+                              - option "1985"
+                              - option "1984"
+                              - option "1983"
+                              - option "1982"
+                              - option "1981"
+                              - option "1980"
+                              - option "1979"
+                              - option "1978"
+                              - option "1977"
+                              - option "1976"
+                              - option "1975"
+                              - option "1974"
+                              - option "1973"
+                              - option "1972"
+                              - option "1971"
+                              - option "1970"
+                              - option "1969"
+                              - option "1968"
+                              - option "1967"
+                              - option "1966"
+                              - option "1965"
+                              - option "1964"
+                              - option "1963"
+                              - option "1962"
+                              - option "1961"
+                              - option "1960"
+                              - option "1959"
+                              - option "1958"
+                              - option "1957"
+                              - option "1956"
+                              - option "1955"
+                              - option "1954"
+                              - option "1953"
+                              - option "1952"
+                              - option "1951"
+                              - option "1950"
+                        - generic [ref=f21e460]:
+                          - generic "The field Current/Ending Salary is mandatory." [ref=f21e461]:
+                            - text: Current/Ending Salary
+                            - generic [ref=f21e464]: .
+                            - generic [ref=f21e465]: Required
+                          - textbox "Current/Ending Salary . Required" [ref=f21e466]: "360000"
+                        - generic [ref=f21e467]:
+                          - generic "The field Reason for Leaving is mandatory." [ref=f21e468]:
+                            - text: Reason for Leaving
+                            - generic [ref=f21e471]: .
+                            - generic [ref=f21e472]: Required
+                          - textbox "Reason for Leaving . Required" [ref=f21e473]: Left to prepare for C-CAT and pursue PG-DAC at C-DAC.
+                      - generic:
+                        - link:
+                          - /url: "#"
+                          - generic [ref=f21e474] [cursor=pointer]
+                      - link "Move Up" [ref=f21e476] [cursor=pointer]:
+                        - /url: "#"
+                    - link "Add Work Experience" [ref=f21e480] [cursor=pointer]:
+                      - /url: "#"
+        - generic [ref=f21e485]:
+          - button "Save and Continue" [ref=f21e486] [cursor=pointer]
+          - button "Save as Draft" [ref=f21e487] [cursor=pointer]
+          - button "Quit" [ref=f21e488] [cursor=pointer]
+    - generic [ref=f21e490]:
+      - generic [ref=f21e493]:
+        - generic [ref=f21e494]:
+          - list [ref=f21e496]:
+            - listitem [ref=f21e497]:
+              - link "" [ref=f21e498] [cursor=pointer]:
+                - /url: http://facebook.com/uhgcareers
+            - listitem [ref=f21e500]:
+              - link "" [ref=f21e501] [cursor=pointer]:
+                - /url: https://www.instagram.com/uhgcareers/
+            - listitem [ref=f21e503]:
+              - link "" [ref=f21e504] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/1720
+            - listitem [ref=f21e506]:
+              - link [ref=f21e507] [cursor=pointer]:
+                - /url: http://twitter.com/uhgcareers
+                - img "Twitter" [ref=f21e508]
+            - listitem [ref=f21e509]:
+              - link "" [ref=f21e510] [cursor=pointer]:
+                - /url: http://www.youtube.com/user/uhgcareers
+            - listitem [ref=f21e512]:
+              - link "" [ref=f21e513] [cursor=pointer]:
+                - /url: http://www.glassdoor.com/Overview/Working-at-UnitedHealth-Group-EI_IE1991.11,29.htm
+            - listitem [ref=f21e515]:
+              - link "" [ref=f21e516] [cursor=pointer]:
+                - /url: https://careers.unitedhealthgroup.com/blog
+          - generic [ref=f21e518]:
+            - link "Social Responsibility" [ref=f21e521] [cursor=pointer]:
+              - /url: "#popup1"
+            - link "Fraudulent Activity" [ref=f21e524] [cursor=pointer]:
+              - /url: "#popup2"
+        - generic [ref=f21e525]:
+          - paragraph [ref=f21e526]:
+            - link "Privacy Policy" [ref=f21e527] [cursor=pointer]:
+              - /url: https://www.unitedhealthgroup.com/privacy.html
+            - link "Family & Medical Leave Act (PDF)" [ref=f21e528] [cursor=pointer]:
+              - /url: http://www.dol.gov/whd/regs/compliance/posters/fmlaen.pdf
+            - link "Equal Employment Law Poster (PDF)" [ref=f21e529] [cursor=pointer]:
+              - /url: http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf
+            - link "Pay Transparency Employee Polygraph Protection Act (PDF)" [ref=f21e530] [cursor=pointer]:
+              - /url: https://cdn-static.findly.com/wp-content/uploads/sites/1288/2020/10/PayTransparencySupplementNondiscrimRev2017.pdf
+            - link "E-Verify Participation Poster" [ref=f21e531] [cursor=pointer]:
+              - /url: https://cdn-static.findly.com/wp-content/uploads/sites/1288/2020/10/E-Verify_Participation_Poster.pdf
+            - link "Immigrant and Employee Right to Work Poster" [ref=f21e532] [cursor=pointer]:
+              - /url: https://careers.unitedhealthgroup.com/-/media/9EB3C61FAAD54205BCE70F65D03E6628.ashx
+          - paragraph [ref=f21e533]: © 2023 UnitedHealth Group, All rights reserved.
+          - paragraph [ref=f21e534]: UnitedHealth Group is committed to working with and providing reasonable accommodations to individuals with physical and mental disabilities. If you need special assistance or accommodation for any part of the application process, please call 1-866-566-8715 to be connected to Recruitment Services. Recruitment Services hours of operation are 7 a.m. to 7 p.m. CT, Monday through Friday.
+          - paragraph [ref=f21e535]: UnitedHealth Group is a registered service mark of UnitedHealth Group, Inc. The UnitedHealth Group name with the dimensional logo, as well as the dimensional logo alone, are both service marks for the UnitedHealth Group, Inc.
+          - paragraph [ref=f21e536]: "Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law."
+          - paragraph [ref=f21e537]: UnitedHealth Group is a drug-free workplace. Candidates are required to pass a drug test before beginning employment.
+      - link "Top" [ref=f21e538] [cursor=pointer]:
+        - /url: "#"

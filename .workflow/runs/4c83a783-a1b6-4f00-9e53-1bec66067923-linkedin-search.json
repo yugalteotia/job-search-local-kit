@@ -1,0 +1,606 @@
+{
+  "pages": [
+    {
+      "query": "Java Spring Boot backend",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Spring%20Boot%20backend&location=India&sortBy=DD&f_AL=true&f_TPR=r604800&f_E=2%2C3&start=0",
+      "observed_url": "https://www.linkedin.com/jobs/search/?currentJobId=4478817939&f_AL=true&f_E=2%2C3&f_TPR=r604800&keywords=Java%20Spring%20Boot%20backend&location=India&sortBy=DD",
+      "visible_cards": 32,
+      "lead_count": 25,
+      "retained_leads": 0,
+      "card_filter_exclusions": {
+        "no_relevant_title_or_generic_engineering_card_skills": 24,
+        "unrelated_bpo_data_entry_qa_role": 1
+      },
+      "filters": {
+        "easy_apply": true,
+        "location": "India",
+        "experience_levels": [
+          "Entry level",
+          "Associate"
+        ],
+        "posting_window": "last 7 days",
+        "sort": "newest"
+      },
+      "checked_at": "2026-10-15T03:00:18.609640+00:00",
+      "status": "Success"
+    },
+    {
+      "query": "Java Backend Developer",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=Java%20Backend%20Developer&location=India&sortBy=DD&f_AL=true&f_TPR=r604800&f_E=2%2C3&start=0",
+      "observed_url": "https://www.linkedin.com/jobs/search/?currentJobId=4478817939&f_AL=true&f_E=2%2C3&f_TPR=r604800&keywords=Java%20Backend%20Developer&location=India&sortBy=DD",
+      "visible_cards": 32,
+      "lead_count": 25,
+      "retained_leads": 0,
+      "card_filter_exclusions": {
+        "no_relevant_title_or_generic_engineering_card_skills": 25
+      },
+      "filters": {
+        "easy_apply": true,
+        "location": "India",
+        "experience_levels": [
+          "Entry level",
+          "Associate"
+        ],
+        "posting_window": "last 7 days",
+        "sort": "newest"
+      },
+      "checked_at": "2026-10-15T03:00:27.565759+00:00",
+      "status": "Success"
+    }
+  ],
+  "cards": [],
+  "raw_cards": [
+    {
+      "portal_job_id": "4478817939",
+      "url": "https://www.linkedin.com/jobs/view/4478817939/",
+      "title": "Frontend Desktop Engineer",
+      "employer": "Jobgether",
+      "card_location": "",
+      "card_excerpt": "Frontend Desktop Engineer\nFrontend Desktop Engineer\nJobgether\nIndia (Remote)\nViewed\nEasy Apply",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4476657767",
+      "url": "https://www.linkedin.com/jobs/view/4476657767/",
+      "title": "Infrastructure Engineer",
+      "employer": "Six Sigma Pvt Ltd (Client: TCS)",
+      "card_location": "",
+      "card_excerpt": "Infrastructure Engineer\nInfrastructure Engineer\nSix Sigma Pvt Ltd (Client: TCS)\nChennai, Tamil Nadu, India (On-site)\n1 hour ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-15",
+      "posted_text": "1 hour ago\nWithin the past 24 hours",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478441763",
+      "url": "https://www.linkedin.com/jobs/view/4478441763/",
+      "title": "Member",
+      "employer": "Machine Learning Centre of Excellence",
+      "card_location": "",
+      "card_excerpt": "Member\nMember\nMachine Learning Centre of Excellence\nGhaziabad, Uttar Pradesh, India (On-site)\n1 hour ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-15",
+      "posted_text": "1 hour ago\nWithin the past 24 hours",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478811489",
+      "url": "https://www.linkedin.com/jobs/view/4478811489/",
+      "title": "Machine Learning Engineer",
+      "employer": "Droisys",
+      "card_location": "",
+      "card_excerpt": "Machine Learning Engineer\nMachine Learning Engineer\nDroisys\nIndia (Remote)\n4 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-14",
+      "posted_text": "4 hours ago\nWithin the past 24 hours",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4476699604",
+      "url": "https://www.linkedin.com/jobs/view/4476699604/",
+      "title": "Full Stack Engineer",
+      "employer": "Enterprise Bot",
+      "card_location": "",
+      "card_excerpt": "Full Stack Engineer\nFull Stack Engineer\nEnterprise Bot\nBengaluru, Karnataka, India (Hybrid)\n6 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-14",
+      "posted_text": "6 hours ago\nWithin the past 24 hours",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478491731",
+      "url": "https://www.linkedin.com/jobs/view/4478491731/",
+      "title": "Software Test Engineer",
+      "employer": "India's Future Investors - Money Entertainment Reality Show",
+      "card_location": "",
+      "card_excerpt": "Software Test Engineer\nSoftware Test Engineer\nIndia's Future Investors - Money Entertainment Reality Show\nNoida, Uttar Pradesh, India (On-site)\n7 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-14",
+      "posted_text": "7 hours ago\nWithin the past 24 hours",
+      "filter_reason": "unrelated_bpo_data_entry_qa_role"
+    },
+    {
+      "portal_job_id": "4479569893",
+      "url": "https://www.linkedin.com/jobs/view/4479569893/",
+      "title": "Generative AI Engineer",
+      "employer": "Dimensionless Technologies",
+      "card_location": "",
+      "card_excerpt": "Generative AI Engineer\nGenerative AI Engineer with verification\nDimensionless Technologies\nIndia (Remote)\n7 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-14",
+      "posted_text": "7 hours ago\nWithin the past 24 hours",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4476697430",
+      "url": "https://www.linkedin.com/jobs/view/4476697430/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478474922",
+      "url": "https://www.linkedin.com/jobs/view/4478474922/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478481440",
+      "url": "https://www.linkedin.com/jobs/view/4478481440/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4461761871",
+      "url": "https://www.linkedin.com/jobs/view/4461761871/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478468802",
+      "url": "https://www.linkedin.com/jobs/view/4478468802/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479523931",
+      "url": "https://www.linkedin.com/jobs/view/4479523931/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479036999",
+      "url": "https://www.linkedin.com/jobs/view/4479036999/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479543753",
+      "url": "https://www.linkedin.com/jobs/view/4479543753/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4476674457",
+      "url": "https://www.linkedin.com/jobs/view/4476674457/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479547503",
+      "url": "https://www.linkedin.com/jobs/view/4479547503/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478472066",
+      "url": "https://www.linkedin.com/jobs/view/4478472066/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4476662962",
+      "url": "https://www.linkedin.com/jobs/view/4476662962/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4476682195",
+      "url": "https://www.linkedin.com/jobs/view/4476682195/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4476664947",
+      "url": "https://www.linkedin.com/jobs/view/4476664947/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478452437",
+      "url": "https://www.linkedin.com/jobs/view/4478452437/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478453230",
+      "url": "https://www.linkedin.com/jobs/view/4478453230/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478451313",
+      "url": "https://www.linkedin.com/jobs/view/4478451313/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4477984037",
+      "url": "https://www.linkedin.com/jobs/view/4477984037/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478817939",
+      "url": "https://www.linkedin.com/jobs/view/4478817939/",
+      "title": "Frontend Desktop Engineer",
+      "employer": "Jobgether",
+      "card_location": "",
+      "card_excerpt": "Frontend Desktop Engineer\nFrontend Desktop Engineer\nJobgether\nIndia (Remote)\nViewed\nEasy Apply",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4476657767",
+      "url": "https://www.linkedin.com/jobs/view/4476657767/",
+      "title": "Infrastructure Engineer",
+      "employer": "Six Sigma Pvt Ltd (Client: TCS)",
+      "card_location": "",
+      "card_excerpt": "Infrastructure Engineer\nInfrastructure Engineer\nSix Sigma Pvt Ltd (Client: TCS)\nChennai, Tamil Nadu, India (On-site)\n1 hour ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-15",
+      "posted_text": "1 hour ago\nWithin the past 24 hours",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478441763",
+      "url": "https://www.linkedin.com/jobs/view/4478441763/",
+      "title": "Member",
+      "employer": "Machine Learning Centre of Excellence",
+      "card_location": "",
+      "card_excerpt": "Member\nMember\nMachine Learning Centre of Excellence\nGhaziabad, Uttar Pradesh, India (On-site)\n1 hour ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-15",
+      "posted_text": "1 hour ago\nWithin the past 24 hours",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4477019547",
+      "url": "https://www.linkedin.com/jobs/view/4477019547/",
+      "title": "3D Game Developer",
+      "employer": "Expert Listing Limited",
+      "card_location": "",
+      "card_excerpt": "3D Game Developer\n3D Game Developer\nExpert Listing Limited\nIndia (Remote)\n1 hour ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-15",
+      "posted_text": "1 hour ago\nWithin the past 24 hours",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478450007",
+      "url": "https://www.linkedin.com/jobs/view/4478450007/",
+      "title": "Wordpress Developer",
+      "employer": "Premier Plylam Marketing Company",
+      "card_location": "",
+      "card_excerpt": "Wordpress Developer\nWordpress Developer\nPremier Plylam Marketing Company\nJaipur, Rajasthan, India (On-site)\n3 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-14",
+      "posted_text": "3 hours ago\nWithin the past 24 hours",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4477521325",
+      "url": "https://www.linkedin.com/jobs/view/4477521325/",
+      "title": "Data Engineer (AWS Redshift exp. is must)",
+      "employer": "TalentQuell",
+      "card_location": "",
+      "card_excerpt": "Data Engineer (AWS Redshift exp. is must)\nData Engineer (AWS Redshift exp. is must)\nTalentQuell\nBengaluru, Karnataka, India (On-site)\n3 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-14",
+      "posted_text": "3 hours ago\nWithin the past 24 hours",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478811489",
+      "url": "https://www.linkedin.com/jobs/view/4478811489/",
+      "title": "Machine Learning Engineer",
+      "employer": "Droisys",
+      "card_location": "",
+      "card_excerpt": "Machine Learning Engineer\nMachine Learning Engineer\nDroisys\nIndia (Remote)\n4 hours ago\nWithin the past 24 hours\nEasy Apply",
+      "posted_at": "2026-10-14",
+      "posted_text": "4 hours ago\nWithin the past 24 hours",
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4476699604",
+      "url": "https://www.linkedin.com/jobs/view/4476699604/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478491731",
+      "url": "https://www.linkedin.com/jobs/view/4478491731/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479569893",
+      "url": "https://www.linkedin.com/jobs/view/4479569893/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478480817",
+      "url": "https://www.linkedin.com/jobs/view/4478480817/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478474922",
+      "url": "https://www.linkedin.com/jobs/view/4478474922/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478497010",
+      "url": "https://www.linkedin.com/jobs/view/4478497010/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478468802",
+      "url": "https://www.linkedin.com/jobs/view/4478468802/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479033986",
+      "url": "https://www.linkedin.com/jobs/view/4479033986/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479543753",
+      "url": "https://www.linkedin.com/jobs/view/4479543753/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4476674457",
+      "url": "https://www.linkedin.com/jobs/view/4476674457/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478472066",
+      "url": "https://www.linkedin.com/jobs/view/4478472066/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4476662962",
+      "url": "https://www.linkedin.com/jobs/view/4476662962/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4476682195",
+      "url": "https://www.linkedin.com/jobs/view/4476682195/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4478452437",
+      "url": "https://www.linkedin.com/jobs/view/4478452437/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479531611",
+      "url": "https://www.linkedin.com/jobs/view/4479531611/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4477984037",
+      "url": "https://www.linkedin.com/jobs/view/4477984037/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4479518186",
+      "url": "https://www.linkedin.com/jobs/view/4479518186/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    },
+    {
+      "portal_job_id": "4460939937",
+      "url": "https://www.linkedin.com/jobs/view/4460939937/",
+      "title": "",
+      "employer": "",
+      "card_location": "",
+      "card_excerpt": "",
+      "posted_at": null,
+      "posted_text": null,
+      "filter_reason": "no_relevant_title_or_generic_engineering_card_skills"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "checked_at": "2026-09-29T11:08:21.172105+00:00",
+  "run_id": "202b1404-5d46-4775-8287-2e7feb919ce0",
+  "source": "Naukri",
+  "selected_ids": [
+    244
+  ],
+  "verification": {
+    "selected": 7,
+    "verified": 1,
+    "unverified": 6,
+    "verified_job_ids": [
+      244
+    ],
+    "results": [
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-developer-spring-boot-hibernate-cloudzent-technology-services-gurugram-2-to-7-years-200726504293",
+        "portal_job_id": "200726504293",
+        "title": "Java Developer (Spring Boot + Hibernate)",
+        "employer": "Cloudzent Technology Services",
+        "location": "Gurugram",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "substantive_duties_and_qualifications_not_visible",
+          "enabled_apply_action_not_visible"
+        ],
+        "jd_characters": 2926,
+        "experience_evidence": "2 - 7 years",
+        "apply_visible": false,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 2,
+        "card_sha256": null,
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-backend-engineer-java-spring-boot-node-simran-software-solutions-private-limited-faridabad-2-to-5-years-180926501133",
+        "portal_job_id": "180926501133",
+        "title": "Backend Engineer (Java / Spring Boot / Node)",
+        "employer": "Simran Software Solutions",
+        "location": null,
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "job_specific_india_location_not_visible",
+          "enabled_apply_action_not_visible"
+        ],
+        "jd_characters": 1221,
+        "experience_evidence": "2 - 5 years",
+        "apply_visible": false,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 2,
+        "card_sha256": null,
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-spring-boot-software-engineer-tigmaminds-chennai-2-to-6-years-301025505967",
+        "portal_job_id": "301025505967",
+        "title": "Java & Spring Boot Software Engineer",
+        "employer": "TigmaMinds",
+        "location": "Chennai",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "enabled_apply_action_not_visible"
+        ],
+        "jd_characters": 1236,
+        "experience_evidence": "2 - 6 years",
+        "apply_visible": false,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 2,
+        "card_sha256": null,
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-naukri-e-hire-campaign-mumbai-1-to-4-years-070926003879",
+        "portal_job_id": "070926003879",
+        "title": "Java Backend Developer",
+        "employer": "Naukri E-Hire Campaign",
+        "location": "Mumbai",
+        "status": "PortalNativeVerified",
+        "reasons": [],
+        "jd_characters": 3300,
+        "experience_evidence": "1 - 4 years",
+        "apply_visible": true,
+        "database_job_id": 244,
+        "duplicate_check": {
+          "status": "clear",
+          "possible_matches": []
+        },
+        "render_checks": 2,
+        "card_sha256": null,
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-sde-ii-java-backend-issuance-nium-mumbai-3-to-4-years-180926503031",
+        "portal_job_id": "180926503031",
+        "title": "SDE II - Java Backend : Issuance",
+        "employer": "Nium",
+        "location": "Mumbai",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "enabled_apply_action_not_visible"
+        ],
+        "jd_characters": 3982,
+        "experience_evidence": "3 - 4 years",
+        "apply_visible": false,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 2,
+        "card_sha256": null,
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-backend-developer-java-programming-com-mumbai-2-to-4-years-121224501268",
+        "portal_job_id": "121224501268",
+        "title": "Backend Developer (Java)",
+        "employer": "Programming.com",
+        "location": "Mumbai",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "enabled_apply_action_not_visible"
+        ],
+        "jd_characters": 1946,
+        "experience_evidence": "2 - 4 years",
+        "apply_visible": false,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 2,
+        "card_sha256": null,
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      },
+      {
+        "source": "naukri",
+        "url": "https://www.naukri.com/job-listings-java-backend-developer-sa-id-mum-000026-smart-analytica-mumbai-1-to-3-years-020726501127",
+        "portal_job_id": "020726501127",
+        "title": "Java Backend Developer (SA_ID_MUM_000026)",
+        "employer": "Smart Analytica",
+        "location": "Mumbai",
+        "status": "PortalNativeUnverified",
+        "reasons": [
+          "enabled_apply_action_not_visible"
+        ],
+        "jd_characters": 2320,
+        "experience_evidence": "1 - 3 years",
+        "apply_visible": false,
+        "database_job_id": null,
+        "duplicate_check": null,
+        "render_checks": 2,
+        "card_sha256": null,
+        "freshness": "Unknown",
+        "posted_at": null,
+        "posted_text": null
+      }
+    ]
+  },
+  "review_queue_added": 1,
+  "fit_reviewed": [
+    {
+      "job_id": 244,
+      "company": "Naukri E-Hire Campaign",
+      "role": "Java Backend Developer",
+      "location": "Mumbai",
+      "direct_url": "https://www.naukri.com/job-listings-java-backend-developer-naukri-e-hire-campaign-mumbai-1-to-4-years-070926003879",
+      "fit": "Unresolved",
+      "eligible_for_resume": false,
+      "review_version": 6,
+      "jd_sha256": "43b7bfb1be5a800061ef019b4678c8f3b58234477d7fe918693eb190d08563ea",
+      "original_page_checked_at": "2026-09-29T11:08:21.137799+00:00",
+      "reviewed_at": "2026-09-29T11:08:21.168306+00:00",
+      "experience_minimum": 1.5,
+      "evidence": {
+        "location": "Mumbai",
+        "experience": "Location: Mumbai Experience: 1 - 4 years Job highlights 1.5+ years experience with Core Java, Spring Boot, Microservices, Oracle; B.Tech/MCA degree pr",
+        "technology": "ts 1.5+ years experience with Core Java, Spring Boot, Microservices, Oracle; B.Tech/MCA degree preferred Develop and maintain scalable Java ap",
+        "role": null
+      },
+      "reasons": [
+        "Essential requirements need complete original-JD and master-work excerpt review before High"
+      ]
+    }
+  ]
+}

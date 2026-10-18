@@ -1,0 +1,69 @@
+{
+  "attempt_id": "81e98c8a-ca1a-4e39-aaf9-57dd3cd98e4c",
+  "requisition_id": "131026048006",
+  "captured_at": "2026-10-13T18:46:40.125044+00:00",
+  "url": "https://www.naukri.com/job-listings-java-full-stack-engineer-nexiotech-bengaluru-3-to-6-years-131026048006",
+  "confirmation_text": "Exact Naukri requisition appears as Applied",
+  "exact_listing_applied": true,
+  "exact_history_id_match": true,
+  "history_full": true,
+  "network_reason": "positive_exact_applied_after_claimed_open",
+  "history_identity": {
+    "basis": "server_history_exact_job_id",
+    "server_rows": [
+      {
+        "job_id": "131026048006",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "Java Full Stack Engineer",
+        "company": "Nexiotech",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "modifiedDate": "2026-10-14 00:16:00",
+            "statusValue": "Applied",
+            "dateTime": "2026-10-14 00:16:00"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "modifiedDate": "2026-10-14 00:16:00",
+            "statusValue": "Application Sent",
+            "dateTime": "2026-10-14 00:16:00"
+          }
+        ]
+      },
+      {
+        "job_id": "131026048006",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "Java Full Stack Engineer",
+        "company": "Nexiotech",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "dateTime": "2026-10-14 00:16:00",
+            "modifiedDate": "2026-10-14 00:16:00",
+            "statusValue": "Applied"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "dateTime": "2026-10-14 00:16:00",
+            "modifiedDate": "2026-10-14 00:16:00",
+            "statusValue": "Application Sent"
+          }
+        ]
+      }
+    ]
+  },
+  "network_status": 200,
+  "flowtype": "show",
+  "response_metadata": {
+    "job_id_match": true
+  }
+}

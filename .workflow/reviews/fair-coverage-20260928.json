@@ -1,0 +1,233 @@
+{
+  "source_run": ".workflow/runs/e3724712-f146-4dd7-85da-b311e122bc64.json",
+  "focused_review": ".workflow/reviews/20260928T064230-fair.json",
+  "lead_report": ".workflow/reviews/20260928T064629-leads.json",
+  "upload_test": ".workflow/parallel-tests/20260928T064442-two-forms-sequential.json",
+  "mode": "discovery_only",
+  "stage_counts": {
+    "fetched_total": 376,
+    "normalized_unique_ats": 310,
+    "selected_for_original_page_check": 34,
+    "original_pages_checked": 34,
+    "eligible_for_review_after_corrected_hard_filters": 5,
+    "original_jds_reviewed_after_corrected_hard_filters": 5,
+    "high": 0,
+    "queued_for_resume": 0
+  },
+  "by_source": {
+    "brillio_lever": {
+      "fetched": 210,
+      "original_pages_checked": 20,
+      "eligible_for_review": 1,
+      "original_jds_reviewed": 1
+    },
+    "celonis_greenhouse": {
+      "fetched": 100,
+      "original_pages_checked": 14,
+      "eligible_for_review": 4,
+      "original_jds_reviewed": 4
+    }
+  },
+  "by_company": {
+    "Brillio": {
+      "fetched": 210,
+      "original_pages_checked": 20,
+      "eligible_for_review": 1,
+      "original_jds_reviewed": 1
+    },
+    "Celonis": {
+      "fetched": 100,
+      "original_pages_checked": 14,
+      "eligible_for_review": 4,
+      "original_jds_reviewed": 4
+    }
+  },
+  "portal_leads": {
+    "original_63_reclassified_navigation": 56,
+    "current_needs_original_linkedin": 13,
+    "originals_matched": 0,
+    "indeed_unavailable": 1,
+    "current_queue_total": 112,
+    "current_needs_original": 49,
+    "current_not_a_job": 62,
+    "current_unavailable": 1
+  },
+  "top_ten_candidates": [
+    {
+      "company": "Celonis",
+      "role": "Software Engineer - Java, Springboot, SAAS",
+      "source": "celonis_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7791275003",
+      "stage": "Reviewed",
+      "fit": "Medium",
+      "reasons": [
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ],
+      "jd_sha256": "5b77338eab387200bc0c7b4950ee1facb98d244cb0c01955fa83f8d5d55a190c"
+    },
+    {
+      "company": "Celonis",
+      "role": "Staff Software Engineer - Java, Springboot, SAAS",
+      "source": "celonis_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7791427003",
+      "stage": "Reviewed",
+      "fit": "Low",
+      "reasons": [
+        "Required experience starts at 10 years, above the 2.5-year High-fit gate"
+      ],
+      "jd_sha256": "cec77a5f72367b75893c803fa810a1f135df203ed97a8b98e08d11f12cd9f4bb"
+    },
+    {
+      "company": "Celonis",
+      "role": "Senior Software Engineer - Java, Springboot, SAAS",
+      "source": "celonis_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7791291003",
+      "stage": "Reviewed",
+      "fit": "Low",
+      "reasons": [
+        "Required experience starts at 5 years, above the 2.5-year High-fit gate"
+      ],
+      "jd_sha256": "582e710aa4eb2921618ee506df37c29777647128e20a6662f3541fc80c4ff8ac"
+    },
+    {
+      "company": "Brillio",
+      "role": "Fullstack Engineer - React  Java - R01527438",
+      "source": "brillio_lever",
+      "url": "https://jobs.lever.co/brillio-2/7fb2ac4a-a088-4c5d-b67d-77834786b729",
+      "stage": "Reviewed",
+      "fit": "Low",
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ],
+      "jd_sha256": "b4ec4af7f9c8b43a22786ba1f822aef32a60482b50713ed96d4ee4dfa6b0a013"
+    },
+    {
+      "company": "Celonis",
+      "role": "Software Engineer - SAP ABAP",
+      "source": "celonis_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7559247003",
+      "stage": "Reviewed",
+      "fit": "Low",
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience starts at 5 years, above the 2.5-year High-fit gate",
+        "SAP ABAP role; no matching production work evidence in generic master"
+      ],
+      "jd_sha256": "5c13710cd0e1b85b9fccbae029b6cac739d469deb856f785ec42fd923381052a"
+    },
+    {
+      "company": "Celonis",
+      "role": "Customer Support Engineer - Level 1",
+      "source": "celonis_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/6647315003",
+      "stage": "Hard filtered",
+      "fit": null,
+      "reasons": [
+        "Primary role title is outside Java/Spring backend target",
+        "Title does not indicate a target software engineering role"
+      ]
+    },
+    {
+      "company": "Brillio",
+      "role": "AI/ML Engineer - R01570580",
+      "source": "brillio_lever",
+      "url": "https://jobs.lever.co/brillio-2/e899238d-c1f9-4196-8595-16d64cb1aff7",
+      "stage": "Hard filtered",
+      "fit": null,
+      "reasons": [
+        "Primary role title is outside Java/Spring backend target",
+        "Title does not indicate a target software engineering role"
+      ]
+    },
+    {
+      "company": "Brillio",
+      "role": "Data Engineer - R01571442",
+      "source": "brillio_lever",
+      "url": "https://jobs.lever.co/brillio-2/4eab5886-5daf-42f2-bdfb-e0fb8dcc8b8c",
+      "stage": "Hard filtered",
+      "fit": null,
+      "reasons": [
+        "Primary role title is outside Java/Spring backend target",
+        "Title does not indicate a target software engineering role"
+      ]
+    },
+    {
+      "company": "Celonis",
+      "role": "Manager, Value Engineering",
+      "source": "celonis_greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7635358003",
+      "stage": "Hard filtered",
+      "fit": null,
+      "reasons": [
+        "Primary role title is outside Java/Spring backend target",
+        "Title does not indicate a target software engineering role"
+      ]
+    },
+    {
+      "company": "Brillio",
+      "role": "DB Migration Engineer - R01531207",
+      "source": "brillio_lever",
+      "url": "https://jobs.lever.co/brillio-2/e83c8652-20c8-4640-93d8-cea560717ec2",
+      "stage": "Hard filtered",
+      "fit": null,
+      "reasons": [
+        "Primary role title is outside Java/Spring backend target",
+        "Title does not indicate a target software engineering role"
+      ]
+    }
+  ],
+  "note": "Top ten consists of five original JDs reviewed for fit and five candidates rejected by deterministic hard filters. No hard-filtered row is counted as JD fit-reviewed.",
+  "portal_lead_state_by_source": {
+    "cutshort": {
+      "NotAJob": 30
+    },
+    "foundit": {
+      "NotAJob": 16
+    },
+    "indeed": {
+      "NeedsOriginal": 4,
+      "NotAJob": 13,
+      "Unavailable": 1
+    },
+    "linkedin": {
+      "NeedsOriginal": 45
+    },
+    "naukri": {
+      "NotAJob": 3
+    }
+  },
+  "upload_test_detail": [
+    {
+      "tab": 1,
+      "expected_job_id": "TEST-REQ-1",
+      "expected_url": "http://127.0.0.1:45809/form/1",
+      "expected_filename": "Test_Resume_1.pdf",
+      "job_id_and_url_verified_before_upload": true,
+      "upload_succeeded": false,
+      "post_upload_readable": false,
+      "attachment_filename_verified": false,
+      "submit_false_before_upload": false,
+      "error": "browser_file_upload returned allowed error: ### error\nfilechooser.setfiles: protocol error (dom.setfileinputfiles): {\"code\":-32000,\"message\":\"not allowed\"}"
+    },
+    {
+      "tab": 2,
+      "expected_job_id": "TEST-REQ-2",
+      "expected_url": "http://127.0.0.1:45809/form/2",
+      "expected_filename": "Test_Resume_2.pdf",
+      "job_id_and_url_verified_before_upload": true,
+      "upload_succeeded": false,
+      "post_upload_readable": false,
+      "attachment_filename_verified": false,
+      "submit_false_before_upload": false,
+      "error": "browser_file_upload returned allowed error: ### error\nfilechooser.setfiles: protocol error (dom.setfileinputfiles): {\"code\":-32000,\"message\":\"not allowed\"}"
+    }
+  ],
+  "current_timer_mode": {
+    "mode": "read_only",
+    "schedule_enabled": true,
+    "submissions_enabled": false
+  }
+}

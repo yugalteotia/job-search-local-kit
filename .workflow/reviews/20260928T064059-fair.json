@@ -1,0 +1,262 @@
+{
+  "mode": "read_only",
+  "queued_for_review": 22,
+  "reviewed": 10,
+  "by_source": {
+    "celonis_greenhouse": 5,
+    "brillio_lever": 5
+  },
+  "by_company": {
+    "Celonis": 5,
+    "Brillio": 5
+  },
+  "high": 0,
+  "queued_for_resume": 0,
+  "roles": [
+    {
+      "job_id": 154,
+      "company": "Celonis",
+      "role": "Software Engineer - Java, Springboot, SAAS",
+      "location": "Bangalore, India",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7791275003",
+      "fit": "Medium",
+      "eligible_for_resume": false,
+      "review_version": 3,
+      "jd_sha256": "5b77338eab387200bc0c7b4950ee1facb98d244cb0c01955fa83f8d5d55a190c",
+      "original_page_checked_at": "2026-09-28T06:36:16.146285+00:00",
+      "reviewed_at": "2026-09-28T06:40:59.797038+00:00",
+      "experience_minimum": 3.0,
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "mputer Science or a related field. 3-6 years of hands-on software engineering experience. Hands on experience in Java, Spring, Hibernate frameworks. Expos",
+        "technology": "experience. Hands on experience in Java, Spring, Hibernate frameworks. Exposure to geographically distributed work environments. Ability",
+        "role": "Title: Software Engineer - Java, Springboot, SAAS Location: Bangalore, India Celonis is the trusted platform to industrializ"
+      },
+      "reasons": [
+        "Required experience starts at 3 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 155,
+      "company": "Celonis",
+      "role": "Staff Software Engineer - Java, Springboot, SAAS",
+      "location": "Bangalore, India",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7791427003",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 3,
+      "jd_sha256": "cec77a5f72367b75893c803fa810a1f135df203ed97a8b98e08d11f12cd9f4bb",
+      "original_page_checked_at": "2026-09-28T06:36:16.227124+00:00",
+      "reviewed_at": "2026-09-28T06:40:59.802989+00:00",
+      "experience_minimum": 10.0,
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "ineering) or equivalent experience 10+ years of software engineering experience 7+ years of experience as Backend Engineer with strong expertise in buildi",
+        "technology": "microservices based products using Java, Spring framework, JPA, Hibernate is a must. Experience with building data pipelines in Databrick",
+        "role": "Title: Staff Software Engineer - Java, Springboot, SAAS Location: Bangalore, India Celonis is the trusted platform to industrializ"
+      },
+      "reasons": [
+        "Required experience starts at 10 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 156,
+      "company": "Celonis",
+      "role": "Senior Software Engineer - Java, Springboot, SAAS",
+      "location": "Bangalore, India",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7791291003",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 3,
+      "jd_sha256": "582e710aa4eb2921618ee506df37c29777647128e20a6662f3541fc80c4ff8ac",
+      "original_page_checked_at": "2026-09-28T06:36:16.494277+00:00",
+      "reviewed_at": "2026-09-28T06:40:59.809408+00:00",
+      "experience_minimum": 5.0,
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "neering) or equivalent experience. 5+ years of experience (mandatory) as Backend Engineer with strong expertise in building microservices based products",
+        "technology": "microservices based products using Java, Spring framework, JPA, Hibernate is a must. Experience with building data pipelines in Databrick",
+        "role": "Title: Senior Software Engineer - Java, Springboot, SAAS Location: Bangalore, India Celonis is the trusted platform to industrializ"
+      },
+      "reasons": [
+        "Required experience starts at 5 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 168,
+      "company": "Brillio",
+      "role": "Fullstack Engineer - React  Java - R01527438",
+      "location": "Chennai, Tamil Nadu, India",
+      "direct_url": "https://jobs.lever.co/brillio-2/7fb2ac4a-a088-4c5d-b67d-77834786b729",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 3,
+      "jd_sha256": "b4ec4af7f9c8b43a22786ba1f822aef32a60482b50713ed96d4ee4dfa6b0a013",
+      "original_page_checked_at": "2026-09-28T06:36:18.612377+00:00",
+      "reviewed_at": "2026-09-28T06:40:59.814450+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "Chennai, Tamil Nadu, India",
+        "experience": null,
+        "technology": null,
+        "role": null
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ]
+    },
+    {
+      "job_id": 170,
+      "company": "Brillio",
+      "role": "Engineer - R01571794",
+      "location": "Bangalore, Karnataka, India",
+      "direct_url": "https://jobs.lever.co/brillio-2/63b96826-8860-4847-9263-d8d64f51aa88",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 3,
+      "jd_sha256": "9a6d6b02a8eca183ff6f3ca14c8dd4deccf4a1eaaaa9da7ddcdcbef69438cf61",
+      "original_page_checked_at": "2026-09-28T06:36:19.290671+00:00",
+      "reviewed_at": "2026-09-28T06:40:59.818426+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "Bangalore, Karnataka, India",
+        "experience": null,
+        "technology": null,
+        "role": null
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ]
+    },
+    {
+      "job_id": 171,
+      "company": "Brillio",
+      "role": "Engineer - R01571801",
+      "location": "Bangalore, Karnataka, India",
+      "direct_url": "https://jobs.lever.co/brillio-2/00ebf0ec-b6b2-4850-a617-242e2896c762",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 3,
+      "jd_sha256": "749d132998cedf3e4d1b73f1a458accf303576d3734a69355405cb2d7befeb27",
+      "original_page_checked_at": "2026-09-28T06:36:19.459698+00:00",
+      "reviewed_at": "2026-09-28T06:40:59.824111+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "Bangalore, Karnataka, India",
+        "experience": null,
+        "technology": null,
+        "role": null
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ]
+    },
+    {
+      "job_id": 172,
+      "company": "Brillio",
+      "role": "Snowflake Developer - R01568220",
+      "location": "Bangalore, Karnataka, India",
+      "direct_url": "https://jobs.lever.co/brillio-2/c5f8817d-bf3d-413c-8650-7779412cd495",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 3,
+      "jd_sha256": "2c9ada19545ba640957f6bbe9e0dcfd7cfdfd8e3cda7d625a4e9049ee74fead2",
+      "original_page_checked_at": "2026-09-28T06:36:19.516523+00:00",
+      "reviewed_at": "2026-09-28T06:40:59.828202+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "Bangalore, Karnataka, India",
+        "experience": null,
+        "technology": null,
+        "role": null
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ]
+    },
+    {
+      "job_id": 146,
+      "company": "Celonis",
+      "role": "Software Engineer - SAP ABAP",
+      "location": "Bangalore, India",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7559247003",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 3,
+      "jd_sha256": "5c13710cd0e1b85b9fccbae029b6cac739d469deb856f785ec42fd923381052a",
+      "original_page_checked_at": "2026-09-28T06:36:17.372369+00:00",
+      "reviewed_at": "2026-09-28T06:40:59.834567+00:00",
+      "experience_minimum": 5.0,
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "Have at least 5 years of experience as a professional ABAP Developer. High level of commitment and responsibility as well as enthus",
+        "technology": null,
+        "role": "Title: Software Engineer - SAP ABAP Location: Bangalore, India Celonis is the trusted platform to industrialize Enterprise A"
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience starts at 5 years, above the 2.5-year High-fit gate",
+        "SAP ABAP role; no matching production work evidence in generic master"
+      ]
+    },
+    {
+      "job_id": 165,
+      "company": "Celonis",
+      "role": "Applied Value Engineer- CPGR/CMT-NAM",
+      "location": "Bangalore, India",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7635190003",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 3,
+      "jd_sha256": "eafff87f565c79f5347db04f8d3b595ac4c13bbf380647977455562d06138bcf",
+      "original_page_checked_at": "2026-09-28T06:36:17.407722+00:00",
+      "reviewed_at": "2026-09-28T06:40:59.841525+00:00",
+      "experience_minimum": 6.0,
+      "evidence": {
+        "location": "Bangalore, India",
+        "experience": "6+ years of experience leading technical pre-sales, including defining AI roadmaps, building compelling ROI/TCO busine",
+        "technology": null,
+        "role": null
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience starts at 6 years, above the 2.5-year High-fit gate"
+      ]
+    },
+    {
+      "job_id": 175,
+      "company": "Brillio",
+      "role": "Lead AI Engineer I  - R01571042",
+      "location": "Bangalore, Karnataka, India",
+      "direct_url": "https://jobs.lever.co/brillio-2/3537f097-0870-434a-90a5-f81742e6ed00",
+      "fit": "Low",
+      "eligible_for_resume": false,
+      "review_version": 3,
+      "jd_sha256": "13d77d9b867652949a67f9c81af6506fe06f092b1ba49dc356c5da27d8e90bf6",
+      "original_page_checked_at": "2026-09-28T06:36:19.962243+00:00",
+      "reviewed_at": "2026-09-28T06:40:59.846403+00:00",
+      "experience_minimum": null,
+      "evidence": {
+        "location": "Bangalore, Karnataka, India",
+        "experience": null,
+        "technology": null,
+        "role": null
+      },
+      "reasons": [
+        "Java/Spring Boot is not established as an essential qualification",
+        "Substantial backend work is not established in qualifications",
+        "Required experience band is not explicit in the qualification excerpt"
+      ]
+    }
+  ]
+}

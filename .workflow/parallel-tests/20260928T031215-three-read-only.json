@@ -1,0 +1,31 @@
+{
+  "test": "three independent MCP connections, dedicated read-only tabs",
+  "flows": [
+    {
+      "worker": 1,
+      "expected_host": "www.naukri.com",
+      "observed_host": "www.naukri.com",
+      "second_host": "www.naukri.com",
+      "isolated": true,
+      "seconds": 16.04
+    },
+    {
+      "worker": 2,
+      "expected_host": "www.linkedin.com",
+      "observed_host": "www.linkedin.com",
+      "second_host": "www.linkedin.com",
+      "isolated": true,
+      "seconds": 18.03
+    },
+    {
+      "worker": 3,
+      "expected_host": "www.foundit.in",
+      "observed_host": "www.foundit.in",
+      "second_host": "www.foundit.in",
+      "isolated": true,
+      "seconds": 16.06
+    }
+  ],
+  "passed": true,
+  "evidence": ".workflow/parallel-tests/20260928T031215-three-read-only.json"
+}

@@ -1,0 +1,54 @@
+{
+  "checked_at_utc": "2026-09-29T09:05:33Z",
+  "scope": "Isolated signed-in Naukri Chrome profile; read-only candidate search and exact listing review",
+  "filtered_result_pages_attempted": "More than 20; some pages had zero visible cards and were not counted as coverage",
+  "exact_listing_pages_read": 31,
+  "candidate_selected": null,
+  "application_form_opened": false,
+  "resume_uploaded": false,
+  "submission_attempted": false,
+  "generic_profile_resume_verified": "Yugal_Teotia_CV.pdf",
+  "representative_exclusions": [
+    {
+      "job_id": "280926023134",
+      "employer": "Agiliad",
+      "url": "https://www.naukri.com/job-listings-java-developer-senior-java-developer-agiliad-pune-2-to-6-years-280926023134",
+      "reason": "Live native Apply, but requires 2–6 years professional Java backend and hands-on Hibernate/JPA, SQL and NoSQL; project/training data skills cannot be claimed as production depth."
+    },
+    {
+      "job_id": "210926922397",
+      "employer": "Capgemini",
+      "url": "https://www.naukri.com/job-listings-java-developer-capgemini-technology-services-india-limited-mumbai-hyderabad-bengaluru-0-to-5-years-210926922397",
+      "reason": "Live native Apply, but JD expects complex SQL query optimization and familiarity with Kubernetes; those are not confirmed production skills."
+    },
+    {
+      "job_id": "260926001660",
+      "employer": "Manpowergroup Services India",
+      "url": "https://www.naukri.com/job-listings-hiring-junior-java-developer-manpowergroup-services-india-mumbai-all-areas-1-to-2-years-260926001660",
+      "reason": "Live native Apply, but hands-on Kafka or similar messaging is listed as required and is not demonstrated."
+    },
+    {
+      "job_id": "280926006833",
+      "employer": "HR SOLUTIONS",
+      "url": "https://www.naukri.com/job-listings-java-api-developer-with-github-copilot-hr-solutions-noida-bengaluru-2-to-5-years-280926006833",
+      "reason": "Live native Apply, but full JD says 3+ years and Azure exposure is a must."
+    },
+    {
+      "job_id": "240926925147",
+      "employer": "Capgemini",
+      "url": "https://www.naukri.com/job-listings-java-fullstack-developer-with-react-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-240926925147",
+      "reason": "Live native Apply, but substantial React development is required; only basic React is confirmed."
+    },
+    {
+      "job_id": "220926500100",
+      "employer": "I2ispecialist Technologies",
+      "url": "https://www.naukri.com/job-listings-backend-developer-i2ispecialist-technologies-pune-0-to-4-years-220926500100",
+      "reason": "Relevant Java/Spring backend text, but Naukri shows Apply on company site, so this is not a native-Apply pilot and its external requisition was not verified."
+    }
+  ],
+  "scheduled_pipeline_smoke_run": ".workflow/runs/b7adc188-5ada-4035-a9e3-a197c68039b8.json",
+  "scheduled_pipeline_smoke_status": "Partial: one Naukri search page checked of a two-page source limit; 20 cards, one portal JD verified, no High fit",
+  "guard_unit_tests": "4 passing",
+  "scheduled_submissions_enabled": false,
+  "blocker": "No different live, unapplied, genuinely strong-fit Naukri native-Apply requisition passed the saved JD and confirmed-skill checks in this bounded review."
+}

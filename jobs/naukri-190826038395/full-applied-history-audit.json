@@ -1,0 +1,149 @@
+{
+  "started_at": "2026-09-29T08:11:23.529157+00:00",
+  "finished_at": "2026-09-29T08:11:41.305709+00:00",
+  "job_id": 220,
+  "requisition_id": "190826038395",
+  "history_url": "https://www.naukri.com/myapply/historypage",
+  "source_filter": "Applies on Naukri",
+  "expected_source_count": 74,
+  "sweeps": [
+    {
+      "loadedRows": 10,
+      "sourceFilterLabels": [
+        "Recruiter Actions\n\n(6)",
+        "Applies on Naukri\n\n(74)",
+        "Applies on External Site\n\n(5)"
+      ],
+      "exactIdMatches": 0,
+      "companyRoleMatches": 0,
+      "matchingRows": [],
+      "loadMorePresent": true,
+      "loadMoreVisible": true,
+      "listScrollTop": 0,
+      "checked_at": "2026-09-29T08:11:31.047469+00:00"
+    },
+    {
+      "loadedRows": 20,
+      "sourceFilterLabels": [
+        "Recruiter Actions\n\n(6)",
+        "Applies on Naukri\n\n(74)",
+        "Applies on External Site\n\n(5)"
+      ],
+      "exactIdMatches": 0,
+      "companyRoleMatches": 0,
+      "matchingRows": [],
+      "loadMorePresent": true,
+      "loadMoreVisible": true,
+      "listScrollTop": 998,
+      "checked_at": "2026-09-29T08:11:32.554467+00:00"
+    },
+    {
+      "loadedRows": 30,
+      "sourceFilterLabels": [
+        "Recruiter Actions\n\n(6)",
+        "Applies on Naukri\n\n(74)",
+        "Applies on External Site\n\n(5)"
+      ],
+      "exactIdMatches": 0,
+      "companyRoleMatches": 0,
+      "matchingRows": [],
+      "loadMorePresent": true,
+      "loadMoreVisible": true,
+      "listScrollTop": 2894,
+      "checked_at": "2026-09-29T08:11:34.010725+00:00"
+    },
+    {
+      "loadedRows": 40,
+      "sourceFilterLabels": [
+        "Recruiter Actions\n\n(6)",
+        "Applies on Naukri\n\n(74)",
+        "Applies on External Site\n\n(5)"
+      ],
+      "exactIdMatches": 0,
+      "companyRoleMatches": 0,
+      "matchingRows": [],
+      "loadMorePresent": true,
+      "loadMoreVisible": true,
+      "listScrollTop": 4774,
+      "checked_at": "2026-09-29T08:11:35.464772+00:00"
+    },
+    {
+      "loadedRows": 50,
+      "sourceFilterLabels": [
+        "Recruiter Actions\n\n(6)",
+        "Applies on Naukri\n\n(74)",
+        "Applies on External Site\n\n(5)"
+      ],
+      "exactIdMatches": 0,
+      "companyRoleMatches": 0,
+      "matchingRows": [],
+      "loadMorePresent": true,
+      "loadMoreVisible": true,
+      "listScrollTop": 6659,
+      "checked_at": "2026-09-29T08:11:36.905379+00:00"
+    },
+    {
+      "loadedRows": 60,
+      "sourceFilterLabels": [
+        "Recruiter Actions\n\n(6)",
+        "Applies on Naukri\n\n(74)",
+        "Applies on External Site\n\n(5)"
+      ],
+      "exactIdMatches": 0,
+      "companyRoleMatches": 0,
+      "matchingRows": [],
+      "loadMorePresent": true,
+      "loadMoreVisible": true,
+      "listScrollTop": 8547,
+      "checked_at": "2026-09-29T08:11:38.363566+00:00"
+    },
+    {
+      "loadedRows": 70,
+      "sourceFilterLabels": [
+        "Recruiter Actions\n\n(6)",
+        "Applies on Naukri\n\n(74)",
+        "Applies on External Site\n\n(5)"
+      ],
+      "exactIdMatches": 0,
+      "companyRoleMatches": 0,
+      "matchingRows": [],
+      "loadMorePresent": true,
+      "loadMoreVisible": true,
+      "listScrollTop": 10435,
+      "checked_at": "2026-09-29T08:11:39.824219+00:00"
+    },
+    {
+      "loadedRows": 74,
+      "sourceFilterLabels": [
+        "Recruiter Actions\n\n(6)",
+        "Applies on Naukri\n\n(74)",
+        "Applies on External Site\n\n(5)"
+      ],
+      "exactIdMatches": 0,
+      "companyRoleMatches": 0,
+      "matchingRows": [],
+      "loadMorePresent": true,
+      "loadMoreVisible": false,
+      "listScrollTop": 12322,
+      "checked_at": "2026-09-29T08:11:41.305698+00:00"
+    }
+  ],
+  "final": {
+    "loadedRows": 74,
+    "sourceFilterLabels": [
+      "Recruiter Actions\n\n(6)",
+      "Applies on Naukri\n\n(74)",
+      "Applies on External Site\n\n(5)"
+    ],
+    "exactIdMatches": 0,
+    "companyRoleMatches": 0,
+    "matchingRows": [],
+    "loadMorePresent": true,
+    "loadMoreVisible": false,
+    "listScrollTop": 12322,
+    "checked_at": "2026-09-29T08:11:41.305698+00:00"
+  },
+  "full_source_count_loaded": true,
+  "application_mutation_requests_blocked": [],
+  "apply_or_answer_controls_clicked": false
+}

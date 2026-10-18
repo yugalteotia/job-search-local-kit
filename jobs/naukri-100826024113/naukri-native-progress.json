@@ -1,0 +1,22 @@
+{
+  "attempt_id": "9b2f7235-5fb0-4bc2-841d-721d23ffe17e",
+  "requisition_id": "100826024113",
+  "status": "confirmed",
+  "answered": [
+    {
+      "question": "Are you available for a interview?(Virtual)",
+      "question_key": "91765a1b932aea74b4d8bfc5de8f5da3368261fe16665f36311f2aab8d4b4bae",
+      "fact_ref": "virtual_interview_availability",
+      "at": "2026-10-16T07:04:50.624901+00:00"
+    }
+  ],
+  "saves": 1,
+  "pending_question": null,
+  "resumes": 0,
+  "save_in_flight": false,
+  "updated_at": "2026-10-18T07:00:48.646527+00:00",
+  "answers_logged": false,
+  "pending_field": null,
+  "pending_reason": null,
+  "confirmation_path": "jobs/naukri-100826024113/naukri-history-reconciliation-confirmation.json"
+}

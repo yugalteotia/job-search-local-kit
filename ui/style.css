@@ -1,0 +1,12 @@
+body{font:14px system-ui,sans-serif;margin:0;background:#f4f5f7;color:#1b1f24}
+header{background:#1b1f24;color:#fff;padding:10px 16px;display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+header h1{font-size:16px;margin:0}nav button{background:none;border:0;color:#cbd5e1;padding:6px 10px;cursor:pointer;font-size:14px}
+nav button.on{color:#fff;border-bottom:2px solid #4ade80}
+main{padding:16px;max-width:1200px;margin:auto}section{display:none}section.on{display:block}
+button.act{background:#2563eb;color:#fff;border:0;border-radius:4px;padding:8px 14px;cursor:pointer;margin-right:8px}
+button.act.warn{background:#b45309}button.act.grey{background:#64748b}button:disabled{opacity:.5;cursor:default}
+table{border-collapse:collapse;background:#fff;width:100%;margin:8px 0 18px}th,td{border:1px solid #dde1e6;padding:6px 8px;text-align:left;vertical-align:top;overflow-wrap:anywhere}
+th{background:#eef1f4}.pill{display:inline-block;padding:1px 8px;border-radius:10px;font-size:12px;background:#e2e8f0}
+.ApplyReady{background:#bbf7d0}.DiscoveryOnly{background:#fef3c7}.Blocked{background:#fecaca}
+#log{background:#0f172a;color:#e2e8f0;padding:10px;height:280px;overflow:auto;font:12px monospace;white-space:pre-wrap}
+.muted{color:#64748b}.box{background:#fff;border:1px solid #dde1e6;padding:10px;margin-bottom:12px}

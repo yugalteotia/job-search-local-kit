@@ -1,0 +1,46 @@
+{
+  "job_id": 318,
+  "requisition_id": "190826009591",
+  "attempt_id": "399c0357-3005-4403-8e55-62369e0e11f4",
+  "saves": 0,
+  "status": "Applied",
+  "stage": "confirmation_check",
+  "preflight_resume_repair_only": false,
+  "generic_resume_restored": true,
+  "generic_resume_restore_evidence": "jobs/naukri-190826009591/naukri-generic-startup-verification.json",
+  "generic_resume_sha256": "144b420607db151763e694b752b334b38510711b974637de479a576cf91f1255",
+  "generic_resume_verified_at": "2026-10-13T18:51:44.117347+00:00",
+  "generic_resume_repaired_at_start": false,
+  "confirmation_path": "jobs/naukri-190826009591/naukri-native-confirmation.json",
+  "answers_logged": false,
+  "network_guard": {
+    "job_id": "190826009591",
+    "phase": "claimed",
+    "show_count": 1,
+    "answer_count": 0,
+    "save_arm_count": 0,
+    "followup_status_count": 0,
+    "post_completion_status_count": 0,
+    "completion_count": 0,
+    "reopen_count": 0,
+    "workflow_committed": false,
+    "events": [
+      {
+        "at": "2026-10-13T18:50:57.699597+00:00",
+        "elapsed_ms": 117,
+        "job_id": "190826009591",
+        "phase": "show_sent",
+        "method": "POST",
+        "path": "/cloudgateway-workflow/workflow-services/apply-workflow/v1/apply",
+        "flowtype": "show",
+        "allowed": true,
+        "reason": "exact_job_show",
+        "response_status": 200,
+        "response_elapsed_ms": 264,
+        "response_metadata": {
+          "job_id_match": true
+        }
+      }
+    ]
+  }
+}

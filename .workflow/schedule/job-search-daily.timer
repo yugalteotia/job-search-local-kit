@@ -1,0 +1,9 @@
+[Unit]
+Description=Job search at 08:30, 12:30, 16:30, 20:30 Asia/Kolkata
+[Timer]
+OnCalendar=*-*-* 08,12,16,20:30:00 Asia/Kolkata
+AccuracySec=1s
+Persistent=false
+Unit=job-search-daily.service
+[Install]
+WantedBy=timers.target

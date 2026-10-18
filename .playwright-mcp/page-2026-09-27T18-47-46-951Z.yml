@@ -1,0 +1,599 @@
+- generic [ref=e1]:
+  - link [ref=e4] [cursor=pointer]:
+    - /url: https://jobs.lever.co/hevodata
+    - img "Hevo Data logo" [ref=e5]
+  - generic [ref=e9]:
+    - generic [ref=e10]:
+      - 'button "Filter by Location type: All" [ref=e11]':
+        - generic [ref=e12] [cursor=pointer]: Location type
+      - 'button "Filter by Location: All" [ref=e15]':
+        - generic [ref=e16] [cursor=pointer]: Location
+      - 'button "Filter by Team: All" [ref=e19]':
+        - generic [ref=e20] [cursor=pointer]: Team
+      - 'button "Filter by Work type: All" [ref=e23]':
+        - generic [ref=e24] [cursor=pointer]: Work type
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - generic [ref=e29]: BizOps
+        - generic [ref=e30]: BizOps
+        - generic [ref=e32]:
+          - link "Apply" [ref=e34] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/d8ea771e-fe9b-4c14-b184-4bed18296928
+          - link "Analytics Manager On-site — Full time Bangalore, India" [ref=e35] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/d8ea771e-fe9b-4c14-b184-4bed18296928
+            - heading "Analytics Manager" [level=5] [ref=e36]
+            - generic [ref=e37]:
+              - generic [ref=e38]: On-site —
+              - generic [ref=e39]: Full time
+              - generic [ref=e40]: Bangalore, India
+        - generic [ref=e41]:
+          - link "Apply" [ref=e43] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/e927d9dc-e132-43fb-a58e-c4206e824a28
+          - link "Talent Acquisition Manager On-site — Full time Bangalore, India" [ref=e44] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/e927d9dc-e132-43fb-a58e-c4206e824a28
+            - heading "Talent Acquisition Manager" [level=5] [ref=e45]
+            - generic [ref=e46]:
+              - generic [ref=e47]: On-site —
+              - generic [ref=e48]: Full time
+              - generic [ref=e49]: Bangalore, India
+      - generic [ref=e50]:
+        - generic [ref=e51]: Corporate
+        - generic [ref=e52]: HR
+        - generic [ref=e54]:
+          - link "Apply" [ref=e56] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/5e3fb7c5-94ae-4848-9068-a362bf103746
+          - link "Sr Recruiter - GTM On-site — Full time Bangalore, India" [ref=e57] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/5e3fb7c5-94ae-4848-9068-a362bf103746
+            - heading "Sr Recruiter - GTM" [level=5] [ref=e58]
+            - generic [ref=e59]:
+              - generic [ref=e60]: On-site —
+              - generic [ref=e61]: Full time
+              - generic [ref=e62]: Bangalore, India
+        - generic [ref=e63]:
+          - link "Apply" [ref=e65] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/3058284b-babf-4764-a0b9-552501d6005a
+          - link "Sr. Tech Recruiter On-site — Full time Bangalore, India" [ref=e66] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/3058284b-babf-4764-a0b9-552501d6005a
+            - heading "Sr. Tech Recruiter" [level=5] [ref=e67]
+            - generic [ref=e68]:
+              - generic [ref=e69]: On-site —
+              - generic [ref=e70]: Full time
+              - generic [ref=e71]: Bangalore, India
+      - generic [ref=e72]:
+        - generic [ref=e73]: Customer Success
+        - generic [ref=e74]: TAM
+        - generic [ref=e76]:
+          - link "Apply" [ref=e78] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/cf7e9545-dc6a-4116-af4c-70ad3da9a37c
+          - link "Associate Director - Technical Account Management On-site — Full time Bangalore, India" [ref=e79] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/cf7e9545-dc6a-4116-af4c-70ad3da9a37c
+            - heading "Associate Director - Technical Account Management" [level=5] [ref=e80]
+            - generic [ref=e81]:
+              - generic [ref=e82]: On-site —
+              - generic [ref=e83]: Full time
+              - generic [ref=e84]: Bangalore, India
+        - generic [ref=e85]:
+          - link "Apply" [ref=e87] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/a49edaa6-dd55-4e15-930e-ed0228169da2
+          - link "Associate Director - Technical Account Management (Pune) On-site — Full time Pune, Maharashtra" [ref=e88] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/a49edaa6-dd55-4e15-930e-ed0228169da2
+            - heading "Associate Director - Technical Account Management (Pune)" [level=5] [ref=e89]
+            - generic [ref=e90]:
+              - generic [ref=e91]: On-site —
+              - generic [ref=e92]: Full time
+              - generic [ref=e93]: Pune, Maharashtra
+        - generic [ref=e94]:
+          - link "Apply" [ref=e96] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/86fd190d-754d-45b6-9f04-59585dc6d15b
+          - link "Solution Engineer (Post-sales) On-site — Full time Pune, Maharashtra" [ref=e97] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/86fd190d-754d-45b6-9f04-59585dc6d15b
+            - heading "Solution Engineer (Post-sales)" [level=5] [ref=e98]
+            - generic [ref=e99]:
+              - generic [ref=e100]: On-site —
+              - generic [ref=e101]: Full time
+              - generic [ref=e102]: Pune, Maharashtra
+        - generic [ref=e103]:
+          - link "Apply" [ref=e105] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/8a0f0134-9781-457d-a588-ef9b0eacb184
+          - link "Solution Engineer (Post-sales) On-site — Full time Bengaluru, India" [ref=e106] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/8a0f0134-9781-457d-a588-ef9b0eacb184
+            - heading "Solution Engineer (Post-sales)" [level=5] [ref=e107]
+            - generic [ref=e108]:
+              - generic [ref=e109]: On-site —
+              - generic [ref=e110]: Full time
+              - generic [ref=e111]: Bengaluru, India
+        - generic [ref=e112]:
+          - link "Apply" [ref=e114] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/c712254d-4ac5-46d9-8430-fde1242eca40
+          - link "Technical Account Manager On-site — Full time Bengaluru, India" [ref=e115] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/c712254d-4ac5-46d9-8430-fde1242eca40
+            - heading "Technical Account Manager" [level=5] [ref=e116]
+            - generic [ref=e117]:
+              - generic [ref=e118]: On-site —
+              - generic [ref=e119]: Full time
+              - generic [ref=e120]: Bengaluru, India
+      - generic [ref=e121]:
+        - generic [ref=e122]: CX
+        - generic [ref=e123]: Associate
+        - generic [ref=e125]:
+          - link "Apply" [ref=e127] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/96993ebc-609a-4733-84cd-e1a0c3e69fda
+          - link "Associate Customer Experience Engineer On-site — Full time Pune, Maharashtra" [ref=e128] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/96993ebc-609a-4733-84cd-e1a0c3e69fda
+            - heading "Associate Customer Experience Engineer" [level=5] [ref=e129]
+            - generic [ref=e130]:
+              - generic [ref=e131]: On-site —
+              - generic [ref=e132]: Full time
+              - generic [ref=e133]: Pune, Maharashtra
+      - generic [ref=e134]:
+        - generic [ref=e135]: Sr. CXE
+        - generic [ref=e137]:
+          - link "Apply" [ref=e139] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/bfdebed3-3762-4854-a1e9-01bda6bebe09
+          - link "Senior Customer Experience Engineer On-site — Full time Pune, Maharashtra" [ref=e140] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/bfdebed3-3762-4854-a1e9-01bda6bebe09
+            - heading "Senior Customer Experience Engineer" [level=5] [ref=e141]
+            - generic [ref=e142]:
+              - generic [ref=e143]: On-site —
+              - generic [ref=e144]: Full time
+              - generic [ref=e145]: Pune, Maharashtra
+      - generic [ref=e146]:
+        - generic [ref=e147]: Design
+        - generic [ref=e148]: Senior Product Designer
+        - generic [ref=e150]:
+          - link "Apply" [ref=e152] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/3c22a84f-7eb6-4105-aa3b-7698322a98af
+          - link "Senior Product Designer On-site — Full time Bengaluru, India" [ref=e153] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/3c22a84f-7eb6-4105-aa3b-7698322a98af
+            - heading "Senior Product Designer" [level=5] [ref=e154]
+            - generic [ref=e155]:
+              - generic [ref=e156]: On-site —
+              - generic [ref=e157]: Full time
+              - generic [ref=e158]: Bengaluru, India
+      - generic [ref=e159]:
+        - generic [ref=e160]: Engineering
+        - generic [ref=e161]: Backend
+        - generic [ref=e163]:
+          - link "Apply" [ref=e165] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a
+          - link "Associate Software Development Engineer (SDE) On-site — Full time Bangalore, India" [ref=e166] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a
+            - heading "Associate Software Development Engineer (SDE)" [level=5] [ref=e167]
+            - generic [ref=e168]:
+              - generic [ref=e169]: On-site —
+              - generic [ref=e170]: Full time
+              - generic [ref=e171]: Bangalore, India
+        - generic [ref=e172]:
+          - link "Apply" [ref=e174] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/c8c4adc7-f565-46cb-8928-ae2b57555d48
+          - link "Engineering Manager On-site — Full time Bengaluru, India" [ref=e175] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/c8c4adc7-f565-46cb-8928-ae2b57555d48
+            - heading "Engineering Manager" [level=5] [ref=e176]
+            - generic [ref=e177]:
+              - generic [ref=e178]: On-site —
+              - generic [ref=e179]: Full time
+              - generic [ref=e180]: Bengaluru, India
+        - generic [ref=e181]:
+          - link "Apply" [ref=e183] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/d8c6feac-e13c-4582-b9e0-550fde88aab4
+          - link "Engineering Manager (Connect AI) On-site — Full time Pune, Maharashtra" [ref=e184] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/d8c6feac-e13c-4582-b9e0-550fde88aab4
+            - heading "Engineering Manager (Connect AI)" [level=5] [ref=e185]
+            - generic [ref=e186]:
+              - generic [ref=e187]: On-site —
+              - generic [ref=e188]: Full time
+              - generic [ref=e189]: Pune, Maharashtra
+        - generic [ref=e190]:
+          - link "Apply" [ref=e192] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a
+          - link "SDE I On-site — Full time Bangalore, India" [ref=e193] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a
+            - heading "SDE I" [level=5] [ref=e194]
+            - generic [ref=e195]:
+              - generic [ref=e196]: On-site —
+              - generic [ref=e197]: Full time
+              - generic [ref=e198]: Bangalore, India
+        - generic [ref=e199]:
+          - link "Apply" [ref=e201] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/53987105-3d28-42b1-9132-3672abcef2aa
+          - link "SDE II On-site — Full time Bangalore, India" [ref=e202] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/53987105-3d28-42b1-9132-3672abcef2aa
+            - heading "SDE II" [level=5] [ref=e203]
+            - generic [ref=e204]:
+              - generic [ref=e205]: On-site —
+              - generic [ref=e206]: Full time
+              - generic [ref=e207]: Bangalore, India
+        - generic [ref=e208]:
+          - link "Apply" [ref=e210] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/3d8a647b-44f5-4615-8623-2f9142b34602
+          - link "SDE III On-site — Full time Bangalore, India" [ref=e211] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/3d8a647b-44f5-4615-8623-2f9142b34602
+            - heading "SDE III" [level=5] [ref=e212]
+            - generic [ref=e213]:
+              - generic [ref=e214]: On-site —
+              - generic [ref=e215]: Full time
+              - generic [ref=e216]: Bangalore, India
+        - generic [ref=e217]:
+          - link "Apply" [ref=e219] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/c396cf1e-6a73-475d-b84b-aa90f916c8a2
+          - link "SDE- IV / Lead Engineer On-site — Full time Bangalore, India" [ref=e220] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/c396cf1e-6a73-475d-b84b-aa90f916c8a2
+            - heading "SDE- IV / Lead Engineer" [level=5] [ref=e221]
+            - generic [ref=e222]:
+              - generic [ref=e223]: On-site —
+              - generic [ref=e224]: Full time
+              - generic [ref=e225]: Bangalore, India
+        - generic [ref=e226]:
+          - link "Apply" [ref=e228] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/5a453311-2088-4916-812e-ec402e9c6a1c
+          - link "Staff Software Engineer On-site — Full time Bangalore, India" [ref=e229] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/5a453311-2088-4916-812e-ec402e9c6a1c
+            - heading "Staff Software Engineer" [level=5] [ref=e230]
+            - generic [ref=e231]:
+              - generic [ref=e232]: On-site —
+              - generic [ref=e233]: Full time
+              - generic [ref=e234]: Bangalore, India
+        - generic [ref=e235]:
+          - link "Apply" [ref=e237] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/8f922c73-c3c5-445d-aedc-1e531ea099f7
+          - link "Tech Lead On-site — Full time Bengaluru, India" [ref=e238] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/8f922c73-c3c5-445d-aedc-1e531ea099f7
+            - heading "Tech Lead" [level=5] [ref=e239]
+            - generic [ref=e240]:
+              - generic [ref=e241]: On-site —
+              - generic [ref=e242]: Full time
+              - generic [ref=e243]: Bengaluru, India
+        - generic [ref=e244]:
+          - link "Apply" [ref=e246] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/c6b90bb1-d645-4bb5-9f87-44aec3dd2783
+          - link "Tech Lead Manager - Autonomous Connectors On-site — Full time Bengaluru, India" [ref=e247] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/c6b90bb1-d645-4bb5-9f87-44aec3dd2783
+            - heading "Tech Lead Manager - Autonomous Connectors" [level=5] [ref=e248]
+            - generic [ref=e249]:
+              - generic [ref=e250]: On-site —
+              - generic [ref=e251]: Full time
+              - generic [ref=e252]: Bengaluru, India
+        - generic [ref=e253]:
+          - link "Apply" [ref=e255] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/229a9ab2-2369-4c89-afd8-09cd5bfc2c20
+          - link "Tech Lead Manager - Autonomous Connectors On-site — Full time Pune, Maharashtra" [ref=e256] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/229a9ab2-2369-4c89-afd8-09cd5bfc2c20
+            - heading "Tech Lead Manager - Autonomous Connectors" [level=5] [ref=e257]
+            - generic [ref=e258]:
+              - generic [ref=e259]: On-site —
+              - generic [ref=e260]: Full time
+              - generic [ref=e261]: Pune, Maharashtra
+      - generic [ref=e262]:
+        - generic [ref=e263]: Frontend/UI
+        - generic [ref=e265]:
+          - link "Apply" [ref=e267] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/433ffdef-3125-48ed-a131-52c697c321ee
+          - link "UX Design Intern On-site — Internship Bangalore, India" [ref=e268] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/433ffdef-3125-48ed-a131-52c697c321ee
+            - heading "UX Design Intern" [level=5] [ref=e269]
+            - generic [ref=e270]:
+              - generic [ref=e271]: On-site —
+              - generic [ref=e272]: Internship
+              - generic [ref=e273]: Bangalore, India
+      - generic [ref=e274]:
+        - generic [ref=e275]: General Engineering
+        - generic [ref=e277]:
+          - link "Apply" [ref=e279] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/96b31db5-3825-4a1b-868b-43ed969848d1
+          - link "Director of Engineering On-site — Full time Bangalore, India" [ref=e280] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/96b31db5-3825-4a1b-868b-43ed969848d1
+            - heading "Director of Engineering" [level=5] [ref=e281]
+            - generic [ref=e282]:
+              - generic [ref=e283]: On-site —
+              - generic [ref=e284]: Full time
+              - generic [ref=e285]: Bangalore, India
+      - generic [ref=e286]:
+        - generic [ref=e287]: Program Management
+        - generic [ref=e289]:
+          - link "Apply" [ref=e291] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/69ebcdbb-03cb-4800-91c6-426c60f91d65
+          - link "Technical Program Manager Hybrid — Full time Bangalore, India" [ref=e292] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/69ebcdbb-03cb-4800-91c6-426c60f91d65
+            - heading "Technical Program Manager" [level=5] [ref=e293]
+            - generic [ref=e294]:
+              - generic [ref=e295]: Hybrid —
+              - generic [ref=e296]: Full time
+              - generic [ref=e297]: Bangalore, India
+        - generic [ref=e298]:
+          - link "Apply" [ref=e300] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/4f174de1-5f37-443a-b379-b6f55d9d7727
+          - link "Technical Program Manager On-site — Full time Bangalore, India" [ref=e301] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/4f174de1-5f37-443a-b379-b6f55d9d7727
+            - heading "Technical Program Manager" [level=5] [ref=e302]
+            - generic [ref=e303]:
+              - generic [ref=e304]: On-site —
+              - generic [ref=e305]: Full time
+              - generic [ref=e306]: Bangalore, India
+      - generic [ref=e307]:
+        - generic [ref=e308]: Finance
+        - generic [ref=e309]: Finance
+        - generic [ref=e311]:
+          - link "Apply" [ref=e313] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/339545b3-8cbe-4630-966e-f5b852a2d3d1
+          - link "Finance Manager On-site — Full time Bengaluru, India" [ref=e314] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/339545b3-8cbe-4630-966e-f5b852a2d3d1
+            - heading "Finance Manager" [level=5] [ref=e315]
+            - generic [ref=e316]:
+              - generic [ref=e317]: On-site —
+              - generic [ref=e318]: Full time
+              - generic [ref=e319]: Bengaluru, India
+      - generic [ref=e320]:
+        - generic [ref=e321]: Marketing
+        - generic [ref=e322]: Marketing
+        - generic [ref=e324]:
+          - link "Apply" [ref=e326] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/95ab9f01-3671-4073-9990-4418aecb24e7
+          - link "Business System Engineer On-site — Full time Bangalore, India" [ref=e327] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/95ab9f01-3671-4073-9990-4418aecb24e7
+            - heading "Business System Engineer" [level=5] [ref=e328]
+            - generic [ref=e329]:
+              - generic [ref=e330]: On-site —
+              - generic [ref=e331]: Full time
+              - generic [ref=e332]: Bangalore, India
+        - generic [ref=e333]:
+          - link "Apply" [ref=e335] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/a170b9aa-eb95-4819-bbcd-aa5e12b2c826
+          - link "Event Marketing Specialist On-site — Full time Bangalore, India" [ref=e336] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/a170b9aa-eb95-4819-bbcd-aa5e12b2c826
+            - heading "Event Marketing Specialist" [level=5] [ref=e337]
+            - generic [ref=e338]:
+              - generic [ref=e339]: On-site —
+              - generic [ref=e340]: Full time
+              - generic [ref=e341]: Bangalore, India
+        - generic [ref=e342]:
+          - link "Apply" [ref=e344] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/e5f3a222-9686-4c2d-959f-6238eab503b0
+          - link "PLG Growth Manager On-site — Full time Bangalore, India" [ref=e345] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/e5f3a222-9686-4c2d-959f-6238eab503b0
+            - heading "PLG Growth Manager" [level=5] [ref=e346]
+            - generic [ref=e347]:
+              - generic [ref=e348]: On-site —
+              - generic [ref=e349]: Full time
+              - generic [ref=e350]: Bangalore, India
+        - generic [ref=e351]:
+          - link "Apply" [ref=e353] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/9e8b22dd-245b-4e8d-a2a4-3b905a3ff1f5
+          - link "Senior Frontend Developer (Marketing) On-site — Full time Bengaluru, India" [ref=e354] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/9e8b22dd-245b-4e8d-a2a4-3b905a3ff1f5
+            - heading "Senior Frontend Developer (Marketing)" [level=5] [ref=e355]
+            - generic [ref=e356]:
+              - generic [ref=e357]: On-site —
+              - generic [ref=e358]: Full time
+              - generic [ref=e359]: Bengaluru, India
+        - generic [ref=e360]:
+          - link "Apply" [ref=e362] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/c34f6ebe-c5e9-4482-bba3-f6e89b9cdb32
+          - link "Senior SEO Specialist/Manager On-site — Full time Bangalore, India" [ref=e363] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/c34f6ebe-c5e9-4482-bba3-f6e89b9cdb32
+            - heading "Senior SEO Specialist/Manager" [level=5] [ref=e364]
+            - generic [ref=e365]:
+              - generic [ref=e366]: On-site —
+              - generic [ref=e367]: Full time
+              - generic [ref=e368]: Bangalore, India
+        - generic [ref=e369]:
+          - link "Apply" [ref=e371] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/370f9639-f2c5-4647-a4ab-8d070f71549f
+          - link "Senior Visual Designer On-site — Full time Bangalore, India" [ref=e372] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/370f9639-f2c5-4647-a4ab-8d070f71549f
+            - heading "Senior Visual Designer" [level=5] [ref=e373]
+            - generic [ref=e374]:
+              - generic [ref=e375]: On-site —
+              - generic [ref=e376]: Full time
+              - generic [ref=e377]: Bangalore, India
+        - generic [ref=e378]:
+          - link "Apply" [ref=e380] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/251010a4-5da6-4c8c-afe1-4c6f4ee45be8
+          - link "Technical Product Marketing On-site — Full time Bangalore, India" [ref=e381] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/251010a4-5da6-4c8c-afe1-4c6f4ee45be8
+            - heading "Technical Product Marketing" [level=5] [ref=e382]
+            - generic [ref=e383]:
+              - generic [ref=e384]: On-site —
+              - generic [ref=e385]: Full time
+              - generic [ref=e386]: Bangalore, India
+        - generic [ref=e387]:
+          - link "Apply" [ref=e389] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/8cbb28f0-746d-4887-b32f-8242cbb5d56a
+          - link "Video Marketer On-site — Full time Bangalore, India" [ref=e390] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/8cbb28f0-746d-4887-b32f-8242cbb5d56a
+            - heading "Video Marketer" [level=5] [ref=e391]
+            - generic [ref=e392]:
+              - generic [ref=e393]: On-site —
+              - generic [ref=e394]: Full time
+              - generic [ref=e395]: Bangalore, India
+      - generic [ref=e396]:
+        - generic [ref=e397]: Product Marketing
+        - generic [ref=e399]:
+          - link "Apply" [ref=e401] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/ec8d8975-d200-4c20-a53c-e095c964230e
+          - link "VP Product Marketing Remote — Full time United States" [ref=e402] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/ec8d8975-d200-4c20-a53c-e095c964230e
+            - heading "VP Product Marketing" [level=5] [ref=e403]
+            - generic [ref=e404]:
+              - generic [ref=e405]: Remote —
+              - generic [ref=e406]: Full time
+              - generic [ref=e407]: United States
+      - generic [ref=e408]:
+        - generic [ref=e409]: Product
+        - generic [ref=e410]: Product Documentation
+        - generic [ref=e412]:
+          - link "Apply" [ref=e414] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/8334030a-d6e3-46cc-96a4-f16c5412ed74
+          - link "Associate Technical Writer On-site — Full time Bangalore, India" [ref=e415] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/8334030a-d6e3-46cc-96a4-f16c5412ed74
+            - heading "Associate Technical Writer" [level=5] [ref=e416]
+            - generic [ref=e417]:
+              - generic [ref=e418]: On-site —
+              - generic [ref=e419]: Full time
+              - generic [ref=e420]: Bangalore, India
+      - generic [ref=e421]:
+        - generic [ref=e422]: Product Management
+        - generic [ref=e424]:
+          - link "Apply" [ref=e426] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/c665b22f-6336-4ec2-88d8-4165f51d5396
+          - link "Product Manager On-site — Full time Bangalore, India" [ref=e427] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/c665b22f-6336-4ec2-88d8-4165f51d5396
+            - heading "Product Manager" [level=5] [ref=e428]
+            - generic [ref=e429]:
+              - generic [ref=e430]: On-site —
+              - generic [ref=e431]: Full time
+              - generic [ref=e432]: Bangalore, India
+      - generic [ref=e433]:
+        - generic [ref=e434]: Sales
+        - generic [ref=e435]: Account Executive - Mid Market
+        - generic [ref=e437]:
+          - link "Apply" [ref=e439] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/cfdb183c-e9f4-4877-8b8c-bd7a3b4a7fde
+          - link "Account Executive On-site — Full time Bangalore, India" [ref=e440] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/cfdb183c-e9f4-4877-8b8c-bd7a3b4a7fde
+            - heading "Account Executive" [level=5] [ref=e441]
+            - generic [ref=e442]:
+              - generic [ref=e443]: On-site —
+              - generic [ref=e444]: Full time
+              - generic [ref=e445]: Bangalore, India
+        - generic [ref=e446]:
+          - link "Apply" [ref=e448] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/c980e017-70b5-44ad-aa84-ab0664ade0de
+          - link "Senior Account Executive On-site — Full time Bangalore, India" [ref=e449] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/c980e017-70b5-44ad-aa84-ab0664ade0de
+            - heading "Senior Account Executive" [level=5] [ref=e450]
+            - generic [ref=e451]:
+              - generic [ref=e452]: On-site —
+              - generic [ref=e453]: Full time
+              - generic [ref=e454]: Bangalore, India
+      - generic [ref=e455]:
+        - generic [ref=e456]: Account Management
+        - generic [ref=e458]:
+          - link "Apply" [ref=e460] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/78b3c3f9-6e0e-4e1b-9716-25bad2d5b532
+          - link "Senior Account Manager - India On-site — Full time Bengaluru, India" [ref=e461] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/78b3c3f9-6e0e-4e1b-9716-25bad2d5b532
+            - heading "Senior Account Manager - India" [level=5] [ref=e462]
+            - generic [ref=e463]:
+              - generic [ref=e464]: On-site —
+              - generic [ref=e465]: Full time
+              - generic [ref=e466]: Bengaluru, India
+      - generic [ref=e467]:
+        - generic [ref=e468]: Sales Development Representative
+        - generic [ref=e470]:
+          - link "Apply" [ref=e472] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/277fa847-0d99-4565-a0fc-b2e6089f6cc4
+          - link "Business Development Representative (US) On-site — Full time Bengaluru, India" [ref=e473] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/277fa847-0d99-4565-a0fc-b2e6089f6cc4
+            - heading "Business Development Representative (US)" [level=5] [ref=e474]
+            - generic [ref=e475]:
+              - generic [ref=e476]: On-site —
+              - generic [ref=e477]: Full time
+              - generic [ref=e478]: Bengaluru, India
+        - generic [ref=e479]:
+          - link "Apply" [ref=e481] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/20a999d9-db54-4534-814a-fe69d01abc16
+          - link "Senior BDR (North America Market) On-site — Full time Bengaluru, India" [ref=e482] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/20a999d9-db54-4534-814a-fe69d01abc16
+            - heading "Senior BDR (North America Market)" [level=5] [ref=e483]
+            - generic [ref=e484]:
+              - generic [ref=e485]: On-site —
+              - generic [ref=e486]: Full time
+              - generic [ref=e487]: Bengaluru, India
+      - generic [ref=e488]:
+        - generic [ref=e489]: Sales Engineering
+        - generic [ref=e491]:
+          - link "Apply" [ref=e493] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/a314fc47-9ba4-4b9e-a0da-0e22b9ea6a45
+          - link "Senior Sales Engineer On-site — Full time Bengaluru, India" [ref=e494] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/a314fc47-9ba4-4b9e-a0da-0e22b9ea6a45
+            - heading "Senior Sales Engineer" [level=5] [ref=e495]
+            - generic [ref=e496]:
+              - generic [ref=e497]: On-site —
+              - generic [ref=e498]: Full time
+              - generic [ref=e499]: Bengaluru, India
+        - generic [ref=e500]:
+          - link "Apply" [ref=e502] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/ee02ca24-94ec-415b-ab36-7dec4d62099b
+          - link "Solutions Engineer On-site — Full time Bangalore, India" [ref=e503] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/ee02ca24-94ec-415b-ab36-7dec4d62099b
+            - heading "Solutions Engineer" [level=5] [ref=e504]
+            - generic [ref=e505]:
+              - generic [ref=e506]: On-site —
+              - generic [ref=e507]: Full time
+              - generic [ref=e508]: Bangalore, India
+      - generic [ref=e509]:
+        - generic [ref=e510]: Sales Management
+        - generic [ref=e512]:
+          - link "Apply" [ref=e514] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/f74eb975-45dd-47a8-a27a-5880d1d776c7
+          - link "Associate Account Executive (SMB - US) On-site — Full time Bengaluru, India" [ref=e515] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/f74eb975-45dd-47a8-a27a-5880d1d776c7
+            - heading "Associate Account Executive (SMB - US)" [level=5] [ref=e516]
+            - generic [ref=e517]:
+              - generic [ref=e518]: On-site —
+              - generic [ref=e519]: Full time
+              - generic [ref=e520]: Bengaluru, India
+        - generic [ref=e521]:
+          - link "Apply" [ref=e523] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/5876f95d-c1c3-4959-8321-e569120bc901
+          - link "Sales Manager - US On-site — Full time Bangalore, India" [ref=e524] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/5876f95d-c1c3-4959-8321-e569120bc901
+            - heading "Sales Manager - US" [level=5] [ref=e525]
+            - generic [ref=e526]:
+              - generic [ref=e527]: On-site —
+              - generic [ref=e528]: Full time
+              - generic [ref=e529]: Bangalore, India
+      - generic [ref=e530]:
+        - generic [ref=e531]: Solutions
+        - generic [ref=e532]: Solutions Engineering
+        - generic [ref=e534]:
+          - link "Apply" [ref=e536] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/4d46a036-002b-4817-ae13-69185ffb4ce3
+          - link "Senior Director, Sales Engineering Remote — Full time United States" [ref=e537] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/4d46a036-002b-4817-ae13-69185ffb4ce3
+            - heading "Senior Director, Sales Engineering" [level=5] [ref=e538]
+            - generic [ref=e539]:
+              - generic [ref=e540]: Remote —
+              - generic [ref=e541]: Full time
+              - generic [ref=e542]: United States
+      - generic [ref=e543]:
+        - generic [ref=e544]: Strategy
+        - generic [ref=e545]: Strategy All
+        - generic [ref=e547]:
+          - link "Apply" [ref=e549] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/a7f26742-f965-4a59-840d-f7afa0a28176
+          - link "AI Solution Engineer On-site — Full time Bangalore, India" [ref=e550] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/a7f26742-f965-4a59-840d-f7afa0a28176
+            - heading "AI Solution Engineer" [level=5] [ref=e551]
+            - generic [ref=e552]:
+              - generic [ref=e553]: On-site —
+              - generic [ref=e554]: Full time
+              - generic [ref=e555]: Bangalore, India
+        - generic [ref=e556]:
+          - link "Apply" [ref=e558] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/308fe760-b657-45d3-ab4c-a13efdcf230f
+          - link "Senior Data Analyst On-site — Full time Bengaluru, India" [ref=e559] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/308fe760-b657-45d3-ab4c-a13efdcf230f
+            - heading "Senior Data Analyst" [level=5] [ref=e560]
+            - generic [ref=e561]:
+              - generic [ref=e562]: On-site —
+              - generic [ref=e563]: Full time
+              - generic [ref=e564]: Bengaluru, India
+        - generic [ref=e565]:
+          - link "Apply" [ref=e567] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/8d0ee4a7-1ecb-4129-af6b-14abc69b84e5
+          - link "Strategy & Ops (Founder's Office) On-site — Bangalore, India" [ref=e568] [cursor=pointer]:
+            - /url: https://jobs.lever.co/hevodata/8d0ee4a7-1ecb-4129-af6b-14abc69b84e5
+            - heading "Strategy & Ops (Founder's Office)" [level=5] [ref=e569]
+            - generic [ref=e570]:
+              - generic [ref=e571]: On-site —
+              - generic [ref=e572]: Bangalore, India
+  - generic [ref=e574]:
+    - paragraph [ref=e575]:
+      - link "Hevo Data Home Page" [ref=e576] [cursor=pointer]:
+        - /url: http://www.hevodata.com
+    - paragraph [ref=e578]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+    - link "Jobs powered by Lever logo" [ref=e579] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e580]: Jobs powered by
+      - img "Lever logo" [ref=e581]

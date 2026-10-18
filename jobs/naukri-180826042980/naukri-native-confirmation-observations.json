@@ -1,0 +1,276 @@
+{
+  "attempt_id": "215962e7-9d8e-42b9-b7bb-18302b8c5485",
+  "requisition_id": "180826042980",
+  "observations": [
+    {
+      "listing": {
+        "exact_path": true,
+        "apply_count": 0,
+        "applied": true,
+        "applied_control_count": 1,
+        "applied_control_labels": [
+          "Applied"
+        ],
+        "pending": false,
+        "site_restriction": false
+      },
+      "history": {
+        "full": true,
+        "exact": 1,
+        "loaded_rows": 305,
+        "expected_total": 305,
+        "load_sweeps": [
+          {
+            "rows": 10,
+            "total": 305,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 20,
+            "total": 305,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 40,
+            "total": 305,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 60,
+            "total": 305,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 80,
+            "total": 305,
+            "exact": 0,
+            "company_role": 1,
+            "more": true
+          },
+          {
+            "rows": 100,
+            "total": 305,
+            "exact": 0,
+            "company_role": 2,
+            "more": true
+          },
+          {
+            "rows": 120,
+            "total": 305,
+            "exact": 0,
+            "company_role": 2,
+            "more": true
+          },
+          {
+            "rows": 140,
+            "total": 305,
+            "exact": 0,
+            "company_role": 3,
+            "more": true
+          },
+          {
+            "rows": 160,
+            "total": 305,
+            "exact": 0,
+            "company_role": 3,
+            "more": true
+          },
+          {
+            "rows": 180,
+            "total": 305,
+            "exact": 0,
+            "company_role": 3,
+            "more": true
+          },
+          {
+            "rows": 200,
+            "total": 305,
+            "exact": 0,
+            "company_role": 3,
+            "more": true
+          },
+          {
+            "rows": 220,
+            "total": 305,
+            "exact": 0,
+            "company_role": 3,
+            "more": true
+          },
+          {
+            "rows": 240,
+            "total": 305,
+            "exact": 0,
+            "company_role": 3,
+            "more": true
+          },
+          {
+            "rows": 260,
+            "total": 305,
+            "exact": 0,
+            "company_role": 3,
+            "more": true
+          },
+          {
+            "rows": 280,
+            "total": 305,
+            "exact": 0,
+            "company_role": 3,
+            "more": true
+          },
+          {
+            "rows": 300,
+            "total": 305,
+            "exact": 0,
+            "company_role": 3,
+            "more": true
+          },
+          {
+            "rows": 305,
+            "total": 305,
+            "exact": 0,
+            "company_role": 3,
+            "more": false
+          }
+        ],
+        "company_role": 3,
+        "company_role_observed": 3,
+        "company_role_disambiguated": false,
+        "company_role_other_exact_ids": [],
+        "server_company_role_rows": [
+          {
+            "job_id": "180826042980",
+            "title": "Java Spring Boot Developer",
+            "company": "Infosys",
+            "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+          },
+          {
+            "job_id": "091026022088",
+            "title": "Java Spring Boot Developer 3-9 yrs",
+            "company": "Infosys",
+            "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+          },
+          {
+            "job_id": "081026050135",
+            "title": "Java Spring Boot Developer",
+            "company": "Infosys",
+            "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history"
+          }
+        ],
+        "identity_basis": "server_history_exact_job_id",
+        "server_exact_rows": [
+          {
+            "job_id": "180826042980",
+            "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+            "title": "Java Spring Boot Developer",
+            "company": "Infosys",
+            "status": [
+              {
+                "statusId": 1,
+                "appId": null,
+                "count": 1,
+                "statusValue": "Applied",
+                "modifiedDate": "2026-10-16 16:36:22",
+                "dateTime": "2026-10-16 16:36:21"
+              },
+              {
+                "statusId": 2,
+                "appId": 107,
+                "count": 1,
+                "statusValue": "Application Sent",
+                "modifiedDate": "2026-10-16 16:36:22",
+                "dateTime": "2026-10-16 16:36:22"
+              }
+            ]
+          },
+          {
+            "job_id": "180826042980",
+            "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+            "title": "Java Spring Boot Developer",
+            "company": "Infosys",
+            "status": [
+              {
+                "statusId": 1,
+                "appId": null,
+                "count": 1,
+                "statusValue": "Applied",
+                "modifiedDate": "2026-10-16 16:36:22",
+                "dateTime": "2026-10-16 16:36:21"
+              },
+              {
+                "statusId": 2,
+                "appId": 107,
+                "count": 1,
+                "statusValue": "Application Sent",
+                "modifiedDate": "2026-10-16 16:36:22",
+                "dateTime": "2026-10-16 16:36:22"
+              }
+            ]
+          }
+        ],
+        "exact_rows_by_id": {
+          "180826042980": [
+            {
+              "job_id": "180826042980",
+              "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+              "title": "Java Spring Boot Developer",
+              "company": "Infosys",
+              "status": [
+                {
+                  "statusId": 1,
+                  "appId": null,
+                  "count": 1,
+                  "statusValue": "Applied",
+                  "modifiedDate": "2026-10-16 16:36:22",
+                  "dateTime": "2026-10-16 16:36:21"
+                },
+                {
+                  "statusId": 2,
+                  "appId": 107,
+                  "count": 1,
+                  "statusValue": "Application Sent",
+                  "modifiedDate": "2026-10-16 16:36:22",
+                  "dateTime": "2026-10-16 16:36:22"
+                }
+              ]
+            },
+            {
+              "job_id": "180826042980",
+              "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+              "title": "Java Spring Boot Developer",
+              "company": "Infosys",
+              "status": [
+                {
+                  "statusId": 1,
+                  "appId": null,
+                  "count": 1,
+                  "statusValue": "Applied",
+                  "modifiedDate": "2026-10-16 16:36:22",
+                  "dateTime": "2026-10-16 16:36:21"
+                },
+                {
+                  "statusId": 2,
+                  "appId": 107,
+                  "count": 1,
+                  "statusValue": "Application Sent",
+                  "modifiedDate": "2026-10-16 16:36:22",
+                  "dateTime": "2026-10-16 16:36:22"
+                }
+              ]
+            }
+          ]
+        },
+        "observed_exact_rows_unverified": 0,
+        "at": "2026-10-16T11:07:04.031692+00:00"
+      },
+      "at": "2026-10-16T11:07:04.031706+00:00"
+    }
+  ]
+}

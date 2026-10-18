@@ -1,0 +1,78 @@
+{
+  "attempt_id": "00c06e36-e7e0-4be4-981a-a96cbc352e63",
+  "requisition_id": "100826014171",
+  "captured_at": "2026-10-17T07:00:45.506403+00:00",
+  "url": "https://www.naukri.com/job-listings-java-spring-boot-developer-infosys-pune-chennai-bengaluru-2-to-5-years-100826014171",
+  "confirmation_text": "Fully loaded exact-ID Applied Jobs history confirms Application Sent",
+  "history_full": true,
+  "exact_history_id_match": true,
+  "history_loaded_rows": 307,
+  "history_expected_total": 307,
+  "account_identity_verified": true,
+  "account_session_verified": true,
+  "history_filter_verified": true,
+  "history_identity": {
+    "basis": "server_history_exact_job_id",
+    "server_rows": [
+      {
+        "job_id": "100826014171",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "Java Spring Boot Developer",
+        "company": "Infosys",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "dateTime": "2026-10-16 17:38:37",
+            "statusValue": "Applied",
+            "modifiedDate": "2026-10-16 17:38:38"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "dateTime": "2026-10-16 17:38:37",
+            "statusValue": "Application Sent",
+            "modifiedDate": "2026-10-16 17:38:37"
+          }
+        ]
+      },
+      {
+        "job_id": "100826014171",
+        "response_path": "/cloudgateway-apply/whtma-services/v0/applyapi/v5/history",
+        "title": "Java Spring Boot Developer",
+        "company": "Infosys",
+        "status": [
+          {
+            "statusId": 1,
+            "appId": null,
+            "count": 1,
+            "modifiedDate": "2026-10-16 17:38:38",
+            "statusValue": "Applied",
+            "dateTime": "2026-10-16 17:38:37"
+          },
+          {
+            "statusId": 2,
+            "appId": 107,
+            "count": 1,
+            "modifiedDate": "2026-10-16 17:38:37",
+            "statusValue": "Application Sent",
+            "dateTime": "2026-10-16 17:38:37"
+          }
+        ]
+      }
+    ]
+  },
+  "new_application_action": false,
+  "saved_answer_replayed": false,
+  "read_only_reconciliation": true,
+  "automatic_reconciliation": true,
+  "phase": "before",
+  "application_sent": true,
+  "exact_job_id_match": true,
+  "workflow_worker_proven": false,
+  "confirmation_origin": "read_only_history_reconciliation",
+  "unverified_pending_question": "How many years of experience do you have in Angularjs?",
+  "screening_answer_delivery_not_verified_by_history": true
+}

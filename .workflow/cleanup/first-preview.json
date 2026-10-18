@@ -1,0 +1,247 @@
+{
+  "created_at": "2026-09-27T22:37:41.526390+00:00",
+  "terminal_rows": [
+    {
+      "Company": "Technum Opus (Onified.ai)",
+      "Role": "SDE II",
+      "Job ID": null,
+      "Direct link": null,
+      "Status": "Excluded — closed",
+      "Status date": "2026-09-27",
+      "Known reason": "reason unknown"
+    },
+    {
+      "Company": "UnitedHealth Group (Optum)",
+      "Role": "Software Engineer - Java Fullstack",
+      "Job ID": "2388999",
+      "Direct link": "https://careers.unitedhealthgroup.com/job/noida/software-engineer-java-fullstack/34088/101107210016",
+      "Status": "Rejected",
+      "Status date": "2026-09-28",
+      "Known reason": "reason unknown"
+    },
+    {
+      "Company": "Appian Corporation",
+      "Role": "Software Engineer I - Java",
+      "Job ID": "7783552",
+      "Direct link": "https://job-boards.greenhouse.io/appian/jobs/7783552",
+      "Status": "Excluded — closed",
+      "Status date": "2026-09-27",
+      "Known reason": "reason unknown"
+    }
+  ],
+  "other_history_keys": [
+    {
+      "Company": "UnitedHealth Group (Optum)",
+      "Role": "Senior Software Engineer I",
+      "Job ID": "2376740",
+      "Direct link": null,
+      "Status": "Rejected",
+      "Status date": "2026-09-08",
+      "Known reason": "reason unknown",
+      "source": "Taleo My Submissions, captured with Optum status; pending historical import review"
+    }
+  ],
+  "delete_now": [
+    {
+      "path": "captures/appian-listing.json",
+      "bytes": 597,
+      "sha256": "6e22a7a9f353d4b8ad74b300766973848c6beadca9aa4c6b2ea87ef7bc29a09d",
+      "reason": "terminal-only capture"
+    },
+    {
+      "path": "captures/optum-2388999-about-you-draft.json",
+      "bytes": 2282,
+      "sha256": "0ea0b43b7cc46968dab16e1fa21446f90c9b1a864ad40cc14e4599f03dc4aa2e",
+      "reason": "terminal-only capture"
+    },
+    {
+      "path": "captures/optum-2388999-form.json",
+      "bytes": 340,
+      "sha256": "7dab10b4cf676f3682b1db224b96f8c9943f0865151be634327fc1d8c69c051d",
+      "reason": "terminal-only capture"
+    },
+    {
+      "path": "captures/optum-2388999-guest-blocker.json",
+      "bytes": 1479,
+      "sha256": "a174ff54308c732fc92fc10838752b4772bf8a0db773dfead84422f2abea95d5",
+      "reason": "terminal-only capture"
+    },
+    {
+      "path": "captures/optum-2388999-signed-in-blocker.json",
+      "bytes": 975,
+      "sha256": "6547acee409c58a5c9bad46a05ec03443ffb9b0a51d72e096f118ddb6f9fbe16",
+      "reason": "terminal-only capture"
+    },
+    {
+      "path": "captures/optum-2388999.json",
+      "bytes": 8626,
+      "sha256": "4f25bc8417bd984da5423904156cb4c67d37df7202bd40d2c0c278a06f9b8797",
+      "reason": "terminal-only capture"
+    },
+    {
+      "path": "captures/optum-login-blocker.json",
+      "bytes": 300,
+      "sha256": "e3b3306913b772ea5354ff014aef350dc804ad85502b0800204c3d1c82ba6e3c",
+      "reason": "terminal-only capture"
+    },
+    {
+      "path": "jobs/appian-java-7783552/JD.md",
+      "bytes": 214,
+      "sha256": "715d0deed065586cf80b4ca4a9865caf2f7d408996e2fd80a48829552c066839",
+      "reason": "terminal job artifact or expired proof"
+    },
+    {
+      "path": "jobs/appian-java-7783552/listing.json",
+      "bytes": 632,
+      "sha256": "3d07b6aae1997a5472820dee46fffc38f2d2918097b02d511124be06ba157894",
+      "reason": "terminal job artifact or expired proof"
+    },
+    {
+      "path": "jobs/appian-java-7783552/record.md",
+      "bytes": 304,
+      "sha256": "0b649ad032a516d05c659c69967ba759b70d5707625373d3b1c9b1db5cf54eea",
+      "reason": "terminal job artifact or expired proof"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/JD.md",
+      "bytes": 5898,
+      "sha256": "eca4e3fcd9e29721e1577ecd74d688c87830de271603942c78f4bba5ea711f9a",
+      "reason": "terminal job artifact or expired proof"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/Tailored_Resume.pdf",
+      "bytes": 5175,
+      "sha256": "03ef0cb0d0c85842e3d246671433207b3c20f2cdad8879c59a848d65704c6293",
+      "reason": "terminal job artifact or expired proof"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/Tailored_Resume_v2.pdf",
+      "bytes": 43735,
+      "sha256": "7b317fdb2b3166809ec96be9ba7f37b2c24189e773f6bd4325e006240a2cf737",
+      "reason": "terminal job artifact or expired proof"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/Tailored_Resume_v2.png",
+      "bytes": 517794,
+      "sha256": "c090993c75d7788dd79f03139a41d67f2c8917d475ea6b92c0278bd9659d53b4",
+      "reason": "terminal job artifact or expired proof"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/application_draft.json",
+      "bytes": 344,
+      "sha256": "0fc06012fc01e11631ae8a32309f773df15edf20a691c2d74711ffb4c901c47c",
+      "reason": "terminal job artifact or expired proof"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/application_stopped.json",
+      "bytes": 148,
+      "sha256": "b19763a6ab2eaf7c901c19a7601c37d1fb81e8165b34fb323458b1f22dbe7585",
+      "reason": "terminal job artifact or expired proof"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/browser_steps.json",
+      "bytes": 218,
+      "sha256": "e90799c8db36d48164e473af1417d28e6b0d90b1e9f83f616983ace9dbf153fc",
+      "reason": "terminal job artifact or expired proof"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/eSignature-certification.txt",
+      "bytes": 3419,
+      "sha256": "dc6ddc40c188cc36321046bf8616535b66a89acf42ffb01ea5e86991362754b0",
+      "reason": "terminal job artifact or expired proof"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/final-review.json",
+      "bytes": 632,
+      "sha256": "3e4c0f2861ff210a32d9714494f1d0c616731e42816c8ab592d6ecba8f0fc09a",
+      "reason": "terminal job artifact or expired proof"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/listing.json",
+      "bytes": 10283,
+      "sha256": "17308b66e2e515d6766053f74b9f1edd1462628523153c34c95a2752e2cbb0b3",
+      "reason": "terminal job artifact or expired proof"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/record.md",
+      "bytes": 589,
+      "sha256": "86ea20e13b808ce34d96985deb4354bc4af8bcc590125deadab58d228e520edf",
+      "reason": "terminal job artifact or expired proof"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/required-answer-batch.md",
+      "bytes": 5796,
+      "sha256": "7a0393c2d7ed17fbd2504bc32d8976815a8cddaa271ecb6971e63b713eba6304",
+      "reason": "terminal job artifact or expired proof"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/resume_latest.json",
+      "bytes": 122,
+      "sha256": "c7881a26af0023654d8161f2e4770d2b9d9f7f00753d8b0b4816b02186188e00",
+      "reason": "terminal job artifact or expired proof"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/resume_provenance.json",
+      "bytes": 434,
+      "sha256": "458eaf62d6c43410e8d40018bc2165a93329a11b09f67609029b785b87b1ddc4",
+      "reason": "terminal job artifact or expired proof"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/resume_spec.json",
+      "bytes": 3907,
+      "sha256": "7f5401892e2ac244830fac5b6a2ed534c140aa4ea261938eb9a5191682abc904",
+      "reason": "terminal job artifact or expired proof"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/resume_text.txt",
+      "bytes": 3246,
+      "sha256": "5114ab9c79ed9e97b0c4cf1b98c4ff8a423f7055ddb1073dc828a0792b2e31fb",
+      "reason": "terminal job artifact or expired proof"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/resume_visual_review.json",
+      "bytes": 1553,
+      "sha256": "613344257bbe8180d8903738e413e2dcec0b89da4b26cd2f82b7ace844493455",
+      "reason": "terminal job artifact or expired proof"
+    }
+  ],
+  "retain_temporarily": [
+    {
+      "path": "jobs/optum-2388999-java-fullstack/confirmation.json",
+      "bytes": 542,
+      "sha256": "e0e71b0927b085d4cf34497d6d81ca87aa82434e04d35b3c83786f4a23493ff8",
+      "until": "2026-10-27T21:18:44.611621+00:00",
+      "purpose": "submission/status confirmation evidence"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/submission-confirmation-snapshot.txt",
+      "bytes": 8604,
+      "sha256": "2706709388a2d519760478446963708d7da60911ef15934201e92e9b7982a3f8",
+      "until": "2026-10-27T21:18:44.611621+00:00",
+      "purpose": "submission/status confirmation evidence"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/submission-confirmation.md",
+      "bytes": 1464,
+      "sha256": "51cd1639deb15da54e566e7822215337c172003a3d37874a7628720966b958ab",
+      "until": "2026-10-27T21:18:44.611621+00:00",
+      "purpose": "submission/status confirmation evidence"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/submission-status-snapshot.txt",
+      "bytes": 11853,
+      "sha256": "a75c882514c96890ed091436285b44a776c1a94270209d87376e2017c56c0032",
+      "until": "2026-10-27T21:18:44.611621+00:00",
+      "purpose": "submission/status confirmation evidence"
+    },
+    {
+      "path": "jobs/optum-2388999-java-fullstack/submission-status.png",
+      "bytes": 36823,
+      "sha256": "dc8ee1f25df95c064423e303578c569b5531678c1bda5da6f0c4b407adb13057",
+      "until": "2026-10-27T21:18:44.611621+00:00",
+      "purpose": "submission/status confirmation evidence"
+    }
+  ],
+  "total_bytes_to_delete": 619042,
+  "policy": "See TERMINAL_CLEANUP_POLICY.md"
+}

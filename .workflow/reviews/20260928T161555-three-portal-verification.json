@@ -1,0 +1,637 @@
+{
+  "started_at": "2026-09-28T16:15:25.752384+00:00",
+  "mode": "read_only",
+  "forms_opened": 0,
+  "uploads": 0,
+  "submissions": 0,
+  "sources": {
+    "cutshort": {
+      "status": "Partial",
+      "error_kind": null,
+      "pages": [
+        {
+          "query": "java spring boot",
+          "location": "India",
+          "page": 1,
+          "url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1",
+          "checked_at": "2026-09-28T16:15:32.819958+00:00",
+          "status": "Success",
+          "visible_cards": 50,
+          "body_characters": 128757,
+          "render_checks": 1,
+          "lead_count": 50,
+          "card_ids": [
+            "mKSZr8Th",
+            "p7PgIKOo",
+            "cqW2LlXy",
+            "SyaE757o",
+            "gUtYihT5",
+            "IYi2Kifk",
+            "lZM4cE6C",
+            "bf4bkjcc",
+            "gWPmxKOs",
+            "7m1rJXGx",
+            "6mW9eunO",
+            "DCTEYcaO",
+            "qsMkLepD",
+            "kSDhppOy",
+            "9nea8usA",
+            "t7Mqj1im",
+            "dRRLcou8",
+            "062HKIhi",
+            "mhdpfLWw",
+            "jepzebk2",
+            "hMKQX3i4",
+            "5lmJjbwZ",
+            "rhRxZwLZ",
+            "yTzo2Ike",
+            "ozMBITZS",
+            "Z2O6kqHG",
+            "dDgUuRO7",
+            "t5QAip6c",
+            "QoJQqsql",
+            "3BiIGX0w",
+            "LLLcizJw",
+            "YOU6wo2H",
+            "8kBBnzuF",
+            "KEub2BaI",
+            "FagzJzPj",
+            "LFfNgxkP",
+            "YX4ywmNW",
+            "cCRAeJSQ",
+            "Nc1z8GjF",
+            "6GPlfsyh",
+            "EPT3LfX5",
+            "lmc3dPde",
+            "fiF7batS",
+            "ZfFxw0aT",
+            "96uepweW",
+            "P9um62UU",
+            "q5a3NNrL",
+            "GQawk6gn",
+            "oaOOb9J3",
+            "s96Hwqz6"
+          ],
+          "unresolved_cards": [],
+          "observed_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1",
+          "sort": "Configured newest route where available"
+        }
+      ],
+      "visible_cards": 50,
+      "extracted_job_ids": 50,
+      "extracted_exact_urls": 50,
+      "job_ids": [
+        "062HKIhi",
+        "3BiIGX0w",
+        "5lmJjbwZ",
+        "6GPlfsyh",
+        "6mW9eunO",
+        "7m1rJXGx",
+        "8kBBnzuF",
+        "96uepweW",
+        "9nea8usA",
+        "DCTEYcaO",
+        "EPT3LfX5",
+        "FagzJzPj",
+        "GQawk6gn",
+        "IYi2Kifk",
+        "KEub2BaI",
+        "LFfNgxkP",
+        "LLLcizJw",
+        "Nc1z8GjF",
+        "P9um62UU",
+        "QoJQqsql",
+        "SyaE757o",
+        "YOU6wo2H",
+        "YX4ywmNW",
+        "Z2O6kqHG",
+        "ZfFxw0aT",
+        "bf4bkjcc",
+        "cCRAeJSQ",
+        "cqW2LlXy",
+        "dDgUuRO7",
+        "dRRLcou8",
+        "fiF7batS",
+        "gUtYihT5",
+        "gWPmxKOs",
+        "hMKQX3i4",
+        "jepzebk2",
+        "kSDhppOy",
+        "lZM4cE6C",
+        "lmc3dPde",
+        "mKSZr8Th",
+        "mhdpfLWw",
+        "oaOOb9J3",
+        "ozMBITZS",
+        "p7PgIKOo",
+        "q5a3NNrL",
+        "qsMkLepD",
+        "rhRxZwLZ",
+        "s96Hwqz6",
+        "t5QAip6c",
+        "t7Mqj1im",
+        "yTzo2Ike"
+      ],
+      "leads": [
+        {
+          "title": "Java Full Stack Developer",
+          "url": "https://cutshort.io/job/Java-Full-Stack-Developer-Mumbai-Pune-VY-SYSTEMS-PRIVATE-LIMITED-mKSZr8Th",
+          "portal_job_id": "mKSZr8Th",
+          "card_location": null,
+          "card_excerpt": "Java Full Stack Developer\nat VY SYSTEMS PRIVATE LIMITED\nPosted by Pavithra E",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Senior Full Stack Developer",
+          "url": "https://cutshort.io/job/Senior-Full-Stack-Developer-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-p7PgIKOo",
+          "portal_job_id": "p7PgIKOo",
+          "card_location": null,
+          "card_excerpt": "Senior Full Stack Developer\nMNC\nAgency jobvia VY SYSTEMS PRIVATE LIMITED by Maithili R",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Full Stack Developer",
+          "url": "https://cutshort.io/job/Full-Stack-Developer-Bengaluru-Bangalore-Gemba-Concepts-cqW2LlXy",
+          "portal_job_id": "cqW2LlXy",
+          "card_location": null,
+          "card_excerpt": "Full Stack Developer\nat Gemba Concepts\n1 candid answer\nPosted by Vijay Vijay V",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Java Angular Developer (Fullstack)",
+          "url": "https://cutshort.io/job/Java-Angular-Developer-Fullstack-Kochi-Cochin-Thiruvananthapuram-Thomasmount-Consulting-SyaE757o",
+          "portal_job_id": "SyaE757o",
+          "card_location": null,
+          "card_excerpt": "Java Angular Developer (Fullstack)\nIBS\nAgency jobvia Thomasmount Consulting by Shirin Shahana",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Full-Stack Software Engineer",
+          "url": "https://cutshort.io/job/Full-Stack-Software-Engineer-FAiHr-gUtYihT5",
+          "portal_job_id": "gUtYihT5",
+          "card_location": null,
+          "card_excerpt": "Full-Stack Software Engineer\nat FAiHr\nPosted by Lakshit Bagga",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Software Developer",
+          "url": "https://cutshort.io/job/Software-Developer-ACNJ-Technologies-LLP-IYi2Kifk",
+          "portal_job_id": "IYi2Kifk",
+          "card_location": null,
+          "card_excerpt": "Software Developer\nat ACNJ Technologies LLP\nPosted by Finvisage Recruitment",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Senior Java Software Engineer",
+          "url": "https://cutshort.io/job/Senior-Java-Software-Engineer-Bengaluru-Bangalore-Gravity-Engineering-Services-Pvt-Ltd-lZM4cE6C",
+          "portal_job_id": "lZM4cE6C",
+          "card_location": null,
+          "card_excerpt": "Senior Java Software Engineer\nat Gravity Engineering Services Pvt Ltd\nPosted by aarushi Mahajan",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Java Developer - Backend Engineering",
+          "url": "https://cutshort.io/job/Java-Developer-Backend-Engineering-Gurugram-StrideOne-bf4bkjcc",
+          "portal_job_id": "bf4bkjcc",
+          "card_location": null,
+          "card_excerpt": "Java Developer - Backend Engineering\nat StrideOne\nPosted by Aakanksha Jain",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Java Architect / Technical Architect",
+          "url": "https://cutshort.io/job/Java-Architect-Technical-Architect-Chennai-Cloud-Sara-Technologies-gWPmxKOs",
+          "portal_job_id": "gWPmxKOs",
+          "card_location": null,
+          "card_excerpt": "Java Architect / Technical Architect\nat Cloud Sara Technologies\nPosted by Jayasri Kolla",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "QA Automation",
+          "url": "https://cutshort.io/job/QA-Automation-Bengaluru-Bangalore-Antino-Labs-Private-Limited-7m1rJXGx",
+          "portal_job_id": "7m1rJXGx",
+          "card_location": null,
+          "card_excerpt": "QA Automation\nat Antino Labs Private Limited\n10 recruiters\nPosted by Pooja Trivedi",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Java Developer",
+          "url": "https://cutshort.io/job/Java-Developer-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-6mW9eunO",
+          "portal_job_id": "6mW9eunO",
+          "card_location": null,
+          "card_excerpt": "Java Developer\nat VY SYSTEMS PRIVATE LIMITED\nPosted by Pavithra E",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Technical Delivery Manager",
+          "url": "https://cutshort.io/job/Technical-Delivery-Manager-Bengaluru-Bangalore-Gemba-Concepts-DCTEYcaO",
+          "portal_job_id": "DCTEYcaO",
+          "card_location": null,
+          "card_excerpt": "Technical Delivery Manager\nat Gemba Concepts\n1 candid answer\nPosted by Vijay Vijay V",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Java Developer",
+          "url": "https://cutshort.io/job/Java-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-qsMkLepD",
+          "portal_job_id": "qsMkLepD",
+          "card_location": null,
+          "card_excerpt": "Java Developer\nMNC\nAgency jobvia VY SYSTEMS PRIVATE LIMITED by ASHMI GR",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Actimize Developer",
+          "url": "https://cutshort.io/job/Actimize-Developer-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-kSDhppOy",
+          "portal_job_id": "kSDhppOy",
+          "card_location": null,
+          "card_excerpt": "Actimize Developer\nMNC\nAgency jobvia VY SYSTEMS PRIVATE LIMITED by ASHMI GR",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "java FSD with react",
+          "url": "https://cutshort.io/job/java-FSD-with-react-Bengaluru-Bangalore-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-9nea8usA",
+          "portal_job_id": "9nea8usA",
+          "card_location": null,
+          "card_excerpt": "java FSD with react\nMNC\nAgency jobvia VY SYSTEMS PRIVATE LIMITED by aafia parveen",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Actimize Developer",
+          "url": "https://cutshort.io/job/Actimize-Developer-Hyderabad-VY-SYSTEMS-PRIVATE-LIMITED-t7Mqj1im",
+          "portal_job_id": "t7Mqj1im",
+          "card_location": null,
+          "card_excerpt": "Actimize Developer\nMNC\nAgency jobvia VY SYSTEMS PRIVATE LIMITED by Lakshmi Priya",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Senior Full Stack Engineer",
+          "url": "https://cutshort.io/job/Senior-Full-Stack-Engineer-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-dRRLcou8",
+          "portal_job_id": "dRRLcou8",
+          "card_location": null,
+          "card_excerpt": "Senior Full Stack Engineer\nMNC\nAgency jobvia VY SYSTEMS PRIVATE LIMITED by ASHMI GR",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Senior Cybersecurity Engineer",
+          "url": "https://cutshort.io/job/Senior-Cybersecurity-Engineer-Rampwork-062HKIhi",
+          "portal_job_id": "062HKIhi",
+          "card_location": null,
+          "card_excerpt": "Senior Cybersecurity Engineer\nat Rampwork\nPosted by amit verma",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "QA Automation Engineer",
+          "url": "https://cutshort.io/job/QA-Automation-Engineer-Chennai-Pune-VY-SYSTEMS-PRIVATE-LIMITED-mhdpfLWw",
+          "portal_job_id": "mhdpfLWw",
+          "card_location": null,
+          "card_excerpt": "QA Automation Engineer\nat VY SYSTEMS PRIVATE LIMITED\nPosted by Pavithra E",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Principal Lead Developer - Backend Developer",
+          "url": "https://cutshort.io/job/Principal-Lead-Developer-Backend-Developer-Hyderabad-Technoidentity-jepzebk2",
+          "portal_job_id": "jepzebk2",
+          "card_location": null,
+          "card_excerpt": "Principal Lead Developer - Backend Developer\nat Technoidentity\nPosted by Human Resources",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Java Full Stack Developer",
+          "url": "https://cutshort.io/job/Java-Full-Stack-Developer-Pune-NonStop-io-Technologies-Pvt-Ltd-hMKQX3i4",
+          "portal_job_id": "hMKQX3i4",
+          "card_location": null,
+          "card_excerpt": "Java Full Stack Developer\nat NonStop io Technologies Pvt Ltd\n6 recruiters\nPosted by Kalyani Wadnere",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "AI/ML Engineer",
+          "url": "https://cutshort.io/job/AI-ML-Engineer-Bengaluru-Bangalore-Wissen-Technology-5lmJjbwZ",
+          "portal_job_id": "5lmJjbwZ",
+          "card_location": null,
+          "card_excerpt": "AI/ML Engineer\nat Wissen Technology\n4 recruiters\nPosted by Sandra Saravanan",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Java Full Stack Developer",
+          "url": "https://cutshort.io/job/Java-Full-Stack-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-rhRxZwLZ",
+          "portal_job_id": "rhRxZwLZ",
+          "card_location": null,
+          "card_excerpt": "Java Full Stack Developer\nMNC\nAgency jobvia VY SYSTEMS PRIVATE LIMITED by ASHMI GR",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "AI Native Backend Engineer ( Core Java, 3 Months contract",
+          "url": "https://cutshort.io/job/AI-Native-Backend-Engineer-Core-Java-3-Months-contract-Chennai-Bengaluru-Bangalore-Ahmedabad-Staffnixcom-yTzo2Ike",
+          "portal_job_id": "yTzo2Ike",
+          "card_location": null,
+          "card_excerpt": "AI Native Backend Engineer ( Core Java, 3 Months contract\nat Staffnixcom\nPosted by Mayank Choudhary",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Senior Automation Testing Engineer",
+          "url": "https://cutshort.io/job/Senior-Automation-Testing-Engineer-Gurugram-Bengaluru-Bangalore-Bean-HR-Consulting-ozMBITZS",
+          "portal_job_id": "ozMBITZS",
+          "card_location": null,
+          "card_excerpt": "Senior Automation Testing Engineer\nLeading Global MNC in Medtech domain\nAgency jobvia Bean HR Consulting by Meenakshi Uniyal",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Software Engineer",
+          "url": "https://cutshort.io/job/Software-Engineer-Pune-Bengaluru-Bangalore-Metron-Security-Private-Limited-Z2O6kqHG",
+          "portal_job_id": "Z2O6kqHG",
+          "card_location": null,
+          "card_excerpt": "Software Engineer\nat Metron Security Private Limited\n2 candid answers\nPosted by Prathamesh Shinde",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Software Development Engineer 2",
+          "url": "https://cutshort.io/job/Software-Development-Engineer-2-Bengaluru-Bangalore-Pune-Hyderabad-Kolkata-Chennai-Mumbai-Gurugram-Gravity-Engineering-Services-Pvt-Ltd-dDgUuRO7",
+          "portal_job_id": "dDgUuRO7",
+          "card_location": null,
+          "card_excerpt": "Software Development Engineer 2\nat Gravity Engineering Services Pvt Ltd\nPosted by Bhattacharjee Akash",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Backend Software Development Engineer",
+          "url": "https://cutshort.io/job/Backend-Software-Development-Engineer-Bengaluru-Bangalore-Pune-Hyderabad-Kolkata-Chennai-Gurugram-Mumbai-Gravity-Engineering-Services-Pvt-Ltd-t5QAip6c",
+          "portal_job_id": "t5QAip6c",
+          "card_location": null,
+          "card_excerpt": "Backend Software Development Engineer\nat Gravity Engineering Services Pvt Ltd\nPosted by Bhattacharjee Akash",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "SDET With UI Testing",
+          "url": "https://cutshort.io/job/SDET-With-UI-Testing-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-QoJQqsql",
+          "portal_job_id": "QoJQqsql",
+          "card_location": null,
+          "card_excerpt": "SDET With UI Testing\nMNC\nAgency jobvia VY SYSTEMS PRIVATE LIMITED by ASHMI GR",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Android Developer",
+          "url": "https://cutshort.io/job/Android-Developer-Gurugram-Quicket-Solutions-Inc-3BiIGX0w",
+          "portal_job_id": "3BiIGX0w",
+          "card_location": null,
+          "card_excerpt": "Android Developer\nat Quicket Solutions Inc\nPosted by Hardeep Kaur",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "QA Automation Engineer",
+          "url": "https://cutshort.io/job/QA-Automation-Engineer-Bengaluru-Bangalore-Learnyst-Insight-Private-Limited-LLLcizJw",
+          "portal_job_id": "LLLcizJw",
+          "card_location": null,
+          "card_excerpt": "QA Automation Engineer\nat Learnyst Insight Private Limited\n1 video\n9 recruiters\nPosted by Muhammed Rabeeh",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "FullStack Developer(Java, React)",
+          "url": "https://cutshort.io/job/FullStack-Developer-Java-React-Pune-Unique-Occupational-YOU6wo2H",
+          "portal_job_id": "YOU6wo2H",
+          "card_location": null,
+          "card_excerpt": "FullStack Developer(Java, React)\nGlobal digital engineering and technology services company\nAgency jobvia Unique Occupational by Mantasha Naaz",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "SDET with UI testing",
+          "url": "https://cutshort.io/job/SDET-with-UI-testing-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-8kBBnzuF",
+          "portal_job_id": "8kBBnzuF",
+          "card_location": null,
+          "card_excerpt": "SDET with UI testing\nat MNC\nAgency jobvia VY SYSTEMS PRIVATE LIMITED by Lakshmi Priya",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "QA Automation(Java)",
+          "url": "https://cutshort.io/job/QA-Automation-Java-Pune-Unique-Occupational-KEub2BaI",
+          "portal_job_id": "KEub2BaI",
+          "card_location": null,
+          "card_excerpt": "QA Automation(Java)\nGlobal digital engineering and technology services company\nAgency jobvia Unique Occupational by Mantasha Naaz",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "JAVA Backend Developer",
+          "url": "https://cutshort.io/job/JAVA-Backend-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-FagzJzPj",
+          "portal_job_id": "FagzJzPj",
+          "card_location": null,
+          "card_excerpt": "JAVA Backend Developer\nat VY SYSTEMS PRIVATE LIMITED\nPosted by Pavithra E",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Automation Tester",
+          "url": "https://cutshort.io/job/Automation-Tester-Gurugram-Bean-HR-Consulting-LFfNgxkP",
+          "portal_job_id": "LFfNgxkP",
+          "card_location": null,
+          "card_excerpt": "Automation Tester\nat Bean HR Consulting\nPosted by snigdha Khurana",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Big Data Engineer",
+          "url": "https://cutshort.io/job/Big-Data-Engineer-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-YX4ywmNW",
+          "portal_job_id": "YX4ywmNW",
+          "card_location": null,
+          "card_excerpt": "Big Data Engineer\nat VY SYSTEMS PRIVATE LIMITED\nPosted by Banu S",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "AI Implementation Engineer",
+          "url": "https://cutshort.io/job/AI-Implementation-Engineer-Mumbai-Wissen-Technology-cCRAeJSQ",
+          "portal_job_id": "cCRAeJSQ",
+          "card_location": null,
+          "card_excerpt": "AI Implementation Engineer\nat Wissen Technology\n4 recruiters\nPosted by Anishka Burde",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Xstore Development consultant",
+          "url": "https://cutshort.io/job/Xstore-Development-consultant-Team-Geek-Solutions-Nc1z8GjF",
+          "portal_job_id": "Nc1z8GjF",
+          "card_location": null,
+          "card_excerpt": "Xstore Development consultant\nat Team Geek Solutions\nPosted by Resume TGS",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Java Lead",
+          "url": "https://cutshort.io/job/Java-Lead-Bengaluru-Bangalore-Wissen-Technology-6GPlfsyh",
+          "portal_job_id": "6GPlfsyh",
+          "card_location": null,
+          "card_excerpt": "Java Lead\nat Wissen Technology\n4 recruiters\nPosted by Manasa S",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Senior Software Engineer",
+          "url": "https://cutshort.io/job/Senior-Software-Engineer-Opteamix-EPT3LfX5",
+          "portal_job_id": "EPT3LfX5",
+          "card_location": null,
+          "card_excerpt": "Senior Software Engineer\nat Opteamix\nPosted by manipriya Arumugam",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Java Full stack Developer",
+          "url": "https://cutshort.io/job/Java-Full-stack-Developer-Hyderabad-Bengaluru-Bangalore-VY-SYSTEMS-PRIVATE-LIMITED-lmc3dPde",
+          "portal_job_id": "lmc3dPde",
+          "card_location": null,
+          "card_excerpt": "Java Full stack Developer\nMNC\nAgency jobvia VY SYSTEMS PRIVATE LIMITED by Sandhiya b",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Automation Tester",
+          "url": "https://cutshort.io/job/Automation-Tester-Bengaluru-Bangalore-Hyderabad-Pune-Chennai-Career-Guidance-Technologies-fiF7batS",
+          "portal_job_id": "fiF7batS",
+          "card_location": null,
+          "card_excerpt": "Automation Tester\nat Career Guidance Technologies\n1 candid answer\nPosted by Karthi Rajan",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Principal Engineer",
+          "url": "https://cutshort.io/job/Principal-Engineer-Pune-Bengaluru-Bangalore-Metron-Security-Private-Limited-ZfFxw0aT",
+          "portal_job_id": "ZfFxw0aT",
+          "card_location": null,
+          "card_excerpt": "Principal Engineer\nat Metron Security Private Limited\n2 candid answers\nPosted by Mala Singh",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Software Development Engineer III (SDE3)",
+          "url": "https://cutshort.io/job/Software-Development-Engineer-III-SDE3-Bengaluru-Bangalore-Mumbai-Gurugram-Solarsquare-energy-pvt-ltd-96uepweW",
+          "portal_job_id": "96uepweW",
+          "card_location": null,
+          "card_excerpt": "Software Development Engineer III (SDE3)\nat Solarsquare energy pvt ltd\nPosted by Yashi Singh",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Lead Engineer",
+          "url": "https://cutshort.io/job/Lead-Engineer-Pune-Talentojcom-P9um62UU",
+          "portal_job_id": "P9um62UU",
+          "card_location": null,
+          "card_excerpt": "Lead Engineer\nat Digit Insurance\nAgency jobvia Talentojcom by Bhavesh Kiroula",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Senior Java Developer",
+          "url": "https://cutshort.io/job/Senior-Java-Developer-Hyderabad-Treosoft-IT-q5a3NNrL",
+          "portal_job_id": "q5a3NNrL",
+          "card_location": null,
+          "card_excerpt": "Senior Java Developer\nat Treosoft IT\nPosted by Anish N",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Java Backend Developer",
+          "url": "https://cutshort.io/job/Java-Backend-Developer-Bengaluru-Bangalore-Wissen-Technology-GQawk6gn",
+          "portal_job_id": "GQawk6gn",
+          "card_location": null,
+          "card_excerpt": "Java Backend Developer\nat Wissen Technology\n4 recruiters\nPosted by Bharanidharan K",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Senior Java Full Stack Developer 6+ years",
+          "url": "https://cutshort.io/job/Senior-Java-Full-Stack-Developer-6-years-Raah-Techservices-oaOOb9J3",
+          "portal_job_id": "oaOOb9J3",
+          "card_location": null,
+          "card_excerpt": "Senior Java Full Stack Developer 6+ years\nat Raah Techservices\nPosted by Noora J",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        },
+        {
+          "title": "Senior QA",
+          "url": "https://cutshort.io/job/Senior-QA-Bengaluru-Bangalore-AbleCredit-s96Hwqz6",
+          "portal_job_id": "s96Hwqz6",
+          "card_location": null,
+          "card_excerpt": "Senior QA\nat AbleCredit\n2 candid answers\nPosted by Arpita Das",
+          "source": "cutshort",
+          "search_page_url": "https://cutshort.io/jobs/java-jobs?query=java%20spring%20boot&location=India&page=1"
+        }
+      ],
+      "detail_pages_checked": 3,
+      "substantive_jd_pages": 2,
+      "details": [
+        {
+          "url": "https://cutshort.io/job/Java-Full-Stack-Developer-Mumbai-Pune-VY-SYSTEMS-PRIVATE-LIMITED-mKSZr8Th",
+          "observed_url": "https://cutshort.io/job/Java-Full-Stack-Developer-Mumbai-Pune-VY-SYSTEMS-PRIVATE-LIMITED-mKSZr8Th",
+          "status": "ExactDetail",
+          "render_checks": 1,
+          "body_characters": 23418,
+          "jd_selector": "cutshort_exact_job_before_related",
+          "title_match": true,
+          "jd_characters": 462,
+          "substantive_jd": false,
+          "jd_excerpt": "\nSkills\nAngular (2+)\nJava\nMicroservices\nSpring Boot\n\n🚨 Hiring: Java Full Stack Developer | Mumbai 🚨\n\nWe are looking for Java Full Stack Developers with 7+ years of experience for an exciting opportunity in Mumbai.\n\n🔹 Role: Java Full Stack Developer\n\n🔹 Experience: 7+ Years\n\n🔹 Location: Mumbai\n\n🔹 Mandatory Skills:\n\n• Java\n\n• Spring Boot\n\n• Microservices\n\n• Angular 12+\n\n📍 Relocation: Candidates willing to relocate to Mumbai/Pune are welcome to apply.\n\nRead more"
+        },
+        {
+          "url": "https://cutshort.io/job/Java-Angular-Developer-Fullstack-Kochi-Cochin-Thiruvananthapuram-Thomasmount-Consulting-SyaE757o",
+          "observed_url": "https://cutshort.io/job/Java-Angular-Developer-Fullstack-Kochi-Cochin-Thiruvananthapuram-Thomasmount-Consulting-SyaE757o",
+          "status": "ExactDetail",
+          "render_checks": 1,
+          "body_characters": 30469,
+          "jd_selector": "cutshort_exact_job_before_related",
+          "title_match": true,
+          "jd_characters": 2538,
+          "substantive_jd": true,
+          "jd_excerpt": "\nSkills\nJava\nangular\nAmazon Web Services (AWS)\n\nJob Summary\n\nWe are looking for an experienced Senior Java + Angular Developer with 8+ years of strong hands-on experience in designing and developing scalable enterprise applications. The ideal candidate should have strong expertise in Java, Spring Boot, Angular, REST APIs, Microservices, and SQL, along with experience in delivering end-to-end applications.\n\nKey Responsibilities\n\nDesign, develop, and maintain scalable applications using Java, Spring Boot, and Angular.\nDevelop and maintain RESTful"
+        },
+        {
+          "url": "https://cutshort.io/job/Senior-Java-Software-Engineer-Bengaluru-Bangalore-Gravity-Engineering-Services-Pvt-Ltd-lZM4cE6C",
+          "observed_url": "https://cutshort.io/job/Senior-Java-Software-Engineer-Bengaluru-Bangalore-Gravity-Engineering-Services-Pvt-Ltd-lZM4cE6C",
+          "status": "ExactDetail",
+          "render_checks": 1,
+          "body_characters": 48133,
+          "jd_selector": "cutshort_exact_job_before_related",
+          "title_match": true,
+          "jd_characters": 5084,
+          "substantive_jd": true,
+          "jd_excerpt": "\nSkills\nJava\nSpring Boot\nSpring Cloud\nMicroservices\nKafka\nPrompt engineering\nCaching\nGenAI Integration\nApache Kafka\nLarge Language Models (LLM)\nGenerative AI (GenAI)\n\nWe are looking for a Senior Software Engineer who will be driving architectural direction, multi-team initiatives, and the development of highly scalable distributed systems. You will partner with Product, Architecture, DevOps and cross-functional engineering teams to deliver impactful technology solutions across a complex digital ecosystem. You will independently define and deliv"
+        }
+      ],
+      "tab_lifecycle": {
+        "created": 1,
+        "reused": 0,
+        "closed": 1,
+        "remaining_automation_tabs": 0,
+        "remaining_tab_ids": []
+      }
+    }
+  },
+  "finished_at": "2026-09-28T16:15:55.034780+00:00"
+}
